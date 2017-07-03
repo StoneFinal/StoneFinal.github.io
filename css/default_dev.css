@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #FFFFEE;
+	background: #FFEBCD;
 	font-size: 15px;
 	overflow: auto;
 }
@@ -83,11 +83,11 @@ body {
 }
 
 #code .placeholder{
-	margin-left:15px;
+	margin-left: 15px;
 }
 
 #code .space{
-	margin-left:7px;
+	margin-left: 7px;
 }
 
 #code .comments{
@@ -97,8 +97,8 @@ body {
 #copyright{
 	margin-top: 5px;
 	text-align: center;
-	width:100%;
-	color:#666;
+	width: 100%;
+	color: #666;
 }
 
 #errorMsg{
@@ -107,9 +107,9 @@ body {
 	font-size: 24px;
 	position: absolute;
 	top: 100px;
-	left:0px;
+	left: 0px;
 }
 
 #copyright a{
-	color:#666;
+	color: #666;
 }
