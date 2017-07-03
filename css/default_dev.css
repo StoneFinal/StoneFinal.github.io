@@ -98,7 +98,7 @@ body {
 	margin-top: 10px;
 	text-align: center;
 	width: 100%;
-	color: #FFFAFA;
+	color: #C7C7C7;
 }
 
 #errorMsg{
@@ -111,5 +111,5 @@ body {
 }
 
 #copyright a{
-	color: #FFFAFA;
+	color: #C7C7C7;
 }
