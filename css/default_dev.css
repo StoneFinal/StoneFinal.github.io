@@ -95,10 +95,10 @@ body {
 }
 
 #copyright{
-	margin-top: 5px;
+	margin-top: 2px;
 	text-align: center;
 	width: 100%;
-	color: #666;
+	color: #EAEAEA;
 }
 
 #errorMsg{
@@ -111,5 +111,5 @@ body {
 }
 
 #copyright a{
-	color: #666;
+	color: #EAEAEA;
 }
