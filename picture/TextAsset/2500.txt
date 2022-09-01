@@ -1,0 +1,38 @@
+
+{
+    "npc" : {
+    },
+    "event" : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    },
+    "doodad" : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 3,
+            "id"          : 1,
+            "configId"    : 311,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                0.2227936,
+                0.3570178,
+                -0.4189182
+            ],
+            "spawnRot"    : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    }
+}

@@ -1,0 +1,1085 @@
+{
+	"0": {
+		"configId": 0,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"itemId": 1001,
+		"modelId": 500927,
+		"num": 4
+	},
+	"1": {
+		"configId": 1,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"itemId": 1002,
+		"modelId": 500832,
+		"num": 4
+	},
+	"2": {
+		"configId": 2,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"itemId": 1003,
+		"modelId": 500831
+	},
+	"3": {
+		"configId": 3,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500936
+	},
+	"4": {
+		"configId": 4,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500937
+	},
+	"20": {
+		"configId": 20,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500937
+	},
+	"21": {
+		"configId": 21,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500937
+	},
+	"22": {
+		"configId": 22,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500939
+	},
+	"30": {
+		"configId": 30,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"31": {
+		"configId": 31,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"32": {
+		"configId": 32,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"33": {
+		"configId": 33,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"34": {
+		"configId": 34,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"35": {
+		"configId": 35,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"36": {
+		"configId": 36,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"37": {
+		"configId": 37,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500926
+	},
+	"45": {
+		"configId": 45,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500927
+	},
+	"10100": {
+		"configId": 10100,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10101": {
+		"configId": 10101,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10102": {
+		"configId": 10102,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10103": {
+		"configId": 10103,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10104": {
+		"configId": 10104,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10105": {
+		"configId": 10105,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10106": {
+		"configId": 10106,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10107": {
+		"configId": 10107,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500900
+	},
+	"10200": {
+		"configId": 10200,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10201": {
+		"configId": 10201,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10202": {
+		"configId": 10202,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10203": {
+		"configId": 10203,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10204": {
+		"configId": 10204,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10205": {
+		"configId": 10205,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10206": {
+		"configId": 10206,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10207": {
+		"configId": 10207,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500901
+	},
+	"10300": {
+		"configId": 10300,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10301": {
+		"configId": 10301,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10302": {
+		"configId": 10302,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10303": {
+		"configId": 10303,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10304": {
+		"configId": 10304,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10305": {
+		"configId": 10305,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10306": {
+		"configId": 10306,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10307": {
+		"configId": 10307,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500902
+	},
+	"10400": {
+		"configId": 10400,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10401": {
+		"configId": 10401,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10402": {
+		"configId": 10402,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10403": {
+		"configId": 10403,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10404": {
+		"configId": 10404,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10405": {
+		"configId": 10405,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10406": {
+		"configId": 10406,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10407": {
+		"configId": 10407,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500903
+	},
+	"10500": {
+		"configId": 10500,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10501": {
+		"configId": 10501,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10502": {
+		"configId": 10502,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10503": {
+		"configId": 10503,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10504": {
+		"configId": 10504,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10505": {
+		"configId": 10505,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10506": {
+		"configId": 10506,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10507": {
+		"configId": 10507,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500904
+	},
+	"10600": {
+		"configId": 10600,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10601": {
+		"configId": 10601,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10602": {
+		"configId": 10602,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10603": {
+		"configId": 10603,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10604": {
+		"configId": 10604,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10605": {
+		"configId": 10605,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10606": {
+		"configId": 10606,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10607": {
+		"configId": 10607,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500905
+	},
+	"10700": {
+		"configId": 10700,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10701": {
+		"configId": 10701,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10702": {
+		"configId": 10702,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10703": {
+		"configId": 10703,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10704": {
+		"configId": 10704,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10705": {
+		"configId": 10705,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10706": {
+		"configId": 10706,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10707": {
+		"configId": 10707,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500906
+	},
+	"10800": {
+		"configId": 10800,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10801": {
+		"configId": 10801,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10802": {
+		"configId": 10802,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10803": {
+		"configId": 10803,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10804": {
+		"configId": 10804,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10805": {
+		"configId": 10805,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10806": {
+		"configId": 10806,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10807": {
+		"configId": 10807,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500907
+	},
+	"10900": {
+		"configId": 10900,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10901": {
+		"configId": 10901,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10902": {
+		"configId": 10902,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10903": {
+		"configId": 10903,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10904": {
+		"configId": 10904,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10905": {
+		"configId": 10905,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10906": {
+		"configId": 10906,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"10907": {
+		"configId": 10907,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500908
+	},
+	"11000": {
+		"configId": 11000,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11001": {
+		"configId": 11001,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11002": {
+		"configId": 11002,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11003": {
+		"configId": 11003,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11004": {
+		"configId": 11004,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11005": {
+		"configId": 11005,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11006": {
+		"configId": 11006,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"11007": {
+		"configId": 11007,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500909
+	},
+	"12101": {
+		"configId": 12101,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12102": {
+		"configId": 12102,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12103": {
+		"configId": 12103,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12104": {
+		"configId": 12104,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12105": {
+		"configId": 12105,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12106": {
+		"configId": 12106,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12107": {
+		"configId": 12107,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12108": {
+		"configId": 12108,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500921
+	},
+	"12201": {
+		"configId": 12201,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12202": {
+		"configId": 12202,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12203": {
+		"configId": 12203,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12204": {
+		"configId": 12204,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12205": {
+		"configId": 12205,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12206": {
+		"configId": 12206,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12207": {
+		"configId": 12207,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12208": {
+		"configId": 12208,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500922
+	},
+	"12301": {
+		"configId": 12301,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12302": {
+		"configId": 12302,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12303": {
+		"configId": 12303,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12304": {
+		"configId": 12304,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12305": {
+		"configId": 12305,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12306": {
+		"configId": 12306,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12307": {
+		"configId": 12307,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12308": {
+		"configId": 12308,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500923
+	},
+	"12401": {
+		"configId": 12401,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12402": {
+		"configId": 12402,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12403": {
+		"configId": 12403,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12404": {
+		"configId": 12404,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12405": {
+		"configId": 12405,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12406": {
+		"configId": 12406,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12407": {
+		"configId": 12407,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12408": {
+		"configId": 12408,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500924
+	},
+	"12501": {
+		"configId": 12501,
+		"duration": 4.0,
+		"effectId": 400002,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12502": {
+		"configId": 12502,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500816,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12503": {
+		"configId": 12503,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500817,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12504": {
+		"configId": 12504,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12505": {
+		"configId": 12505,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500818,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12506": {
+		"configId": 12506,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500819,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12507": {
+		"configId": 12507,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500820,
+		"isFlyModel": true,
+		"modelId": 500925
+	},
+	"12508": {
+		"configId": 12508,
+		"duration": 4.0,
+		"effectId": 400002,
+		"effectModelid": 500821,
+		"isFlyModel": true,
+		"modelId": 500925
+	}
+}

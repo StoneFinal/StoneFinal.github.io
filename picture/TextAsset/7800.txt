@@ -1,0 +1,31 @@
+
+{
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 7800001,
+            "groupId"  : 0,
+            "spawnPos" : [
+                97.933,
+                39.403,
+                14.233
+            ],
+            "spawnRot" : [
+                0.0,
+                -135.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    }
+}

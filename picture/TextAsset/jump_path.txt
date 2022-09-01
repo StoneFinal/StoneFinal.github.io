@@ -1,0 +1,939 @@
+{
+	"1": [
+		{
+			"cameraParam": [
+				0,
+				45,
+				14,
+				40,
+				1
+			],
+			"continueTime": 1.5,
+			"downPos": [
+				-9.5,
+				25.2,
+				-65.7
+			],
+			"id": 1,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				-22.6,
+				22.8,
+				-59.1
+			],
+			"id": 1,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				135,
+				45,
+				14,
+				40,
+				2
+			],
+			"downPos": [
+				-17.4,
+				11.5,
+				-52.5
+			],
+			"gravitySpeed": -15.0,
+			"id": 1,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 2
+		}
+	],
+	"2": [
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				-58,
+				18,
+				-46.6
+			],
+			"id": 2,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				-65.6,
+				22,
+				-36.8
+			],
+			"id": 2,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				-74,
+				16.4,
+				-39.7
+			],
+			"id": 2,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 0
+		}
+	],
+	"3": [
+		{
+			"cameraParam": [
+				100,
+				45,
+				14,
+				40,
+				0.8
+			],
+			"continueTime": 2.0,
+			"downPos": [
+				88.8,
+				44.1,
+				-26.7
+			],
+			"id": 3,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				100,
+				60,
+				6,
+				40,
+				0.7
+			],
+			"continueTime": 1.0,
+			"downPos": [
+				52.1,
+				10.1,
+				-23.2
+			],
+			"id": 3,
+			"jointId": 2,
+			"jumpMotion": 2,
+			"jumpType": 0
+		}
+	],
+	"4": [
+		{
+			"continueTime": 2.0,
+			"downPos": [
+				-38.2,
+				7.8,
+				0.5
+			],
+			"id": 4,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				-40.8,
+				15,
+				13.7
+			],
+			"id": 4,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				-49.6,
+				19.2,
+				3.1
+			],
+			"id": 4,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 1
+		}
+	],
+	"5": [
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				-61,
+				21.2,
+				29.9
+			],
+			"id": 5,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.6,
+			"downPos": [
+				-55.8,
+				29.1,
+				37
+			],
+			"id": 5,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				-63.7,
+				32.1,
+				42
+			],
+			"id": 5,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 1
+		}
+	],
+	"6": [
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				24,
+				6.4,
+				18.3
+			],
+			"id": 6,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.2,
+			"downPos": [
+				9.1,
+				8,
+				18.7
+			],
+			"id": 6,
+			"jointId": 2,
+			"jumpMotion": 5,
+			"jumpType": 0
+		}
+	],
+	"7": [
+		{
+			"cameraParam": [
+				225,
+				40,
+				11,
+				40,
+				1
+			],
+			"continueTime": 1.2,
+			"downPos": [
+				32.3,
+				14.4,
+				66.5
+			],
+			"id": 7,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				51.4,
+				34.2,
+				53.6
+			],
+			"id": 7,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				68.3,
+				46.3,
+				33
+			],
+			"id": 7,
+			"jointId": 3,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				81.5,
+				39.4,
+				20.9
+			],
+			"id": 7,
+			"jointId": 4,
+			"jumpMotion": 2,
+			"jumpType": 1
+		}
+	],
+	"8": [
+		{
+			"cameraParam": [
+				135,
+				40,
+				11,
+				40,
+				1
+			],
+			"continueTime": 1.0,
+			"downPos": [
+				49.7,
+				50.6,
+				-15.3
+			],
+			"id": 8,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				21.7,
+				35.2,
+				-22.9
+			],
+			"id": 8,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				45,
+				40,
+				11,
+				40,
+				2
+			],
+			"continueTime": 1.2,
+			"downPos": [
+				-3.1,
+				4.3,
+				-29.8
+			],
+			"id": 8,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 0
+		}
+	],
+	"9": [
+		{
+			"cameraParam": [
+				-60,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 1.1,
+			"downPos": [
+				-33.3,
+				46.7,
+				12.6
+			],
+			"id": 9,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				-32.2,
+				41.8,
+				29.2
+			],
+			"id": 9,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				-30,
+				38,
+				10,
+				40,
+				1
+			],
+			"downPos": [
+				-21.5,
+				36.4,
+				34.2
+			],
+			"gravitySpeed": -15.0,
+			"id": 9,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 2
+		}
+	],
+	"10": [
+		{
+			"cameraParam": [
+				-90,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 1.4,
+			"downPos": [
+				6.6,
+				59.1,
+				88.3
+			],
+			"id": 10,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				-30,
+				10,
+				3,
+				40,
+				1
+			],
+			"continueTime": 1.2,
+			"downPos": [
+				-7.5,
+				75.1,
+				101.5
+			],
+			"id": 10,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				80,
+				10,
+				3,
+				40,
+				1
+			],
+			"continueTime": 1.4,
+			"downPos": [
+				-23.4,
+				111.3,
+				107.9
+			],
+			"id": 10,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				30,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 1.3,
+			"downPos": [
+				-24.6,
+				121.8,
+				122.4
+			],
+			"id": 10,
+			"jointId": 4,
+			"jumpMotion": 2,
+			"jumpType": 1
+		}
+	],
+	"11": [
+		{
+			"cameraParam": [
+				120,
+				20,
+				4,
+				40,
+				1
+			],
+			"continueTime": 1.2,
+			"downPos": [
+				-46,
+				108.3,
+				120.1
+			],
+			"id": 11,
+			"jointId": 1,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				100,
+				25,
+				5,
+				40,
+				1.5
+			],
+			"continueTime": 1.5,
+			"downPos": [
+				-103,
+				86,
+				97.3
+			],
+			"id": 11,
+			"jointId": 2,
+			"jumpMotion": 6,
+			"jumpType": 0
+		},
+		{
+			"cameraParam": [
+				30,
+				38,
+				10,
+				40,
+				1.5
+			],
+			"continueTime": 1.5,
+			"downPos": [
+				-144.3,
+				80.9,
+				84.9
+			],
+			"id": 11,
+			"jointId": 3,
+			"jumpMotion": 1,
+			"jumpType": 1
+		}
+	],
+	"12": [
+		{
+			"cameraParam": [
+				280,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 1.0,
+			"downPos": [
+				-39.9,
+				102.2,
+				238.4
+			],
+			"id": 12,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				-21.5,
+				120.8,
+				250.7
+			],
+			"id": 12,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				315,
+				20,
+				5,
+				40,
+				1
+			],
+			"continueTime": 1.5,
+			"downPos": [
+				23.8,
+				98.7,
+				270.2
+			],
+			"id": 12,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 1
+		}
+	],
+	"13": [
+		{
+			"cameraParam": [
+				120,
+				38,
+				10,
+				40,
+				1.5
+			],
+			"continueTime": 0.8,
+			"downPos": [
+				-4.58,
+				105.4,
+				250.7
+			],
+			"id": 13,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"downPos": [
+				-39.9,
+				102.2,
+				238.4
+			],
+			"gravitySpeed": -15.0,
+			"id": 13,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 2
+		},
+		{
+			"cameraParam": [
+				120,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 1.5,
+			"downPos": [
+				-51.3,
+				77.5,
+				212.6
+			],
+			"id": 13,
+			"jointId": 3,
+			"jumpMotion": 2,
+			"jumpType": 1
+		}
+	],
+	"14": [
+		{
+			"cameraParam": [
+				330,
+				30,
+				14,
+				40,
+				0.8
+			],
+			"continueTime": 1.2,
+			"downPos": [
+				176,
+				109.3,
+				272.4
+			],
+			"id": 14,
+			"jointId": 1,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				205.7,
+				109.1,
+				260.1
+			],
+			"id": 14,
+			"jointId": 2,
+			"jumpMotion": 5,
+			"jumpType": 0
+		},
+		{
+			"cameraParam": [
+				270,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 0.8,
+			"downPos": [
+				218.8,
+				126.2,
+				249.1
+			],
+			"id": 14,
+			"jointId": 3,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"downPos": [
+				229.7,
+				118.3,
+				243
+			],
+			"gravitySpeed": -15.0,
+			"id": 14,
+			"jointId": 4,
+			"jumpMotion": 1,
+			"jumpType": 2
+		}
+	],
+	"15": [
+		{
+			"cameraParam": [
+				90,
+				38,
+				10,
+				40,
+				1
+			],
+			"continueTime": 1.3,
+			"downPos": [
+				212.2,
+				108.6,
+				261.6
+			],
+			"id": 15,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				340,
+				20,
+				14,
+				40,
+				1
+			],
+			"continueTime": 1.0,
+			"downPos": [
+				189.9,
+				123.1,
+				267.3
+			],
+			"id": 15,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				179.1,
+				120.4,
+				267.1
+			],
+			"id": 15,
+			"jointId": 3,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"cameraParam": [
+				90,
+				38,
+				10,
+				40,
+				1
+			],
+			"downPos": [
+				163.4,
+				110.6,
+				266.7
+			],
+			"gravitySpeed": -15.0,
+			"id": 15,
+			"jointId": 4,
+			"jumpMotion": 1,
+			"jumpType": 2
+		}
+	],
+	"16": [
+		{
+			"cameraParam": [
+				160,
+				40,
+				11,
+				40,
+				1
+			],
+			"continueTime": 0.8,
+			"downPos": [
+				34.7,
+				4.9,
+				-61.9
+			],
+			"id": 16,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.0,
+			"downPos": [
+				26,
+				3.2,
+				-73.7
+			],
+			"id": 16,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"downPos": [
+				17.9,
+				-7.5,
+				-83.5
+			],
+			"gravitySpeed": -15.0,
+			"id": 16,
+			"jointId": 3,
+			"jumpMotion": 3,
+			"jumpType": 2
+		}
+	],
+	"17": [
+		{
+			"cameraParam": [
+				20,
+				40,
+				11,
+				40,
+				1
+			],
+			"continueTime": 0.8,
+			"downPos": [
+				7.4,
+				2,
+				-82.1
+			],
+			"id": 17,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				-1.8,
+				9.4,
+				-65.1
+			],
+			"id": 17,
+			"jointId": 2,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"downPos": [
+				-3.7,
+				-0.7,
+				-43.9
+			],
+			"gravitySpeed": -15.0,
+			"id": 17,
+			"jointId": 3,
+			"jumpMotion": 3,
+			"jumpType": 2
+		}
+	],
+	"18": [
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				45.91,
+				4.5,
+				4.4
+			],
+			"id": 18,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.2,
+			"downPos": [
+				90.111,
+				-101.329,
+				-37.192
+			],
+			"gravitySpeed": -15.0,
+			"id": 18,
+			"jointId": 2,
+			"jumpMotion": 2,
+			"jumpType": 2
+		}
+	],
+	"19": [
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				80.558,
+				-59.1,
+				-12.306
+			],
+			"id": 19,
+			"jointId": 1,
+			"jumpMotion": 0,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 1.5,
+			"downPos": [
+				62.1,
+				-14.8,
+				-8.3
+			],
+			"id": 19,
+			"jointId": 1,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.8,
+			"downPos": [
+				47.8,
+				6,
+				5.41
+			],
+			"id": 19,
+			"jointId": 1,
+			"jumpMotion": 1,
+			"jumpType": 1
+		},
+		{
+			"continueTime": 0.5,
+			"downPos": [
+				43.95,
+				3.838,
+				16.338
+			],
+			"gravitySpeed": -15.0,
+			"id": 19,
+			"jointId": 1,
+			"jumpMotion": 2,
+			"jumpType": 2
+		}
+	]
+}

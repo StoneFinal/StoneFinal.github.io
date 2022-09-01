@@ -1,0 +1,152 @@
+{
+	"101": {
+		"id": 101,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading01/loading01.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"103": {
+		"id": 103,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading03/loading03.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"104": {
+		"id": 104,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading04/loading04.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"105": {
+		"id": 105,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading05/loading05.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"106": {
+		"id": 106,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading06/loading06.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"107": {
+		"id": 107,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading07/loading07.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"108": {
+		"id": 108,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading08/loading08.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"109": {
+		"id": 109,
+		"level": [
+			371,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading09/loading09.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"110": {
+		"id": 110,
+		"level": [
+			410,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading10/loading10.jpg",
+		"type": 1,
+		"weight": 100
+	},
+	"201": {
+		"id": 201,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading01/loading01.jpg",
+		"type": 2,
+		"weight": 100
+	},
+	"203": {
+		"id": 203,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading03/loading03.jpg",
+		"type": 2,
+		"weight": 100
+	},
+	"204": {
+		"id": 204,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading04/loading04.jpg",
+		"type": 2,
+		"weight": 100
+	},
+	"205": {
+		"id": 205,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading05/loading05.jpg",
+		"type": 2,
+		"weight": 100
+	},
+	"206": {
+		"id": 206,
+		"level": [
+			1,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading06/loading06.jpg",
+		"type": 2,
+		"weight": 100
+	},
+	"207": {
+		"id": 207,
+		"level": [
+			410,
+			3000
+		],
+		"texture": "Texture/UI/BigImage/Loading/loading10/loading10.jpg",
+		"type": 2,
+		"weight": 100
+	}
+}

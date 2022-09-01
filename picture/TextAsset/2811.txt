@@ -1,0 +1,181 @@
+
+{
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 2811201,
+            "groupId"  : 0,
+            "spawnPos" : [
+                -41.178,
+                0.312,
+                39.655
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "id" : 2,
+            "configId" : 2811202,
+            "groupId"  : 0,
+            "spawnPos" : [
+                25.275,
+                0.312,
+                24.915
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "id" : 3,
+            "configId" : 2811203,
+            "groupId"  : 0,
+            "spawnPos" : [
+                12.642,
+                3.305,
+                -66.543
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "4" : {
+            "id" : 4,
+            "configId" : 2811204,
+            "groupId"  : 0,
+            "spawnPos" : [
+                -27.113,
+                0.313,
+                -27.845
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "5" : {
+            "id" : 5,
+            "configId" : 2811205,
+            "groupId"  : 0,
+            "spawnPos" : [
+                -68.179,
+                3.306,
+                13.855
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "6" : {
+            "id" : 6,
+            "configId" : 2811206,
+            "groupId"  : 0,
+            "spawnPos" : [
+                66.96,
+                3.306,
+                -13.687
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "getIn",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 10,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "getOut",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 11,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "area"    : {
+        "1" : {
+            "areaId" : 1,
+            "name"   : "saveArea",
+            "type"   : 1,
+            "area"   : {
+                "points" : [
+                    [
+                        1.400709E-06,
+                        20.39857
+                    ],
+                    [
+                        -21.2132,
+                        -0.8146327
+                    ],
+                    [
+                        -1.2815E-06,
+                        -22.02784
+                    ],
+                    [
+                        21.2132,
+                        -0.8146354
+                    ]
+                ],
+                "center" : [
+                    5.960464E-08,
+                    -0.814634
+                ],
+                "width"  : 30.0,
+                "height" : 30.0,
+                "orientAngle" : 45.0
+            }
+        }
+    }
+}

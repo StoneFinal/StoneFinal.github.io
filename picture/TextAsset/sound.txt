@@ -1,0 +1,2306 @@
+{
+	"101": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 101,
+		"soundName": "战法",
+		"soundPath": "Login/voice_player001.mp3"
+	},
+	"102": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 102,
+		"soundName": "灵剑",
+		"soundPath": "Login/voice_player002.mp3"
+	},
+	"103": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 103,
+		"soundName": "神枪",
+		"soundPath": "Login/voice_player003.mp3"
+	},
+	"104": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 104,
+		"soundName": "召唤",
+		"soundPath": "Login/voice_player004.mp3"
+	},
+	"105": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 105,
+		"soundName": "龙拳",
+		"soundPath": "Login/voice_player006.mp3"
+	},
+	"201": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 201,
+		"soundName": "移动",
+		"soundPath": "Audio/Voice/voice_newguide001.mp3"
+	},
+	"202": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 202,
+		"soundName": "普攻",
+		"soundPath": "Audio/Voice/voice_newguide002.mp3"
+	},
+	"203": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 203,
+		"soundName": "移动",
+		"soundPath": "Audio/Voice/voice_newguide003.mp3"
+	},
+	"204": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 204,
+		"soundName": "技能",
+		"soundPath": "Audio/Voice/voice_newguide004.mp3"
+	},
+	"205": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 205,
+		"soundName": "冲刺",
+		"soundPath": "Audio/Voice/voice_newguide005.mp3"
+	},
+	"206": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 206,
+		"soundName": "挂机",
+		"soundPath": "Audio/Voice/voice_newguide006.mp3"
+	},
+	"207": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 207,
+		"soundName": "通用引导音",
+		"soundPath": "Audio/Voice/voice_newguide007.mp3"
+	},
+	"1021": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1021,
+		"soundName": "蚩尤",
+		"soundPath": "Audio/Voice/voice_npc002_1.mp3"
+	},
+	"1022": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1022,
+		"soundName": "蚩尤",
+		"soundPath": "Audio/Voice/voice_npc002_2.mp3"
+	},
+	"1023": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1023,
+		"soundName": "蚩尤",
+		"soundPath": "Audio/Voice/voice_npc002_3.mp3"
+	},
+	"1041": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1041,
+		"soundName": "凤九",
+		"soundPath": "Audio/Voice/voice_npc004_1.mp3"
+	},
+	"1042": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1042,
+		"soundName": "凤九",
+		"soundPath": "Audio/Voice/voice_npc004_2.mp3"
+	},
+	"1051": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1051,
+		"soundName": "曲桑侍女",
+		"soundPath": "Audio/Voice/voice_npc005.mp3"
+	},
+	"1061": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1061,
+		"soundName": "爱染",
+		"soundPath": "Audio/Voice/voice_npc006_1.mp3"
+	},
+	"1062": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1062,
+		"soundName": "爱染",
+		"soundPath": "Audio/Voice/voice_npc006_2.mp3"
+	},
+	"1071": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1071,
+		"soundName": "姜榆罔",
+		"soundPath": "Audio/Voice/voice_npc007.mp3"
+	},
+	"1081": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1081,
+		"soundName": "九尾",
+		"soundPath": "Audio/Voice/voice_npc008_1.mp3"
+	},
+	"1082": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1082,
+		"soundName": "九尾",
+		"soundPath": "Audio/Voice/voice_npc008_2.mp3"
+	},
+	"1091": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1091,
+		"soundName": "月明珠",
+		"soundPath": "Audio/Voice/voice_npc009_1.mp3"
+	},
+	"1092": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1092,
+		"soundName": "月明珠",
+		"soundPath": "Audio/Voice/voice_npc009_2.mp3"
+	},
+	"1101": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1101,
+		"soundName": "应龙",
+		"soundPath": "Audio/Voice/voice_npc010_1.mp3"
+	},
+	"1102": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1102,
+		"soundName": "应龙",
+		"soundPath": "Audio/Voice/voice_npc010_2.mp3"
+	},
+	"1111": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1111,
+		"soundName": "弃天",
+		"soundPath": "Audio/InitVoice/voice_npc011_1.mp3"
+	},
+	"1112": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1112,
+		"soundName": "弃天",
+		"soundPath": "Audio/InitVoice/voice_npc011_2.mp3"
+	},
+	"1121": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1121,
+		"soundName": "应芒",
+		"soundPath": "Audio/Voice/voice_npc012.mp3"
+	},
+	"1131": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1131,
+		"soundName": "九重夜",
+		"soundPath": "Audio/Voice/voice_npc013.mp3"
+	},
+	"1141": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1141,
+		"soundName": "旧姬轩辕",
+		"soundPath": "Audio/Voice/voice_npc014.mp3"
+	},
+	"1151": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1151,
+		"soundName": "伏羲",
+		"soundPath": "Audio/Voice/voice_npc015.mp3"
+	},
+	"1161": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1161,
+		"soundName": "女娲",
+		"soundPath": "Audio/Voice/voice_npc016.mp3"
+	},
+	"1171": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1171,
+		"soundName": "刑天",
+		"soundPath": "Audio/Voice/voice_npc017.mp3"
+	},
+	"1181": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1181,
+		"soundName": "昊天",
+		"soundPath": "Audio/Voice/voice_npc018_1.mp3"
+	},
+	"1182": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1182,
+		"soundName": "昊天",
+		"soundPath": "Audio/Voice/voice_npc018_2.mp3"
+	},
+	"1183": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1183,
+		"soundName": "昊天",
+		"soundPath": "Audio/Voice/voice_npc018_3.mp3"
+	},
+	"1191": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1191,
+		"soundName": "铁匠工垂",
+		"soundPath": "Audio/Voice/voice_npc019.mp3"
+	},
+	"1201": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1201,
+		"soundName": "商人秦清",
+		"soundPath": "Audio/Voice/voice_npc020.mp3"
+	},
+	"1221": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1221,
+		"soundName": "备战司",
+		"soundPath": "Audio/Voice/voice_npc022.mp3"
+	},
+	"1241": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1241,
+		"soundName": "黄老",
+		"soundPath": "Audio/Voice/voice_npc024.mp3"
+	},
+	"1251": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1251,
+		"soundName": "六尾",
+		"soundPath": "Audio/Voice/voice_npc025.mp3"
+	},
+	"1281": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1281,
+		"soundName": "老妪",
+		"soundPath": "Audio/Voice/voice_npc028.mp3"
+	},
+	"1291": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1291,
+		"soundName": "孙子",
+		"soundPath": "Audio/Voice/voice_npc029.mp3"
+	},
+	"1331": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1331,
+		"soundName": "迷途少女",
+		"soundPath": "Audio/Voice/voice_npc033.mp3"
+	},
+	"1341": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1341,
+		"soundName": "普通村民",
+		"soundPath": "Audio/Voice/voice_npc034.mp3"
+	},
+	"1351": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1351,
+		"soundName": "九黎寨村民",
+		"soundPath": "Audio/Voice/voice_npc035.mp3"
+	},
+	"1361": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1361,
+		"soundName": "鲛人村民",
+		"soundPath": "Audio/Voice/voice_npc036.mp3"
+	},
+	"1371": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1371,
+		"soundName": "大羿",
+		"soundPath": "Audio/Voice/voice_npc037.mp3"
+	},
+	"1381": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1381,
+		"soundName": "姬轩辕",
+		"soundPath": "Audio/Voice/voice_npc038.mp3"
+	},
+	"1391": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1391,
+		"soundName": "白泽",
+		"soundPath": "Audio/Voice/voice_npc039.mp3"
+	},
+	"1401": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1401,
+		"soundName": "新云归何",
+		"soundPath": "Audio/Voice/voice_npc040_1.mp3"
+	},
+	"1402": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1402,
+		"soundName": "新云归何",
+		"soundPath": "Audio/Voice/voice_npc040_2.mp3"
+	},
+	"1411": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1411,
+		"soundName": "曲桑",
+		"soundPath": "Audio/Voice/voice_npc041_1.mp3"
+	},
+	"1412": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1412,
+		"soundName": "曲桑",
+		"soundPath": "Audio/Voice/voice_npc041_2.mp3"
+	},
+	"1431": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1431,
+		"soundName": "苏岚",
+		"soundPath": "Audio/Voice/voice_npc043_1.mp3"
+	},
+	"1432": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1432,
+		"soundName": "苏岚",
+		"soundPath": "Audio/Voice/voice_npc043_2.mp3"
+	},
+	"1433": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1433,
+		"soundName": "苏岚",
+		"soundPath": "Audio/Voice/voice_npc043_3.mp3"
+	},
+	"1441": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1441,
+		"soundName": "钟娘",
+		"soundPath": "Audio/Voice/voice_npc044.mp3"
+	},
+	"1451": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1451,
+		"soundName": "新风燧",
+		"soundPath": "Audio/Voice/voice_npc045_1.mp3"
+	},
+	"1452": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1452,
+		"soundName": "新风燧",
+		"soundPath": "Audio/Voice/voice_npc045_2.mp3"
+	},
+	"1453": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1453,
+		"soundName": "新风燧",
+		"soundPath": "Audio/Voice/voice_npc045_3.mp3"
+	},
+	"1461": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1461,
+		"soundName": "新孔宣",
+		"soundPath": "Audio/Voice/voice_npc046_1.mp3"
+	},
+	"1462": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1462,
+		"soundName": "新孔宣",
+		"soundPath": "Audio/Voice/voice_npc046_2.mp3"
+	},
+	"1463": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 1463,
+		"soundName": "新孔宣",
+		"soundPath": "Audio/Voice/voice_npc046_3.mp3"
+	},
+	"2011": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2011,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_001.mp3"
+	},
+	"2021": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2021,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_002.mp3"
+	},
+	"2031": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2031,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_003_1.mp3"
+	},
+	"2032": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2032,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_003_2.mp3"
+	},
+	"2041": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2041,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_004.mp3"
+	},
+	"2051": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2051,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_005.mp3"
+	},
+	"2061": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2061,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_006_1.mp3"
+	},
+	"2062": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2062,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_006_2.mp3"
+	},
+	"2071": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2071,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_007.mp3"
+	},
+	"2081": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2081,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_008.mp3"
+	},
+	"2091": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2091,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_009.mp3"
+	},
+	"2101": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2101,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_010.mp3"
+	},
+	"2111": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2111,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_011.mp3"
+	},
+	"2121": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2121,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_012.mp3"
+	},
+	"2131": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2131,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_013_1.mp3"
+	},
+	"2132": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2132,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_013_2.mp3"
+	},
+	"2141": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2141,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_014.mp3"
+	},
+	"2151": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2151,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_015.mp3"
+	},
+	"2161": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2161,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_016_1.mp3"
+	},
+	"2162": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2162,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_016_2.mp3"
+	},
+	"2171": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2171,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_017_1.mp3"
+	},
+	"2172": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2172,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_017_2.mp3"
+	},
+	"2181": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2181,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_018.mp3"
+	},
+	"2191": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2191,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_019_1.mp3"
+	},
+	"2201": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2201,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_020.mp3"
+	},
+	"2211": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2211,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_021.mp3"
+	},
+	"2221": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2221,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_022.mp3"
+	},
+	"2231": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2231,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_023.mp3"
+	},
+	"2241": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2241,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_024.mp3"
+	},
+	"2251": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2251,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_025.mp3"
+	},
+	"2261": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2261,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_026.mp3"
+	},
+	"2271": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2271,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_027.mp3"
+	},
+	"2281": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2281,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_028.mp3"
+	},
+	"2291": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2291,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_029.mp3"
+	},
+	"2301": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2301,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_030.mp3"
+	},
+	"2311": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2311,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_031.mp3"
+	},
+	"2321": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2321,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_032.mp3"
+	},
+	"2331": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2331,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_033_1.mp3"
+	},
+	"2332": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2332,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_033_2.mp3"
+	},
+	"2341": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2341,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_034_1.mp3"
+	},
+	"2342": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2342,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_034_2.mp3"
+	},
+	"2351": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2351,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_035.mp3"
+	},
+	"2361": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2361,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_036.mp3"
+	},
+	"2371": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2371,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_037.mp3"
+	},
+	"2381": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2381,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_038.mp3"
+	},
+	"2391": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2391,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_039.mp3"
+	},
+	"2401": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2401,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_040.mp3"
+	},
+	"2411": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2411,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_041_1.mp3"
+	},
+	"2412": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2412,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_041_2.mp3"
+	},
+	"2421": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2421,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_042.mp3"
+	},
+	"2431": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2431,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_043.mp3"
+	},
+	"2441": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2441,
+		"soundName": "1",
+		"soundPath": "Audio/InitVoice/npc_a_044.mp3"
+	},
+	"2451": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2451,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_045_1.mp3"
+	},
+	"2452": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2452,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_045_2.mp3"
+	},
+	"2461": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 2461,
+		"soundName": "1",
+		"soundPath": "Audio/Voice/npc_a_046.mp3"
+	},
+	"3011": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 3011,
+		"soundName": "修罗",
+		"soundPath": "Audio/Voice/xiuluo_01.mp3"
+	},
+	"3012": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 3012,
+		"soundName": "修罗",
+		"soundPath": "Audio/Voice/yuan_01.mp3"
+	},
+	"3013": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 3013,
+		"soundName": "修罗",
+		"soundPath": "Audio/Voice/moling_01.mp3"
+	},
+	"3014": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 3014,
+		"soundName": "修罗",
+		"soundPath": "Audio/Voice/mosha_01.mp3"
+	},
+	"3015": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 3015,
+		"soundName": "修罗",
+		"soundPath": "Audio/Voice/gui_01.mp3"
+	},
+	"3016": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 3016,
+		"soundName": "修罗",
+		"soundPath": "Audio/Voice/gui_02.mp3"
+	},
+	"4000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 4000,
+		"soundName": "剧情CG音效1",
+		"soundPath": "Audio/Story/story05.mp3"
+	},
+	"5000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 5000,
+		"soundName": "龙技能",
+		"soundPath": "Audio/Motion/PlayerYj/yj_skill4.mp3"
+	},
+	"6000": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 6000,
+		"soundName": "圣诞音乐",
+		"soundPath": "Audio/Background/secondbg/worlds07.mp3"
+	},
+	"10000": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10000,
+		"soundName": "登陆创角",
+		"soundPath": "Login/login.mp3"
+	},
+	"10001": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10001,
+		"soundName": "天空城",
+		"soundPath": "Audio/Background/secondbg/worlds_a_02.mp3"
+	},
+	"10002": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10002,
+		"soundName": "星辰涯",
+		"soundPath": "Audio/Background/InitBG/worlds_a_03.mp3"
+	},
+	"10003": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10003,
+		"soundName": "摘星峰",
+		"soundPath": "Audio/Background/InitBG/worlds_a_04.mp3"
+	},
+	"10004": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10004,
+		"soundName": "焚茶峒",
+		"soundPath": "Audio/Background/OthersBG/worlds04.mp3"
+	},
+	"10005": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10005,
+		"soundName": "虞渊",
+		"soundPath": "Audio/Background/OthersBG/worlds05.mp3"
+	},
+	"10006": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10006,
+		"soundName": "穷桑台",
+		"soundPath": "Audio/Background/secondbg/worlds06.mp3"
+	},
+	"10007": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10007,
+		"soundName": "苍月湾",
+		"soundPath": "Audio/Background/OthersBG/worlds07.mp3"
+	},
+	"10008": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10008,
+		"soundName": "离情天",
+		"soundPath": "Audio/Background/OthersBG/worlds08.mp3"
+	},
+	"10009": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10009,
+		"soundName": "炎砂海",
+		"soundPath": "Audio/Background/OthersBG/worlds09.mp3"
+	},
+	"10010": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 10010,
+		"soundName": "昆仑",
+		"soundPath": "Audio/Background/OthersBG/worlds06.mp3"
+	},
+	"11001": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11001,
+		"soundName": "新手副本",
+		"soundPath": "Audio/Background/InitBG/fight01.mp3"
+	},
+	"11002": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11002,
+		"soundName": "部族驻地",
+		"soundPath": "Audio/Background/OthersBG/fight02.mp3"
+	},
+	"11003": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11003,
+		"soundName": "攻城战",
+		"soundPath": "Audio/Background/OthersBG/fight03.mp3"
+	},
+	"11004": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11004,
+		"soundName": "门派竞技",
+		"soundPath": "Audio/Background/OthersBG/fight04.mp3"
+	},
+	"11005": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11005,
+		"soundName": "白虎堂",
+		"soundPath": "Audio/Background/OthersBG/fight05.mp3"
+	},
+	"11006": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11006,
+		"soundName": "通天塔",
+		"soundPath": "Audio/Background/secondbg/fight06.mp3"
+	},
+	"11007": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11007,
+		"soundName": "海天幻境",
+		"soundPath": "Audio/Background/OthersBG/fight07.mp3"
+	},
+	"11008": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11008,
+		"soundName": "离恨天",
+		"soundPath": "Audio/Background/OthersBG/fight08.mp3"
+	},
+	"11009": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11009,
+		"soundName": "金缚境",
+		"soundPath": "Audio/Background/OthersBG/fight09.mp3"
+	},
+	"11010": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 11010,
+		"soundName": "幽冥地宫",
+		"soundPath": "Audio/Background/OthersBG/fight10.mp3"
+	},
+	"20001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20001,
+		"soundName": "开启界面",
+		"soundPath": "Audio/UI/ui_a_001.mp3"
+	},
+	"20002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20002,
+		"soundName": "关闭界面",
+		"soundPath": "Audio/UI/ui_a_002.mp3"
+	},
+	"20003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20003,
+		"soundName": "主角升级",
+		"soundPath": "Audio/UI/ui_a_003.mp3"
+	},
+	"20004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20004,
+		"soundName": "战斗力提升",
+		"soundPath": "Audio/UI/ui_a_004.mp3"
+	},
+	"20005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20005,
+		"soundName": "抽奖获得法宝",
+		"soundPath": "Audio/UI/ui_a_005.mp3"
+	},
+	"20006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20006,
+		"soundName": "技能解锁",
+		"soundPath": "Audio/UI/ui_a_006.mp3"
+	},
+	"20007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20007,
+		"soundName": "宝石镶嵌",
+		"soundPath": "Audio/UI/ui_a_007.mp3"
+	},
+	"20008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20008,
+		"soundName": "强化洗炼",
+		"soundPath": "Audio/UI/ui_a_008.mp3"
+	},
+	"20009": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20009,
+		"soundName": "聚宝盆",
+		"soundPath": "Audio/UI/ui_a_009.mp3"
+	},
+	"20010": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20010,
+		"soundName": "打开宝箱",
+		"soundPath": "Audio/UI/ui_a_010.mp3"
+	},
+	"20011": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20011,
+		"soundName": "物品tips",
+		"soundPath": "Audio/UI/ui_a_011.mp3"
+	},
+	"20012": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20012,
+		"soundName": "副本通关",
+		"soundPath": "Audio/UI/ui_a_012.mp3"
+	},
+	"20013": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20013,
+		"soundName": "进入游戏按钮",
+		"soundPath": "Audio/UI/ui_a_013.mp3"
+	},
+	"20014": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20014,
+		"soundName": "开始游戏按钮",
+		"soundPath": "Audio/UI/ui_a_014.mp3"
+	},
+	"20015": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20015,
+		"soundName": "切换面板",
+		"soundPath": "Audio/UI/ui_a_015.mp3"
+	},
+	"20016": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 20016,
+		"soundName": "选项打勾",
+		"soundPath": "Audio/UI/ui_a_016.mp3"
+	},
+	"30000": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 30000,
+		"soundName": "跑",
+		"soundPath": "Audio/Motion/run_normal.mp3"
+	},
+	"30001": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30001,
+		"soundName": "加速跑",
+		"soundPath": "Audio/Motion/run_quick.mp3"
+	},
+	"30002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30002,
+		"soundName": "战法创角",
+		"soundPath": "Login/cq_create.mp3"
+	},
+	"30003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30003,
+		"soundName": "灵剑创角",
+		"soundPath": "Login/xj_create.mp3"
+	},
+	"30004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30004,
+		"soundName": "神枪创角",
+		"soundPath": "Login/hq_create.mp3"
+	},
+	"30005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30005,
+		"soundName": "召唤创角",
+		"soundPath": "Login/lf_create.mp3"
+	},
+	"30006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30006,
+		"soundName": "龙拳创角",
+		"soundPath": "Login/qs_create.mp3"
+	},
+	"30007": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30007,
+		"soundName": "坐骑——漂浮",
+		"soundPath": "Audio/Motion/mount01.mp3"
+	},
+	"30008": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30008,
+		"soundName": "坐骑——走兽脚步",
+		"soundPath": "Audio/Motion/mount02.mp3"
+	},
+	"30009": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30009,
+		"soundName": "坐骑——飞行",
+		"soundPath": "Audio/Motion/mount03.mp3"
+	},
+	"30010": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30010,
+		"soundName": "莲花坐骑",
+		"soundPath": "Audio/Motion/mount04.mp3"
+	},
+	"30011": {
+		"delayTime": 0.0,
+		"isLoop": true,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30011,
+		"soundName": "飞剑坐骑",
+		"soundPath": "Audio/Motion/mount05.mp3"
+	},
+	"30012": {
+		"delayTime": 0.5,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30012,
+		"soundName": "战法创角-表演动作",
+		"soundPath": "Login/yy_create_show.mp3"
+	},
+	"30013": {
+		"delayTime": 0.4,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30013,
+		"soundName": "灵剑创角-表演动作",
+		"soundPath": "Login/sm_create_show.mp3"
+	},
+	"30014": {
+		"delayTime": 0.2,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30014,
+		"soundName": "神枪创角-表演动作",
+		"soundPath": "Login/wl_create_show.mp3"
+	},
+	"30015": {
+		"delayTime": 0.4,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30015,
+		"soundName": "召唤创角-表演动作",
+		"soundPath": "Login/yj_create_show.mp3"
+	},
+	"30016": {
+		"delayTime": 0.4,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30016,
+		"soundName": "龙拳创角-表演动作",
+		"soundPath": "Login/qs_create_show.mp3"
+	},
+	"30017": {
+		"delayTime": 0.5,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30017,
+		"soundName": "战法创角-退场动作",
+		"soundPath": "Login/yy_create_quit.mp3"
+	},
+	"30018": {
+		"delayTime": 0.4,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30018,
+		"soundName": "灵剑创角-退场动作",
+		"soundPath": "Login/sm_create_quit.mp3"
+	},
+	"30019": {
+		"delayTime": 0.2,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30019,
+		"soundName": "神枪创角-退场动作",
+		"soundPath": "Login/wl_create_quit.mp3"
+	},
+	"30020": {
+		"delayTime": 0.4,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30020,
+		"soundName": "召唤创角-退场动作",
+		"soundPath": "Login/yj_create_quit.mp3"
+	},
+	"30021": {
+		"delayTime": 0.4,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30021,
+		"soundName": "龙拳创角-退场动作",
+		"soundPath": "Login/qs_create_quit.mp3"
+	},
+	"30022": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30022,
+		"soundName": "魔僧创角",
+		"soundPath": "Login/ds_create.mp3"
+	},
+	"30023": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30023,
+		"soundName": "魔僧创角-表演动作",
+		"soundPath": "Login/ds_create_show.mp3"
+	},
+	"30024": {
+		"delayTime": 0.5,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 30024,
+		"soundName": "魔僧创角-退场动作",
+		"soundPath": "Login/ds_create_quit.mp3"
+	},
+	"40000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40000,
+		"soundName": "战法轻功",
+		"soundPath": "Audio/Story/jump_yy.mp3"
+	},
+	"40001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40001,
+		"soundName": "灵剑轻功",
+		"soundPath": "Audio/Story/jump_sm.mp3"
+	},
+	"40002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40002,
+		"soundName": "神枪轻功",
+		"soundPath": "Audio/Story/jump_wl.mp3"
+	},
+	"40003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40003,
+		"soundName": "召唤轻功",
+		"soundPath": "Audio/Story/jump_yj.mp3"
+	},
+	"40004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40004,
+		"soundName": "龙拳轻功",
+		"soundPath": "Audio/Story/jump_qs.mp3"
+	},
+	"40005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40005,
+		"soundName": "黑影出现",
+		"soundPath": "Audio/Story/story01.mp3"
+	},
+	"40006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40006,
+		"soundName": "吸入漩涡",
+		"soundPath": "Audio/Story/story02.mp3"
+	},
+	"40007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40007,
+		"soundName": "穷奇出现",
+		"soundPath": "Audio/Story/story03.mp3"
+	},
+	"40008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": false,
+		"soundId": 40008,
+		"soundName": "击杀穷奇",
+		"soundPath": "Audio/Story/story04.mp3"
+	},
+	"50000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50000,
+		"soundName": "战法冲刺",
+		"soundPath": "Audio/Motion/PlayerCq/cq_sprint.mp3"
+	},
+	"50001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50001,
+		"soundName": "战法普攻",
+		"soundPath": "Audio/Motion/PlayerCq/cq_hit1.mp3"
+	},
+	"50002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50002,
+		"soundName": "战法普攻",
+		"soundPath": "Audio/Motion/PlayerCq/cq_hit2.mp3"
+	},
+	"50003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50003,
+		"soundName": "战法普攻",
+		"soundPath": "Audio/Motion/PlayerCq/cq_hit3.mp3"
+	},
+	"50004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50004,
+		"soundName": "战法普攻",
+		"soundPath": "Audio/Motion/PlayerCq/cq_hit4.mp3"
+	},
+	"50005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50005,
+		"soundName": "战法技能",
+		"soundPath": "Audio/Motion/PlayerCq/cq_skill1.mp3"
+	},
+	"50006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50006,
+		"soundName": "战法技能",
+		"soundPath": "Audio/Motion/PlayerCq/cq_skill2.mp3"
+	},
+	"50007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50007,
+		"soundName": "战法技能",
+		"soundPath": "Audio/Motion/PlayerCq/cq_skill3.mp3"
+	},
+	"50008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50008,
+		"soundName": "战法技能",
+		"soundPath": "Audio/Motion/PlayerCq/cq_skill4.mp3"
+	},
+	"50009": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50009,
+		"soundName": "战法技能",
+		"soundPath": "Audio/Motion/PlayerCq/cq_skill5.mp3"
+	},
+	"50010": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 50010,
+		"soundName": "战法技能",
+		"soundPath": "Audio/Motion/PlayerCq/cq_skill6.mp3"
+	},
+	"60000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60000,
+		"soundName": "灵剑冲刺",
+		"soundPath": "Audio/Motion/PlayerXj/xj_sprint.mp3"
+	},
+	"60001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60001,
+		"soundName": "灵剑普攻",
+		"soundPath": "Audio/Motion/PlayerXj/xj_hit1.mp3"
+	},
+	"60002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60002,
+		"soundName": "灵剑普攻",
+		"soundPath": "Audio/Motion/PlayerXj/xj_hit2.mp3"
+	},
+	"60003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60003,
+		"soundName": "灵剑普攻",
+		"soundPath": "Audio/Motion/PlayerXj/xj_hit3.mp3"
+	},
+	"60004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60004,
+		"soundName": "灵剑普攻",
+		"soundPath": "Audio/Motion/PlayerXj/xj_hit4.mp3"
+	},
+	"60005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60005,
+		"soundName": "灵剑技能",
+		"soundPath": "Audio/Motion/PlayerXj/xj_skill1.mp3"
+	},
+	"60006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60006,
+		"soundName": "灵剑技能",
+		"soundPath": "Audio/Motion/PlayerXj/xj_skill2.mp3"
+	},
+	"60007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60007,
+		"soundName": "灵剑技能",
+		"soundPath": "Audio/Motion/PlayerXj/xj_skill3.mp3"
+	},
+	"60008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60008,
+		"soundName": "灵剑技能",
+		"soundPath": "Audio/Motion/PlayerXj/xj_skill4.mp3"
+	},
+	"60009": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60009,
+		"soundName": "灵剑技能",
+		"soundPath": "Audio/Motion/PlayerXj/xj_skill5.mp3"
+	},
+	"60010": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 60010,
+		"soundName": "灵剑技能",
+		"soundPath": "Audio/Motion/PlayerXj/xj_skill6.mp3"
+	},
+	"70000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70000,
+		"soundName": "神枪冲刺",
+		"soundPath": "Audio/Motion/PlayerWl/wl_sprint.mp3"
+	},
+	"70001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70001,
+		"soundName": "神枪普攻",
+		"soundPath": "Audio/Motion/PlayerHq/hq_hit1.mp3"
+	},
+	"70002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70002,
+		"soundName": "神枪普攻",
+		"soundPath": "Audio/Motion/PlayerHq/hq_hit2.mp3"
+	},
+	"70003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70003,
+		"soundName": "神枪普攻",
+		"soundPath": "Audio/Motion/PlayerHq/hq_hit3.mp3"
+	},
+	"70004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70004,
+		"soundName": "神枪普攻",
+		"soundPath": "Audio/Motion/PlayerHq/hq_hit4.mp3"
+	},
+	"70005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70005,
+		"soundName": "神枪技能",
+		"soundPath": "Audio/Motion/PlayerHq/hq_skill1.mp3"
+	},
+	"70006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70006,
+		"soundName": "神枪技能",
+		"soundPath": "Audio/Motion/PlayerHq/hq_skill2.mp3"
+	},
+	"70007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70007,
+		"soundName": "神枪技能",
+		"soundPath": "Audio/Motion/PlayerHq/hq_skill3.mp3"
+	},
+	"70008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70008,
+		"soundName": "神枪技能",
+		"soundPath": "Audio/Motion/PlayerHq/hq_skill4.mp3"
+	},
+	"70009": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70009,
+		"soundName": "神枪技能",
+		"soundPath": "Audio/Motion/PlayerHq/hq_skill5.mp3"
+	},
+	"70010": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 70010,
+		"soundName": "神枪技能",
+		"soundPath": "Audio/Motion/PlayerHq/hq_skill6.mp3"
+	},
+	"80000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80000,
+		"soundName": "召唤冲刺",
+		"soundPath": "Audio/Motion/PlayerYj/yj_sprint.mp3"
+	},
+	"80001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80001,
+		"soundName": "召唤普攻",
+		"soundPath": "Audio/Motion/PlayerLf/lf_hit1.mp3"
+	},
+	"80002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80002,
+		"soundName": "召唤普攻",
+		"soundPath": "Audio/Motion/PlayerLf/lf_hit2.mp3"
+	},
+	"80003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80003,
+		"soundName": "召唤普攻",
+		"soundPath": "Audio/Motion/PlayerLf/lf_hit3.mp3"
+	},
+	"80004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80004,
+		"soundName": "召唤普攻",
+		"soundPath": "Audio/Motion/PlayerLf/lf_hit4.mp3"
+	},
+	"80005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80005,
+		"soundName": "召唤技能",
+		"soundPath": "Audio/Motion/PlayerLf/lf_skill1.mp3"
+	},
+	"80006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80006,
+		"soundName": "召唤技能",
+		"soundPath": "Audio/Motion/PlayerLf/lf_skill2.mp3"
+	},
+	"80007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80007,
+		"soundName": "召唤技能",
+		"soundPath": "Audio/Motion/PlayerLf/lf_skill3.mp3"
+	},
+	"80008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80008,
+		"soundName": "召唤技能",
+		"soundPath": "Audio/Motion/PlayerLf/lf_skill4.mp3"
+	},
+	"80009": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80009,
+		"soundName": "召唤技能",
+		"soundPath": "Audio/Motion/PlayerLf/lf_skill5.mp3"
+	},
+	"80010": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 80010,
+		"soundName": "召唤技能",
+		"soundPath": "Audio/Motion/PlayerLf/lf_skill6.mp3"
+	},
+	"90000": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90000,
+		"soundName": "龙拳冲刺",
+		"soundPath": "Audio/Motion/PlayerQs/qs_sprint.mp3"
+	},
+	"90001": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90001,
+		"soundName": "龙拳普攻",
+		"soundPath": "Audio/Motion/PlayerQs/qs_hit1.mp3"
+	},
+	"90002": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90002,
+		"soundName": "龙拳普攻",
+		"soundPath": "Audio/Motion/PlayerQs/qs_hit2.mp3"
+	},
+	"90003": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90003,
+		"soundName": "龙拳普攻",
+		"soundPath": "Audio/Motion/PlayerQs/qs_hit3.mp3"
+	},
+	"90004": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90004,
+		"soundName": "龙拳普攻",
+		"soundPath": "Audio/Motion/PlayerQs/qs_hit4.mp3"
+	},
+	"90005": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90005,
+		"soundName": "龙拳技能",
+		"soundPath": "Audio/Motion/PlayerQs/qs_skill1.mp3"
+	},
+	"90006": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90006,
+		"soundName": "龙拳技能",
+		"soundPath": "Audio/Motion/PlayerQs/qs_skill2.mp3"
+	},
+	"90007": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90007,
+		"soundName": "龙拳技能",
+		"soundPath": "Audio/Motion/PlayerQs/qs_skill3.mp3"
+	},
+	"90008": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90008,
+		"soundName": "龙拳技能",
+		"soundPath": "Audio/Motion/PlayerQs/qs_skill4.mp3"
+	},
+	"90009": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90009,
+		"soundName": "龙拳技能",
+		"soundPath": "Audio/Motion/PlayerQs/qs_skill5.mp3"
+	},
+	"90010": {
+		"delayTime": 0.0,
+		"isLoop": false,
+		"isRemoveOnMotionEnd": false,
+		"isRemoveOnMotionInterrupt": true,
+		"soundId": 90010,
+		"soundName": "龙拳技能",
+		"soundPath": "Audio/Motion/PlayerQs/qs_skill6.mp3"
+	}
+}

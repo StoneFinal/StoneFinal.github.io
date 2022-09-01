@@ -1,0 +1,2592 @@
+{
+	"1": {
+		"configId": 1,
+		"doodadType": 1,
+		"modelId": 51120,
+		"name": "断桥静止",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"2": {
+		"configId": 2,
+		"doodadType": 1,
+		"modelId": 51121,
+		"name": "断桥断开",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"3": {
+		"configId": 3,
+		"doodadType": 1,
+		"modelId": 51009,
+		"name": "圣火台子（水火不容）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"4": {
+		"configId": 4,
+		"doodadType": 1,
+		"modelId": 11049,
+		"name": "圣火台子（攻城战）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"5": {
+		"configId": 5,
+		"doodadType": 1,
+		"modelId": 50001,
+		"name": "假篝火（攻城战）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 180,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"6": {
+		"configId": 6,
+		"doodadType": 1,
+		"modelId": 50001,
+		"name": "假篝火（九州竞武）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 300,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"7": {
+		"configId": 7,
+		"doodadType": 1,
+		"modelId": 50001,
+		"name": "假篝火（通天塔）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 600,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"8": {
+		"configId": 8,
+		"doodadType": 1,
+		"modelId": 50019,
+		"name": "法阵（女娲补天）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"9": {
+		"configId": 9,
+		"doodadType": 1,
+		"modelId": 51026,
+		"name": "五色石-黄",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"10": {
+		"configId": 10,
+		"doodadType": 1,
+		"modelId": 51027,
+		"name": "五色石-红",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"11": {
+		"configId": 11,
+		"doodadType": 1,
+		"modelId": 51028,
+		"name": "五色石-蓝",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"12": {
+		"configId": 12,
+		"doodadType": 1,
+		"modelId": 51029,
+		"name": "五色石-绿",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"13": {
+		"configId": 13,
+		"doodadType": 1,
+		"modelId": 51030,
+		"name": "五色石-紫",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"14": {
+		"configId": 14,
+		"doodadType": 1,
+		"modelId": 999999,
+		"name": "空模型阻挡",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			4,
+			4,
+			4
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"15": {
+		"configId": 15,
+		"doodadType": 1,
+		"modelId": 40001,
+		"name": "装备副本女娲物件",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"16": {
+		"configId": 16,
+		"doodadType": 1,
+		"modelId": 50047,
+		"name": "黑洞出现",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"17": {
+		"configId": 17,
+		"doodadType": 1,
+		"modelId": 50048,
+		"name": "黑洞消失",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"19": {
+		"configId": 19,
+		"doodadType": 1,
+		"modelId": 50023,
+		"name": "刷怪特效",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"21": {
+		"configId": 21,
+		"doodadType": 1,
+		"modelId": 50024,
+		"name": "孔宣放技能",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"22": {
+		"configId": 22,
+		"doodadType": 1,
+		"modelId": 30033,
+		"name": "双王物件1",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"23": {
+		"configId": 23,
+		"doodadType": 1,
+		"modelId": 30026,
+		"name": "双王物件2",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"24": {
+		"configId": 24,
+		"doodadType": 1,
+		"modelId": 100006,
+		"name": "大荒榜出场",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"29": {
+		"configId": 29,
+		"doodadType": 1,
+		"modelId": 310013,
+		"name": "法阵生效闪光",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 2,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"30": {
+		"configId": 30,
+		"doodadType": 4,
+		"modelId": 50027,
+		"name": "火焰",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			13342
+		]
+	},
+	"31": {
+		"configId": 31,
+		"doodadType": 4,
+		"modelId": 50007,
+		"name": "治愈宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			7203002
+		]
+	},
+	"32": {
+		"configId": 32,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "荒兽巢穴倒计时",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"33": {
+		"configId": 33,
+		"doodadType": 1,
+		"modelId": 51038,
+		"name": "三生石",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"37": {
+		"configId": 37,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "boss之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"38": {
+		"configId": 38,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "毕方之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"39": {
+		"configId": 39,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "天吴之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"40": {
+		"configId": 40,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "狸力之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"41": {
+		"configId": 41,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "鲲鹏之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"42": {
+		"configId": 42,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "蛊雕之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"43": {
+		"configId": 43,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "陆吾之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"44": {
+		"configId": 44,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "姑获之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"45": {
+		"configId": 45,
+		"doodadType": 8,
+		"modelId": 50033,
+		"name": "九尾之魂",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": true,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"46": {
+		"configId": 46,
+		"doodadType": 4,
+		"modelId": 51045,
+		"name": "爆竹小",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 1.5,
+		"typeData": []
+	},
+	"47": {
+		"configId": 47,
+		"doodadType": 4,
+		"modelId": 51046,
+		"name": "爆竹大",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 1.5,
+		"typeData": []
+	},
+	"48": {
+		"configId": 48,
+		"doodadType": 1,
+		"modelId": 244801,
+		"name": "红娘花球",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 5,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"49": {
+		"configId": 49,
+		"doodadType": 1,
+		"modelId": 51004,
+		"name": "不明觉厉草",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"50": {
+		"configId": 50,
+		"doodadType": 1,
+		"modelId": 51018,
+		"name": "一日全包散",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"51": {
+		"configId": 51,
+		"doodadType": 1,
+		"modelId": 51019,
+		"name": "星之泉",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"52": {
+		"configId": 52,
+		"doodadType": 1,
+		"modelId": 51123,
+		"name": "猩猩待机",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"100": {
+		"configId": 100,
+		"doodadType": 1,
+		"modelId": 50003,
+		"name": "空气墙(小)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			10,
+			4,
+			3
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"101": {
+		"configId": 101,
+		"doodadType": 1,
+		"modelId": 50004,
+		"name": "空气墙(中)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			15,
+			4,
+			3
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"102": {
+		"configId": 102,
+		"doodadType": 1,
+		"modelId": 50005,
+		"name": "空气墙(大)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			20,
+			4,
+			3
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"103": {
+		"configId": 103,
+		"doodadType": 1,
+		"modelId": 51032,
+		"name": "倒塌树木",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			15,
+			4,
+			1
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"104": {
+		"configId": 104,
+		"doodadType": 1,
+		"modelId": 51064,
+		"name": "雕像底座",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"105": {
+		"configId": 105,
+		"doodadType": 1,
+		"modelId": 51065,
+		"name": "春节物件-大灯笼",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"106": {
+		"configId": 106,
+		"doodadType": 1,
+		"modelId": 51066,
+		"name": "春节物件-横灯笼",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"107": {
+		"configId": 107,
+		"doodadType": 1,
+		"modelId": 51067,
+		"name": "春节物件-礼盒",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"108": {
+		"configId": 108,
+		"doodadType": 1,
+		"modelId": 51068,
+		"name": "春节物件-炮竹",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"109": {
+		"configId": 109,
+		"doodadType": 1,
+		"modelId": 50005,
+		"name": "空气墙(不阻挡)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"110": {
+		"configId": 110,
+		"doodadType": 1,
+		"modelId": 50017,
+		"name": "空气墙(大红)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			20,
+			4,
+			3
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"111": {
+		"configId": 111,
+		"doodadType": 1,
+		"modelId": 50005,
+		"name": "空气墙(大)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			20,
+			4,
+			3
+		],
+		"removeTime": 600,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"200": {
+		"configId": 200,
+		"doodadType": 2,
+		"modelId": 50002,
+		"name": "传送点",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": []
+	},
+	"201": {
+		"configId": 201,
+		"doodadType": 2,
+		"modelId": 999999,
+		"name": "空模型传送点",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 2,
+		"showName": false,
+		"triggerRadius": 5.0,
+		"typeData": []
+	},
+	"202": {
+		"configId": 202,
+		"doodadType": 2,
+		"modelId": 50010,
+		"name": "新手村轻功传送",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": []
+	},
+	"203": {
+		"configId": 203,
+		"doodadType": 6,
+		"modelId": 50010,
+		"name": "跳跃点",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": []
+	},
+	"204": {
+		"configId": 204,
+		"doodadType": 6,
+		"modelId": 999999,
+		"name": "空模型跳跃点",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 2,
+		"showName": false,
+		"triggerRadius": 5.0,
+		"typeData": []
+	},
+	"210": {
+		"configId": 210,
+		"doodadType": 6,
+		"modelId": 50010,
+		"name": "跳跃点",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": []
+	},
+	"211": {
+		"configId": 211,
+		"doodadType": 6,
+		"modelId": 999999,
+		"name": "空模型跳跃点(不消失)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": []
+	},
+	"300": {
+		"configId": 300,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（神秘洞窟）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 16,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=300",
+			2
+		]
+	},
+	"301": {
+		"configId": 301,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（活动30分钟）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1800,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/1800+level*2000*22/1800",
+			3
+		]
+	},
+	"302": {
+		"configId": 302,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（副本结束）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 16,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=302",
+			3
+		]
+	},
+	"303": {
+		"configId": 303,
+		"doodadType": 3,
+		"modelId": 50016,
+		"name": "篝火（部族篝火）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 900,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=15*0.000000001*level^5.6241+level^2",
+			4
+		]
+	},
+	"304": {
+		"configId": 304,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（30级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=304",
+			1
+		]
+	},
+	"305": {
+		"configId": 305,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（40级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=305",
+			1
+		]
+	},
+	"306": {
+		"configId": 306,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（50级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=306",
+			1
+		]
+	},
+	"307": {
+		"configId": 307,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（60级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=307",
+			1
+		]
+	},
+	"308": {
+		"configId": 308,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（70级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=308",
+			1
+		]
+	},
+	"309": {
+		"configId": 309,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（80级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=309",
+			1
+		]
+	},
+	"310": {
+		"configId": 310,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（90级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=310",
+			1
+		]
+	},
+	"311": {
+		"configId": 311,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(雷夏泽5分钟)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 300,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/300+level*2000*22/300",
+			3
+		]
+	},
+	"312": {
+		"configId": 312,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(魔将3分钟)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 180,
+		"showName": false,
+		"triggerRadius": 25.0,
+		"typeData": [
+			"exp=312",
+			2
+		]
+	},
+	"313": {
+		"configId": 313,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(部族试炼3分钟)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 180,
+		"showName": false,
+		"triggerRadius": 30.0,
+		"typeData": [
+			"exp=3*0.000000001*level^5.6241+level^2/5",
+			2
+		]
+	},
+	"314": {
+		"configId": 314,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(部族试炼结束)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 180,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=3*0.000000001*level^5.6241+level^2/5",
+			3
+		]
+	},
+	"315": {
+		"configId": 315,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（攻城战开始）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 180,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/360+level*2000*22/360",
+			3
+		]
+	},
+	"316": {
+		"configId": 316,
+		"doodadType": 3,
+		"modelId": 50016,
+		"name": "篝火（攻城战结束）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 300,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/150+level*2000*22/150",
+			4
+		]
+	},
+	"317": {
+		"configId": 317,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(幻境魔影15分钟)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 840,
+		"showName": false,
+		"triggerRadius": 25.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/840+level*2000*22/840",
+			3
+		]
+	},
+	"318": {
+		"configId": 318,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（巅峰对决30分钟）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1800,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=15*0.000000001*level^5.6241+level^2",
+			4
+		]
+	},
+	"319": {
+		"configId": 319,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（通天塔）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 600,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/600+level*2000*22/600",
+			3
+		]
+	},
+	"320": {
+		"configId": 320,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（100级野外）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1200,
+		"showName": false,
+		"triggerRadius": 15.0,
+		"typeData": [
+			"exp=320",
+			1
+		]
+	},
+	"321": {
+		"beforeFightSpeak": {
+			"content": "篝火后还有宝箱哦！",
+			"duration": 3,
+			"interval": 10,
+			"rate": 0.8
+		},
+		"configId": 321,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火（婚礼篝火4分钟）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 240,
+		"showName": false,
+		"triggerRadius": 13.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/600+level*2000*22/600",
+			1
+		]
+	},
+	"322": {
+		"configId": 322,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(仙魔争霸仙阵营)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 300,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/300+level*2000*22/300",
+			3
+		]
+	},
+	"323": {
+		"configId": 323,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(仙魔争霸魔阵营)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 300,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=4*10^(-9)*level^6.4875/1.55*12/300+level*2000*22/300",
+			3
+		]
+	},
+	"324": {
+		"configId": 324,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(仙魔争霸仙阵营)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 3600,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=15*0.000000001*level^5.6241/2+level^2/2",
+			3
+		]
+	},
+	"325": {
+		"configId": 325,
+		"doodadType": 3,
+		"modelId": 50001,
+		"name": "篝火(仙魔争霸魔阵营)",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 3600,
+		"showName": false,
+		"triggerRadius": 1000.0,
+		"typeData": [
+			"exp=15*0.000000001*level^5.6241/2+level^2/2",
+			3
+		]
+	},
+	"400": {
+		"configId": 400,
+		"doodadType": 4,
+		"modelId": 50006,
+		"name": "狂怒宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401002
+		]
+	},
+	"401": {
+		"configId": 401,
+		"doodadType": 4,
+		"modelId": 50008,
+		"name": "防御宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401003
+		]
+	},
+	"402": {
+		"configId": 402,
+		"doodadType": 4,
+		"modelId": 50007,
+		"name": "治愈宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401004
+		]
+	},
+	"403": {
+		"configId": 403,
+		"doodadType": 4,
+		"modelId": 50009,
+		"name": "神速宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401005
+		]
+	},
+	"404": {
+		"configId": 404,
+		"doodadType": 4,
+		"modelId": 51026,
+		"name": "黄色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			6000001
+		]
+	},
+	"405": {
+		"configId": 405,
+		"doodadType": 4,
+		"modelId": 51027,
+		"name": "红色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			6000002
+		]
+	},
+	"406": {
+		"configId": 406,
+		"doodadType": 4,
+		"modelId": 51028,
+		"name": "蓝色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			6000003
+		]
+	},
+	"407": {
+		"configId": 407,
+		"doodadType": 4,
+		"modelId": 51029,
+		"name": "绿色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			6000004
+		]
+	},
+	"408": {
+		"configId": 408,
+		"doodadType": 4,
+		"modelId": 51030,
+		"name": "紫色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			6000005
+		]
+	},
+	"409": {
+		"configId": 409,
+		"doodadType": 4,
+		"modelId": 50006,
+		"name": "跨服boss宝珠1",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			100014
+		]
+	},
+	"410": {
+		"configId": 410,
+		"doodadType": 4,
+		"modelId": 50009,
+		"name": "跨服boss宝珠2",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			100015
+		]
+	},
+	"411": {
+		"configId": 411,
+		"doodadType": 4,
+		"modelId": 50007,
+		"name": "跨服boss宝珠3",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			100016
+		]
+	},
+	"412": {
+		"configId": 412,
+		"doodadType": 4,
+		"modelId": 50008,
+		"name": "跨服boss宝珠4",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 10,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			100017
+		]
+	},
+	"413": {
+		"configId": 413,
+		"doodadType": 1,
+		"modelId": 320027,
+		"name": "镖车燃烧预加载",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"414": {
+		"configId": 414,
+		"doodadType": 4,
+		"modelId": 50006,
+		"name": "狂怒宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401002
+		]
+	},
+	"415": {
+		"configId": 415,
+		"doodadType": 4,
+		"modelId": 50009,
+		"name": "防御宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401003
+		]
+	},
+	"416": {
+		"configId": 416,
+		"doodadType": 4,
+		"modelId": 50008,
+		"name": "治愈宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401004
+		]
+	},
+	"417": {
+		"configId": 417,
+		"doodadType": 4,
+		"modelId": 50007,
+		"name": "神速宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			2401005
+		]
+	},
+	"500": {
+		"configId": 500,
+		"doodadType": 5,
+		"modelId": 999999,
+		"name": "任务触发刷怪",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": []
+	},
+	"1001": {
+		"configId": 1001,
+		"doodadType": 7,
+		"modelId": 999999,
+		"name": "跳舞挂件",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 600,
+		"showName": false,
+		"triggerRadius": 10.0,
+		"typeData": [
+			1001
+		]
+	},
+	"1002": {
+		"configId": 1002,
+		"doodadType": 7,
+		"modelId": 999999,
+		"name": "跳舞挂件",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1800,
+		"showName": false,
+		"triggerRadius": 17.0,
+		"typeData": [
+			1002
+		]
+	},
+	"1003": {
+		"configId": 1003,
+		"doodadType": 7,
+		"modelId": 999999,
+		"name": "跳舞挂件",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 1800,
+		"showName": false,
+		"triggerRadius": 10.0,
+		"typeData": [
+			1003
+		]
+	},
+	"1004": {
+		"configId": 1004,
+		"doodadType": 7,
+		"modelId": 999999,
+		"name": "新人跳舞挂件",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 240,
+		"showName": false,
+		"triggerRadius": 13.0,
+		"typeData": [
+			1004
+		]
+	},
+	"1005": {
+		"configId": 1005,
+		"doodadType": 7,
+		"modelId": 999999,
+		"name": "婚礼跳舞",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 240,
+		"showName": false,
+		"triggerRadius": 13.0,
+		"typeData": [
+			1002
+		]
+	},
+	"730501": {
+		"configId": 730501,
+		"doodadType": 4,
+		"modelId": 50035,
+		"name": "光球",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			730502
+		]
+	},
+	"740101": {
+		"configId": 740101,
+		"doodadType": 4,
+		"modelId": 50028,
+		"name": "光圈",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740103
+		]
+	},
+	"740102": {
+		"configId": 740102,
+		"doodadType": 4,
+		"modelId": 50028,
+		"name": "光圈（部族boss）",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 600,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740103
+		]
+	},
+	"740501": {
+		"configId": 740501,
+		"doodadType": 4,
+		"modelId": 50035,
+		"name": "光球",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 15,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740502
+		]
+	},
+	"740601": {
+		"configId": 740601,
+		"doodadType": 4,
+		"modelId": 50006,
+		"name": "红色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740601
+		]
+	},
+	"740602": {
+		"configId": 740602,
+		"doodadType": 4,
+		"modelId": 50009,
+		"name": "黄色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740602
+		]
+	},
+	"740603": {
+		"configId": 740603,
+		"doodadType": 4,
+		"modelId": 50008,
+		"name": "蓝色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740603
+		]
+	},
+	"740604": {
+		"configId": 740604,
+		"doodadType": 4,
+		"modelId": 50007,
+		"name": "绿色宝珠",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740604
+		]
+	},
+	"740801": {
+		"configId": 740801,
+		"doodadType": 1,
+		"modelId": 50028,
+		"name": "光圈",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 0.0,
+		"typeData": []
+	},
+	"740901": {
+		"configId": 740901,
+		"doodadType": 4,
+		"modelId": 50034,
+		"name": "冰球",
+		"obstructCenter": [
+			0,
+			0,
+			0
+		],
+		"obstructSize": [
+			0,
+			0,
+			0
+		],
+		"removeTime": 0,
+		"showName": false,
+		"triggerRadius": 2.0,
+		"typeData": [
+			740902
+		]
+	}
+}

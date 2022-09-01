@@ -1,0 +1,3348 @@
+{
+	"Resources": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "Resources",
+		"scene": 0
+	},
+	"lua": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "lua",
+		"scene": 0
+	},
+	"reshouse_map_levelsacreate_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_levelsacreate_*",
+		"scene": 1
+	},
+	"reshouse_map_public_effect_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_effect_*",
+		"scene": 1
+	},
+	"reshouse_map_public_publics_animation": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_publics_animation",
+		"scene": 1
+	},
+	"reshouse_map_public_publics_animation_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_publics_animation_*",
+		"scene": 1
+	},
+	"reshouse_map_public_publics_model_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_publics_model_*",
+		"scene": 1
+	},
+	"reshouse_map_public_publics_texture_materials_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_publics_texture_materials_*",
+		"scene": 1
+	},
+	"reshouse_map_public_publics_texture_worldA000_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_publics_texture_worldA000_*",
+		"scene": 1
+	},
+	"reshouse_map_public_terrain_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_public_terrain_*",
+		"scene": 1
+	},
+	"reshouse_map_worlda000_animation": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "reshouse_map_worlda000_animation",
+		"scene": 1
+	},
+	"resources_audio_background_initbg": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_audio_background_initbg",
+		"scene": 0
+	},
+	"resources_audio_background_othersbg": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_audio_background_othersbg",
+		"scene": 0
+	},
+	"resources_audio_initvoice": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_audio_initvoice",
+		"scene": 0
+	},
+	"resources_audio_motion": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_audio_motion",
+		"scene": 0
+	},
+	"resources_audio_motion_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_audio_motion_*",
+		"scene": 0
+	},
+	"resources_audio_story": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_audio_story",
+		"scene": 0
+	},
+	"resources_audio_ui": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_audio_ui",
+		"scene": 0
+	},
+	"resources_audio_voice": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_audio_voice",
+		"scene": 0
+	},
+	"resources_characterset": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_characterset",
+		"scene": 0
+	},
+	"resources_config": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_config",
+		"scene": 0
+	},
+	"resources_config_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_config_*",
+		"scene": 0
+	},
+	"resources_loading": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_loading",
+		"scene": 0
+	},
+	"resources_login": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_login",
+		"scene": 0
+	},
+	"resources_map_levelsa002_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_map_levelsa002_*",
+		"scene": 1
+	},
+	"resources_map_levelsa002a_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa002a_*",
+		"scene": 1
+	},
+	"resources_map_levelsa003_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_map_levelsa003_*",
+		"scene": 1
+	},
+	"resources_map_levelsa004_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 12,
+		"path": "resources_map_levelsa004_*",
+		"scene": 1
+	},
+	"resources_map_levelsa005_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_map_levelsa005_*",
+		"scene": 1
+	},
+	"resources_map_levelsa006_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_map_levelsa006_*",
+		"scene": 1
+	},
+	"resources_map_levelsa007_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa007_*",
+		"scene": 1
+	},
+	"resources_map_levelsa008_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa008_*",
+		"scene": 1
+	},
+	"resources_map_levelsa009_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 14,
+		"path": "resources_map_levelsa009_*",
+		"scene": 1
+	},
+	"resources_map_levelsa010_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_map_levelsa010_*",
+		"scene": 1
+	},
+	"resources_map_levelsa011_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_map_levelsa011_*",
+		"scene": 1
+	},
+	"resources_map_levelsa012_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_map_levelsa012_*",
+		"scene": 1
+	},
+	"resources_map_levelsa013_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_map_levelsa013_*",
+		"scene": 1
+	},
+	"resources_map_levelsa014_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_map_levelsa014_*",
+		"scene": 1
+	},
+	"resources_map_levelsa015_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_map_levelsa015_*",
+		"scene": 1
+	},
+	"resources_map_levelsa016_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_map_levelsa016_*",
+		"scene": 1
+	},
+	"resources_map_levelsa017_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 6,
+		"path": "resources_map_levelsa017_*",
+		"scene": 1
+	},
+	"resources_map_levelsa018_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa018_*",
+		"scene": 1
+	},
+	"resources_map_levelsa019_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa019_*",
+		"scene": 1
+	},
+	"resources_map_levelsa020_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa020_*",
+		"scene": 1
+	},
+	"resources_map_levelsa021_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_map_levelsa021_*",
+		"scene": 1
+	},
+	"resources_map_levelsa022_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 18,
+		"path": "resources_map_levelsa022_*",
+		"scene": 1
+	},
+	"resources_map_levelsa023_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "resources_map_levelsa023_*",
+		"scene": 1
+	},
+	"resources_map_levelsa024_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_map_levelsa024_*",
+		"scene": 1
+	},
+	"resources_map_levelsa025_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_map_levelsa025_*",
+		"scene": 1
+	},
+	"resources_map_levelsa026_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 13,
+		"path": "resources_map_levelsa026_*",
+		"scene": 1
+	},
+	"resources_map_levelsa027_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa027_*",
+		"scene": 1
+	},
+	"resources_map_levelsa028_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa028_*",
+		"scene": 1
+	},
+	"resources_map_levelsa029_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa029_*",
+		"scene": 1
+	},
+	"resources_map_levelsa030_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa030_*",
+		"scene": 1
+	},
+	"resources_map_levelsa031_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa031_*",
+		"scene": 1
+	},
+	"resources_map_levelsa032_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa032_*",
+		"scene": 1
+	},
+	"resources_map_levelsa033_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa033_*",
+		"scene": 1
+	},
+	"resources_map_levelsa034_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa034_*",
+		"scene": 1
+	},
+	"resources_map_levelsa035_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa035_*",
+		"scene": 1
+	},
+	"resources_map_levelsa036_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa036_*",
+		"scene": 1
+	},
+	"resources_map_levelsa037_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa037_*",
+		"scene": 1
+	},
+	"resources_map_levelsa038_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa038_*",
+		"scene": 1
+	},
+	"resources_map_levelsa039_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa039_*",
+		"scene": 1
+	},
+	"resources_map_levelsa040_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa040_*",
+		"scene": 1
+	},
+	"resources_map_levelsa042_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa042_*",
+		"scene": 1
+	},
+	"resources_map_levelsa043_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa043_*",
+		"scene": 1
+	},
+	"resources_map_levelsa044_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa044_*",
+		"scene": 1
+	},
+	"resources_map_levelsa045_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_levelsa045_*",
+		"scene": 1
+	},
+	"resources_map_public_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_map_public_*",
+		"scene": 1
+	},
+	"resources_map_worlda000_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 1,
+		"path": "resources_map_worlda000_*",
+		"scene": 1
+	},
+	"resources_map_worlda002_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_map_worlda002_*",
+		"scene": 1
+	},
+	"resources_map_worlda003_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_map_worlda003_*",
+		"scene": 1
+	},
+	"resources_map_worlda004_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_map_worlda004_*",
+		"scene": 1
+	},
+	"resources_map_worlda006_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 17,
+		"path": "resources_map_worlda006_*",
+		"scene": 1
+	},
+	"resources_map_worlda007_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 7,
+		"path": "resources_map_worlda007_*",
+		"scene": 1
+	},
+	"resources_map_worlda008_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_worlda008_*",
+		"scene": 1
+	},
+	"resources_map_worlda009_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_worlda009_*",
+		"scene": 1
+	},
+	"resources_map_worlda010_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_map_worlda010_*",
+		"scene": 1
+	},
+	"resources_map_worlda011_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_worlda011_*",
+		"scene": 1
+	},
+	"resources_map_worlda012_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_map_worlda012_*",
+		"scene": 1
+	},
+	"resources_material": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_material",
+		"scene": 0
+	},
+	"resources_prefab_effect_awaken_awakena001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_awaken_awakena001",
+		"scene": 0
+	},
+	"resources_prefab_effect_behit_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_behit_*",
+		"scene": 0
+	},
+	"resources_prefab_effect_buff_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_buff_*",
+		"scene": 0
+	},
+	"resources_prefab_effect_common_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_common_*",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta003",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta008",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta037": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta037",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta041": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta041",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta043": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta043",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta044": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta044",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta045": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_doodad_objecta045",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta047": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta047",
+		"scene": 0
+	},
+	"resources_prefab_effect_doodad_objecta048": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_doodad_objecta048",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_equipshow13": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_equipshow13",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_runeshow02": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_runeshow02",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_runeshow03": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_runeshow03",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_runeshow04": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_runeshow04",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow02": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow02",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow03": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow03",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow04": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow04",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow06": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow06",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow11": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow11",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow12": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_general_titleshow12",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow13": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow13",
+		"scene": 0
+	},
+	"resources_prefab_effect_general_titleshow23": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_general_titleshow23",
+		"scene": 0
+	},
+	"resources_prefab_effect_login": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_prefab_effect_login",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss001",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss002",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_monster_monsteraboss003",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss004",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss005": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss005",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_monster_monsteraboss006",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss007",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss008",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss009",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss010",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss011",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss012",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss013",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss014": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss014",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss015": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss015",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss016": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss016",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss017": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss017",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss018": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss018",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss019",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss020": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss020",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss021",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss022",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss023": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss023",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss024",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss025": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss025",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss026": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss026",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss027",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss028": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss028",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss029": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_effect_monster_monsteraboss029",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss030": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_monster_monsteraboss030",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss033": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_monster_monsteraboss033",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_prefab_effect_monster_monsteraboss034",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss038": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_prefab_effect_monster_monsteraboss038",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss039": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_prefab_effect_monster_monsteraboss039",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss042": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_monster_monsteraboss042",
+		"scene": 0
+	},
+	"resources_prefab_effect_monster_monsteraboss044": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_monster_monsteraboss044",
+		"scene": 0
+	},
+	"resources_prefab_effect_player_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_player_*",
+		"scene": 0
+	},
+	"resources_prefab_effect_ui_*": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_ui_*",
+		"scene": 0
+	},
+	"resources_prefab_effect_ui_uia013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_ui_uia013",
+		"scene": 0
+	},
+	"resources_prefab_effect_wing_winga1001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_effect_wing_winga1001",
+		"scene": 0
+	},
+	"resources_prefab_effect_wing_winga1002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_effect_wing_winga1002",
+		"scene": 0
+	},
+	"resources_prefab_effect_wing_winga1008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_wing_winga1008",
+		"scene": 0
+	},
+	"resources_prefab_effect_wing_winga1020": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_wing_winga1020",
+		"scene": 0
+	},
+	"resources_prefab_effect_wing_winga1022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_wing_winga1022",
+		"scene": 0
+	},
+	"resources_prefab_effect_wing_winga1024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_effect_wing_winga1024",
+		"scene": 0
+	},
+	"resources_prefab_effectneed_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 1,
+		"path": "resources_prefab_effectneed_*",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta1002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta1002",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta1003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_artifact_artifacta1003",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta1008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta1008",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta2003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_artifact_artifacta2003",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta2004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta2004",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta2008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta2008",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta3003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_artifact_artifacta3003",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta3005": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta3005",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta3008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta3008",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta4003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_artifact_artifacta4003",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta4004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta4004",
+		"scene": 0
+	},
+	"resources_prefab_role_artifact_artifacta4008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_artifact_artifacta4008",
+		"scene": 0
+	},
+	"resources_prefab_role_awaken_awakena001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_awaken_awakena001",
+		"scene": 0
+	},
+	"resources_prefab_role_collection_collectiona002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_collection_collectiona002",
+		"scene": 0
+	},
+	"resources_prefab_role_collection_collectiona003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_collection_collectiona003",
+		"scene": 0
+	},
+	"resources_prefab_role_collection_collectiona004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_collection_collectiona004",
+		"scene": 0
+	},
+	"resources_prefab_role_common": {
+		"core": 1,
+		"essential": 1,
+		"grade": 3,
+		"path": "resources_prefab_role_common",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada001",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada069": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada069",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada070": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada070",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada071": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada071",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada072": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada072",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada079": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada079",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada080": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada080",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada081": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada081",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada083": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada083",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada113": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada113",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada120": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada120",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada128": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada128",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada129": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada129",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada130": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada130",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada131": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada131",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada132": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada132",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada134": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada134",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada135": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada135",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada136": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada136",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada140": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada140",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada141": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada141",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada142": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada142",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada143": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada143",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada144": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada144",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada145": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada145",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada146": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada146",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada147": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada147",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada148": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada148",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada149": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada149",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada150": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada150",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada152": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada152",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada153": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada153",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada154": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada154",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada155": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_doodad_doodada155",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada157": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada157",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada158": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada158",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada162": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_doodad_doodada162",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada166": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada166",
+		"scene": 0
+	},
+	"resources_prefab_role_doodad_doodada179": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_doodad_doodada179",
+		"scene": 0
+	},
+	"resources_prefab_role_earlyload": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_earlyload",
+		"scene": 0
+	},
+	"resources_prefab_role_elfish_elfisha001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_elfish_elfisha001",
+		"scene": 0
+	},
+	"resources_prefab_role_elfish_elfisha003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_elfish_elfisha003",
+		"scene": 0
+	},
+	"resources_prefab_role_elfish_elfisha004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_elfish_elfisha004",
+		"scene": 0
+	},
+	"resources_prefab_role_elfish_elfisha006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_elfish_elfisha006",
+		"scene": 0
+	},
+	"resources_prefab_role_immortalequip_immortalequipa010a": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_immortalequip_immortalequipa010a",
+		"scene": 0
+	},
+	"resources_prefab_role_immortalequip_immortalequipa240": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_immortalequip_immortalequipa240",
+		"scene": 0
+	},
+	"resources_prefab_role_magic_magica1014": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_magic_magica1014",
+		"scene": 0
+	},
+	"resources_prefab_role_magic_magica1019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_magic_magica1019",
+		"scene": 0
+	},
+	"resources_prefab_role_magic_magica1028": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_magic_magica1028",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss001",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss002",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteraboss003",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss004",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss005": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss005",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteraboss006",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss007",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss008",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss009",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss010",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss011",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss012",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss013",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss014": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss014",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss015": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss015",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss016": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss016",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss017": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss017",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss018": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss018",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss019",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss020": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss020",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss021",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss022",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss023": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss023",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss024",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss025": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss025",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss026": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss026",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss027",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss028": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss028",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss029": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_prefab_role_monster_monsteraboss029",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss030": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteraboss030",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss033": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteraboss033",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_prefab_role_monster_monsteraboss034",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss038": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_prefab_role_monster_monsteraboss038",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss039": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_prefab_role_monster_monsteraboss039",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss042": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteraboss042",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteraboss044": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteraboss044",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal001",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal002",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_monster_monsteranormal003",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal004",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal005": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_monster_monsteranormal005",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteranormal006",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal008",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal009",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_monster_monsteranormal011",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "resources_prefab_role_monster_monsteranormal012",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal013",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal014": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_monster_monsteranormal014",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "resources_prefab_role_monster_monsteranormal019",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal021",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal022",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal023": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal023",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal024",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal026": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal026",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal027",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal030": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal030",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal034",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal036": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal036",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal037": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal037",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal038": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "resources_prefab_role_monster_monsteranormal038",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal040": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal040",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal041": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal041",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal045": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_monster_monsteranormal045",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal051": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_monster_monsteranormal051",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal052": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteranormal052",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal053": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteranormal053",
+		"scene": 0
+	},
+	"resources_prefab_role_monster_monsteranormal054": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_monster_monsteranormal054",
+		"scene": 0
+	},
+	"resources_prefab_role_mount_mounta1003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_mount_mounta1003",
+		"scene": 0
+	},
+	"resources_prefab_role_mount_mounta1010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_mount_mounta1010",
+		"scene": 0
+	},
+	"resources_prefab_role_mount_mounta1018": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_mount_mounta1018",
+		"scene": 0
+	},
+	"resources_prefab_role_mount_mounta1027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_mount_mounta1027",
+		"scene": 0
+	},
+	"resources_prefab_role_mount_mounta1034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_mount_mounta1034",
+		"scene": 0
+	},
+	"resources_prefab_role_mount_mounta1047": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_mount_mounta1047",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "resources_prefab_role_npc_npca001",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca002",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca003",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca006",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_npc_npca007",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_npc_npca008",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca009",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca010",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_npc_npca013",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca015": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca015",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca016": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_npc_npca016",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca017": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca017",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca018": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca018",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca019",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca020": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca020",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca021",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_npc_npca022",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca023": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca023",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_npc_npca024",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca026": {
+		"core": 0,
+		"essential": 0,
+		"grade": 8,
+		"path": "resources_prefab_role_npc_npca026",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca027",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca028": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_npc_npca028",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca031": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca031",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca033": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca033",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca034",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca035": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca035",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca036": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca036",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca037": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca037",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca038": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca038",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca039": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca039",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca040": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca040",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca041": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca041",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca042": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca042",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca043": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca043",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca044": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca044",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca045": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca045",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca046": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca046",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca047": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_npc_npca047",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca053": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca053",
+		"scene": 0
+	},
+	"resources_prefab_role_npc_npca054": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_npc_npca054",
+		"scene": 0
+	},
+	"resources_prefab_role_ornament_playercq_playercqornament010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_ornament_playercq_playercqornament010",
+		"scene": 0
+	},
+	"resources_prefab_role_ornament_playerxj_playerxjornament008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_ornament_playerxj_playerxjornament008",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_partner_partnera001",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_partner_partnera003",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_partner_partnera006",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_role_partner_partnera007",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_partner_partnera012",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera017": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_partner_partnera017",
+		"scene": 0
+	},
+	"resources_prefab_role_partner_partnera021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_partner_partnera021",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playercq": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_prefab_role_player_playercq",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playercq_body_body002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_player_playercq_body_body002",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playercq_body_body008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_player_playercq_body_body008",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playercq_body_body009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_player_playercq_body_body009",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerds": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_prefab_role_player_playerds",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerhq": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_prefab_role_player_playerhq",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerhq_body_body009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_player_playerhq_body_body009",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerlf": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_prefab_role_player_playerlf",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerlf_body_body009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_player_playerlf_body_body009",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerqs": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_prefab_role_player_playerqs",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerxj": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_prefab_role_player_playerxj",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerxj_body_body002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_player_playerxj_body_body002",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerxj_body_body008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_prefab_role_player_playerxj_body_body008",
+		"scene": 0
+	},
+	"resources_prefab_role_player_playerxj_body_body009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_player_playerxj_body_body009",
+		"scene": 0
+	},
+	"resources_prefab_role_shapeshift_shapeshifta003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_prefab_role_shapeshift_shapeshifta003",
+		"scene": 0
+	},
+	"resources_prefab_roleneed_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 1,
+		"path": "resources_prefab_roleneed_*",
+		"scene": 0
+	},
+	"resources_prefab_specialeffect_stamp_stampa001": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_prefab_specialeffect_stamp_stampa001",
+		"scene": 0
+	},
+	"resources_prefab_ui_bag": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_prefab_ui_bag",
+		"scene": 0
+	},
+	"resources_proto": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_proto",
+		"scene": 0
+	},
+	"resources_shader": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_shader",
+		"scene": 0
+	},
+	"resources_shader_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_shader_*",
+		"scene": 0
+	},
+	"resources_story_*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_story_*",
+		"scene": 0
+	},
+	"resources_texture_scene_levelsa002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "resources_texture_scene_levelsa002",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa002a": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa002a",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "resources_texture_scene_levelsa003",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 12,
+		"path": "resources_texture_scene_levelsa004",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa005": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_texture_scene_levelsa005",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_texture_scene_levelsa006",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa007",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa008",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 14,
+		"path": "resources_texture_scene_levelsa009",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_texture_scene_levelsa010",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "resources_texture_scene_levelsa011",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_texture_scene_levelsa012",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_texture_scene_levelsa013",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa014": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_texture_scene_levelsa014",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa015": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_texture_scene_levelsa015",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa016": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "resources_texture_scene_levelsa016",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa017": {
+		"core": 0,
+		"essential": 0,
+		"grade": 6,
+		"path": "resources_texture_scene_levelsa017",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa018": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa018",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa019",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa020": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa020",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_texture_scene_levelsa021",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 18,
+		"path": "resources_texture_scene_levelsa022",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa023": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "resources_texture_scene_levelsa023",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_texture_scene_levelsa024",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa025": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "resources_texture_scene_levelsa025",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa026": {
+		"core": 0,
+		"essential": 0,
+		"grade": 13,
+		"path": "resources_texture_scene_levelsa026",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa027",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa028": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa028",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa029": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa029",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa030": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa030",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa031": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa031",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa032": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa032",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa033": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa033",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa034",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa035": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa035",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa036": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa036",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa037": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa037",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa038": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa038",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa039": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa039",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa040": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa040",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa042": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa042",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa043": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa043",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa044": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa044",
+		"scene": 1
+	},
+	"resources_texture_scene_levelsa045": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_levelsa045",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda000": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_texture_scene_worlda000",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "resources_texture_scene_worlda002",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_worlda003",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "resources_texture_scene_worlda004",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 17,
+		"path": "resources_texture_scene_worlda006",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 7,
+		"path": "resources_texture_scene_worlda007",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_worlda008",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_worlda009",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "resources_texture_scene_worlda010",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_worlda011",
+		"scene": 1
+	},
+	"resources_texture_scene_worlda012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "resources_texture_scene_worlda012",
+		"scene": 1
+	},
+	"resources_texture_ui_artist*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_texture_ui_artist*",
+		"scene": 0
+	},
+	"resources_texture_ui_commonbigimage*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_texture_ui_commonbigimage*",
+		"scene": 0
+	},
+	"resources_texture_ui_uicommon*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_texture_ui_uicommon*",
+		"scene": 0
+	},
+	"resources_texture_ui_uiicon*": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "resources_texture_ui_uiicon*",
+		"scene": 0
+	},
+	"scene_levels_levelsa002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 9,
+		"path": "scene_levels_levelsa002",
+		"scene": 1
+	},
+	"scene_levels_levelsa002a": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa002a",
+		"scene": 1
+	},
+	"scene_levels_levelsa003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 11,
+		"path": "scene_levels_levelsa003",
+		"scene": 1
+	},
+	"scene_levels_levelsa004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 12,
+		"path": "scene_levels_levelsa004",
+		"scene": 1
+	},
+	"scene_levels_levelsa005": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "scene_levels_levelsa005",
+		"scene": 1
+	},
+	"scene_levels_levelsa006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "scene_levels_levelsa006",
+		"scene": 1
+	},
+	"scene_levels_levelsa007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa007",
+		"scene": 1
+	},
+	"scene_levels_levelsa008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "scene_levels_levelsa008",
+		"scene": 1
+	},
+	"scene_levels_levelsa009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 14,
+		"path": "scene_levels_levelsa009",
+		"scene": 1
+	},
+	"scene_levels_levelsa010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "scene_levels_levelsa010",
+		"scene": 1
+	},
+	"scene_levels_levelsa011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 2,
+		"path": "scene_levels_levelsa011",
+		"scene": 1
+	},
+	"scene_levels_levelsa012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "scene_levels_levelsa012",
+		"scene": 1
+	},
+	"scene_levels_levelsa013": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "scene_levels_levelsa013",
+		"scene": 1
+	},
+	"scene_levels_levelsa014": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "scene_levels_levelsa014",
+		"scene": 1
+	},
+	"scene_levels_levelsa015": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "scene_levels_levelsa015",
+		"scene": 1
+	},
+	"scene_levels_levelsa016": {
+		"core": 0,
+		"essential": 0,
+		"grade": 16,
+		"path": "scene_levels_levelsa016",
+		"scene": 1
+	},
+	"scene_levels_levelsa017": {
+		"core": 0,
+		"essential": 0,
+		"grade": 6,
+		"path": "scene_levels_levelsa017",
+		"scene": 1
+	},
+	"scene_levels_levelsa018": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa018",
+		"scene": 1
+	},
+	"scene_levels_levelsa019": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa019",
+		"scene": 1
+	},
+	"scene_levels_levelsa020": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa020",
+		"scene": 1
+	},
+	"scene_levels_levelsa021": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "scene_levels_levelsa021",
+		"scene": 1
+	},
+	"scene_levels_levelsa022": {
+		"core": 0,
+		"essential": 0,
+		"grade": 18,
+		"path": "scene_levels_levelsa022",
+		"scene": 1
+	},
+	"scene_levels_levelsa023": {
+		"core": 0,
+		"essential": 0,
+		"grade": 10,
+		"path": "scene_levels_levelsa023",
+		"scene": 1
+	},
+	"scene_levels_levelsa024": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "scene_levels_levelsa024",
+		"scene": 1
+	},
+	"scene_levels_levelsa025": {
+		"core": 0,
+		"essential": 0,
+		"grade": 20,
+		"path": "scene_levels_levelsa025",
+		"scene": 1
+	},
+	"scene_levels_levelsa026": {
+		"core": 0,
+		"essential": 0,
+		"grade": 13,
+		"path": "scene_levels_levelsa026",
+		"scene": 1
+	},
+	"scene_levels_levelsa027": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa027",
+		"scene": 1
+	},
+	"scene_levels_levelsa028": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa028",
+		"scene": 1
+	},
+	"scene_levels_levelsa029": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa029",
+		"scene": 1
+	},
+	"scene_levels_levelsa030": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa030",
+		"scene": 1
+	},
+	"scene_levels_levelsa031": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa031",
+		"scene": 1
+	},
+	"scene_levels_levelsa032": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa032",
+		"scene": 1
+	},
+	"scene_levels_levelsa033": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa033",
+		"scene": 1
+	},
+	"scene_levels_levelsa034": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa034",
+		"scene": 1
+	},
+	"scene_levels_levelsa035": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa035",
+		"scene": 1
+	},
+	"scene_levels_levelsa036": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa036",
+		"scene": 1
+	},
+	"scene_levels_levelsa037": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa037",
+		"scene": 1
+	},
+	"scene_levels_levelsa038": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa038",
+		"scene": 1
+	},
+	"scene_levels_levelsa039": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa039",
+		"scene": 1
+	},
+	"scene_levels_levelsa040": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa040",
+		"scene": 1
+	},
+	"scene_levels_levelsa042": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa042",
+		"scene": 1
+	},
+	"scene_levels_levelsa043": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa043",
+		"scene": 1
+	},
+	"scene_levels_levelsa044": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa044",
+		"scene": 1
+	},
+	"scene_levels_levelsa045": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_levels_levelsa045",
+		"scene": 1
+	},
+	"scene_levels_levelsacreate": {
+		"core": 1,
+		"essential": 1,
+		"grade": 100,
+		"path": "scene_levels_levelsacreate",
+		"scene": 1
+	},
+	"scene_worlds_worlda000": {
+		"core": 1,
+		"essential": 1,
+		"grade": 1,
+		"path": "scene_worlds_worlda000",
+		"scene": 1
+	},
+	"scene_worlds_worlda002": {
+		"core": 0,
+		"essential": 0,
+		"grade": 3,
+		"path": "scene_worlds_worlda002",
+		"scene": 1
+	},
+	"scene_worlds_worlda003": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_worlds_worlda003",
+		"scene": 1
+	},
+	"scene_worlds_worlda004": {
+		"core": 0,
+		"essential": 0,
+		"grade": 1,
+		"path": "scene_worlds_worlda004",
+		"scene": 1
+	},
+	"scene_worlds_worlda006": {
+		"core": 0,
+		"essential": 0,
+		"grade": 17,
+		"path": "scene_worlds_worlda006",
+		"scene": 1
+	},
+	"scene_worlds_worlda007": {
+		"core": 0,
+		"essential": 0,
+		"grade": 7,
+		"path": "scene_worlds_worlda007",
+		"scene": 1
+	},
+	"scene_worlds_worlda008": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_worlds_worlda008",
+		"scene": 1
+	},
+	"scene_worlds_worlda009": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_worlds_worlda009",
+		"scene": 1
+	},
+	"scene_worlds_worlda010": {
+		"core": 0,
+		"essential": 0,
+		"grade": 5,
+		"path": "scene_worlds_worlda010",
+		"scene": 1
+	},
+	"scene_worlds_worlda011": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_worlds_worlda011",
+		"scene": 1
+	},
+	"scene_worlds_worlda012": {
+		"core": 0,
+		"essential": 0,
+		"grade": 100,
+		"path": "scene_worlds_worlda012",
+		"scene": 1
+	}
+}

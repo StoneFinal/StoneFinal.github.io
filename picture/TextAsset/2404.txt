@@ -1,0 +1,61 @@
+
+{
+    "doodad" : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 3,
+            "id"          : 1,
+            "configId"    : 301,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                1.8,
+                0.3542792,
+                0.3
+            ],
+            "spawnRot"    : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 7,
+            "id"          : 2,
+            "configId"    : 1002,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                1.8,
+                -0.135,
+                0.3
+            ],
+            "spawnRot"    : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"  : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    },
+    "area"   : {
+    }
+}

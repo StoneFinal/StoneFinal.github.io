@@ -1,0 +1,13 @@
+
+{
+    "event" : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    },
+    "monster" : {
+    }
+}

@@ -1,0 +1,50 @@
+{
+	"appear": {
+		"missingMotion": "appear",
+		"replaceMotion": "stand_fight"
+	},
+	"die": {
+		"missingMotion": "die",
+		"replaceMotion": "stand_fight"
+	},
+	"float": {
+		"missingMotion": "float",
+		"replaceMotion": "stand_fight"
+	},
+	"fly": {
+		"missingMotion": "fly",
+		"replaceMotion": "stand_fight"
+	},
+	"mount_run_quick": {
+		"missingMotion": "mount_run_quick",
+		"replaceMotion": "mount_run_normal"
+	},
+	"mount_show": {
+		"missingMotion": "mount_show",
+		"replaceMotion": "mount_stand_fight"
+	},
+	"ride_run_quick": {
+		"missingMotion": "ride_run_quick",
+		"replaceMotion": "ride_run_normal"
+	},
+	"ride_show": {
+		"missingMotion": "ride_show",
+		"replaceMotion": "ride_stand_fight"
+	},
+	"rigidity_slight": {
+		"missingMotion": "rigidity_slight",
+		"replaceMotion": "rigidity"
+	},
+	"run_normal": {
+		"missingMotion": "run_normal",
+		"replaceMotion": "mount_run_normal"
+	},
+	"run_quick": {
+		"missingMotion": "run_quick",
+		"replaceMotion": "run_normal"
+	},
+	"show": {
+		"missingMotion": "show",
+		"replaceMotion": "stand_fight"
+	}
+}

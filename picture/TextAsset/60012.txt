@@ -1,0 +1,149 @@
+{
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 6001201,
+            "groupId"  : 1,
+            "spawnPos" : [
+                -11.049,
+                0.03,
+                11.551
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "id" : 2,
+            "configId" : 6001202,
+            "groupId"  : 2,
+            "spawnPos" : [
+                10.855,
+                0.03,
+                9.916
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "id" : 3,
+            "configId" : 6001203,
+            "groupId"  : 3,
+            "spawnPos" : [
+                12.451,
+                0.03,
+                -10.098
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "4" : {
+            "id" : 4,
+            "configId" : 6001204,
+            "groupId"  : 4,
+            "spawnPos" : [
+                -8.443,
+                0.03,
+                -11.38
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "\u521D\u59CB\u5237\u602A",
+                    "conditionType" : 10,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[0]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[1]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u51FB\u6740\u602A\u7269\u7EC41",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[2]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u51FB\u6740\u602A\u7269\u7EC42",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[2]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[3]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u51FB\u6740\u602A\u7269\u7EC43",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[3]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[4]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u51FB\u6740\u602A\u7269\u7EC44",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[4]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

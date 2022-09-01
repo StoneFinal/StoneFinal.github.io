@@ -1,0 +1,963 @@
+
+{
+    "/Map/mid/yyl_yuanzhu (8)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0005.prefab",
+        "pos"    : [
+            7.665033,
+            -7.31,
+            38.56561
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            2.594002,
+            2.594005,
+            186.0556
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            6.844791,
+            -22.26056,
+            22.29508
+        ],
+        "boundsSize" : [
+            13.68958,
+            44.52112,
+            44.59015
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0003 (3)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0003.prefab",
+        "pos"    : [
+            -10.451,
+            -48.5,
+            49.001
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.45294,
+            1.707708,
+            1.44885
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -10.451,
+            15.16451,
+            49.001
+        ],
+        "boundsSize" : [
+            13.11404,
+            127.329,
+            13.11848
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (3)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            -5.260874,
+            0.20014,
+            8.386286
+        ],
+        "rot"    : [
+            0.0,
+            45.0,
+            0.0
+        ],
+        "scale"  : [
+            2.274394,
+            2.274393,
+            2.274397
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -5.260874,
+            0.20014,
+            8.386286
+        ],
+        "boundsSize" : [
+            40.01692,
+            0.0,
+            40.01692
+        ]
+    },
+    "/Map/mid/yyl_yuanzhu (3)"             : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0005.prefab",
+        "pos"    : [
+            -8.138802,
+            -7.54,
+            -38.57267
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            2.593999,
+            2.594004,
+            204.5492
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -7.081675,
+            -24.22492,
+            -22.29861
+        ],
+        "boundsSize" : [
+            14.16335,
+            48.44984,
+            44.59722
+        ]
+    },
+    "/Map/mid/guanzhu (6)"                 : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            38.23326,
+            -9.21,
+            8.053944
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            38.23326,
+            -4.425001,
+            8.053944
+        ],
+        "boundsSize" : [
+            51.08139,
+            45.73,
+            51.0814
+        ]
+    },
+    "/Map/mid/guanzhu (3)"                 : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            -8.237795,
+            -9.21,
+            -38.41711
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -8.234856,
+            -4.915001,
+            -38.41418
+        ],
+        "boundsSize" : [
+            57.20494,
+            44.75,
+            57.20494
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0002 (3)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0002.prefab",
+        "pos"    : [
+            -10.37027,
+            -63.813,
+            48.97314
+        ],
+        "rot"    : [
+            2.504478E-06,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -10.37028,
+            -26.53232,
+            48.97314
+        ],
+        "boundsSize" : [
+            9.105129,
+            74.56136,
+            9.105133
+        ]
+    },
+    "/Map/mid/cj_liuguang_0001"            : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_liuguang_0001.prefab",
+        "pos"    : [
+            0.9899495,
+            -34.0,
+            -0.424264
+        ],
+        "rot"    : [
+            270.0,
+            182.0358,
+            0.0
+        ],
+        "scale"  : [
+            1.208852,
+            1.20885,
+            9.285007
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            0.9899521,
+            -10.78748,
+            -0.424263
+        ],
+        "boundsSize" : [
+            163.6678,
+            441.9664,
+            163.6675
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (7)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            11.4178,
+            0.20014,
+            24.2713
+        ],
+        "rot"    : [
+            0.0,
+            45.0,
+            0.0
+        ],
+        "scale"  : [
+            1.748585,
+            1.748585,
+            1.748586
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            11.4178,
+            0.20014,
+            24.2713
+        ],
+        "boundsSize" : [
+            30.76555,
+            0.0,
+            30.76556
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (1)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            -5.868987,
+            -0.080137,
+            -9.291384
+        ],
+        "rot"    : [
+            0.0,
+            45.0,
+            0.0
+        ],
+        "scale"  : [
+            1.704512,
+            1.70451,
+            1.704512
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -5.868986,
+            -0.080137,
+            -9.291384
+        ],
+        "boundsSize" : [
+            29.99009,
+            0.0,
+            29.99009
+        ]
+    },
+    "/Map/mid/cj_texiao_0002"              : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_texiao_0002.prefab",
+        "pos"    : [
+            -47.0,
+            1.4,
+            10.8
+        ],
+        "rot"    : [
+            2.50448E-06,
+            218.1577,
+            1.373999E-12
+        ],
+        "scale"  : [
+            0.6970284,
+            0.6970271,
+            0.6970286
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            12.89726,
+            -15.81298,
+            29.17361
+        ],
+        "boundsSize" : [
+            289.3875,
+            80.50298,
+            281.1034
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0003 (4)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0003.prefab",
+        "pos"    : [
+            45.12,
+            -48.5,
+            -9.4724
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.45294,
+            1.707708,
+            1.44885
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            45.12,
+            15.16451,
+            -9.472398
+        ],
+        "boundsSize" : [
+            13.11404,
+            127.329,
+            13.11848
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0001 (3)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0001.prefab",
+        "pos"    : [
+            -10.445,
+            -55.699,
+            49.006
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.15582,
+            0.9970718,
+            1.11552
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -10.445,
+            -18.52748,
+            49.006
+        ],
+        "boundsSize" : [
+            10.2447,
+            74.34303,
+            10.28848
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0001 (2)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0001.prefab",
+        "pos"    : [
+            -44.594,
+            -55.699,
+            14.005
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.155821,
+            0.9970718,
+            1.115521
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -44.594,
+            -18.52748,
+            14.005
+        ],
+        "boundsSize" : [
+            10.24471,
+            74.34303,
+            10.28848
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001"            : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            -10.86823,
+            -0.080137,
+            -15.53513
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.708289,
+            1.708289,
+            1.708289
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -10.86823,
+            -0.080137,
+            -15.53514
+        ],
+        "boundsSize" : [
+            30.05656,
+            0.0,
+            30.05656
+        ]
+    },
+    "/Map/mid/guanzhu (4)"                 : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            -38.90501,
+            -9.21,
+            -7.74989
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -38.58681,
+            -4.729999,
+            -7.67211
+        ],
+        "boundsSize" : [
+            56.76616,
+            45.12,
+            56.38548
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0002 (5)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0002.prefab",
+        "pos"    : [
+            11.05083,
+            -63.813,
+            -44.50072
+        ],
+        "rot"    : [
+            2.504478E-06,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            11.05083,
+            -26.53232,
+            -44.50072
+        ],
+        "boundsSize" : [
+            9.105129,
+            74.56136,
+            9.105125
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (5)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            5.58941,
+            0.20014,
+            0.7520642
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.748585,
+            1.748585,
+            1.748585
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            5.58941,
+            0.20014,
+            0.7520647
+        ],
+        "boundsSize" : [
+            30.76554,
+            0.0,
+            30.76554
+        ]
+    },
+    "/Map/mid/guanzhu (5)"                 : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            7.56604,
+            -9.21,
+            38.72116
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            7.56604,
+            -4.959995,
+            38.72116
+        ],
+        "boundsSize" : [
+            51.08139,
+            44.66001,
+            51.0814
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0002 (4)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0002.prefab",
+        "pos"    : [
+            45.2,
+            -63.813,
+            -9.5
+        ],
+        "rot"    : [
+            2.504478E-06,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            45.2,
+            -26.53232,
+            -9.499998
+        ],
+        "boundsSize" : [
+            9.105125,
+            74.56136,
+            9.105129
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0001 (4)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0001.prefab",
+        "pos"    : [
+            45.125,
+            -55.699,
+            -9.4671
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.15582,
+            0.9970718,
+            1.11552
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            45.125,
+            -18.52748,
+            -9.467099
+        ],
+        "boundsSize" : [
+            10.24471,
+            74.34303,
+            10.28847
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (6)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            3.075915,
+            0.20014,
+            21.70111
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.748585,
+            1.748585,
+            1.748585
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            3.075915,
+            0.20014,
+            21.70111
+        ],
+        "boundsSize" : [
+            30.76554,
+            0.0,
+            30.76554
+        ]
+    },
+    "/Map/mid/yyl_yuanzhu (9)"             : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0005.prefab",
+        "pos"    : [
+            38.33226,
+            -7.31,
+            7.898382
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            2.594002,
+            2.594005,
+            186.0555
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            22.1784,
+            -22.26055,
+            6.961465
+        ],
+        "boundsSize" : [
+            44.35681,
+            44.5211,
+            13.92293
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0002 (2)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0002.prefab",
+        "pos"    : [
+            -44.51944,
+            -63.813,
+            13.97243
+        ],
+        "rot"    : [
+            2.504478E-06,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -44.51944,
+            -26.53232,
+            13.97243
+        ],
+        "boundsSize" : [
+            9.105133,
+            74.56136,
+            9.10513
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0003 (2)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0003.prefab",
+        "pos"    : [
+            -44.6,
+            -48.5,
+            14.0
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.452936,
+            1.70771,
+            1.448848
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -44.6,
+            15.16458,
+            14.0
+        ],
+        "boundsSize" : [
+            13.11401,
+            127.3292,
+            13.11845
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0003 (5)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0003.prefab",
+        "pos"    : [
+            10.97,
+            -48.5,
+            -44.473
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.45294,
+            1.707708,
+            1.44885
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            10.97,
+            15.16451,
+            -44.473
+        ],
+        "boundsSize" : [
+            13.11404,
+            127.329,
+            13.11848
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (4)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            16.39074,
+            0.20014,
+            5.161879
+        ],
+        "rot"    : [
+            0.0,
+            45.0,
+            0.0
+        ],
+        "scale"  : [
+            1.748585,
+            1.748585,
+            1.748586
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            16.39074,
+            0.20014,
+            5.161879
+        ],
+        "boundsSize" : [
+            30.76555,
+            0.0,
+            30.76556
+        ]
+    },
+    "/Map/mid/effect/cj_backdrop_0001"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_backdrop_0001.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            -7.0958E-07
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.9534972,
+            0.9534972,
+            0.9534972
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            0.0,
+            0.0,
+            -1.525879E-05
+        ],
+        "boundsSize" : [
+            292.235,
+            294.2748,
+            292.235
+        ]
+    },
+    "/Map/mid/effect/cj_guangzhu_0001 (5)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0001.prefab",
+        "pos"    : [
+            10.976,
+            -55.699,
+            -44.468
+        ],
+        "rot"    : [
+            2.504481E-06,
+            308.149,
+            -1.017778E-13
+        ],
+        "scale"  : [
+            1.15582,
+            0.9970718,
+            1.11552
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            10.976,
+            -18.52748,
+            -44.468
+        ],
+        "boundsSize" : [
+            10.2447,
+            74.34303,
+            10.28848
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (8)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            2.679935,
+            0.20014,
+            9.86414
+        ],
+        "rot"    : [
+            0.0,
+            45.0,
+            0.0
+        ],
+        "scale"  : [
+            1.748591,
+            1.74858,
+            1.748591
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            2.679935,
+            0.20014,
+            9.86414
+        ],
+        "boundsSize" : [
+            30.76566,
+            0.0,
+            30.76566
+        ]
+    },
+    "/Map/mid/yyl_yuanzhu (7)"             : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0005.prefab",
+        "pos"    : [
+            -38.80602,
+            -7.31,
+            -7.905448
+        ],
+        "rot"    : [
+            90.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            2.594002,
+            2.594005,
+            186.0555
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -22.41529,
+            -22.26055,
+            -6.964998
+        ],
+        "boundsSize" : [
+            44.83057,
+            44.5211,
+            13.93
+        ]
+    },
+    "/Map/mid/cj_guangshu_0001 (2)"        : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangshu_0001.prefab",
+        "pos"    : [
+            -17.31322,
+            0.20014,
+            8.274988
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            2.274394,
+            2.274393,
+            2.274394
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -17.31322,
+            0.20014,
+            8.274988
+        ],
+        "boundsSize" : [
+            40.0169,
+            0.0,
+            40.0169
+        ]
+    }
+}

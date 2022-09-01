@@ -1,0 +1,608 @@
+{
+	"1": {
+		"enableChunkLoad": true,
+		"sceneId": 1,
+		"sceneName": "LevelsACreate",
+		"scenePath": "Assets/Scene/Levels/LevelsACreate.unity"
+	},
+	"100": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"miniMapOffset": [
+			-80,
+			-70
+		],
+		"ratioSize": 1.2,
+		"sceneId": 100,
+		"sceneName": "WorldA000",
+		"scenePath": "Assets/Scene/Worlds/WorldA000.unity"
+	},
+	"101": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 3.0,
+		"sceneId": 101,
+		"sceneName": "WorldA001",
+		"scenePath": "Assets/Scene/Worlds/WorldA001.unity"
+	},
+	"102": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 2.0,
+		"sceneId": 102,
+		"sceneName": "WorldA002",
+		"scenePath": "Assets/Scene/Worlds/WorldA002.unity"
+	},
+	"103": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"miniMapOffset": [
+			-80,
+			-90
+		],
+		"ratioSize": 1.5,
+		"sceneId": 103,
+		"sceneName": "WorldA003",
+		"scenePath": "Assets/Scene/Worlds/WorldA003.unity"
+	},
+	"104": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"miniMapOffset": [
+			10,
+			-90
+		],
+		"ratioSize": 2.0,
+		"sceneId": 104,
+		"sceneName": "WorldA004",
+		"scenePath": "Assets/Scene/Worlds/WorldA004.unity"
+	},
+	"105": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 105,
+		"sceneName": "WorldA005",
+		"scenePath": "Assets/Scene/Worlds/WorldA005.unity"
+	},
+	"106": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"miniMapOffset": [
+			-134,
+			-79
+		],
+		"ratioSize": 2.0,
+		"sceneId": 106,
+		"sceneName": "WorldA006",
+		"scenePath": "Assets/Scene/Worlds/WorldA006.unity"
+	},
+	"107": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"miniMapOffset": [
+			0,
+			-119
+		],
+		"ratioSize": 3.0,
+		"sceneId": 107,
+		"sceneName": "WorldA007",
+		"scenePath": "Assets/Scene/Worlds/WorldA007.unity"
+	},
+	"108": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 2.5,
+		"sceneId": 108,
+		"sceneName": "WorldA008",
+		"scenePath": "Assets/Scene/Worlds/WorldA008.unity"
+	},
+	"109": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 3.0,
+		"sceneId": 109,
+		"sceneName": "WorldA009",
+		"scenePath": "Assets/Scene/Worlds/WorldA009.unity"
+	},
+	"110": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 2.0,
+		"sceneId": 110,
+		"sceneName": "WorldA010",
+		"scenePath": "Assets/Scene/Worlds/WorldA010.unity"
+	},
+	"111": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"miniMapOffset": [
+			0,
+			-90
+		],
+		"ratioSize": 1.7,
+		"sceneId": 111,
+		"sceneName": "WorldA011",
+		"scenePath": "Assets/Scene/Worlds/WorldA011.unity"
+	},
+	"112": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 112,
+		"sceneName": "WorldA012",
+		"scenePath": "Assets/Scene/Worlds/WorldA012.unity"
+	},
+	"113": {
+		"enableChunkLoad": true,
+		"sceneId": 113,
+		"sceneName": "WorldA013",
+		"scenePath": "Assets/Scene/Worlds/WorldA013.unity"
+	},
+	"114": {
+		"enableChunkLoad": true,
+		"sceneId": 114,
+		"sceneName": "WorldA014",
+		"scenePath": "Assets/Scene/Worlds/WorldA014.unity"
+	},
+	"201": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"miniMapOffset": [
+			-80,
+			-80
+		],
+		"ratioSize": 5.0,
+		"sceneId": 201,
+		"sceneName": "LevelsA002a",
+		"scenePath": "Assets/Scene/Levels/LevelsA002a.unity"
+	},
+	"202": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"miniMapOffset": [
+			-80,
+			-80
+		],
+		"ratioSize": 5.0,
+		"sceneId": 202,
+		"sceneName": "LevelsA002",
+		"scenePath": "Assets/Scene/Levels/LevelsA002.unity"
+	},
+	"203": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"miniMapOffset": [
+			-110,
+			-90
+		],
+		"ratioSize": 5.0,
+		"sceneId": 203,
+		"sceneName": "LevelsA003",
+		"scenePath": "Assets/Scene/Levels/LevelsA003.unity"
+	},
+	"204": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 204,
+		"sceneName": "LevelsA004",
+		"scenePath": "Assets/Scene/Levels/LevelsA004.unity"
+	},
+	"205": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 2.5,
+		"sceneId": 205,
+		"sceneName": "LevelsA005",
+		"scenePath": "Assets/Scene/Levels/LevelsA005.unity"
+	},
+	"206": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 5.0,
+		"sceneId": 206,
+		"sceneName": "LevelsA006",
+		"scenePath": "Assets/Scene/Levels/LevelsA006.unity"
+	},
+	"207": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 207,
+		"sceneName": "LevelsA007",
+		"scenePath": "Assets/Scene/Levels/LevelsA007.unity"
+	},
+	"208": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 2.0,
+		"sceneId": 208,
+		"sceneName": "LevelsA008",
+		"scenePath": "Assets/Scene/Levels/LevelsA008.unity"
+	},
+	"209": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 5.0,
+		"sceneId": 209,
+		"sceneName": "LevelsA009",
+		"scenePath": "Assets/Scene/Levels/LevelsA009.unity"
+	},
+	"210": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 5.0,
+		"sceneId": 210,
+		"sceneName": "LevelsA010",
+		"scenePath": "Assets/Scene/Levels/LevelsA010.unity"
+	},
+	"211": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 211,
+		"sceneName": "LevelsA011",
+		"scenePath": "Assets/Scene/Levels/LevelsA011.unity"
+	},
+	"212": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 4.0,
+		"sceneId": 212,
+		"sceneName": "LevelsA012",
+		"scenePath": "Assets/Scene/Levels/LevelsA012.unity"
+	},
+	"213": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"miniMapOffset": [
+			-60,
+			-60
+		],
+		"ratioSize": 5.0,
+		"sceneId": 213,
+		"sceneName": "LevelsA013",
+		"scenePath": "Assets/Scene/Levels/LevelsA013.unity"
+	},
+	"214": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 5.0,
+		"sceneId": 214,
+		"sceneName": "LevelsA014",
+		"scenePath": "Assets/Scene/Levels/LevelsA014.unity"
+	},
+	"215": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"miniMapOffset": [
+			0,
+			90
+		],
+		"ratioSize": 3.0,
+		"sceneId": 215,
+		"sceneName": "LevelsA015",
+		"scenePath": "Assets/Scene/Levels/LevelsA015.unity"
+	},
+	"216": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"miniMapOffset": [
+			-100,
+			0
+		],
+		"ratioSize": 5.0,
+		"sceneId": 216,
+		"sceneName": "LevelsA016",
+		"scenePath": "Assets/Scene/Levels/LevelsA016.unity"
+	},
+	"217": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 5.0,
+		"sceneId": 217,
+		"sceneName": "LevelsA017",
+		"scenePath": "Assets/Scene/Levels/LevelsA017.unity"
+	},
+	"218": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 218,
+		"sceneName": "LevelsA018",
+		"scenePath": "Assets/Scene/Levels/LevelsA018.unity"
+	},
+	"219": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 219,
+		"sceneName": "LevelsA019",
+		"scenePath": "Assets/Scene/Levels/LevelsA019.unity"
+	},
+	"220": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 220,
+		"sceneName": "LevelsA020",
+		"scenePath": "Assets/Scene/Levels/LevelsA020.unity"
+	},
+	"221": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 221,
+		"sceneName": "LevelsA021",
+		"scenePath": "Assets/Scene/Levels/LevelsA021.unity"
+	},
+	"222": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 5.0,
+		"sceneId": 222,
+		"sceneName": "LevelsA022",
+		"scenePath": "Assets/Scene/Levels/LevelsA022.unity"
+	},
+	"223": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"miniMapOffset": [
+			-100,
+			0
+		],
+		"ratioSize": 4.5,
+		"sceneId": 223,
+		"sceneName": "LevelsA023",
+		"scenePath": "Assets/Scene/Levels/LevelsA023.unity"
+	},
+	"224": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 5.0,
+		"sceneId": 224,
+		"sceneName": "LevelsA024",
+		"scenePath": "Assets/Scene/Levels/LevelsA024.unity"
+	},
+	"225": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 3.0,
+		"sceneId": 225,
+		"sceneName": "LevelsA025",
+		"scenePath": "Assets/Scene/Levels/LevelsA025.unity"
+	},
+	"226": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 3.0,
+		"sceneId": 226,
+		"sceneName": "LevelsA026",
+		"scenePath": "Assets/Scene/Levels/LevelsA026.unity"
+	},
+	"227": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 3.0,
+		"sceneId": 227,
+		"sceneName": "LevelsA027",
+		"scenePath": "Assets/Scene/Levels/LevelsA027.unity"
+	},
+	"228": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 2.0,
+		"sceneId": 228,
+		"sceneName": "LevelsA028",
+		"scenePath": "Assets/Scene/Levels/LevelsA028.unity"
+	},
+	"229": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 3.0,
+		"sceneId": 229,
+		"sceneName": "LevelsA029",
+		"scenePath": "Assets/Scene/Levels/LevelsA029.unity"
+	},
+	"230": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 230,
+		"sceneName": "LevelsA030",
+		"scenePath": "Assets/Scene/Levels/LevelsA030.unity"
+	},
+	"231": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap01.png",
+		"ratioSize": 4.0,
+		"sceneId": 231,
+		"sceneName": "LevelsA031",
+		"scenePath": "Assets/Scene/Levels/LevelsA031.unity"
+	},
+	"232": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 232,
+		"sceneName": "LevelsA032",
+		"scenePath": "Assets/Scene/Levels/LevelsA032.unity"
+	},
+	"233": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 233,
+		"sceneName": "LevelsA033",
+		"scenePath": "Assets/Scene/Levels/LevelsA033.unity"
+	},
+	"234": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 0.7,
+		"sceneId": 234,
+		"sceneName": "LevelsA034",
+		"scenePath": "Assets/Scene/Levels/LevelsA034.unity"
+	},
+	"235": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 235,
+		"sceneName": "LevelsA035",
+		"scenePath": "Assets/Scene/Levels/LevelsA035.unity"
+	},
+	"236": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 236,
+		"sceneName": "LevelsA036",
+		"scenePath": "Assets/Scene/Levels/LevelsA036.unity"
+	},
+	"237": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 237,
+		"sceneName": "LevelsA037",
+		"scenePath": "Assets/Scene/Levels/LevelsA037.unity"
+	},
+	"238": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 238,
+		"sceneName": "LevelsA038",
+		"scenePath": "Assets/Scene/Levels/LevelsA038.unity"
+	},
+	"239": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 239,
+		"sceneName": "LevelsA039",
+		"scenePath": "Assets/Scene/Levels/LevelsA039.unity"
+	},
+	"240": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 240,
+		"sceneName": "LevelsA040",
+		"scenePath": "Assets/Scene/Levels/LevelsA040.unity"
+	},
+	"242": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 242,
+		"sceneName": "LevelsA042",
+		"scenePath": "Assets/Scene/Levels/LevelsA042.unity"
+	},
+	"244": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 1.5,
+		"sceneId": 244,
+		"sceneName": "LevelsA044",
+		"scenePath": "Assets/Scene/Levels/LevelsA044.unity"
+	},
+	"245": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 3.0,
+		"sceneId": 245,
+		"sceneName": "LevelsA045",
+		"scenePath": "Assets/Scene/Levels/LevelsA045.unity"
+	},
+	"246": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 246,
+		"sceneName": "LevelsA043",
+		"scenePath": "Assets/Scene/Levels/LevelsA043.unity"
+	},
+	"247": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap03.png",
+		"ratioSize": 2.0,
+		"sceneId": 247,
+		"sceneName": "WorldA005",
+		"scenePath": "Assets/Scene/Worlds/WorldA005.unity"
+	},
+	"248": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 248,
+		"sceneName": "LevelsA039",
+		"scenePath": "Assets/Scene/Levels/LevelsA039.unity"
+	},
+	"249": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 249,
+		"sceneName": "LevelsA038",
+		"scenePath": "Assets/Scene/Levels/LevelsA038.unity"
+	},
+	"250": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 250,
+		"sceneName": "LevelsA037",
+		"scenePath": "Assets/Scene/Levels/LevelsA037.unity"
+	},
+	"251": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 251,
+		"sceneName": "LevelsA036",
+		"scenePath": "Assets/Scene/Levels/LevelsA036.unity"
+	},
+	"252": {
+		"enableChunkLoad": false,
+		"mapShow": "Texture/UI/BigImage/bg_minimap04.png",
+		"ratioSize": 1.0,
+		"sceneId": 252,
+		"sceneName": "LevelsA040",
+		"scenePath": "Assets/Scene/Levels/LevelsA040.unity"
+	},
+	"253": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 2.5,
+		"sceneId": 253,
+		"sceneName": "LevelsA047",
+		"scenePath": "Assets/Scene/Levels/LevelsA047.unity"
+	},
+	"254": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 2.5,
+		"sceneId": 254,
+		"sceneName": "LevelsA047",
+		"scenePath": "Assets/Scene/Levels/LevelsA047.unity"
+	},
+	"255": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 2.5,
+		"sceneId": 255,
+		"sceneName": "LevelsA047",
+		"scenePath": "Assets/Scene/Levels/LevelsA047.unity"
+	},
+	"256": {
+		"enableChunkLoad": true,
+		"mapShow": "Texture/UI/BigImage/bg_minimap02.png",
+		"ratioSize": 2.5,
+		"sceneId": 256,
+		"sceneName": "LevelsA047",
+		"scenePath": "Assets/Scene/Levels/LevelsA047.unity"
+	}
+}

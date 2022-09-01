@@ -1,0 +1,903 @@
+
+{
+    "/map/high/effect/huo (20)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            32.76026,
+            2.248,
+            4.574978
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            32.76026,
+            2.441959,
+            4.574978
+        ],
+        "boundsSize" : [
+            2.755905,
+            2.927918,
+            2.755905
+        ]
+    },
+    "/map/high/effect/huo (11)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -20.6058,
+            0.92,
+            -29.17452
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -20.6058,
+            0.5750002,
+            -29.17452
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04091
+        ]
+    },
+    "/map/high/effect/huo (21)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            4.278,
+            2.248,
+            32.51984
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            4.278,
+            2.441959,
+            32.51984
+        ],
+        "boundsSize" : [
+            2.755905,
+            2.927918,
+            2.755905
+        ]
+    },
+    "/map/high/effect/smoke_05 (2)" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0005.prefab",
+        "pos"    : [
+            -29.8682,
+            -0.8,
+            -58.76057
+        ],
+        "rot"    : [
+            0.0,
+            332.65,
+            0.0
+        ],
+        "scale"  : [
+            0.1665482,
+            0.166548,
+            0.1665482
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -30.97082,
+            -0.8,
+            -56.62886
+        ],
+        "boundsSize" : [
+            8.242058,
+            4.593096,
+            10.15742
+        ]
+    },
+    "/map/high/effect/huo (15)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -7.986065,
+            4.863,
+            -12.63883
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -7.986065,
+            4.518,
+            -12.63883
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.410001,
+            10.04092
+        ]
+    },
+    "/map/high/effect/smoke_05 (1)" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0005.prefab",
+        "pos"    : [
+            -36.47257,
+            -0.8,
+            -29.52878
+        ],
+        "rot"    : [
+            0.0,
+            332.65,
+            0.0
+        ],
+        "scale"  : [
+            0.1665501,
+            0.16655,
+            0.1665501
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -37.57519,
+            -0.8,
+            -27.39706
+        ],
+        "boundsSize" : [
+            8.242058,
+            4.5931,
+            10.15743
+        ]
+    },
+    "/map/high/effect/huo (12)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -37.61102,
+            0.92,
+            -12.1693
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -37.61102,
+            0.5750002,
+            -12.1693
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (2)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -51.0602,
+            1.41,
+            -68.56815
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -51.0602,
+            1.420001,
+            -68.56815
+        ],
+        "boundsSize" : [
+            14.05728,
+            10.96,
+            14.05728
+        ]
+    },
+    "/map/high/effect/huo (22)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            7.17,
+            2.7,
+            15.46
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            7.17,
+            2.355,
+            15.46
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (24)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -68.41967,
+            1.41,
+            -51.20867
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -68.41967,
+            1.420001,
+            -51.20867
+        ],
+        "boundsSize" : [
+            14.05728,
+            10.96,
+            14.05728
+        ]
+    },
+    "/map/high/effect/huo (1)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -30.49752,
+            -3.61,
+            -59.7576
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -30.49752,
+            -3.6,
+            -59.7576
+        ],
+        "boundsSize" : [
+            10.04092,
+            8.12,
+            10.04092
+        ]
+    },
+    "/map/high/effect/cj_huo_0001"  : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -37.37767,
+            -3.46,
+            -28.17113
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -37.37767,
+            -3.45,
+            -28.17113
+        ],
+        "boundsSize" : [
+            10.04092,
+            8.120001,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (14)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -1.676552,
+            4.863,
+            -18.94834
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -1.676552,
+            4.518,
+            -18.94834
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.410001,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (10)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -29.26008,
+            0.92,
+            -20.52024
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -29.26008,
+            0.5750002,
+            -20.52024
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (13)"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -46.20236,
+            0.92,
+            -3.577957
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -46.20236,
+            0.5750002,
+            -3.577957
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/cj_smoke_0005" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0005.prefab",
+        "pos"    : [
+            -9.036822,
+            0.67,
+            29.5005
+        ],
+        "rot"    : [
+            0.0,
+            332.65,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -10.13944,
+            0.6700001,
+            31.63222
+        ],
+        "boundsSize" : [
+            31.84444,
+            22.6752,
+            33.04505
+        ]
+    },
+    "/map/high/effect/huo (9)"       : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -12.299,
+            0.92,
+            -37.481
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -12.299,
+            0.5750002,
+            -37.481
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (16)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -12.53276,
+            4.863,
+            -8.092129
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -12.53276,
+            4.518,
+            -8.092129
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.410001,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (4)"       : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -9.814638,
+            -1.17,
+            27.73273
+        ],
+        "rot"    : [
+            270.0,
+            274.3646,
+            0.0
+        ],
+        "scale"  : [
+            1.19129,
+            1.19129,
+            1.19129
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -9.814638,
+            -1.17,
+            27.73273
+        ],
+        "boundsSize" : [
+            10.27552,
+            9.574637,
+            10.27552
+        ]
+    },
+    "/map/high/effect/huo (25)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -8.428726,
+            1.41,
+            -60.21722
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -8.428726,
+            1.420001,
+            -60.21722
+        ],
+        "boundsSize" : [
+            14.05728,
+            10.96,
+            14.05729
+        ]
+    },
+    "/map/high/effect/huo (23)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -18.58418,
+            2.248,
+            26.73147
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -18.58418,
+            2.441959,
+            26.73147
+        ],
+        "boundsSize" : [
+            2.755905,
+            2.927918,
+            2.755905
+        ]
+    },
+    "/map/high/effect/huo (27)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -126.1125,
+            2.6,
+            -75.39879
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -126.1125,
+            2.610001,
+            -75.39879
+        ],
+        "boundsSize" : [
+            14.05729,
+            10.96,
+            14.05728
+        ]
+    },
+    "/map/high/effect/huo (8)"       : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -3.665,
+            0.92,
+            -46.115
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -3.665,
+            0.5750002,
+            -46.115
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (7)"       : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -76.40999,
+            2.6,
+            -125.1013
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -76.40999,
+            2.610001,
+            -125.1013
+        ],
+        "boundsSize" : [
+            14.05728,
+            10.96,
+            14.05728
+        ]
+    },
+    "/map/high/effect/huo (19)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            15.767,
+            2.7,
+            6.869
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            15.767,
+            2.355,
+            6.868999
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.41,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (18)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            26.63318,
+            2.248,
+            -18.79844
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            26.63318,
+            2.441959,
+            -18.79844
+        ],
+        "boundsSize" : [
+            2.755905,
+            2.927918,
+            2.755905
+        ]
+    },
+    "/map/high/effect/cj_huo_0001_1" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -30.80158,
+            -3.85,
+            -57.64335
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -30.80158,
+            -3.84,
+            -57.64335
+        ],
+        "boundsSize" : [
+            10.04092,
+            8.12,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (3)"       : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -100.5648,
+            2.6,
+            -100.9466
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -100.5648,
+            2.610001,
+            -100.9466
+        ],
+        "boundsSize" : [
+            14.05728,
+            10.96,
+            14.05728
+        ]
+    },
+    "/map/high/effect/huo (17)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -18.98865,
+            4.863,
+            -1.636242
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -18.98865,
+            4.518,
+            -1.636242
+        ],
+        "boundsSize" : [
+            10.04092,
+            7.410001,
+            10.04092
+        ]
+    },
+    "/map/high/effect/huo (26)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0001.prefab",
+        "pos"    : [
+            -60.2243,
+            1.4,
+            -8.47821
+        ],
+        "rot"    : [
+            270.0,
+            135.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -60.2243,
+            1.410001,
+            -8.47821
+        ],
+        "boundsSize" : [
+            14.05728,
+            10.96,
+            14.05728
+        ]
+    }
+}

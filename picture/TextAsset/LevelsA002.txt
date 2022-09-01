@@ -1,0 +1,663 @@
+
+{
+    "/map/mid/cj_guangdai_0001" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0001.prefab",
+        "pos"    : [
+            -12.80601,
+            -4.020721,
+            21.92085
+        ],
+        "rot"    : [
+            2.504479E-06,
+            180.4073,
+            -1.28892E-12
+        ],
+        "scale"  : [
+            0.2768291,
+            0.2768284,
+            0.2768291
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            1.956638,
+            -10.68422,
+            38.10085
+        ],
+        "boundsSize" : [
+            95.55141,
+            32.25327,
+            80.19517
+        ]
+    },
+    "/map/mid/cj_guangdai_0002 (2)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0002.prefab",
+        "pos"    : [
+            43.06,
+            -2.54,
+            -16.52
+        ],
+        "rot"    : [
+            347.2391,
+            142.1031,
+            13.94055
+        ],
+        "scale"  : [
+            0.340648,
+            0.3406352,
+            0.3512472
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            44.596,
+            -19.10023,
+            6.76989
+        ],
+        "boundsSize" : [
+            156.1059,
+            87.31812,
+            155.0153
+        ]
+    },
+    "/map/mid/cj_guangdai_0003"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0003.prefab",
+        "pos"    : [
+            -7.71,
+            -1.09,
+            -105.49
+        ],
+        "rot"    : [
+            0.0,
+            132.848,
+            0.0
+        ],
+        "scale"  : [
+            0.7358602,
+            0.7358579,
+            0.7358602
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -9.702099,
+            -0.5648922,
+            -12.17181
+        ],
+        "boundsSize" : [
+            19.3149,
+            0.6787742,
+            20.02076
+        ]
+    },
+    "/map/mid/huo_02 (1)"           : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0002.prefab",
+        "pos"    : [
+            -5.83,
+            4.76,
+            0.38
+        ],
+        "rot"    : [
+            273.1313,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -5.77,
+            6.044797,
+            0.5103736
+        ],
+        "boundsSize" : [
+            5.680001,
+            8.498014,
+            6.119425
+        ]
+    },
+    "/map/mid/high/cj_guangzhu_0004" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0004.prefab",
+        "pos"    : [
+            4.04,
+            -0.2,
+            24.09
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            6.853713,
+            6.85371,
+            119.9547
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -4.442079,
+            -0.1999999,
+            32.57208
+        ],
+        "boundsSize" : [
+            22.46852,
+            8.175093,
+            22.46852
+        ]
+    },
+    "/map/mid/cj_guangdai_0001 (2)"  : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0001.prefab",
+        "pos"    : [
+            43.06,
+            -2.54,
+            -16.52
+        ],
+        "rot"    : [
+            347.2391,
+            142.1031,
+            13.94055
+        ],
+        "scale"  : [
+            0.340648,
+            0.3406352,
+            0.3512472
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            44.596,
+            -19.10023,
+            6.76989
+        ],
+        "boundsSize" : [
+            156.1059,
+            87.31812,
+            155.0153
+        ]
+    },
+    "/map/mid/cj_huo_0002"           : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_huo_0002.prefab",
+        "pos"    : [
+            1.0,
+            5.12,
+            -6.32
+        ],
+        "rot"    : [
+            273.1313,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            1.06,
+            6.404797,
+            -6.189627
+        ],
+        "boundsSize" : [
+            5.68,
+            8.498014,
+            6.119425
+        ]
+    },
+    "/map/mid/high/levels_a002_014"  : {
+        "prefab" : "Map/LevelsA002/Prefab/levels_a002_014.prefab",
+        "pos"    : [
+            29.21,
+            -0.04,
+            28.66
+        ],
+        "rot"    : [
+            0.0,
+            45.0,
+            0.0
+        ],
+        "scale"  : [
+            1.05,
+            1.05,
+            1.05
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            29.21,
+            -1.074596,
+            28.66
+        ],
+        "boundsSize" : [
+            14.63426,
+            2.069419,
+            14.63427
+        ]
+    },
+    "/map/mid/cj_guangdai_0002"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0002.prefab",
+        "pos"    : [
+            -12.13442,
+            -4.020721,
+            21.37136
+        ],
+        "rot"    : [
+            2.504479E-06,
+            180.4073,
+            -1.28892E-12
+        ],
+        "scale"  : [
+            0.2768255,
+            0.2768247,
+            0.2768255
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            2.628033,
+            -10.68413,
+            37.55115
+        ],
+        "boundsSize" : [
+            95.55015,
+            32.25283,
+            80.1941
+        ]
+    },
+    "/map/mid/high/cj_guangzhu_0004 (1)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangzhu_0004.prefab",
+        "pos"    : [
+            24.07,
+            -0.2,
+            4.17
+        ],
+        "rot"    : [
+            0.0,
+            137.0283,
+            0.0
+        ],
+        "scale"  : [
+            6.853712,
+            6.85371,
+            119.9548
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            32.24656,
+            -0.1999999,
+            -4.60698
+        ],
+        "boundsSize" : [
+            22.04884,
+            8.175093,
+            22.86005
+        ]
+    },
+    "/map/mid/cj_guangdai_0001 (1)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0001.prefab",
+        "pos"    : [
+            3.8303,
+            -39.0597,
+            -1.412901
+        ],
+        "rot"    : [
+            2.455711E-06,
+            169.0819,
+            -4.918356E-07
+        ],
+        "scale"  : [
+            0.1793123,
+            0.1793115,
+            0.1793123
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            11.14825,
+            -43.37588,
+            10.74126
+        ],
+        "boundsSize" : [
+            70.16998,
+            20.89157,
+            62.23056
+        ]
+    },
+    "/map/mid/cj_xingchen_0001"          : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_xingchen_0001.prefab",
+        "pos"    : [
+            29.21,
+            0.1,
+            28.66
+        ],
+        "rot"    : [
+            0.0,
+            158.5442,
+            0.0
+        ],
+        "scale"  : [
+            1.028333,
+            1.0,
+            1.028333
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            29.21,
+            -0.7783202,
+            28.66
+        ],
+        "boundsSize" : [
+            13.0757,
+            1.7555,
+            13.20262
+        ]
+    },
+    "/map/mid/high/cj_yuan_0001 (1)"     : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_yuan_0001.prefab",
+        "pos"    : [
+            -1.57,
+            -0.2,
+            29.58
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.02294,
+            1.02294,
+            3.5385
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -1.57,
+            -0.2,
+            29.58
+        ],
+        "boundsSize" : [
+            22.4218,
+            15.85461,
+            22.4218
+        ]
+    },
+    "/map/mid/cj_xingchen_0002"          : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_xingchen_0002.prefab",
+        "pos"    : [
+            29.21,
+            0.09,
+            28.66
+        ],
+        "rot"    : [
+            0.0,
+            158.5442,
+            0.0
+        ],
+        "scale"  : [
+            1.028333,
+            1.0,
+            1.028333
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            29.21,
+            -0.7883202,
+            28.66
+        ],
+        "boundsSize" : [
+            13.0757,
+            1.7555,
+            13.20262
+        ]
+    },
+    "/map/mid/high/cj_light_0005"        : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            21.9,
+            4.85,
+            35.73
+        ],
+        "rot"    : [
+            0.0,
+            132.1754,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            0.6043869
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            22.15897,
+            4.849999,
+            35.49538
+        ],
+        "boundsSize" : [
+            82.9843,
+            60.78,
+            83.01218
+        ]
+    },
+    "/map/mid/high/cj_yuan_0001 (2)"     : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_yuan_0001.prefab",
+        "pos"    : [
+            27.2,
+            -0.2,
+            0.82
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.02294,
+            1.02294,
+            3.5385
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            27.2,
+            -0.1999998,
+            0.8199999
+        ],
+        "boundsSize" : [
+            17.04,
+            12.0491,
+            17.04
+        ]
+    },
+    "/map/mid/cj_xingchen_0003"          : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_xingchen_0003.prefab",
+        "pos"    : [
+            14.07,
+            0.39347,
+            13.53
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.028284,
+            2.353867,
+            1.028284
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            14.07,
+            -13.91128,
+            13.53
+        ],
+        "boundsSize" : [
+            28.08748,
+            27.78659,
+            28.08748
+        ]
+    },
+    "/map/mid/high/cj_yuan_0001 (3)"     : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_yuan_0001.prefab",
+        "pos"    : [
+            29.21,
+            -0.2,
+            -1.13
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.02294,
+            1.02294,
+            3.5385
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            29.21,
+            -0.2,
+            -1.13
+        ],
+        "boundsSize" : [
+            22.4218,
+            15.85461,
+            22.4218
+        ]
+    },
+    "/map/mid/high/cj_yuan_0001"         : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_yuan_0001.prefab",
+        "pos"    : [
+            0.7247257,
+            -0.2,
+            27.28896
+        ],
+        "rot"    : [
+            0.0,
+            315.0,
+            0.0
+        ],
+        "scale"  : [
+            1.022942,
+            1.022942,
+            3.538499
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            0.7247257,
+            -0.1999998,
+            27.28896
+        ],
+        "boundsSize" : [
+            17.04,
+            12.0491,
+            17.04
+        ]
+    },
+    "/map/mid/cj_guangdai_0002 (1)"      : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_guangdai_0002.prefab",
+        "pos"    : [
+            3.8303,
+            -39.0597,
+            -1.412901
+        ],
+        "rot"    : [
+            2.455711E-06,
+            169.0819,
+            -4.918356E-07
+        ],
+        "scale"  : [
+            0.1793123,
+            0.1793115,
+            0.1793123
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            11.14825,
+            -43.37588,
+            10.74126
+        ],
+        "boundsSize" : [
+            70.16998,
+            20.89157,
+            62.23056
+        ]
+    },
+    "/map/mid/high/guanzhu (1)"          : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            36.55,
+            4.85,
+            21.99
+        ],
+        "rot"    : [
+            0.0,
+            313.5603,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            0.604386
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            36.29677,
+            4.849999,
+            22.23081
+        ],
+        "boundsSize" : [
+            83.06585,
+            60.78,
+            83.08006
+        ]
+    },
+    "/map/mid/high/cj_backdrop_0001"     : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_backdrop_0001.prefab",
+        "pos"    : [
+            14.4,
+            -24.1,
+            13.5
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.5828995,
+            0.5828995,
+            0.5828995
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            14.39999,
+            -24.1,
+            13.49999
+        ],
+        "boundsSize" : [
+            178.6514,
+            179.8984,
+            178.6514
+        ]
+    }
+}

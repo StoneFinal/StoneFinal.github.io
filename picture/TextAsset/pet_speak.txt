@@ -1,0 +1,947 @@
+{
+	"1": {
+		"beforeFightSpeak": {
+			"content": "我最厉害的技能其实是嘴遁术。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 1
+	},
+	"2": {
+		"beforeFightSpeak": {
+			"content": "开门，查水表了！",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 2
+	},
+	"3": {
+		"beforeFightSpeak": {
+			"content": "追逐吧！想起那夕阳下的奔跑。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 3
+	},
+	"4": {
+		"beforeFightSpeak": {
+			"content": "帮我捡一下肥皂好吗？",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 4
+	},
+	"5": {
+		"beforeFightSpeak": {
+			"content": "尘归尘，土归土。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 5
+	},
+	"6": {
+		"beforeFightSpeak": {
+			"content": "生尽欢，死无憾。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 6
+	},
+	"7": {
+		"beforeFightSpeak": {
+			"content": "尽情战斗吧！",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 7
+	},
+	"8": {
+		"beforeFightSpeak": {
+			"content": "生活不只是眼前的苟且。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 8
+	},
+	"9": {
+		"beforeFightSpeak": {
+			"content": "嘘，别说话。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 9
+	},
+	"10": {
+		"beforeFightSpeak": {
+			"content": "用心去感受。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 10
+	},
+	"11": {
+		"beforeFightSpeak": {
+			"content": "不要走，决战到天亮。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 11
+	},
+	"12": {
+		"beforeFightSpeak": {
+			"content": "感觉身体被掏空……",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 12
+	},
+	"13": {
+		"beforeFightSpeak": {
+			"content": "我要撕裂你。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 13
+	},
+	"14": {
+		"beforeFightSpeak": {
+			"content": "你猜",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 14
+	},
+	"15": {
+		"beforeFightSpeak": {
+			"content": "真是林子大了，什么鸟都有",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 15
+	},
+	"16": {
+		"beforeFightSpeak": {
+			"content": "金木水火土，生旦净末你",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 16
+	},
+	"17": {
+		"beforeFightSpeak": {
+			"content": "不要打我，我没东西爆的！",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 17
+	},
+	"18": {
+		"beforeFightSpeak": {
+			"content": "扎心了老铁",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 18
+	},
+	"19": {
+		"beforeFightSpeak": {
+			"content": "我不是针对谁，在场的各位都是辣鸡",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 19
+	},
+	"20": {
+		"beforeFightSpeak": {
+			"content": "空虚寂寞冷，煎饼饺子面",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 20
+	},
+	"21": {
+		"beforeFightSpeak": {
+			"content": "打得不错",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 21
+	},
+	"22": {
+		"beforeFightSpeak": {
+			"content": "打归打，别打脸",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 22
+	},
+	"23": {
+		"beforeFightSpeak": {
+			"content": "夕阳西下，你看前面那人还在打包子",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 23
+	},
+	"24": {
+		"beforeFightSpeak": {
+			"content": "我的大刀早已饥渴难耐",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 24
+	},
+	"25": {
+		"beforeFightSpeak": {
+			"content": "万万没想到，我的节操不见了",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 25
+	},
+	"26": {
+		"beforeFightSpeak": {
+			"content": "先从最愚蠢的下手",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 26
+	},
+	"27": {
+		"beforeFightSpeak": {
+			"content": "君子动口不动手",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 27
+	},
+	"28": {
+		"beforeFightSpeak": {
+			"content": "过分了啊",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 28
+	},
+	"29": {
+		"beforeFightSpeak": {
+			"content": "有话好好说",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 29
+	},
+	"30": {
+		"beforeFightSpeak": {
+			"content": "你不是我的对手！",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 30
+	},
+	"31": {
+		"beforeFightSpeak": {
+			"content": "是谁给你的勇气?!梁静茹吗",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 31
+	},
+	"32": {
+		"beforeFightSpeak": {
+			"content": "快点吧我等的花儿也谢了!",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 32
+	},
+	"33": {
+		"beforeFightSpeak": {
+			"content": "离我远一点，不要靠近我！",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 33
+	},
+	"34": {
+		"beforeFightSpeak": {
+			"content": "需要帮忙吗",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 34
+	},
+	"35": {
+		"beforeFightSpeak": {
+			"content": "用耳去听，用心去斩",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 35
+	},
+	"36": {
+		"beforeFightSpeak": {
+			"content": "刀斩肉身，心斩灵魂",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 36
+	},
+	"37": {
+		"beforeFightSpeak": {
+			"content": "珍惜吧，你不是每天都能看见我的",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 37
+	},
+	"38": {
+		"beforeFightSpeak": {
+			"content": "过来，我告诉你一个不能说的秘密",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 38
+	},
+	"39": {
+		"beforeFightSpeak": {
+			"content": "不要急，最重要是快",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 39
+	},
+	"40": {
+		"beforeFightSpeak": {
+			"content": "这世上，还有许多我没去过的地方",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 40
+	},
+	"41": {
+		"beforeFightSpeak": {
+			"content": "皮这一下很快乐",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 41
+	},
+	"42": {
+		"beforeFightSpeak": {
+			"content": "不要怂，就是怼!",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 42
+	},
+	"43": {
+		"beforeFightSpeak": {
+			"content": "我有梗你有freestyle吗？",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 43
+	},
+	"44": {
+		"beforeFightSpeak": {
+			"content": "我可能玩了假的游戏",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 44
+	},
+	"45": {
+		"beforeFightSpeak": {
+			"content": "我已经用了洪荒之力啦",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 45
+	},
+	"46": {
+		"beforeFightSpeak": {
+			"content": "不忘初心，方得始终",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 46
+	},
+	"47": {
+		"beforeFightSpeak": {
+			"content": "老哥，稳",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 47
+	},
+	"48": {
+		"beforeFightSpeak": {
+			"content": "想杀我，不存在的",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 48
+	},
+	"49": {
+		"beforeFightSpeak": {
+			"content": "看我蛇皮走位!",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 49
+	},
+	"50": {
+		"beforeFightSpeak": {
+			"content": "啧啧啧…",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 50
+	},
+	"51": {
+		"beforeFightSpeak": {
+			"content": "君问归期未有期，红烧茄子油焖鸡",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 51
+	},
+	"52": {
+		"beforeFightSpeak": {
+			"content": "你今日饮咗没?",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 52
+	},
+	"53": {
+		"beforeFightSpeak": {
+			"content": "我要打十个!",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 53
+	},
+	"54": {
+		"beforeFightSpeak": {
+			"content": "那时陪伴我的人啊，你们如今在何方",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 54
+	},
+	"55": {
+		"beforeFightSpeak": {
+			"content": "人生就像吃番薯，你永远不知下一刻是放屁还是便秘",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 55
+	},
+	"56": {
+		"beforeFightSpeak": {
+			"content": "人到中年不得意，保温杯里泡枸杞",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 56
+	},
+	"57": {
+		"beforeFightSpeak": {
+			"content": "阳光温淡，岁月静好",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 57
+	},
+	"58": {
+		"beforeFightSpeak": {
+			"content": "时间是单行道，过去了，回不来。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 58
+	},
+	"59": {
+		"beforeFightSpeak": {
+			"content": "吾日三省吾身，煎饼?油条?包子?",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 59
+	},
+	"60": {
+		"beforeFightSpeak": {
+			"content": "遇见你真好",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 60
+	},
+	"61": {
+		"beforeFightSpeak": {
+			"content": "我的内心毫无波动，甚至还想笑",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 61
+	},
+	"62": {
+		"beforeFightSpeak": {
+			"content": "我送你离开千里之外",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 62
+	},
+	"63": {
+		"beforeFightSpeak": {
+			"content": "暗中观察",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 63
+	},
+	"64": {
+		"beforeFightSpeak": {
+			"content": "你这么好看，说什么都对",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 64
+	},
+	"65": {
+		"beforeFightSpeak": {
+			"content": "人，如果没有了梦想，那和咸鱼有什么区别",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 65
+	},
+	"66": {
+		"beforeFightSpeak": {
+			"content": "凭你的智慧，我很难跟你解释！",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 66
+	},
+	"67": {
+		"beforeFightSpeak": {
+			"content": "不记得了也好，忘却也是一种幸福",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 67
+	},
+	"68": {
+		"beforeFightSpeak": {
+			"content": "只有越来越强大，才能越来越童话。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 68
+	},
+	"69": {
+		"beforeFightSpeak": {
+			"content": "世间之爱皆是爱，没有大小之分。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 69
+	},
+	"70": {
+		"beforeFightSpeak": {
+			"content": "难道我学过如来神掌也要说给你听吗",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 70
+	},
+	"71": {
+		"beforeFightSpeak": {
+			"content": "江湖险恶，我从来不会轻易留下我的姓名",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 71
+	},
+	"72": {
+		"beforeFightSpeak": {
+			"content": "我随风而来，随风而去...",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 72
+	},
+	"73": {
+		"beforeFightSpeak": {
+			"content": "别人笑我太疯颠，我笑他人看不穿。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 73
+	},
+	"74": {
+		"beforeFightSpeak": {
+			"content": "我只愿面朝大海，春暖花开。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 74
+	},
+	"75": {
+		"beforeFightSpeak": {
+			"content": "远方除了遥远一无所有。",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 75
+	},
+	"76": {
+		"beforeFightSpeak": {
+			"content": "路见不平一声吼",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 76
+	},
+	"77": {
+		"beforeFightSpeak": {
+			"content": "大河向东流，天上星星参北斗",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 77
+	},
+	"78": {
+		"beforeFightSpeak": {
+			"content": "你过来，我给你加个buff",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 78
+	},
+	"79": {
+		"beforeFightSpeak": {
+			"content": "你是不是觉得我有点烦?",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 79
+	},
+	"80": {
+		"beforeFightSpeak": {
+			"content": "世界那么大， 我要去看看",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 80
+	},
+	"81": {
+		"beforeFightSpeak": {
+			"content": "什么鬼!!",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 81
+	},
+	"82": {
+		"beforeFightSpeak": {
+			"content": "可以通过[合成]获得更高级的宝石哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 82
+	},
+	"83": {
+		"beforeFightSpeak": {
+			"content": "可以通过[合成]获得更好的装备哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 83
+	},
+	"84": {
+		"beforeFightSpeak": {
+			"content": "摆摊可以自由买卖哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 84
+	},
+	"85": {
+		"beforeFightSpeak": {
+			"content": "转职后解锁更高阶的装备哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 85
+	},
+	"86": {
+		"beforeFightSpeak": {
+			"content": "转职可获得更炫酷的技能哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 86
+	},
+	"87": {
+		"beforeFightSpeak": {
+			"content": "多余的装备可以分解获得金币哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 87
+	},
+	"89": {
+		"beforeFightSpeak": {
+			"content": "金币祈福可以快速获得大量金币哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 89
+	},
+	"90": {
+		"beforeFightSpeak": {
+			"content": "经验祈福可以快速获得大量经验哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 90
+	},
+	"91": {
+		"beforeFightSpeak": {
+			"content": "地宫boss每天可击杀三次，不要忘记哦",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 91
+	},
+	"92": {
+		"beforeFightSpeak": {
+			"content": "PK、打boss记得带上小恶魔哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 92
+	},
+	"93": {
+		"beforeFightSpeak": {
+			"content": "怎么升级快?挂机、打副本啊",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 93
+	},
+	"94": {
+		"beforeFightSpeak": {
+			"content": "主人，今日的日常任务做了吗",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 94
+	},
+	"95": {
+		"beforeFightSpeak": {
+			"content": "主人，部族周常任务做了吗",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 95
+	},
+	"96": {
+		"beforeFightSpeak": {
+			"content": "通关试炼塔可以获得好多幻形奖励哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 96
+	},
+	"97": {
+		"beforeFightSpeak": {
+			"content": "人物升级可以解锁更多灵魂哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 97
+	},
+	"98": {
+		"beforeFightSpeak": {
+			"content": "想升级更快，记得带上小精灵哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 98
+	},
+	"99": {
+		"beforeFightSpeak": {
+			"content": "部族每天登录都可以领到离线挂机珠哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 99
+	},
+	"100": {
+		"beforeFightSpeak": {
+			"content": "离线挂机也能获得丰厚收益哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 100
+	},
+	"101": {
+		"beforeFightSpeak": {
+			"content": "商城可购买漂亮的时装哦",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 101
+	},
+	"102": {
+		"beforeFightSpeak": {
+			"content": "vip可获得额外副本次数哟",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 102
+	},
+	"103": {
+		"beforeFightSpeak": {
+			"content": "问君能有几多愁，孜然铁板烧肥牛",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 103
+	},
+	"104": {
+		"beforeFightSpeak": {
+			"content": "人生何必如初见,但求相看两不厌                                                             ",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 104
+	},
+	"105": {
+		"beforeFightSpeak": {
+			"content": "这世上到底有没有色彩斑斓的黑色啊",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 105
+	},
+	"106": {
+		"beforeFightSpeak": {
+			"content": "boss巢穴的归属者能拿到「经验丹」，升级贼快",
+			"duration": 6,
+			"interval": 20,
+			"rate": 1
+		},
+		"id": 106
+	}
+}

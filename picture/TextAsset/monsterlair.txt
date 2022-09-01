@@ -1,0 +1,15 @@
+{
+"--":"信息提示-荒兽巢穴",
+"--":"id: 9101~9200",
+"--":"START",
+
+"9101" : "<color=#dfdeabFF>%02d-%02d %02d:%02d </color> <color=#ffdb5dFF>%s%s </color><color=#dfdeabFF>与<color=#61efb6>【%s】</color></color><color=#dfdeabFF>大战三百回合获得</color><color=#FF00FFFF>【%s】</color>",
+"9102" : "<color=#797979FF>%d世界等级</color>",
+"9103" : "<color=#00FF00FF>已刷新</color>",
+"9104" : "%s/3",
+"9105" : "疲劳值:",
+"9106" : "世界等级39级开启",
+"9107" : "世界等级69级开启",
+
+"--":"END"
+}

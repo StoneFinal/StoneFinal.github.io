@@ -1,0 +1,732 @@
+
+{
+    "/map/low/model/taizi_02" : {
+        "prefab" : "Map/World_012/Prefab/taizi_02.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.1041195|0.1041195|0.2416287|-0.0004067167"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_02 (4)" : {
+        "prefab" : "Map/World_012/Prefab/huaban_02.prefab",
+        "pos"    : [
+            48.59,
+            5.37,
+            -53.77
+        ],
+        "rot"    : [
+            270.0,
+            298.5654,
+            0.0
+        ],
+        "scale"  : [
+            4.446391,
+            4.223933,
+            1.131691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_02 (5)" : {
+        "prefab" : "Map/World_012/Prefab/huaban_02.prefab",
+        "pos"    : [
+            44.49,
+            5.37,
+            -63.82
+        ],
+        "rot"    : [
+            270.0,
+            320.7776,
+            0.0
+        ],
+        "scale"  : [
+            4.446392,
+            4.223932,
+            1.131691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_02"     : {
+        "prefab" : "Map/World_012/Prefab/huaban_02.prefab",
+        "pos"    : [
+            41.75,
+            4.480007,
+            58.67001
+        ],
+        "rot"    : [
+            270.0,
+            298.5654,
+            0.0
+        ],
+        "scale"  : [
+            4.446391,
+            4.223933,
+            1.131691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang"    : {
+        "prefab" : "Map/World_012/Prefab/qiang.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.1483224|0.1483224|0.09301855|0.8109002"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/world012_beijing" : {
+        "prefab" : "Map/World_012/Prefab/world012_beijing.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/shitou"           : {
+        "prefab" : "Map/World_012/Prefab/shitou.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.3427967|0.3427967|0.09225889|0.1470886"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_01"         : {
+        "prefab" : "Map/World_012/Prefab/taizi_01.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "2|0.4665543|0.4665543|0.3763621|-0.001822478"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_01 (4)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_01.prefab",
+        "pos"    : [
+            -89.59,
+            6.3,
+            -1.97
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.518126,
+            1.518127,
+            1.518127
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_02 (1)"         : {
+        "prefab" : "Map/World_012/Prefab/huaban_02.prefab",
+        "pos"    : [
+            -43.92,
+            4.96,
+            62.35
+        ],
+        "rot"    : [
+            270.0,
+            298.5654,
+            0.0
+        ],
+        "scale"  : [
+            4.446391,
+            4.223933,
+            1.131691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/ludeng"           : {
+        "prefab" : "Map/World_012/Prefab/ludeng.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            2.504478E-06,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.04518238|0.04518238|0.04669851|0.1765805",
+            "0|0.04518239|0.04518239|-0.0001764937|0.1765805"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/fangzi_01"        : {
+        "prefab" : "Map/World_012/Prefab/fangzi_01.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.2054589|0.2054589|0.4363714|0.564371"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_01 (1)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_01.prefab",
+        "pos"    : [
+            -53.43,
+            4.98,
+            -26.04
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.518126,
+            1.518127,
+            1.518127
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/tingzi"           : {
+        "prefab" : "Map/World_012/Prefab/tingzi.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.08152446|0.08152446|-0.0003184549|0.09343155"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_02 (2)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_02.prefab",
+        "pos"    : [
+            23.43,
+            3.35,
+            63.22
+        ],
+        "rot"    : [
+            270.0,
+            159.5122,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_02"         : {
+        "prefab" : "Map/World_012/Prefab/qiang_02.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "2|0.3808526|0.3808526|-0.001487705|-0.001487705"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/paifang"          : {
+        "prefab" : "Map/World_012/Prefab/paifang.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.07366704|0.07366704|-0.0002877619|0.2798801"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/yueliang_1"       : {
+        "prefab" : "Map/World_012/Prefab/yueliang_1.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_02 (3)"         : {
+        "prefab" : "Map/World_012/Prefab/huaban_02.prefab",
+        "pos"    : [
+            -62.82,
+            4.96,
+            -20.83
+        ],
+        "rot"    : [
+            270.0,
+            298.5654,
+            0.0
+        ],
+        "scale"  : [
+            4.446391,
+            4.223933,
+            1.131691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_02 (2)"         : {
+        "prefab" : "Map/World_012/Prefab/huaban_02.prefab",
+        "pos"    : [
+            -91.12,
+            7.74,
+            5.82
+        ],
+        "rot"    : [
+            270.0,
+            298.5654,
+            0.0
+        ],
+        "scale"  : [
+            4.446391,
+            4.223933,
+            1.131691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_01 (2)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_01.prefab",
+        "pos"    : [
+            48.62,
+            4.4,
+            -43.91
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.518126,
+            1.518127,
+            1.518127
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_02 (1)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_02.prefab",
+        "pos"    : [
+            -77.773,
+            6.6,
+            8.609
+        ],
+        "rot"    : [
+            270.0,
+            199.1303,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_01"              : {
+        "prefab" : "Map/World_012/Prefab/hudie_01.prefab",
+        "pos"    : [
+            -49.09,
+            2.549995,
+            -30.79
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.518126,
+            1.518127,
+            1.518127
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_04"         : {
+        "prefab" : "Map/World_012/Prefab/taizi_04.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.05206589|0.05206589|-0.0002033824|0.3551598"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/mid/shu_alpha"              : {
+        "prefab" : "Map/World_012/Prefab/shu_alpha.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "1|0.3005596|0.3005596|-0.001174061|0.6697244"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/shu"              : {
+        "prefab" : "Map/World_012/Prefab/shu.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            2.504478E-06,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.1473332|0.1473332|0.09302241|-0.0005755204"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_01"             : {
+        "prefab" : "Map/World_012/Prefab/huaban_01.prefab",
+        "pos"    : [
+            -46.12,
+            4.659996,
+            -29.22001
+        ],
+        "rot"    : [
+            270.0,
+            284.0505,
+            0.0
+        ],
+        "scale"  : [
+            1.5767,
+            2.503349,
+            0.841463
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_01 (3)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_01.prefab",
+        "pos"    : [
+            20.25,
+            4.4,
+            63.93
+        ],
+        "rot"    : [
+            270.0,
+            335.4165,
+            0.0
+        ],
+        "scale"  : [
+            1.518126,
+            1.518127,
+            1.518127
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_02"              : {
+        "prefab" : "Map/World_012/Prefab/hudie_02.prefab",
+        "pos"    : [
+            -79.64,
+            5.408001,
+            9.76
+        ],
+        "rot"    : [
+            270.0,
+            252.7107,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/yueliang_1 (1)"   : {
+        "prefab" : "Map/World_012/Prefab/yueliang_1.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_03"         : {
+        "prefab" : "Map/World_012/Prefab/taizi_03.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.3202037|0.3202037|0.09234714|0.4899261",
+            "0|0.4164628|0.4164628|0.4347446|0.1468008"
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/path_03"               : {
+        "prefab" : "Map/World_012/Prefab/path_03.prefab",
+        "pos"    : [
+            -97.78,
+            12.52,
+            0.07
+        ],
+        "rot"    : [
+            24.0652,
+            102.3115,
+            274.9028
+        ],
+        "scale"  : [
+            0.6717202,
+            0.6717201,
+            0.6717201
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie_01 (5)"          : {
+        "prefab" : "Map/World_012/Prefab/hudie_01.prefab",
+        "pos"    : [
+            13.17,
+            3.19,
+            79.7
+        ],
+        "rot"    : [
+            270.0,
+            335.4165,
+            0.0
+        ],
+        "scale"  : [
+            1.518126,
+            1.518127,
+            1.518127
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/yueliang_2"       : {
+        "prefab" : "Map/World_012/Prefab/yueliang_2.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    }
+}

@@ -1,0 +1,1059 @@
+{
+	"101": {
+		"base_speed": 5,
+		"childrenSkillId": [],
+		"id": 101,
+		"isChild": true,
+		"magicalId": 32101,
+		"model": 62001,
+		"name": "仙娃·至尊小宝",
+		"sex": 1,
+		"showProbability": 20,
+		"skill": [],
+		"skillId": 101
+	},
+	"102": {
+		"base_speed": 5,
+		"childrenSkillId": [],
+		"id": 102,
+		"isChild": true,
+		"magicalId": 32102,
+		"model": 62002,
+		"name": "仙娃·紫霞小仙",
+		"sex": 2,
+		"showProbability": 20,
+		"skill": [],
+		"skillId": 102
+	},
+	"103": {
+		"base_speed": 5,
+		"childrenSkillId": [],
+		"id": 103,
+		"isChild": true,
+		"magicalId": 32103,
+		"model": 62005,
+		"name": "仙娃·烈焰哪吒",
+		"sex": 1,
+		"showProbability": 20,
+		"skill": []
+	},
+	"104": {
+		"base_speed": 5,
+		"childrenSkillId": [],
+		"id": 104,
+		"isChild": true,
+		"magicalId": 32104,
+		"model": 62006,
+		"name": "仙娃·冰雪公主",
+		"sex": 2,
+		"showProbability": 20,
+		"skill": []
+	},
+	"401": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 401,
+		"magicalId": 2001,
+		"model": 60012,
+		"name": "影子刺客",
+		"normalSkill": 91001,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 401
+	},
+	"402": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 402,
+		"magicalId": 2033,
+		"model": 60002,
+		"name": "☆碧波仙子",
+		"normalSkill": 91002,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 402
+	},
+	"403": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 403,
+		"magicalId": 2003,
+		"model": 60028,
+		"name": "黄金巨弩",
+		"normalSkill": 91003,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 403
+	},
+	"404": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 404,
+		"magicalId": 2004,
+		"model": 60009,
+		"name": "沉默法师",
+		"normalSkill": 91004,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 404
+	},
+	"405": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 405,
+		"magicalId": 2005,
+		"model": 60018,
+		"name": "☆幸运女郎",
+		"normalSkill": 91005,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 405
+	},
+	"406": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 406,
+		"magicalId": 2006,
+		"model": 60010,
+		"name": "太阳女神",
+		"normalSkill": 91006,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 406
+	},
+	"407": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 407,
+		"magicalId": 2007,
+		"model": 60005,
+		"name": "☆花语间",
+		"normalSkill": 91007,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 407
+	},
+	"408": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 408,
+		"magicalId": 2008,
+		"model": 60013,
+		"name": "九天神女",
+		"normalSkill": 91008,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 408
+	},
+	"409": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 409,
+		"magicalId": 2009,
+		"model": 60015,
+		"name": "红日女神",
+		"normalSkill": 91009,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 409
+	},
+	"410": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 410,
+		"magicalId": 2010,
+		"model": 60007,
+		"name": "★奥数大师",
+		"normalSkill": 91010,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 410
+	},
+	"411": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 411,
+		"magicalId": 2008,
+		"model": 60013,
+		"name": "九天神女",
+		"normalSkill": 91011,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 411
+	},
+	"412": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 412,
+		"magicalId": 2012,
+		"model": 60004,
+		"name": "女武神",
+		"normalSkill": 91012,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 412
+	},
+	"413": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 413,
+		"magicalId": 2019,
+		"model": 60016,
+		"name": "☆神之庇佑",
+		"normalSkill": 91013,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 413
+	},
+	"414": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 414,
+		"magicalId": 2014,
+		"model": 60019,
+		"name": "小恶魔",
+		"normalSkill": 91014,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 414
+	},
+	"415": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 415,
+		"magicalId": 2022,
+		"model": 60006,
+		"name": "☆万狐之王",
+		"normalSkill": 91015,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 415
+	},
+	"416": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 416,
+		"magicalId": 2016,
+		"model": 60003,
+		"name": "☆昼炎萝莉",
+		"normalSkill": 91016,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 416
+	},
+	"417": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 417,
+		"magicalId": 2007,
+		"model": 60005,
+		"name": "☆花语间",
+		"normalSkill": 91017,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 417
+	},
+	"418": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 418,
+		"magicalId": 2018,
+		"model": 60022,
+		"name": "蓝蝶游侠",
+		"normalSkill": 91018,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 418
+	},
+	"419": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 419,
+		"magicalId": 2019,
+		"model": 60016,
+		"name": "☆神之庇佑",
+		"normalSkill": 91019,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 419
+	},
+	"420": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 420,
+		"magicalId": 2020,
+		"model": 60035,
+		"name": "★舞法天女",
+		"normalSkill": 91020,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 420
+	},
+	"421": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 421,
+		"magicalId": 2021,
+		"model": 60023,
+		"name": "☆魔力之源",
+		"normalSkill": 91021,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 421
+	},
+	"422": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 422,
+		"magicalId": 2036,
+		"model": 60034,
+		"name": "☆梦精灵",
+		"normalSkill": 91022,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 422
+	},
+	"423": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 423,
+		"magicalId": 2023,
+		"model": 60011,
+		"name": "☆冰霜公主",
+		"normalSkill": 91023,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 423
+	},
+	"424": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 424,
+		"magicalId": 2024,
+		"model": 60008,
+		"name": "☆粉红火炮",
+		"normalSkill": 91024,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 424
+	},
+	"425": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 425,
+		"magicalId": 2025,
+		"model": 60030,
+		"name": "海啸猎者",
+		"normalSkill": 91025,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 425
+	},
+	"426": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 426,
+		"magicalId": 2026,
+		"model": 60021,
+		"name": "屠龙勇士",
+		"normalSkill": 91026,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 426
+	},
+	"427": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 427,
+		"magicalId": 2027,
+		"model": 60001,
+		"name": "小毕方",
+		"normalSkill": 91027,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 427
+	},
+	"428": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 428,
+		"magicalId": 2028,
+		"model": 60020,
+		"name": "☆网球高手",
+		"normalSkill": 91028,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 428
+	},
+	"429": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 429,
+		"magicalId": 2029,
+		"model": 60014,
+		"name": "☆海洋之心",
+		"normalSkill": 91029,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 429
+	},
+	"430": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 430,
+		"magicalId": 2030,
+		"model": 60031,
+		"name": "★未来战士",
+		"normalSkill": 91030,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 430
+	},
+	"431": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 431,
+		"magicalId": 2031,
+		"model": 60032,
+		"name": "★圆舞曲",
+		"normalSkill": 91031,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 431
+	},
+	"432": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 432,
+		"magicalId": 2032,
+		"model": 60017,
+		"name": "☆影收割者",
+		"normalSkill": 91015,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 432
+	},
+	"433": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 433,
+		"magicalId": 2035,
+		"model": 60033,
+		"name": "★无上女皇",
+		"normalSkill": 91024,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 433
+	},
+	"434": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 434,
+		"magicalId": 2034,
+		"model": 60029,
+		"name": "☆摇滚主播",
+		"normalSkill": 91025,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 434
+	},
+	"435": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 435,
+		"magicalId": 2002,
+		"model": 60036,
+		"name": "★萌小呆",
+		"normalSkill": 91032,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 435
+	},
+	"436": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 436,
+		"magicalId": 2013,
+		"model": 60037,
+		"name": "☆妖娆女帝",
+		"normalSkill": 91033,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 436
+	},
+	"437": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 437,
+		"magicalId": 2011,
+		"model": 60038,
+		"name": "★森之精灵",
+		"normalSkill": 91034,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 437
+	},
+	"438": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 438,
+		"magicalId": 2015,
+		"model": 60039,
+		"name": "☆花漾甜心",
+		"normalSkill": 91035,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 438
+	},
+	"439": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 439,
+		"magicalId": 2043,
+		"model": 60040,
+		"name": "★齐天大圣",
+		"normalSkill": 91036,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 439
+	},
+	"440": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 440,
+		"magicalId": 2049,
+		"model": 60041,
+		"name": "★战神刑天",
+		"normalSkill": 91037,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 440
+	},
+	"441": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 441,
+		"magicalId": 2050,
+		"model": 60042,
+		"name": "★鲨士比亚",
+		"normalSkill": 91038,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 441
+	},
+	"442": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 442,
+		"magicalId": 2041,
+		"model": 60051,
+		"name": "★元气喵娘",
+		"normalSkill": 91039,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 442
+	},
+	"443": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 443,
+		"magicalId": 2040,
+		"model": 60052,
+		"name": "★绝色妖姬",
+		"normalSkill": 91040,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 443
+	},
+	"444": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 444,
+		"magicalId": 2039,
+		"model": 60053,
+		"name": "★梦月精灵",
+		"normalSkill": 91041,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 444
+	},
+	"445": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 445,
+		"magicalId": 2042,
+		"model": 60054,
+		"name": "★永夜女王",
+		"normalSkill": 91042,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 445
+	},
+	"446": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 446,
+		"magicalId": 2042,
+		"model": 60055,
+		"name": "第五未开放美女",
+		"normalSkill": 91043,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 446
+	},
+	"447": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 447,
+		"magicalId": 2044,
+		"model": 60043,
+		"name": "韩国真人伙伴1",
+		"normalSkill": 91044,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 447
+	},
+	"448": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 448,
+		"magicalId": 2045,
+		"model": 60044,
+		"name": "韩国真人伙伴2",
+		"normalSkill": 91045,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 448
+	},
+	"449": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 449,
+		"magicalId": 2046,
+		"model": 60045,
+		"name": "韩国真人伙伴3",
+		"normalSkill": 91046,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 449
+	},
+	"450": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 450,
+		"magicalId": 2047,
+		"model": 60046,
+		"name": "韩国真人伙伴4",
+		"normalSkill": 91047,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 450
+	},
+	"451": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 451,
+		"magicalId": 2048,
+		"model": 60047,
+		"name": "韩国真人伙伴5",
+		"normalSkill": 91048,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 451
+	},
+	"452": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 452,
+		"magicalId": 3534190,
+		"model": 60048,
+		"name": "启用记得改幻化id",
+		"normalSkill": 91049,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 452
+	},
+	"453": {
+		"aiName": "pet_common",
+		"base_speed": 5,
+		"id": 453,
+		"magicalId": 3534190,
+		"model": 60049,
+		"name": "启用记得改幻化id",
+		"normalSkill": 91050,
+		"showProbability": 20,
+		"skill": [
+			4001,
+			4002,
+			4003,
+			4004,
+			4005,
+			4006
+		],
+		"skillId": 453
+	}
+}

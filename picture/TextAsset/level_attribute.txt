@@ -1,0 +1,8984 @@
+{
+	"1": {
+		"base_atk": 10,
+		"base_def": 5,
+		"base_hpMax": 100,
+		"base_sunder": 5,
+		"battle": 300,
+		"level": 1,
+		"other_critDamage": 20000
+	},
+	"2": {
+		"base_atk": 12,
+		"base_def": 6,
+		"base_hpMax": 120,
+		"base_sunder": 6,
+		"battle": 360,
+		"level": 2,
+		"other_critDamage": 20000
+	},
+	"3": {
+		"base_atk": 14,
+		"base_def": 7,
+		"base_hpMax": 140,
+		"base_sunder": 7,
+		"battle": 420,
+		"level": 3,
+		"other_critDamage": 20000
+	},
+	"4": {
+		"base_atk": 16,
+		"base_def": 8,
+		"base_hpMax": 160,
+		"base_sunder": 8,
+		"battle": 480,
+		"level": 4,
+		"other_critDamage": 20000
+	},
+	"5": {
+		"base_atk": 18,
+		"base_def": 9,
+		"base_hpMax": 180,
+		"base_sunder": 9,
+		"battle": 540,
+		"level": 5,
+		"other_critDamage": 20000
+	},
+	"6": {
+		"base_atk": 20,
+		"base_def": 10,
+		"base_hpMax": 200,
+		"base_sunder": 10,
+		"battle": 600,
+		"level": 6,
+		"other_critDamage": 20000
+	},
+	"7": {
+		"base_atk": 22,
+		"base_def": 11,
+		"base_hpMax": 220,
+		"base_sunder": 11,
+		"battle": 660,
+		"level": 7,
+		"other_critDamage": 20000
+	},
+	"8": {
+		"base_atk": 24,
+		"base_def": 12,
+		"base_hpMax": 240,
+		"base_sunder": 12,
+		"battle": 720,
+		"level": 8,
+		"other_critDamage": 20000
+	},
+	"9": {
+		"base_atk": 26,
+		"base_def": 13,
+		"base_hpMax": 260,
+		"base_sunder": 13,
+		"battle": 780,
+		"level": 9,
+		"other_critDamage": 20000
+	},
+	"10": {
+		"base_atk": 28,
+		"base_def": 14,
+		"base_hpMax": 280,
+		"base_sunder": 14,
+		"battle": 840,
+		"level": 10,
+		"other_critDamage": 20000
+	},
+	"11": {
+		"base_atk": 30,
+		"base_def": 15,
+		"base_hpMax": 300,
+		"base_sunder": 15,
+		"battle": 900,
+		"level": 11,
+		"other_critDamage": 20000
+	},
+	"12": {
+		"base_atk": 32,
+		"base_def": 16,
+		"base_hpMax": 320,
+		"base_sunder": 16,
+		"battle": 960,
+		"level": 12,
+		"other_critDamage": 20000
+	},
+	"13": {
+		"base_atk": 34,
+		"base_def": 17,
+		"base_hpMax": 340,
+		"base_sunder": 17,
+		"battle": 1020,
+		"level": 13,
+		"other_critDamage": 20000
+	},
+	"14": {
+		"base_atk": 36,
+		"base_def": 18,
+		"base_hpMax": 360,
+		"base_sunder": 18,
+		"battle": 1080,
+		"level": 14,
+		"other_critDamage": 20000
+	},
+	"15": {
+		"base_atk": 38,
+		"base_def": 19,
+		"base_hpMax": 380,
+		"base_sunder": 19,
+		"battle": 1140,
+		"level": 15,
+		"other_critDamage": 20000
+	},
+	"16": {
+		"base_atk": 40,
+		"base_def": 20,
+		"base_hpMax": 400,
+		"base_sunder": 20,
+		"battle": 1200,
+		"level": 16,
+		"other_critDamage": 20000
+	},
+	"17": {
+		"base_atk": 42,
+		"base_def": 21,
+		"base_hpMax": 420,
+		"base_sunder": 21,
+		"battle": 1260,
+		"level": 17,
+		"other_critDamage": 20000
+	},
+	"18": {
+		"base_atk": 44,
+		"base_def": 22,
+		"base_hpMax": 440,
+		"base_sunder": 22,
+		"battle": 1320,
+		"level": 18,
+		"other_critDamage": 20000
+	},
+	"19": {
+		"base_atk": 46,
+		"base_def": 23,
+		"base_hpMax": 460,
+		"base_sunder": 23,
+		"battle": 1380,
+		"level": 19,
+		"other_critDamage": 20000
+	},
+	"20": {
+		"base_atk": 48,
+		"base_def": 24,
+		"base_hpMax": 480,
+		"base_sunder": 24,
+		"battle": 1440,
+		"level": 20,
+		"other_critDamage": 20000
+	},
+	"21": {
+		"base_atk": 50,
+		"base_def": 25,
+		"base_hpMax": 500,
+		"base_sunder": 25,
+		"battle": 1500,
+		"level": 21,
+		"other_critDamage": 20000
+	},
+	"22": {
+		"base_atk": 52,
+		"base_def": 26,
+		"base_hpMax": 520,
+		"base_sunder": 26,
+		"battle": 1560,
+		"level": 22,
+		"other_critDamage": 20000
+	},
+	"23": {
+		"base_atk": 54,
+		"base_def": 27,
+		"base_hpMax": 540,
+		"base_sunder": 27,
+		"battle": 1620,
+		"level": 23,
+		"other_critDamage": 20000
+	},
+	"24": {
+		"base_atk": 56,
+		"base_def": 28,
+		"base_hpMax": 560,
+		"base_sunder": 28,
+		"battle": 1680,
+		"level": 24,
+		"other_critDamage": 20000
+	},
+	"25": {
+		"base_atk": 58,
+		"base_def": 29,
+		"base_hpMax": 580,
+		"base_sunder": 29,
+		"battle": 1740,
+		"level": 25,
+		"other_critDamage": 20000
+	},
+	"26": {
+		"base_atk": 60,
+		"base_def": 30,
+		"base_hpMax": 600,
+		"base_sunder": 30,
+		"battle": 1800,
+		"level": 26,
+		"other_critDamage": 20000
+	},
+	"27": {
+		"base_atk": 62,
+		"base_def": 31,
+		"base_hpMax": 620,
+		"base_sunder": 31,
+		"battle": 1860,
+		"level": 27,
+		"other_critDamage": 20000
+	},
+	"28": {
+		"base_atk": 64,
+		"base_def": 32,
+		"base_hpMax": 640,
+		"base_sunder": 32,
+		"battle": 1920,
+		"level": 28,
+		"other_critDamage": 20000
+	},
+	"29": {
+		"base_atk": 66,
+		"base_def": 33,
+		"base_hpMax": 660,
+		"base_sunder": 33,
+		"battle": 1980,
+		"level": 29,
+		"other_critDamage": 20000
+	},
+	"30": {
+		"base_atk": 68,
+		"base_def": 34,
+		"base_hpMax": 680,
+		"base_sunder": 34,
+		"battle": 2040,
+		"level": 30,
+		"other_critDamage": 20000
+	},
+	"31": {
+		"base_atk": 70,
+		"base_def": 35,
+		"base_hpMax": 700,
+		"base_sunder": 35,
+		"battle": 2100,
+		"level": 31,
+		"other_critDamage": 20000
+	},
+	"32": {
+		"base_atk": 72,
+		"base_def": 36,
+		"base_hpMax": 720,
+		"base_sunder": 36,
+		"battle": 2160,
+		"level": 32,
+		"other_critDamage": 20000
+	},
+	"33": {
+		"base_atk": 74,
+		"base_def": 37,
+		"base_hpMax": 740,
+		"base_sunder": 37,
+		"battle": 2220,
+		"level": 33,
+		"other_critDamage": 20000
+	},
+	"34": {
+		"base_atk": 76,
+		"base_def": 38,
+		"base_hpMax": 760,
+		"base_sunder": 38,
+		"battle": 2280,
+		"level": 34,
+		"other_critDamage": 20000
+	},
+	"35": {
+		"base_atk": 78,
+		"base_def": 39,
+		"base_hpMax": 780,
+		"base_sunder": 39,
+		"battle": 2340,
+		"level": 35,
+		"other_critDamage": 20000
+	},
+	"36": {
+		"base_atk": 80,
+		"base_def": 40,
+		"base_hpMax": 800,
+		"base_sunder": 40,
+		"battle": 2400,
+		"level": 36,
+		"other_critDamage": 20000
+	},
+	"37": {
+		"base_atk": 82,
+		"base_def": 41,
+		"base_hpMax": 820,
+		"base_sunder": 41,
+		"battle": 2460,
+		"level": 37,
+		"other_critDamage": 20000
+	},
+	"38": {
+		"base_atk": 84,
+		"base_def": 42,
+		"base_hpMax": 840,
+		"base_sunder": 42,
+		"battle": 2520,
+		"level": 38,
+		"other_critDamage": 20000
+	},
+	"39": {
+		"base_atk": 86,
+		"base_def": 43,
+		"base_hpMax": 860,
+		"base_sunder": 43,
+		"battle": 2580,
+		"level": 39,
+		"other_critDamage": 20000
+	},
+	"40": {
+		"base_atk": 88,
+		"base_def": 44,
+		"base_hpMax": 880,
+		"base_sunder": 44,
+		"battle": 2640,
+		"level": 40,
+		"other_critDamage": 20000
+	},
+	"41": {
+		"base_atk": 90,
+		"base_def": 45,
+		"base_hpMax": 900,
+		"base_sunder": 45,
+		"battle": 2700,
+		"level": 41,
+		"other_critDamage": 20000
+	},
+	"42": {
+		"base_atk": 92,
+		"base_def": 46,
+		"base_hpMax": 920,
+		"base_sunder": 46,
+		"battle": 2760,
+		"level": 42,
+		"other_critDamage": 20000
+	},
+	"43": {
+		"base_atk": 94,
+		"base_def": 47,
+		"base_hpMax": 940,
+		"base_sunder": 47,
+		"battle": 2820,
+		"level": 43,
+		"other_critDamage": 20000
+	},
+	"44": {
+		"base_atk": 96,
+		"base_def": 48,
+		"base_hpMax": 960,
+		"base_sunder": 48,
+		"battle": 2880,
+		"level": 44,
+		"other_critDamage": 20000
+	},
+	"45": {
+		"base_atk": 98,
+		"base_def": 49,
+		"base_hpMax": 980,
+		"base_sunder": 49,
+		"battle": 2940,
+		"level": 45,
+		"other_critDamage": 20000
+	},
+	"46": {
+		"base_atk": 100,
+		"base_def": 50,
+		"base_hpMax": 1000,
+		"base_sunder": 50,
+		"battle": 3000,
+		"level": 46,
+		"other_critDamage": 20000
+	},
+	"47": {
+		"base_atk": 102,
+		"base_def": 51,
+		"base_hpMax": 1020,
+		"base_sunder": 51,
+		"battle": 3060,
+		"level": 47,
+		"other_critDamage": 20000
+	},
+	"48": {
+		"base_atk": 104,
+		"base_def": 52,
+		"base_hpMax": 1040,
+		"base_sunder": 52,
+		"battle": 3120,
+		"level": 48,
+		"other_critDamage": 20000
+	},
+	"49": {
+		"base_atk": 106,
+		"base_def": 53,
+		"base_hpMax": 1060,
+		"base_sunder": 53,
+		"battle": 3180,
+		"level": 49,
+		"other_critDamage": 20000
+	},
+	"50": {
+		"base_atk": 108,
+		"base_def": 54,
+		"base_hpMax": 1080,
+		"base_sunder": 54,
+		"battle": 3240,
+		"level": 50,
+		"other_critDamage": 20000
+	},
+	"51": {
+		"base_atk": 110,
+		"base_def": 55,
+		"base_hpMax": 1100,
+		"base_sunder": 55,
+		"battle": 3300,
+		"level": 51,
+		"other_critDamage": 20000
+	},
+	"52": {
+		"base_atk": 112,
+		"base_def": 56,
+		"base_hpMax": 1120,
+		"base_sunder": 56,
+		"battle": 3360,
+		"level": 52,
+		"other_critDamage": 20000
+	},
+	"53": {
+		"base_atk": 114,
+		"base_def": 57,
+		"base_hpMax": 1140,
+		"base_sunder": 57,
+		"battle": 3420,
+		"level": 53,
+		"other_critDamage": 20000
+	},
+	"54": {
+		"base_atk": 116,
+		"base_def": 58,
+		"base_hpMax": 1160,
+		"base_sunder": 58,
+		"battle": 3480,
+		"level": 54,
+		"other_critDamage": 20000
+	},
+	"55": {
+		"base_atk": 118,
+		"base_def": 59,
+		"base_hpMax": 1180,
+		"base_sunder": 59,
+		"battle": 3540,
+		"level": 55,
+		"other_critDamage": 20000
+	},
+	"56": {
+		"base_atk": 120,
+		"base_def": 60,
+		"base_hpMax": 1200,
+		"base_sunder": 60,
+		"battle": 3600,
+		"level": 56,
+		"other_critDamage": 20000
+	},
+	"57": {
+		"base_atk": 122,
+		"base_def": 61,
+		"base_hpMax": 1220,
+		"base_sunder": 61,
+		"battle": 3660,
+		"level": 57,
+		"other_critDamage": 20000
+	},
+	"58": {
+		"base_atk": 124,
+		"base_def": 62,
+		"base_hpMax": 1240,
+		"base_sunder": 62,
+		"battle": 3720,
+		"level": 58,
+		"other_critDamage": 20000
+	},
+	"59": {
+		"base_atk": 126,
+		"base_def": 63,
+		"base_hpMax": 1260,
+		"base_sunder": 63,
+		"battle": 3780,
+		"level": 59,
+		"other_critDamage": 20000
+	},
+	"60": {
+		"base_atk": 128,
+		"base_def": 64,
+		"base_hpMax": 1280,
+		"base_sunder": 64,
+		"battle": 3840,
+		"level": 60,
+		"other_critDamage": 20000
+	},
+	"61": {
+		"base_atk": 130,
+		"base_def": 65,
+		"base_hpMax": 1300,
+		"base_sunder": 65,
+		"battle": 3900,
+		"level": 61,
+		"other_critDamage": 20000
+	},
+	"62": {
+		"base_atk": 132,
+		"base_def": 66,
+		"base_hpMax": 1320,
+		"base_sunder": 66,
+		"battle": 3960,
+		"level": 62,
+		"other_critDamage": 20000
+	},
+	"63": {
+		"base_atk": 134,
+		"base_def": 67,
+		"base_hpMax": 1340,
+		"base_sunder": 67,
+		"battle": 4020,
+		"level": 63,
+		"other_critDamage": 20000
+	},
+	"64": {
+		"base_atk": 136,
+		"base_def": 68,
+		"base_hpMax": 1360,
+		"base_sunder": 68,
+		"battle": 4080,
+		"level": 64,
+		"other_critDamage": 20000
+	},
+	"65": {
+		"base_atk": 138,
+		"base_def": 69,
+		"base_hpMax": 1380,
+		"base_sunder": 69,
+		"battle": 4140,
+		"level": 65,
+		"other_critDamage": 20000
+	},
+	"66": {
+		"base_atk": 140,
+		"base_def": 70,
+		"base_hpMax": 1400,
+		"base_sunder": 70,
+		"battle": 4200,
+		"level": 66,
+		"other_critDamage": 20000
+	},
+	"67": {
+		"base_atk": 142,
+		"base_def": 71,
+		"base_hpMax": 1420,
+		"base_sunder": 71,
+		"battle": 4260,
+		"level": 67,
+		"other_critDamage": 20000
+	},
+	"68": {
+		"base_atk": 144,
+		"base_def": 72,
+		"base_hpMax": 1440,
+		"base_sunder": 72,
+		"battle": 4320,
+		"level": 68,
+		"other_critDamage": 20000
+	},
+	"69": {
+		"base_atk": 146,
+		"base_def": 73,
+		"base_hpMax": 1460,
+		"base_sunder": 73,
+		"battle": 4380,
+		"level": 69,
+		"other_critDamage": 20000
+	},
+	"70": {
+		"base_atk": 148,
+		"base_def": 74,
+		"base_hpMax": 1480,
+		"base_sunder": 74,
+		"battle": 4440,
+		"level": 70,
+		"other_critDamage": 20000
+	},
+	"71": {
+		"base_atk": 150,
+		"base_def": 75,
+		"base_hpMax": 1500,
+		"base_sunder": 75,
+		"battle": 4500,
+		"level": 71,
+		"other_critDamage": 20000
+	},
+	"72": {
+		"base_atk": 152,
+		"base_def": 76,
+		"base_hpMax": 1520,
+		"base_sunder": 76,
+		"battle": 4560,
+		"level": 72,
+		"other_critDamage": 20000
+	},
+	"73": {
+		"base_atk": 154,
+		"base_def": 77,
+		"base_hpMax": 1540,
+		"base_sunder": 77,
+		"battle": 4620,
+		"level": 73,
+		"other_critDamage": 20000
+	},
+	"74": {
+		"base_atk": 156,
+		"base_def": 78,
+		"base_hpMax": 1560,
+		"base_sunder": 78,
+		"battle": 4680,
+		"level": 74,
+		"other_critDamage": 20000
+	},
+	"75": {
+		"base_atk": 158,
+		"base_def": 79,
+		"base_hpMax": 1580,
+		"base_sunder": 79,
+		"battle": 4740,
+		"level": 75,
+		"other_critDamage": 20000
+	},
+	"76": {
+		"base_atk": 160,
+		"base_def": 80,
+		"base_hpMax": 1600,
+		"base_sunder": 80,
+		"battle": 4800,
+		"level": 76,
+		"other_critDamage": 20000
+	},
+	"77": {
+		"base_atk": 162,
+		"base_def": 81,
+		"base_hpMax": 1620,
+		"base_sunder": 81,
+		"battle": 4860,
+		"level": 77,
+		"other_critDamage": 20000
+	},
+	"78": {
+		"base_atk": 164,
+		"base_def": 82,
+		"base_hpMax": 1640,
+		"base_sunder": 82,
+		"battle": 4920,
+		"level": 78,
+		"other_critDamage": 20000
+	},
+	"79": {
+		"base_atk": 166,
+		"base_def": 83,
+		"base_hpMax": 1660,
+		"base_sunder": 83,
+		"battle": 4980,
+		"level": 79,
+		"other_critDamage": 20000
+	},
+	"80": {
+		"base_atk": 168,
+		"base_def": 84,
+		"base_hpMax": 1680,
+		"base_sunder": 84,
+		"battle": 5040,
+		"level": 80,
+		"other_critDamage": 20000
+	},
+	"81": {
+		"base_atk": 170,
+		"base_def": 85,
+		"base_hpMax": 1700,
+		"base_sunder": 85,
+		"battle": 5100,
+		"level": 81,
+		"other_critDamage": 20000
+	},
+	"82": {
+		"base_atk": 172,
+		"base_def": 86,
+		"base_hpMax": 1720,
+		"base_sunder": 86,
+		"battle": 5160,
+		"level": 82,
+		"other_critDamage": 20000
+	},
+	"83": {
+		"base_atk": 174,
+		"base_def": 87,
+		"base_hpMax": 1740,
+		"base_sunder": 87,
+		"battle": 5220,
+		"level": 83,
+		"other_critDamage": 20000
+	},
+	"84": {
+		"base_atk": 176,
+		"base_def": 88,
+		"base_hpMax": 1760,
+		"base_sunder": 88,
+		"battle": 5280,
+		"level": 84,
+		"other_critDamage": 20000
+	},
+	"85": {
+		"base_atk": 178,
+		"base_def": 89,
+		"base_hpMax": 1780,
+		"base_sunder": 89,
+		"battle": 5340,
+		"level": 85,
+		"other_critDamage": 20000
+	},
+	"86": {
+		"base_atk": 180,
+		"base_def": 90,
+		"base_hpMax": 1800,
+		"base_sunder": 90,
+		"battle": 5400,
+		"level": 86,
+		"other_critDamage": 20000
+	},
+	"87": {
+		"base_atk": 182,
+		"base_def": 91,
+		"base_hpMax": 1820,
+		"base_sunder": 91,
+		"battle": 5460,
+		"level": 87,
+		"other_critDamage": 20000
+	},
+	"88": {
+		"base_atk": 184,
+		"base_def": 92,
+		"base_hpMax": 1840,
+		"base_sunder": 92,
+		"battle": 5520,
+		"level": 88,
+		"other_critDamage": 20000
+	},
+	"89": {
+		"base_atk": 186,
+		"base_def": 93,
+		"base_hpMax": 1860,
+		"base_sunder": 93,
+		"battle": 5580,
+		"level": 89,
+		"other_critDamage": 20000
+	},
+	"90": {
+		"base_atk": 188,
+		"base_def": 94,
+		"base_hpMax": 1880,
+		"base_sunder": 94,
+		"battle": 5640,
+		"level": 90,
+		"other_critDamage": 20000
+	},
+	"91": {
+		"base_atk": 190,
+		"base_def": 95,
+		"base_hpMax": 1900,
+		"base_sunder": 95,
+		"battle": 5700,
+		"level": 91,
+		"other_critDamage": 20000
+	},
+	"92": {
+		"base_atk": 192,
+		"base_def": 96,
+		"base_hpMax": 1920,
+		"base_sunder": 96,
+		"battle": 5760,
+		"level": 92,
+		"other_critDamage": 20000
+	},
+	"93": {
+		"base_atk": 194,
+		"base_def": 97,
+		"base_hpMax": 1940,
+		"base_sunder": 97,
+		"battle": 5820,
+		"level": 93,
+		"other_critDamage": 20000
+	},
+	"94": {
+		"base_atk": 196,
+		"base_def": 98,
+		"base_hpMax": 1960,
+		"base_sunder": 98,
+		"battle": 5880,
+		"level": 94,
+		"other_critDamage": 20000
+	},
+	"95": {
+		"base_atk": 198,
+		"base_def": 99,
+		"base_hpMax": 1980,
+		"base_sunder": 99,
+		"battle": 5940,
+		"level": 95,
+		"other_critDamage": 20000
+	},
+	"96": {
+		"base_atk": 200,
+		"base_def": 100,
+		"base_hpMax": 2000,
+		"base_sunder": 100,
+		"battle": 6000,
+		"level": 96,
+		"other_critDamage": 20000
+	},
+	"97": {
+		"base_atk": 202,
+		"base_def": 101,
+		"base_hpMax": 2020,
+		"base_sunder": 101,
+		"battle": 6060,
+		"level": 97,
+		"other_critDamage": 20000
+	},
+	"98": {
+		"base_atk": 204,
+		"base_def": 102,
+		"base_hpMax": 2040,
+		"base_sunder": 102,
+		"battle": 6120,
+		"level": 98,
+		"other_critDamage": 20000
+	},
+	"99": {
+		"base_atk": 206,
+		"base_def": 103,
+		"base_hpMax": 2060,
+		"base_sunder": 103,
+		"battle": 6180,
+		"level": 99,
+		"other_critDamage": 20000
+	},
+	"100": {
+		"base_atk": 208,
+		"base_def": 104,
+		"base_hpMax": 2080,
+		"base_sunder": 104,
+		"battle": 6240,
+		"level": 100,
+		"other_critDamage": 20000
+	},
+	"101": {
+		"base_atk": 210,
+		"base_def": 105,
+		"base_hpMax": 2100,
+		"base_sunder": 105,
+		"battle": 6300,
+		"level": 101,
+		"other_critDamage": 20000
+	},
+	"102": {
+		"base_atk": 212,
+		"base_def": 106,
+		"base_hpMax": 2120,
+		"base_sunder": 106,
+		"battle": 6360,
+		"level": 102,
+		"other_critDamage": 20000
+	},
+	"103": {
+		"base_atk": 214,
+		"base_def": 107,
+		"base_hpMax": 2140,
+		"base_sunder": 107,
+		"battle": 6420,
+		"level": 103,
+		"other_critDamage": 20000
+	},
+	"104": {
+		"base_atk": 216,
+		"base_def": 108,
+		"base_hpMax": 2160,
+		"base_sunder": 108,
+		"battle": 6480,
+		"level": 104,
+		"other_critDamage": 20000
+	},
+	"105": {
+		"base_atk": 218,
+		"base_def": 109,
+		"base_hpMax": 2180,
+		"base_sunder": 109,
+		"battle": 6540,
+		"level": 105,
+		"other_critDamage": 20000
+	},
+	"106": {
+		"base_atk": 220,
+		"base_def": 110,
+		"base_hpMax": 2200,
+		"base_sunder": 110,
+		"battle": 6600,
+		"level": 106,
+		"other_critDamage": 20000
+	},
+	"107": {
+		"base_atk": 222,
+		"base_def": 111,
+		"base_hpMax": 2220,
+		"base_sunder": 111,
+		"battle": 6660,
+		"level": 107,
+		"other_critDamage": 20000
+	},
+	"108": {
+		"base_atk": 224,
+		"base_def": 112,
+		"base_hpMax": 2240,
+		"base_sunder": 112,
+		"battle": 6720,
+		"level": 108,
+		"other_critDamage": 20000
+	},
+	"109": {
+		"base_atk": 226,
+		"base_def": 113,
+		"base_hpMax": 2260,
+		"base_sunder": 113,
+		"battle": 6780,
+		"level": 109,
+		"other_critDamage": 20000
+	},
+	"110": {
+		"base_atk": 228,
+		"base_def": 114,
+		"base_hpMax": 2280,
+		"base_sunder": 114,
+		"battle": 6840,
+		"level": 110,
+		"other_critDamage": 20000
+	},
+	"111": {
+		"base_atk": 230,
+		"base_def": 115,
+		"base_hpMax": 2300,
+		"base_sunder": 115,
+		"battle": 6900,
+		"level": 111,
+		"other_critDamage": 20000
+	},
+	"112": {
+		"base_atk": 232,
+		"base_def": 116,
+		"base_hpMax": 2320,
+		"base_sunder": 116,
+		"battle": 6960,
+		"level": 112,
+		"other_critDamage": 20000
+	},
+	"113": {
+		"base_atk": 234,
+		"base_def": 117,
+		"base_hpMax": 2340,
+		"base_sunder": 117,
+		"battle": 7020,
+		"level": 113,
+		"other_critDamage": 20000
+	},
+	"114": {
+		"base_atk": 236,
+		"base_def": 118,
+		"base_hpMax": 2360,
+		"base_sunder": 118,
+		"battle": 7080,
+		"level": 114,
+		"other_critDamage": 20000
+	},
+	"115": {
+		"base_atk": 238,
+		"base_def": 119,
+		"base_hpMax": 2380,
+		"base_sunder": 119,
+		"battle": 7140,
+		"level": 115,
+		"other_critDamage": 20000
+	},
+	"116": {
+		"base_atk": 240,
+		"base_def": 120,
+		"base_hpMax": 2400,
+		"base_sunder": 120,
+		"battle": 7200,
+		"level": 116,
+		"other_critDamage": 20000
+	},
+	"117": {
+		"base_atk": 242,
+		"base_def": 121,
+		"base_hpMax": 2420,
+		"base_sunder": 121,
+		"battle": 7260,
+		"level": 117,
+		"other_critDamage": 20000
+	},
+	"118": {
+		"base_atk": 244,
+		"base_def": 122,
+		"base_hpMax": 2440,
+		"base_sunder": 122,
+		"battle": 7320,
+		"level": 118,
+		"other_critDamage": 20000
+	},
+	"119": {
+		"base_atk": 246,
+		"base_def": 123,
+		"base_hpMax": 2460,
+		"base_sunder": 123,
+		"battle": 7380,
+		"level": 119,
+		"other_critDamage": 20000
+	},
+	"120": {
+		"base_atk": 248,
+		"base_def": 124,
+		"base_hpMax": 2480,
+		"base_sunder": 124,
+		"battle": 7440,
+		"level": 120,
+		"other_critDamage": 20000
+	},
+	"121": {
+		"base_atk": 250,
+		"base_def": 125,
+		"base_hpMax": 2500,
+		"base_sunder": 125,
+		"battle": 7500,
+		"level": 121,
+		"other_critDamage": 20000
+	},
+	"122": {
+		"base_atk": 252,
+		"base_def": 126,
+		"base_hpMax": 2520,
+		"base_sunder": 126,
+		"battle": 7560,
+		"level": 122,
+		"other_critDamage": 20000
+	},
+	"123": {
+		"base_atk": 254,
+		"base_def": 127,
+		"base_hpMax": 2540,
+		"base_sunder": 127,
+		"battle": 7620,
+		"level": 123,
+		"other_critDamage": 20000
+	},
+	"124": {
+		"base_atk": 256,
+		"base_def": 128,
+		"base_hpMax": 2560,
+		"base_sunder": 128,
+		"battle": 7680,
+		"level": 124,
+		"other_critDamage": 20000
+	},
+	"125": {
+		"base_atk": 258,
+		"base_def": 129,
+		"base_hpMax": 2580,
+		"base_sunder": 129,
+		"battle": 7740,
+		"level": 125,
+		"other_critDamage": 20000
+	},
+	"126": {
+		"base_atk": 260,
+		"base_def": 130,
+		"base_hpMax": 2600,
+		"base_sunder": 130,
+		"battle": 7800,
+		"level": 126,
+		"other_critDamage": 20000
+	},
+	"127": {
+		"base_atk": 262,
+		"base_def": 131,
+		"base_hpMax": 2620,
+		"base_sunder": 131,
+		"battle": 7860,
+		"level": 127,
+		"other_critDamage": 20000
+	},
+	"128": {
+		"base_atk": 264,
+		"base_def": 132,
+		"base_hpMax": 2640,
+		"base_sunder": 132,
+		"battle": 7920,
+		"level": 128,
+		"other_critDamage": 20000
+	},
+	"129": {
+		"base_atk": 266,
+		"base_def": 133,
+		"base_hpMax": 2660,
+		"base_sunder": 133,
+		"battle": 7980,
+		"level": 129,
+		"other_critDamage": 20000
+	},
+	"130": {
+		"base_atk": 268,
+		"base_def": 134,
+		"base_hpMax": 2680,
+		"base_sunder": 134,
+		"battle": 8040,
+		"level": 130,
+		"other_critDamage": 20000
+	},
+	"131": {
+		"base_atk": 270,
+		"base_def": 135,
+		"base_hpMax": 2700,
+		"base_sunder": 135,
+		"battle": 8100,
+		"level": 131,
+		"other_critDamage": 20000
+	},
+	"132": {
+		"base_atk": 272,
+		"base_def": 136,
+		"base_hpMax": 2720,
+		"base_sunder": 136,
+		"battle": 8160,
+		"level": 132,
+		"other_critDamage": 20000
+	},
+	"133": {
+		"base_atk": 274,
+		"base_def": 137,
+		"base_hpMax": 2740,
+		"base_sunder": 137,
+		"battle": 8220,
+		"level": 133,
+		"other_critDamage": 20000
+	},
+	"134": {
+		"base_atk": 276,
+		"base_def": 138,
+		"base_hpMax": 2760,
+		"base_sunder": 138,
+		"battle": 8280,
+		"level": 134,
+		"other_critDamage": 20000
+	},
+	"135": {
+		"base_atk": 278,
+		"base_def": 139,
+		"base_hpMax": 2780,
+		"base_sunder": 139,
+		"battle": 8340,
+		"level": 135,
+		"other_critDamage": 20000
+	},
+	"136": {
+		"base_atk": 280,
+		"base_def": 140,
+		"base_hpMax": 2800,
+		"base_sunder": 140,
+		"battle": 8400,
+		"level": 136,
+		"other_critDamage": 20000
+	},
+	"137": {
+		"base_atk": 282,
+		"base_def": 141,
+		"base_hpMax": 2820,
+		"base_sunder": 141,
+		"battle": 8460,
+		"level": 137,
+		"other_critDamage": 20000
+	},
+	"138": {
+		"base_atk": 284,
+		"base_def": 142,
+		"base_hpMax": 2840,
+		"base_sunder": 142,
+		"battle": 8520,
+		"level": 138,
+		"other_critDamage": 20000
+	},
+	"139": {
+		"base_atk": 286,
+		"base_def": 143,
+		"base_hpMax": 2860,
+		"base_sunder": 143,
+		"battle": 8580,
+		"level": 139,
+		"other_critDamage": 20000
+	},
+	"140": {
+		"base_atk": 288,
+		"base_def": 144,
+		"base_hpMax": 2880,
+		"base_sunder": 144,
+		"battle": 8640,
+		"level": 140,
+		"other_critDamage": 20000
+	},
+	"141": {
+		"base_atk": 290,
+		"base_def": 145,
+		"base_hpMax": 2900,
+		"base_sunder": 145,
+		"battle": 8700,
+		"level": 141,
+		"other_critDamage": 20000
+	},
+	"142": {
+		"base_atk": 292,
+		"base_def": 146,
+		"base_hpMax": 2920,
+		"base_sunder": 146,
+		"battle": 8760,
+		"level": 142,
+		"other_critDamage": 20000
+	},
+	"143": {
+		"base_atk": 294,
+		"base_def": 147,
+		"base_hpMax": 2940,
+		"base_sunder": 147,
+		"battle": 8820,
+		"level": 143,
+		"other_critDamage": 20000
+	},
+	"144": {
+		"base_atk": 296,
+		"base_def": 148,
+		"base_hpMax": 2960,
+		"base_sunder": 148,
+		"battle": 8880,
+		"level": 144,
+		"other_critDamage": 20000
+	},
+	"145": {
+		"base_atk": 298,
+		"base_def": 149,
+		"base_hpMax": 2980,
+		"base_sunder": 149,
+		"battle": 8940,
+		"level": 145,
+		"other_critDamage": 20000
+	},
+	"146": {
+		"base_atk": 300,
+		"base_def": 150,
+		"base_hpMax": 3000,
+		"base_sunder": 150,
+		"battle": 9000,
+		"level": 146,
+		"other_critDamage": 20000
+	},
+	"147": {
+		"base_atk": 302,
+		"base_def": 151,
+		"base_hpMax": 3020,
+		"base_sunder": 151,
+		"battle": 9060,
+		"level": 147,
+		"other_critDamage": 20000
+	},
+	"148": {
+		"base_atk": 304,
+		"base_def": 152,
+		"base_hpMax": 3040,
+		"base_sunder": 152,
+		"battle": 9120,
+		"level": 148,
+		"other_critDamage": 20000
+	},
+	"149": {
+		"base_atk": 306,
+		"base_def": 153,
+		"base_hpMax": 3060,
+		"base_sunder": 153,
+		"battle": 9180,
+		"level": 149,
+		"other_critDamage": 20000
+	},
+	"150": {
+		"base_atk": 308,
+		"base_def": 154,
+		"base_hpMax": 3080,
+		"base_sunder": 154,
+		"battle": 9240,
+		"level": 150,
+		"other_critDamage": 20000
+	},
+	"151": {
+		"base_atk": 310,
+		"base_def": 155,
+		"base_hpMax": 3100,
+		"base_sunder": 155,
+		"battle": 9300,
+		"level": 151,
+		"other_critDamage": 20000
+	},
+	"152": {
+		"base_atk": 312,
+		"base_def": 156,
+		"base_hpMax": 3120,
+		"base_sunder": 156,
+		"battle": 9360,
+		"level": 152,
+		"other_critDamage": 20000
+	},
+	"153": {
+		"base_atk": 314,
+		"base_def": 157,
+		"base_hpMax": 3140,
+		"base_sunder": 157,
+		"battle": 9420,
+		"level": 153,
+		"other_critDamage": 20000
+	},
+	"154": {
+		"base_atk": 316,
+		"base_def": 158,
+		"base_hpMax": 3160,
+		"base_sunder": 158,
+		"battle": 9480,
+		"level": 154,
+		"other_critDamage": 20000
+	},
+	"155": {
+		"base_atk": 318,
+		"base_def": 159,
+		"base_hpMax": 3180,
+		"base_sunder": 159,
+		"battle": 9540,
+		"level": 155,
+		"other_critDamage": 20000
+	},
+	"156": {
+		"base_atk": 320,
+		"base_def": 160,
+		"base_hpMax": 3200,
+		"base_sunder": 160,
+		"battle": 9600,
+		"level": 156,
+		"other_critDamage": 20000
+	},
+	"157": {
+		"base_atk": 322,
+		"base_def": 161,
+		"base_hpMax": 3220,
+		"base_sunder": 161,
+		"battle": 9660,
+		"level": 157,
+		"other_critDamage": 20000
+	},
+	"158": {
+		"base_atk": 324,
+		"base_def": 162,
+		"base_hpMax": 3240,
+		"base_sunder": 162,
+		"battle": 9720,
+		"level": 158,
+		"other_critDamage": 20000
+	},
+	"159": {
+		"base_atk": 326,
+		"base_def": 163,
+		"base_hpMax": 3260,
+		"base_sunder": 163,
+		"battle": 9780,
+		"level": 159,
+		"other_critDamage": 20000
+	},
+	"160": {
+		"base_atk": 328,
+		"base_def": 164,
+		"base_hpMax": 3280,
+		"base_sunder": 164,
+		"battle": 9840,
+		"level": 160,
+		"other_critDamage": 20000
+	},
+	"161": {
+		"base_atk": 330,
+		"base_def": 165,
+		"base_hpMax": 3300,
+		"base_sunder": 165,
+		"battle": 9900,
+		"level": 161,
+		"other_critDamage": 20000
+	},
+	"162": {
+		"base_atk": 332,
+		"base_def": 166,
+		"base_hpMax": 3320,
+		"base_sunder": 166,
+		"battle": 9960,
+		"level": 162,
+		"other_critDamage": 20000
+	},
+	"163": {
+		"base_atk": 334,
+		"base_def": 167,
+		"base_hpMax": 3340,
+		"base_sunder": 167,
+		"battle": 10020,
+		"level": 163,
+		"other_critDamage": 20000
+	},
+	"164": {
+		"base_atk": 336,
+		"base_def": 168,
+		"base_hpMax": 3360,
+		"base_sunder": 168,
+		"battle": 10080,
+		"level": 164,
+		"other_critDamage": 20000
+	},
+	"165": {
+		"base_atk": 338,
+		"base_def": 169,
+		"base_hpMax": 3380,
+		"base_sunder": 169,
+		"battle": 10140,
+		"level": 165,
+		"other_critDamage": 20000
+	},
+	"166": {
+		"base_atk": 340,
+		"base_def": 170,
+		"base_hpMax": 3400,
+		"base_sunder": 170,
+		"battle": 10200,
+		"level": 166,
+		"other_critDamage": 20000
+	},
+	"167": {
+		"base_atk": 342,
+		"base_def": 171,
+		"base_hpMax": 3420,
+		"base_sunder": 171,
+		"battle": 10260,
+		"level": 167,
+		"other_critDamage": 20000
+	},
+	"168": {
+		"base_atk": 344,
+		"base_def": 172,
+		"base_hpMax": 3440,
+		"base_sunder": 172,
+		"battle": 10320,
+		"level": 168,
+		"other_critDamage": 20000
+	},
+	"169": {
+		"base_atk": 346,
+		"base_def": 173,
+		"base_hpMax": 3460,
+		"base_sunder": 173,
+		"battle": 10380,
+		"level": 169,
+		"other_critDamage": 20000
+	},
+	"170": {
+		"base_atk": 348,
+		"base_def": 174,
+		"base_hpMax": 3480,
+		"base_sunder": 174,
+		"battle": 10440,
+		"level": 170,
+		"other_critDamage": 20000
+	},
+	"171": {
+		"base_atk": 350,
+		"base_def": 175,
+		"base_hpMax": 3500,
+		"base_sunder": 175,
+		"battle": 10500,
+		"level": 171,
+		"other_critDamage": 20000
+	},
+	"172": {
+		"base_atk": 352,
+		"base_def": 176,
+		"base_hpMax": 3520,
+		"base_sunder": 176,
+		"battle": 10560,
+		"level": 172,
+		"other_critDamage": 20000
+	},
+	"173": {
+		"base_atk": 354,
+		"base_def": 177,
+		"base_hpMax": 3540,
+		"base_sunder": 177,
+		"battle": 10620,
+		"level": 173,
+		"other_critDamage": 20000
+	},
+	"174": {
+		"base_atk": 356,
+		"base_def": 178,
+		"base_hpMax": 3560,
+		"base_sunder": 178,
+		"battle": 10680,
+		"level": 174,
+		"other_critDamage": 20000
+	},
+	"175": {
+		"base_atk": 358,
+		"base_def": 179,
+		"base_hpMax": 3580,
+		"base_sunder": 179,
+		"battle": 10740,
+		"level": 175,
+		"other_critDamage": 20000
+	},
+	"176": {
+		"base_atk": 360,
+		"base_def": 180,
+		"base_hpMax": 3600,
+		"base_sunder": 180,
+		"battle": 10800,
+		"level": 176,
+		"other_critDamage": 20000
+	},
+	"177": {
+		"base_atk": 362,
+		"base_def": 181,
+		"base_hpMax": 3620,
+		"base_sunder": 181,
+		"battle": 10860,
+		"level": 177,
+		"other_critDamage": 20000
+	},
+	"178": {
+		"base_atk": 364,
+		"base_def": 182,
+		"base_hpMax": 3640,
+		"base_sunder": 182,
+		"battle": 10920,
+		"level": 178,
+		"other_critDamage": 20000
+	},
+	"179": {
+		"base_atk": 366,
+		"base_def": 183,
+		"base_hpMax": 3660,
+		"base_sunder": 183,
+		"battle": 10980,
+		"level": 179,
+		"other_critDamage": 20000
+	},
+	"180": {
+		"base_atk": 368,
+		"base_def": 184,
+		"base_hpMax": 3680,
+		"base_sunder": 184,
+		"battle": 11040,
+		"level": 180,
+		"other_critDamage": 20000
+	},
+	"181": {
+		"base_atk": 370,
+		"base_def": 185,
+		"base_hpMax": 3700,
+		"base_sunder": 185,
+		"battle": 11100,
+		"level": 181,
+		"other_critDamage": 20000
+	},
+	"182": {
+		"base_atk": 372,
+		"base_def": 186,
+		"base_hpMax": 3720,
+		"base_sunder": 186,
+		"battle": 11160,
+		"level": 182,
+		"other_critDamage": 20000
+	},
+	"183": {
+		"base_atk": 374,
+		"base_def": 187,
+		"base_hpMax": 3740,
+		"base_sunder": 187,
+		"battle": 11220,
+		"level": 183,
+		"other_critDamage": 20000
+	},
+	"184": {
+		"base_atk": 376,
+		"base_def": 188,
+		"base_hpMax": 3760,
+		"base_sunder": 188,
+		"battle": 11280,
+		"level": 184,
+		"other_critDamage": 20000
+	},
+	"185": {
+		"base_atk": 378,
+		"base_def": 189,
+		"base_hpMax": 3780,
+		"base_sunder": 189,
+		"battle": 11340,
+		"level": 185,
+		"other_critDamage": 20000
+	},
+	"186": {
+		"base_atk": 380,
+		"base_def": 190,
+		"base_hpMax": 3800,
+		"base_sunder": 190,
+		"battle": 11400,
+		"level": 186,
+		"other_critDamage": 20000
+	},
+	"187": {
+		"base_atk": 382,
+		"base_def": 191,
+		"base_hpMax": 3820,
+		"base_sunder": 191,
+		"battle": 11460,
+		"level": 187,
+		"other_critDamage": 20000
+	},
+	"188": {
+		"base_atk": 384,
+		"base_def": 192,
+		"base_hpMax": 3840,
+		"base_sunder": 192,
+		"battle": 11520,
+		"level": 188,
+		"other_critDamage": 20000
+	},
+	"189": {
+		"base_atk": 386,
+		"base_def": 193,
+		"base_hpMax": 3860,
+		"base_sunder": 193,
+		"battle": 11580,
+		"level": 189,
+		"other_critDamage": 20000
+	},
+	"190": {
+		"base_atk": 388,
+		"base_def": 194,
+		"base_hpMax": 3880,
+		"base_sunder": 194,
+		"battle": 11640,
+		"level": 190,
+		"other_critDamage": 20000
+	},
+	"191": {
+		"base_atk": 390,
+		"base_def": 195,
+		"base_hpMax": 3900,
+		"base_sunder": 195,
+		"battle": 11700,
+		"level": 191,
+		"other_critDamage": 20000
+	},
+	"192": {
+		"base_atk": 392,
+		"base_def": 196,
+		"base_hpMax": 3920,
+		"base_sunder": 196,
+		"battle": 11760,
+		"level": 192,
+		"other_critDamage": 20000
+	},
+	"193": {
+		"base_atk": 394,
+		"base_def": 197,
+		"base_hpMax": 3940,
+		"base_sunder": 197,
+		"battle": 11820,
+		"level": 193,
+		"other_critDamage": 20000
+	},
+	"194": {
+		"base_atk": 396,
+		"base_def": 198,
+		"base_hpMax": 3960,
+		"base_sunder": 198,
+		"battle": 11880,
+		"level": 194,
+		"other_critDamage": 20000
+	},
+	"195": {
+		"base_atk": 398,
+		"base_def": 199,
+		"base_hpMax": 3980,
+		"base_sunder": 199,
+		"battle": 11940,
+		"level": 195,
+		"other_critDamage": 20000
+	},
+	"196": {
+		"base_atk": 400,
+		"base_def": 200,
+		"base_hpMax": 4000,
+		"base_sunder": 200,
+		"battle": 12000,
+		"level": 196,
+		"other_critDamage": 20000
+	},
+	"197": {
+		"base_atk": 402,
+		"base_def": 201,
+		"base_hpMax": 4020,
+		"base_sunder": 201,
+		"battle": 12060,
+		"level": 197,
+		"other_critDamage": 20000
+	},
+	"198": {
+		"base_atk": 404,
+		"base_def": 202,
+		"base_hpMax": 4040,
+		"base_sunder": 202,
+		"battle": 12120,
+		"level": 198,
+		"other_critDamage": 20000
+	},
+	"199": {
+		"base_atk": 406,
+		"base_def": 203,
+		"base_hpMax": 4060,
+		"base_sunder": 203,
+		"battle": 12180,
+		"level": 199,
+		"other_critDamage": 20000
+	},
+	"200": {
+		"base_atk": 408,
+		"base_def": 204,
+		"base_hpMax": 4080,
+		"base_sunder": 204,
+		"battle": 12240,
+		"level": 200,
+		"other_critDamage": 20000
+	},
+	"201": {
+		"base_atk": 410,
+		"base_def": 205,
+		"base_hpMax": 4100,
+		"base_sunder": 205,
+		"battle": 12300,
+		"level": 201,
+		"other_critDamage": 20000
+	},
+	"202": {
+		"base_atk": 412,
+		"base_def": 206,
+		"base_hpMax": 4120,
+		"base_sunder": 206,
+		"battle": 12360,
+		"level": 202,
+		"other_critDamage": 20000
+	},
+	"203": {
+		"base_atk": 414,
+		"base_def": 207,
+		"base_hpMax": 4140,
+		"base_sunder": 207,
+		"battle": 12420,
+		"level": 203,
+		"other_critDamage": 20000
+	},
+	"204": {
+		"base_atk": 416,
+		"base_def": 208,
+		"base_hpMax": 4160,
+		"base_sunder": 208,
+		"battle": 12480,
+		"level": 204,
+		"other_critDamage": 20000
+	},
+	"205": {
+		"base_atk": 418,
+		"base_def": 209,
+		"base_hpMax": 4180,
+		"base_sunder": 209,
+		"battle": 12540,
+		"level": 205,
+		"other_critDamage": 20000
+	},
+	"206": {
+		"base_atk": 420,
+		"base_def": 210,
+		"base_hpMax": 4200,
+		"base_sunder": 210,
+		"battle": 12600,
+		"level": 206,
+		"other_critDamage": 20000
+	},
+	"207": {
+		"base_atk": 422,
+		"base_def": 211,
+		"base_hpMax": 4220,
+		"base_sunder": 211,
+		"battle": 12660,
+		"level": 207,
+		"other_critDamage": 20000
+	},
+	"208": {
+		"base_atk": 424,
+		"base_def": 212,
+		"base_hpMax": 4240,
+		"base_sunder": 212,
+		"battle": 12720,
+		"level": 208,
+		"other_critDamage": 20000
+	},
+	"209": {
+		"base_atk": 426,
+		"base_def": 213,
+		"base_hpMax": 4260,
+		"base_sunder": 213,
+		"battle": 12780,
+		"level": 209,
+		"other_critDamage": 20000
+	},
+	"210": {
+		"base_atk": 428,
+		"base_def": 214,
+		"base_hpMax": 4280,
+		"base_sunder": 214,
+		"battle": 12840,
+		"level": 210,
+		"other_critDamage": 20000
+	},
+	"211": {
+		"base_atk": 430,
+		"base_def": 215,
+		"base_hpMax": 4300,
+		"base_sunder": 215,
+		"battle": 12900,
+		"level": 211,
+		"other_critDamage": 20000
+	},
+	"212": {
+		"base_atk": 432,
+		"base_def": 216,
+		"base_hpMax": 4320,
+		"base_sunder": 216,
+		"battle": 12960,
+		"level": 212,
+		"other_critDamage": 20000
+	},
+	"213": {
+		"base_atk": 434,
+		"base_def": 217,
+		"base_hpMax": 4340,
+		"base_sunder": 217,
+		"battle": 13020,
+		"level": 213,
+		"other_critDamage": 20000
+	},
+	"214": {
+		"base_atk": 436,
+		"base_def": 218,
+		"base_hpMax": 4360,
+		"base_sunder": 218,
+		"battle": 13080,
+		"level": 214,
+		"other_critDamage": 20000
+	},
+	"215": {
+		"base_atk": 438,
+		"base_def": 219,
+		"base_hpMax": 4380,
+		"base_sunder": 219,
+		"battle": 13140,
+		"level": 215,
+		"other_critDamage": 20000
+	},
+	"216": {
+		"base_atk": 440,
+		"base_def": 220,
+		"base_hpMax": 4400,
+		"base_sunder": 220,
+		"battle": 13200,
+		"level": 216,
+		"other_critDamage": 20000
+	},
+	"217": {
+		"base_atk": 442,
+		"base_def": 221,
+		"base_hpMax": 4420,
+		"base_sunder": 221,
+		"battle": 13260,
+		"level": 217,
+		"other_critDamage": 20000
+	},
+	"218": {
+		"base_atk": 444,
+		"base_def": 222,
+		"base_hpMax": 4440,
+		"base_sunder": 222,
+		"battle": 13320,
+		"level": 218,
+		"other_critDamage": 20000
+	},
+	"219": {
+		"base_atk": 446,
+		"base_def": 223,
+		"base_hpMax": 4460,
+		"base_sunder": 223,
+		"battle": 13380,
+		"level": 219,
+		"other_critDamage": 20000
+	},
+	"220": {
+		"base_atk": 448,
+		"base_def": 224,
+		"base_hpMax": 4480,
+		"base_sunder": 224,
+		"battle": 13440,
+		"level": 220,
+		"other_critDamage": 20000
+	},
+	"221": {
+		"base_atk": 450,
+		"base_def": 225,
+		"base_hpMax": 4500,
+		"base_sunder": 225,
+		"battle": 13500,
+		"level": 221,
+		"other_critDamage": 20000
+	},
+	"222": {
+		"base_atk": 452,
+		"base_def": 226,
+		"base_hpMax": 4520,
+		"base_sunder": 226,
+		"battle": 13560,
+		"level": 222,
+		"other_critDamage": 20000
+	},
+	"223": {
+		"base_atk": 454,
+		"base_def": 227,
+		"base_hpMax": 4540,
+		"base_sunder": 227,
+		"battle": 13620,
+		"level": 223,
+		"other_critDamage": 20000
+	},
+	"224": {
+		"base_atk": 456,
+		"base_def": 228,
+		"base_hpMax": 4560,
+		"base_sunder": 228,
+		"battle": 13680,
+		"level": 224,
+		"other_critDamage": 20000
+	},
+	"225": {
+		"base_atk": 458,
+		"base_def": 229,
+		"base_hpMax": 4580,
+		"base_sunder": 229,
+		"battle": 13740,
+		"level": 225,
+		"other_critDamage": 20000
+	},
+	"226": {
+		"base_atk": 460,
+		"base_def": 230,
+		"base_hpMax": 4600,
+		"base_sunder": 230,
+		"battle": 13800,
+		"level": 226,
+		"other_critDamage": 20000
+	},
+	"227": {
+		"base_atk": 462,
+		"base_def": 231,
+		"base_hpMax": 4620,
+		"base_sunder": 231,
+		"battle": 13860,
+		"level": 227,
+		"other_critDamage": 20000
+	},
+	"228": {
+		"base_atk": 464,
+		"base_def": 232,
+		"base_hpMax": 4640,
+		"base_sunder": 232,
+		"battle": 13920,
+		"level": 228,
+		"other_critDamage": 20000
+	},
+	"229": {
+		"base_atk": 466,
+		"base_def": 233,
+		"base_hpMax": 4660,
+		"base_sunder": 233,
+		"battle": 13980,
+		"level": 229,
+		"other_critDamage": 20000
+	},
+	"230": {
+		"base_atk": 468,
+		"base_def": 234,
+		"base_hpMax": 4680,
+		"base_sunder": 234,
+		"battle": 14040,
+		"level": 230,
+		"other_critDamage": 20000
+	},
+	"231": {
+		"base_atk": 470,
+		"base_def": 235,
+		"base_hpMax": 4700,
+		"base_sunder": 235,
+		"battle": 14100,
+		"level": 231,
+		"other_critDamage": 20000
+	},
+	"232": {
+		"base_atk": 472,
+		"base_def": 236,
+		"base_hpMax": 4720,
+		"base_sunder": 236,
+		"battle": 14160,
+		"level": 232,
+		"other_critDamage": 20000
+	},
+	"233": {
+		"base_atk": 474,
+		"base_def": 237,
+		"base_hpMax": 4740,
+		"base_sunder": 237,
+		"battle": 14220,
+		"level": 233,
+		"other_critDamage": 20000
+	},
+	"234": {
+		"base_atk": 476,
+		"base_def": 238,
+		"base_hpMax": 4760,
+		"base_sunder": 238,
+		"battle": 14280,
+		"level": 234,
+		"other_critDamage": 20000
+	},
+	"235": {
+		"base_atk": 478,
+		"base_def": 239,
+		"base_hpMax": 4780,
+		"base_sunder": 239,
+		"battle": 14340,
+		"level": 235,
+		"other_critDamage": 20000
+	},
+	"236": {
+		"base_atk": 480,
+		"base_def": 240,
+		"base_hpMax": 4800,
+		"base_sunder": 240,
+		"battle": 14400,
+		"level": 236,
+		"other_critDamage": 20000
+	},
+	"237": {
+		"base_atk": 482,
+		"base_def": 241,
+		"base_hpMax": 4820,
+		"base_sunder": 241,
+		"battle": 14460,
+		"level": 237,
+		"other_critDamage": 20000
+	},
+	"238": {
+		"base_atk": 484,
+		"base_def": 242,
+		"base_hpMax": 4840,
+		"base_sunder": 242,
+		"battle": 14520,
+		"level": 238,
+		"other_critDamage": 20000
+	},
+	"239": {
+		"base_atk": 486,
+		"base_def": 243,
+		"base_hpMax": 4860,
+		"base_sunder": 243,
+		"battle": 14580,
+		"level": 239,
+		"other_critDamage": 20000
+	},
+	"240": {
+		"base_atk": 488,
+		"base_def": 244,
+		"base_hpMax": 4880,
+		"base_sunder": 244,
+		"battle": 14640,
+		"level": 240,
+		"other_critDamage": 20000
+	},
+	"241": {
+		"base_atk": 490,
+		"base_def": 245,
+		"base_hpMax": 4900,
+		"base_sunder": 245,
+		"battle": 14700,
+		"level": 241,
+		"other_critDamage": 20000
+	},
+	"242": {
+		"base_atk": 492,
+		"base_def": 246,
+		"base_hpMax": 4920,
+		"base_sunder": 246,
+		"battle": 14760,
+		"level": 242,
+		"other_critDamage": 20000
+	},
+	"243": {
+		"base_atk": 494,
+		"base_def": 247,
+		"base_hpMax": 4940,
+		"base_sunder": 247,
+		"battle": 14820,
+		"level": 243,
+		"other_critDamage": 20000
+	},
+	"244": {
+		"base_atk": 496,
+		"base_def": 248,
+		"base_hpMax": 4960,
+		"base_sunder": 248,
+		"battle": 14880,
+		"level": 244,
+		"other_critDamage": 20000
+	},
+	"245": {
+		"base_atk": 498,
+		"base_def": 249,
+		"base_hpMax": 4980,
+		"base_sunder": 249,
+		"battle": 14940,
+		"level": 245,
+		"other_critDamage": 20000
+	},
+	"246": {
+		"base_atk": 500,
+		"base_def": 250,
+		"base_hpMax": 5000,
+		"base_sunder": 250,
+		"battle": 15000,
+		"level": 246,
+		"other_critDamage": 20000
+	},
+	"247": {
+		"base_atk": 502,
+		"base_def": 251,
+		"base_hpMax": 5020,
+		"base_sunder": 251,
+		"battle": 15060,
+		"level": 247,
+		"other_critDamage": 20000
+	},
+	"248": {
+		"base_atk": 504,
+		"base_def": 252,
+		"base_hpMax": 5040,
+		"base_sunder": 252,
+		"battle": 15120,
+		"level": 248,
+		"other_critDamage": 20000
+	},
+	"249": {
+		"base_atk": 506,
+		"base_def": 253,
+		"base_hpMax": 5060,
+		"base_sunder": 253,
+		"battle": 15180,
+		"level": 249,
+		"other_critDamage": 20000
+	},
+	"250": {
+		"base_atk": 508,
+		"base_def": 254,
+		"base_hpMax": 5080,
+		"base_sunder": 254,
+		"battle": 15240,
+		"level": 250,
+		"other_critDamage": 20000
+	},
+	"251": {
+		"base_atk": 510,
+		"base_def": 255,
+		"base_hpMax": 5100,
+		"base_sunder": 255,
+		"battle": 15300,
+		"level": 251,
+		"other_critDamage": 20000
+	},
+	"252": {
+		"base_atk": 512,
+		"base_def": 256,
+		"base_hpMax": 5120,
+		"base_sunder": 256,
+		"battle": 15360,
+		"level": 252,
+		"other_critDamage": 20000
+	},
+	"253": {
+		"base_atk": 514,
+		"base_def": 257,
+		"base_hpMax": 5140,
+		"base_sunder": 257,
+		"battle": 15420,
+		"level": 253,
+		"other_critDamage": 20000
+	},
+	"254": {
+		"base_atk": 516,
+		"base_def": 258,
+		"base_hpMax": 5160,
+		"base_sunder": 258,
+		"battle": 15480,
+		"level": 254,
+		"other_critDamage": 20000
+	},
+	"255": {
+		"base_atk": 518,
+		"base_def": 259,
+		"base_hpMax": 5180,
+		"base_sunder": 259,
+		"battle": 15540,
+		"level": 255,
+		"other_critDamage": 20000
+	},
+	"256": {
+		"base_atk": 520,
+		"base_def": 260,
+		"base_hpMax": 5200,
+		"base_sunder": 260,
+		"battle": 15600,
+		"level": 256,
+		"other_critDamage": 20000
+	},
+	"257": {
+		"base_atk": 522,
+		"base_def": 261,
+		"base_hpMax": 5220,
+		"base_sunder": 261,
+		"battle": 15660,
+		"level": 257,
+		"other_critDamage": 20000
+	},
+	"258": {
+		"base_atk": 524,
+		"base_def": 262,
+		"base_hpMax": 5240,
+		"base_sunder": 262,
+		"battle": 15720,
+		"level": 258,
+		"other_critDamage": 20000
+	},
+	"259": {
+		"base_atk": 526,
+		"base_def": 263,
+		"base_hpMax": 5260,
+		"base_sunder": 263,
+		"battle": 15780,
+		"level": 259,
+		"other_critDamage": 20000
+	},
+	"260": {
+		"base_atk": 528,
+		"base_def": 264,
+		"base_hpMax": 5280,
+		"base_sunder": 264,
+		"battle": 15840,
+		"level": 260,
+		"other_critDamage": 20000
+	},
+	"261": {
+		"base_atk": 530,
+		"base_def": 265,
+		"base_hpMax": 5300,
+		"base_sunder": 265,
+		"battle": 15900,
+		"level": 261,
+		"other_critDamage": 20000
+	},
+	"262": {
+		"base_atk": 532,
+		"base_def": 266,
+		"base_hpMax": 5320,
+		"base_sunder": 266,
+		"battle": 15960,
+		"level": 262,
+		"other_critDamage": 20000
+	},
+	"263": {
+		"base_atk": 534,
+		"base_def": 267,
+		"base_hpMax": 5340,
+		"base_sunder": 267,
+		"battle": 16020,
+		"level": 263,
+		"other_critDamage": 20000
+	},
+	"264": {
+		"base_atk": 536,
+		"base_def": 268,
+		"base_hpMax": 5360,
+		"base_sunder": 268,
+		"battle": 16080,
+		"level": 264,
+		"other_critDamage": 20000
+	},
+	"265": {
+		"base_atk": 538,
+		"base_def": 269,
+		"base_hpMax": 5380,
+		"base_sunder": 269,
+		"battle": 16140,
+		"level": 265,
+		"other_critDamage": 20000
+	},
+	"266": {
+		"base_atk": 540,
+		"base_def": 270,
+		"base_hpMax": 5400,
+		"base_sunder": 270,
+		"battle": 16200,
+		"level": 266,
+		"other_critDamage": 20000
+	},
+	"267": {
+		"base_atk": 542,
+		"base_def": 271,
+		"base_hpMax": 5420,
+		"base_sunder": 271,
+		"battle": 16260,
+		"level": 267,
+		"other_critDamage": 20000
+	},
+	"268": {
+		"base_atk": 544,
+		"base_def": 272,
+		"base_hpMax": 5440,
+		"base_sunder": 272,
+		"battle": 16320,
+		"level": 268,
+		"other_critDamage": 20000
+	},
+	"269": {
+		"base_atk": 546,
+		"base_def": 273,
+		"base_hpMax": 5460,
+		"base_sunder": 273,
+		"battle": 16380,
+		"level": 269,
+		"other_critDamage": 20000
+	},
+	"270": {
+		"base_atk": 548,
+		"base_def": 274,
+		"base_hpMax": 5480,
+		"base_sunder": 274,
+		"battle": 16440,
+		"level": 270,
+		"other_critDamage": 20000
+	},
+	"271": {
+		"base_atk": 550,
+		"base_def": 275,
+		"base_hpMax": 5500,
+		"base_sunder": 275,
+		"battle": 16500,
+		"level": 271,
+		"other_critDamage": 20000
+	},
+	"272": {
+		"base_atk": 552,
+		"base_def": 276,
+		"base_hpMax": 5520,
+		"base_sunder": 276,
+		"battle": 16560,
+		"level": 272,
+		"other_critDamage": 20000
+	},
+	"273": {
+		"base_atk": 554,
+		"base_def": 277,
+		"base_hpMax": 5540,
+		"base_sunder": 277,
+		"battle": 16620,
+		"level": 273,
+		"other_critDamage": 20000
+	},
+	"274": {
+		"base_atk": 556,
+		"base_def": 278,
+		"base_hpMax": 5560,
+		"base_sunder": 278,
+		"battle": 16680,
+		"level": 274,
+		"other_critDamage": 20000
+	},
+	"275": {
+		"base_atk": 558,
+		"base_def": 279,
+		"base_hpMax": 5580,
+		"base_sunder": 279,
+		"battle": 16740,
+		"level": 275,
+		"other_critDamage": 20000
+	},
+	"276": {
+		"base_atk": 560,
+		"base_def": 280,
+		"base_hpMax": 5600,
+		"base_sunder": 280,
+		"battle": 16800,
+		"level": 276,
+		"other_critDamage": 20000
+	},
+	"277": {
+		"base_atk": 562,
+		"base_def": 281,
+		"base_hpMax": 5620,
+		"base_sunder": 281,
+		"battle": 16860,
+		"level": 277,
+		"other_critDamage": 20000
+	},
+	"278": {
+		"base_atk": 564,
+		"base_def": 282,
+		"base_hpMax": 5640,
+		"base_sunder": 282,
+		"battle": 16920,
+		"level": 278,
+		"other_critDamage": 20000
+	},
+	"279": {
+		"base_atk": 566,
+		"base_def": 283,
+		"base_hpMax": 5660,
+		"base_sunder": 283,
+		"battle": 16980,
+		"level": 279,
+		"other_critDamage": 20000
+	},
+	"280": {
+		"base_atk": 568,
+		"base_def": 284,
+		"base_hpMax": 5680,
+		"base_sunder": 284,
+		"battle": 17040,
+		"level": 280,
+		"other_critDamage": 20000
+	},
+	"281": {
+		"base_atk": 570,
+		"base_def": 285,
+		"base_hpMax": 5700,
+		"base_sunder": 285,
+		"battle": 17100,
+		"level": 281,
+		"other_critDamage": 20000
+	},
+	"282": {
+		"base_atk": 572,
+		"base_def": 286,
+		"base_hpMax": 5720,
+		"base_sunder": 286,
+		"battle": 17160,
+		"level": 282,
+		"other_critDamage": 20000
+	},
+	"283": {
+		"base_atk": 574,
+		"base_def": 287,
+		"base_hpMax": 5740,
+		"base_sunder": 287,
+		"battle": 17220,
+		"level": 283,
+		"other_critDamage": 20000
+	},
+	"284": {
+		"base_atk": 576,
+		"base_def": 288,
+		"base_hpMax": 5760,
+		"base_sunder": 288,
+		"battle": 17280,
+		"level": 284,
+		"other_critDamage": 20000
+	},
+	"285": {
+		"base_atk": 578,
+		"base_def": 289,
+		"base_hpMax": 5780,
+		"base_sunder": 289,
+		"battle": 17340,
+		"level": 285,
+		"other_critDamage": 20000
+	},
+	"286": {
+		"base_atk": 580,
+		"base_def": 290,
+		"base_hpMax": 5800,
+		"base_sunder": 290,
+		"battle": 17400,
+		"level": 286,
+		"other_critDamage": 20000
+	},
+	"287": {
+		"base_atk": 582,
+		"base_def": 291,
+		"base_hpMax": 5820,
+		"base_sunder": 291,
+		"battle": 17460,
+		"level": 287,
+		"other_critDamage": 20000
+	},
+	"288": {
+		"base_atk": 584,
+		"base_def": 292,
+		"base_hpMax": 5840,
+		"base_sunder": 292,
+		"battle": 17520,
+		"level": 288,
+		"other_critDamage": 20000
+	},
+	"289": {
+		"base_atk": 586,
+		"base_def": 293,
+		"base_hpMax": 5860,
+		"base_sunder": 293,
+		"battle": 17580,
+		"level": 289,
+		"other_critDamage": 20000
+	},
+	"290": {
+		"base_atk": 588,
+		"base_def": 294,
+		"base_hpMax": 5880,
+		"base_sunder": 294,
+		"battle": 17640,
+		"level": 290,
+		"other_critDamage": 20000
+	},
+	"291": {
+		"base_atk": 590,
+		"base_def": 295,
+		"base_hpMax": 5900,
+		"base_sunder": 295,
+		"battle": 17700,
+		"level": 291,
+		"other_critDamage": 20000
+	},
+	"292": {
+		"base_atk": 592,
+		"base_def": 296,
+		"base_hpMax": 5920,
+		"base_sunder": 296,
+		"battle": 17760,
+		"level": 292,
+		"other_critDamage": 20000
+	},
+	"293": {
+		"base_atk": 594,
+		"base_def": 297,
+		"base_hpMax": 5940,
+		"base_sunder": 297,
+		"battle": 17820,
+		"level": 293,
+		"other_critDamage": 20000
+	},
+	"294": {
+		"base_atk": 596,
+		"base_def": 298,
+		"base_hpMax": 5960,
+		"base_sunder": 298,
+		"battle": 17880,
+		"level": 294,
+		"other_critDamage": 20000
+	},
+	"295": {
+		"base_atk": 598,
+		"base_def": 299,
+		"base_hpMax": 5980,
+		"base_sunder": 299,
+		"battle": 17940,
+		"level": 295,
+		"other_critDamage": 20000
+	},
+	"296": {
+		"base_atk": 600,
+		"base_def": 300,
+		"base_hpMax": 6000,
+		"base_sunder": 300,
+		"battle": 18000,
+		"level": 296,
+		"other_critDamage": 20000
+	},
+	"297": {
+		"base_atk": 602,
+		"base_def": 301,
+		"base_hpMax": 6020,
+		"base_sunder": 301,
+		"battle": 18060,
+		"level": 297,
+		"other_critDamage": 20000
+	},
+	"298": {
+		"base_atk": 604,
+		"base_def": 302,
+		"base_hpMax": 6040,
+		"base_sunder": 302,
+		"battle": 18120,
+		"level": 298,
+		"other_critDamage": 20000
+	},
+	"299": {
+		"base_atk": 606,
+		"base_def": 303,
+		"base_hpMax": 6060,
+		"base_sunder": 303,
+		"battle": 18180,
+		"level": 299,
+		"other_critDamage": 20000
+	},
+	"300": {
+		"base_atk": 608,
+		"base_def": 304,
+		"base_hpMax": 6080,
+		"base_sunder": 304,
+		"battle": 18240,
+		"level": 300,
+		"other_critDamage": 20000
+	},
+	"301": {
+		"base_atk": 610,
+		"base_def": 305,
+		"base_hpMax": 6100,
+		"base_sunder": 305,
+		"battle": 18300,
+		"level": 301,
+		"other_critDamage": 20000
+	},
+	"302": {
+		"base_atk": 612,
+		"base_def": 306,
+		"base_hpMax": 6120,
+		"base_sunder": 306,
+		"battle": 18360,
+		"level": 302,
+		"other_critDamage": 20000
+	},
+	"303": {
+		"base_atk": 614,
+		"base_def": 307,
+		"base_hpMax": 6140,
+		"base_sunder": 307,
+		"battle": 18420,
+		"level": 303,
+		"other_critDamage": 20000
+	},
+	"304": {
+		"base_atk": 616,
+		"base_def": 308,
+		"base_hpMax": 6160,
+		"base_sunder": 308,
+		"battle": 18480,
+		"level": 304,
+		"other_critDamage": 20000
+	},
+	"305": {
+		"base_atk": 618,
+		"base_def": 309,
+		"base_hpMax": 6180,
+		"base_sunder": 309,
+		"battle": 18540,
+		"level": 305,
+		"other_critDamage": 20000
+	},
+	"306": {
+		"base_atk": 620,
+		"base_def": 310,
+		"base_hpMax": 6200,
+		"base_sunder": 310,
+		"battle": 18600,
+		"level": 306,
+		"other_critDamage": 20000
+	},
+	"307": {
+		"base_atk": 622,
+		"base_def": 311,
+		"base_hpMax": 6220,
+		"base_sunder": 311,
+		"battle": 18660,
+		"level": 307,
+		"other_critDamage": 20000
+	},
+	"308": {
+		"base_atk": 624,
+		"base_def": 312,
+		"base_hpMax": 6240,
+		"base_sunder": 312,
+		"battle": 18720,
+		"level": 308,
+		"other_critDamage": 20000
+	},
+	"309": {
+		"base_atk": 626,
+		"base_def": 313,
+		"base_hpMax": 6260,
+		"base_sunder": 313,
+		"battle": 18780,
+		"level": 309,
+		"other_critDamage": 20000
+	},
+	"310": {
+		"base_atk": 628,
+		"base_def": 314,
+		"base_hpMax": 6280,
+		"base_sunder": 314,
+		"battle": 18840,
+		"level": 310,
+		"other_critDamage": 20000
+	},
+	"311": {
+		"base_atk": 630,
+		"base_def": 315,
+		"base_hpMax": 6300,
+		"base_sunder": 315,
+		"battle": 18900,
+		"level": 311,
+		"other_critDamage": 20000
+	},
+	"312": {
+		"base_atk": 632,
+		"base_def": 316,
+		"base_hpMax": 6320,
+		"base_sunder": 316,
+		"battle": 18960,
+		"level": 312,
+		"other_critDamage": 20000
+	},
+	"313": {
+		"base_atk": 634,
+		"base_def": 317,
+		"base_hpMax": 6340,
+		"base_sunder": 317,
+		"battle": 19020,
+		"level": 313,
+		"other_critDamage": 20000
+	},
+	"314": {
+		"base_atk": 636,
+		"base_def": 318,
+		"base_hpMax": 6360,
+		"base_sunder": 318,
+		"battle": 19080,
+		"level": 314,
+		"other_critDamage": 20000
+	},
+	"315": {
+		"base_atk": 638,
+		"base_def": 319,
+		"base_hpMax": 6380,
+		"base_sunder": 319,
+		"battle": 19140,
+		"level": 315,
+		"other_critDamage": 20000
+	},
+	"316": {
+		"base_atk": 640,
+		"base_def": 320,
+		"base_hpMax": 6400,
+		"base_sunder": 320,
+		"battle": 19200,
+		"level": 316,
+		"other_critDamage": 20000
+	},
+	"317": {
+		"base_atk": 642,
+		"base_def": 321,
+		"base_hpMax": 6420,
+		"base_sunder": 321,
+		"battle": 19260,
+		"level": 317,
+		"other_critDamage": 20000
+	},
+	"318": {
+		"base_atk": 644,
+		"base_def": 322,
+		"base_hpMax": 6440,
+		"base_sunder": 322,
+		"battle": 19320,
+		"level": 318,
+		"other_critDamage": 20000
+	},
+	"319": {
+		"base_atk": 646,
+		"base_def": 323,
+		"base_hpMax": 6460,
+		"base_sunder": 323,
+		"battle": 19380,
+		"level": 319,
+		"other_critDamage": 20000
+	},
+	"320": {
+		"base_atk": 648,
+		"base_def": 324,
+		"base_hpMax": 6480,
+		"base_sunder": 324,
+		"battle": 19440,
+		"level": 320,
+		"other_critDamage": 20000
+	},
+	"321": {
+		"base_atk": 650,
+		"base_def": 325,
+		"base_hpMax": 6500,
+		"base_sunder": 325,
+		"battle": 19500,
+		"level": 321,
+		"other_critDamage": 20000
+	},
+	"322": {
+		"base_atk": 652,
+		"base_def": 326,
+		"base_hpMax": 6520,
+		"base_sunder": 326,
+		"battle": 19560,
+		"level": 322,
+		"other_critDamage": 20000
+	},
+	"323": {
+		"base_atk": 654,
+		"base_def": 327,
+		"base_hpMax": 6540,
+		"base_sunder": 327,
+		"battle": 19620,
+		"level": 323,
+		"other_critDamage": 20000
+	},
+	"324": {
+		"base_atk": 656,
+		"base_def": 328,
+		"base_hpMax": 6560,
+		"base_sunder": 328,
+		"battle": 19680,
+		"level": 324,
+		"other_critDamage": 20000
+	},
+	"325": {
+		"base_atk": 658,
+		"base_def": 329,
+		"base_hpMax": 6580,
+		"base_sunder": 329,
+		"battle": 19740,
+		"level": 325,
+		"other_critDamage": 20000
+	},
+	"326": {
+		"base_atk": 660,
+		"base_def": 330,
+		"base_hpMax": 6600,
+		"base_sunder": 330,
+		"battle": 19800,
+		"level": 326,
+		"other_critDamage": 20000
+	},
+	"327": {
+		"base_atk": 662,
+		"base_def": 331,
+		"base_hpMax": 6620,
+		"base_sunder": 331,
+		"battle": 19860,
+		"level": 327,
+		"other_critDamage": 20000
+	},
+	"328": {
+		"base_atk": 664,
+		"base_def": 332,
+		"base_hpMax": 6640,
+		"base_sunder": 332,
+		"battle": 19920,
+		"level": 328,
+		"other_critDamage": 20000
+	},
+	"329": {
+		"base_atk": 666,
+		"base_def": 333,
+		"base_hpMax": 6660,
+		"base_sunder": 333,
+		"battle": 19980,
+		"level": 329,
+		"other_critDamage": 20000
+	},
+	"330": {
+		"base_atk": 668,
+		"base_def": 334,
+		"base_hpMax": 6680,
+		"base_sunder": 334,
+		"battle": 20040,
+		"level": 330,
+		"other_critDamage": 20000
+	},
+	"331": {
+		"base_atk": 670,
+		"base_def": 335,
+		"base_hpMax": 6700,
+		"base_sunder": 335,
+		"battle": 20100,
+		"level": 331,
+		"other_critDamage": 20000
+	},
+	"332": {
+		"base_atk": 672,
+		"base_def": 336,
+		"base_hpMax": 6720,
+		"base_sunder": 336,
+		"battle": 20160,
+		"level": 332,
+		"other_critDamage": 20000
+	},
+	"333": {
+		"base_atk": 674,
+		"base_def": 337,
+		"base_hpMax": 6740,
+		"base_sunder": 337,
+		"battle": 20220,
+		"level": 333,
+		"other_critDamage": 20000
+	},
+	"334": {
+		"base_atk": 676,
+		"base_def": 338,
+		"base_hpMax": 6760,
+		"base_sunder": 338,
+		"battle": 20280,
+		"level": 334,
+		"other_critDamage": 20000
+	},
+	"335": {
+		"base_atk": 678,
+		"base_def": 339,
+		"base_hpMax": 6780,
+		"base_sunder": 339,
+		"battle": 20340,
+		"level": 335,
+		"other_critDamage": 20000
+	},
+	"336": {
+		"base_atk": 680,
+		"base_def": 340,
+		"base_hpMax": 6800,
+		"base_sunder": 340,
+		"battle": 20400,
+		"level": 336,
+		"other_critDamage": 20000
+	},
+	"337": {
+		"base_atk": 682,
+		"base_def": 341,
+		"base_hpMax": 6820,
+		"base_sunder": 341,
+		"battle": 20460,
+		"level": 337,
+		"other_critDamage": 20000
+	},
+	"338": {
+		"base_atk": 684,
+		"base_def": 342,
+		"base_hpMax": 6840,
+		"base_sunder": 342,
+		"battle": 20520,
+		"level": 338,
+		"other_critDamage": 20000
+	},
+	"339": {
+		"base_atk": 686,
+		"base_def": 343,
+		"base_hpMax": 6860,
+		"base_sunder": 343,
+		"battle": 20580,
+		"level": 339,
+		"other_critDamage": 20000
+	},
+	"340": {
+		"base_atk": 688,
+		"base_def": 344,
+		"base_hpMax": 6880,
+		"base_sunder": 344,
+		"battle": 20640,
+		"level": 340,
+		"other_critDamage": 20000
+	},
+	"341": {
+		"base_atk": 690,
+		"base_def": 345,
+		"base_hpMax": 6900,
+		"base_sunder": 345,
+		"battle": 20700,
+		"level": 341,
+		"other_critDamage": 20000
+	},
+	"342": {
+		"base_atk": 692,
+		"base_def": 346,
+		"base_hpMax": 6920,
+		"base_sunder": 346,
+		"battle": 20760,
+		"level": 342,
+		"other_critDamage": 20000
+	},
+	"343": {
+		"base_atk": 694,
+		"base_def": 347,
+		"base_hpMax": 6940,
+		"base_sunder": 347,
+		"battle": 20820,
+		"level": 343,
+		"other_critDamage": 20000
+	},
+	"344": {
+		"base_atk": 696,
+		"base_def": 348,
+		"base_hpMax": 6960,
+		"base_sunder": 348,
+		"battle": 20880,
+		"level": 344,
+		"other_critDamage": 20000
+	},
+	"345": {
+		"base_atk": 698,
+		"base_def": 349,
+		"base_hpMax": 6980,
+		"base_sunder": 349,
+		"battle": 20940,
+		"level": 345,
+		"other_critDamage": 20000
+	},
+	"346": {
+		"base_atk": 700,
+		"base_def": 350,
+		"base_hpMax": 7000,
+		"base_sunder": 350,
+		"battle": 21000,
+		"level": 346,
+		"other_critDamage": 20000
+	},
+	"347": {
+		"base_atk": 702,
+		"base_def": 351,
+		"base_hpMax": 7020,
+		"base_sunder": 351,
+		"battle": 21060,
+		"level": 347,
+		"other_critDamage": 20000
+	},
+	"348": {
+		"base_atk": 704,
+		"base_def": 352,
+		"base_hpMax": 7040,
+		"base_sunder": 352,
+		"battle": 21120,
+		"level": 348,
+		"other_critDamage": 20000
+	},
+	"349": {
+		"base_atk": 706,
+		"base_def": 353,
+		"base_hpMax": 7060,
+		"base_sunder": 353,
+		"battle": 21180,
+		"level": 349,
+		"other_critDamage": 20000
+	},
+	"350": {
+		"base_atk": 708,
+		"base_def": 354,
+		"base_hpMax": 7080,
+		"base_sunder": 354,
+		"battle": 21240,
+		"level": 350,
+		"other_critDamage": 20000
+	},
+	"351": {
+		"base_atk": 710,
+		"base_def": 355,
+		"base_hpMax": 7100,
+		"base_sunder": 355,
+		"battle": 21300,
+		"level": 351,
+		"other_critDamage": 20000
+	},
+	"352": {
+		"base_atk": 712,
+		"base_def": 356,
+		"base_hpMax": 7120,
+		"base_sunder": 356,
+		"battle": 21360,
+		"level": 352,
+		"other_critDamage": 20000
+	},
+	"353": {
+		"base_atk": 714,
+		"base_def": 357,
+		"base_hpMax": 7140,
+		"base_sunder": 357,
+		"battle": 21420,
+		"level": 353,
+		"other_critDamage": 20000
+	},
+	"354": {
+		"base_atk": 716,
+		"base_def": 358,
+		"base_hpMax": 7160,
+		"base_sunder": 358,
+		"battle": 21480,
+		"level": 354,
+		"other_critDamage": 20000
+	},
+	"355": {
+		"base_atk": 718,
+		"base_def": 359,
+		"base_hpMax": 7180,
+		"base_sunder": 359,
+		"battle": 21540,
+		"level": 355,
+		"other_critDamage": 20000
+	},
+	"356": {
+		"base_atk": 720,
+		"base_def": 360,
+		"base_hpMax": 7200,
+		"base_sunder": 360,
+		"battle": 21600,
+		"level": 356,
+		"other_critDamage": 20000
+	},
+	"357": {
+		"base_atk": 722,
+		"base_def": 361,
+		"base_hpMax": 7220,
+		"base_sunder": 361,
+		"battle": 21660,
+		"level": 357,
+		"other_critDamage": 20000
+	},
+	"358": {
+		"base_atk": 724,
+		"base_def": 362,
+		"base_hpMax": 7240,
+		"base_sunder": 362,
+		"battle": 21720,
+		"level": 358,
+		"other_critDamage": 20000
+	},
+	"359": {
+		"base_atk": 726,
+		"base_def": 363,
+		"base_hpMax": 7260,
+		"base_sunder": 363,
+		"battle": 21780,
+		"level": 359,
+		"other_critDamage": 20000
+	},
+	"360": {
+		"base_atk": 728,
+		"base_def": 364,
+		"base_hpMax": 7280,
+		"base_sunder": 364,
+		"battle": 21840,
+		"level": 360,
+		"other_critDamage": 20000
+	},
+	"361": {
+		"base_atk": 730,
+		"base_def": 365,
+		"base_hpMax": 7300,
+		"base_sunder": 365,
+		"battle": 21900,
+		"level": 361,
+		"other_critDamage": 20000
+	},
+	"362": {
+		"base_atk": 732,
+		"base_def": 366,
+		"base_hpMax": 7320,
+		"base_sunder": 366,
+		"battle": 21960,
+		"level": 362,
+		"other_critDamage": 20000
+	},
+	"363": {
+		"base_atk": 734,
+		"base_def": 367,
+		"base_hpMax": 7340,
+		"base_sunder": 367,
+		"battle": 22020,
+		"level": 363,
+		"other_critDamage": 20000
+	},
+	"364": {
+		"base_atk": 736,
+		"base_def": 368,
+		"base_hpMax": 7360,
+		"base_sunder": 368,
+		"battle": 22080,
+		"level": 364,
+		"other_critDamage": 20000
+	},
+	"365": {
+		"base_atk": 738,
+		"base_def": 369,
+		"base_hpMax": 7380,
+		"base_sunder": 369,
+		"battle": 22140,
+		"level": 365,
+		"other_critDamage": 20000
+	},
+	"366": {
+		"base_atk": 740,
+		"base_def": 370,
+		"base_hpMax": 7400,
+		"base_sunder": 370,
+		"battle": 22200,
+		"level": 366,
+		"other_critDamage": 20000
+	},
+	"367": {
+		"base_atk": 742,
+		"base_def": 371,
+		"base_hpMax": 7420,
+		"base_sunder": 371,
+		"battle": 22260,
+		"level": 367,
+		"other_critDamage": 20000
+	},
+	"368": {
+		"base_atk": 744,
+		"base_def": 372,
+		"base_hpMax": 7440,
+		"base_sunder": 372,
+		"battle": 22320,
+		"level": 368,
+		"other_critDamage": 20000
+	},
+	"369": {
+		"base_atk": 746,
+		"base_def": 373,
+		"base_hpMax": 7460,
+		"base_sunder": 373,
+		"battle": 22380,
+		"level": 369,
+		"other_critDamage": 20000
+	},
+	"370": {
+		"base_atk": 748,
+		"base_def": 374,
+		"base_hpMax": 7480,
+		"base_sunder": 374,
+		"battle": 22440,
+		"level": 370,
+		"other_critDamage": 20000
+	},
+	"371": {
+		"base_atk": 750,
+		"base_def": 375,
+		"base_hpMax": 7500,
+		"base_sunder": 375,
+		"battle": 22500,
+		"level": 371,
+		"other_critDamage": 20000
+	},
+	"372": {
+		"base_atk": 752,
+		"base_def": 376,
+		"base_hpMax": 7520,
+		"base_sunder": 376,
+		"battle": 22560,
+		"level": 372,
+		"other_critDamage": 20000
+	},
+	"373": {
+		"base_atk": 754,
+		"base_def": 377,
+		"base_hpMax": 7540,
+		"base_sunder": 377,
+		"battle": 22620,
+		"level": 373,
+		"other_critDamage": 20000
+	},
+	"374": {
+		"base_atk": 756,
+		"base_def": 378,
+		"base_hpMax": 7560,
+		"base_sunder": 378,
+		"battle": 22680,
+		"level": 374,
+		"other_critDamage": 20000
+	},
+	"375": {
+		"base_atk": 758,
+		"base_def": 379,
+		"base_hpMax": 7580,
+		"base_sunder": 379,
+		"battle": 22740,
+		"level": 375,
+		"other_critDamage": 20000
+	},
+	"376": {
+		"base_atk": 760,
+		"base_def": 380,
+		"base_hpMax": 7600,
+		"base_sunder": 380,
+		"battle": 22800,
+		"level": 376,
+		"other_critDamage": 20000
+	},
+	"377": {
+		"base_atk": 762,
+		"base_def": 381,
+		"base_hpMax": 7620,
+		"base_sunder": 381,
+		"battle": 22860,
+		"level": 377,
+		"other_critDamage": 20000
+	},
+	"378": {
+		"base_atk": 764,
+		"base_def": 382,
+		"base_hpMax": 7640,
+		"base_sunder": 382,
+		"battle": 22920,
+		"level": 378,
+		"other_critDamage": 20000
+	},
+	"379": {
+		"base_atk": 766,
+		"base_def": 383,
+		"base_hpMax": 7660,
+		"base_sunder": 383,
+		"battle": 22980,
+		"level": 379,
+		"other_critDamage": 20000
+	},
+	"380": {
+		"base_atk": 768,
+		"base_def": 384,
+		"base_hpMax": 7680,
+		"base_sunder": 384,
+		"battle": 23040,
+		"level": 380,
+		"other_critDamage": 20000
+	},
+	"381": {
+		"base_atk": 770,
+		"base_def": 385,
+		"base_hpMax": 7700,
+		"base_sunder": 385,
+		"battle": 23100,
+		"level": 381,
+		"other_critDamage": 20000
+	},
+	"382": {
+		"base_atk": 772,
+		"base_def": 386,
+		"base_hpMax": 7720,
+		"base_sunder": 386,
+		"battle": 23160,
+		"level": 382,
+		"other_critDamage": 20000
+	},
+	"383": {
+		"base_atk": 774,
+		"base_def": 387,
+		"base_hpMax": 7740,
+		"base_sunder": 387,
+		"battle": 23220,
+		"level": 383,
+		"other_critDamage": 20000
+	},
+	"384": {
+		"base_atk": 776,
+		"base_def": 388,
+		"base_hpMax": 7760,
+		"base_sunder": 388,
+		"battle": 23280,
+		"level": 384,
+		"other_critDamage": 20000
+	},
+	"385": {
+		"base_atk": 778,
+		"base_def": 389,
+		"base_hpMax": 7780,
+		"base_sunder": 389,
+		"battle": 23340,
+		"level": 385,
+		"other_critDamage": 20000
+	},
+	"386": {
+		"base_atk": 780,
+		"base_def": 390,
+		"base_hpMax": 7800,
+		"base_sunder": 390,
+		"battle": 23400,
+		"level": 386,
+		"other_critDamage": 20000
+	},
+	"387": {
+		"base_atk": 782,
+		"base_def": 391,
+		"base_hpMax": 7820,
+		"base_sunder": 391,
+		"battle": 23460,
+		"level": 387,
+		"other_critDamage": 20000
+	},
+	"388": {
+		"base_atk": 784,
+		"base_def": 392,
+		"base_hpMax": 7840,
+		"base_sunder": 392,
+		"battle": 23520,
+		"level": 388,
+		"other_critDamage": 20000
+	},
+	"389": {
+		"base_atk": 786,
+		"base_def": 393,
+		"base_hpMax": 7860,
+		"base_sunder": 393,
+		"battle": 23580,
+		"level": 389,
+		"other_critDamage": 20000
+	},
+	"390": {
+		"base_atk": 788,
+		"base_def": 394,
+		"base_hpMax": 7880,
+		"base_sunder": 394,
+		"battle": 23640,
+		"level": 390,
+		"other_critDamage": 20000
+	},
+	"391": {
+		"base_atk": 790,
+		"base_def": 395,
+		"base_hpMax": 7900,
+		"base_sunder": 395,
+		"battle": 23700,
+		"level": 391,
+		"other_critDamage": 20000
+	},
+	"392": {
+		"base_atk": 792,
+		"base_def": 396,
+		"base_hpMax": 7920,
+		"base_sunder": 396,
+		"battle": 23760,
+		"level": 392,
+		"other_critDamage": 20000
+	},
+	"393": {
+		"base_atk": 794,
+		"base_def": 397,
+		"base_hpMax": 7940,
+		"base_sunder": 397,
+		"battle": 23820,
+		"level": 393,
+		"other_critDamage": 20000
+	},
+	"394": {
+		"base_atk": 796,
+		"base_def": 398,
+		"base_hpMax": 7960,
+		"base_sunder": 398,
+		"battle": 23880,
+		"level": 394,
+		"other_critDamage": 20000
+	},
+	"395": {
+		"base_atk": 798,
+		"base_def": 399,
+		"base_hpMax": 7980,
+		"base_sunder": 399,
+		"battle": 23940,
+		"level": 395,
+		"other_critDamage": 20000
+	},
+	"396": {
+		"base_atk": 800,
+		"base_def": 400,
+		"base_hpMax": 8000,
+		"base_sunder": 400,
+		"battle": 24000,
+		"level": 396,
+		"other_critDamage": 20000
+	},
+	"397": {
+		"base_atk": 802,
+		"base_def": 401,
+		"base_hpMax": 8020,
+		"base_sunder": 401,
+		"battle": 24060,
+		"level": 397,
+		"other_critDamage": 20000
+	},
+	"398": {
+		"base_atk": 804,
+		"base_def": 402,
+		"base_hpMax": 8040,
+		"base_sunder": 402,
+		"battle": 24120,
+		"level": 398,
+		"other_critDamage": 20000
+	},
+	"399": {
+		"base_atk": 806,
+		"base_def": 403,
+		"base_hpMax": 8060,
+		"base_sunder": 403,
+		"battle": 24180,
+		"level": 399,
+		"other_critDamage": 20000
+	},
+	"400": {
+		"base_atk": 808,
+		"base_def": 404,
+		"base_hpMax": 8080,
+		"base_sunder": 404,
+		"battle": 24240,
+		"level": 400,
+		"other_critDamage": 20000
+	},
+	"401": {
+		"base_atk": 810,
+		"base_def": 405,
+		"base_hpMax": 8100,
+		"base_sunder": 405,
+		"battle": 24300,
+		"level": 401,
+		"other_critDamage": 20000
+	},
+	"402": {
+		"base_atk": 812,
+		"base_def": 406,
+		"base_hpMax": 8120,
+		"base_sunder": 406,
+		"battle": 24360,
+		"level": 402,
+		"other_critDamage": 20000
+	},
+	"403": {
+		"base_atk": 814,
+		"base_def": 407,
+		"base_hpMax": 8140,
+		"base_sunder": 407,
+		"battle": 24420,
+		"level": 403,
+		"other_critDamage": 20000
+	},
+	"404": {
+		"base_atk": 816,
+		"base_def": 408,
+		"base_hpMax": 8160,
+		"base_sunder": 408,
+		"battle": 24480,
+		"level": 404,
+		"other_critDamage": 20000
+	},
+	"405": {
+		"base_atk": 818,
+		"base_def": 409,
+		"base_hpMax": 8180,
+		"base_sunder": 409,
+		"battle": 24540,
+		"level": 405,
+		"other_critDamage": 20000
+	},
+	"406": {
+		"base_atk": 820,
+		"base_def": 410,
+		"base_hpMax": 8200,
+		"base_sunder": 410,
+		"battle": 24600,
+		"level": 406,
+		"other_critDamage": 20000
+	},
+	"407": {
+		"base_atk": 822,
+		"base_def": 411,
+		"base_hpMax": 8220,
+		"base_sunder": 411,
+		"battle": 24660,
+		"level": 407,
+		"other_critDamage": 20000
+	},
+	"408": {
+		"base_atk": 824,
+		"base_def": 412,
+		"base_hpMax": 8240,
+		"base_sunder": 412,
+		"battle": 24720,
+		"level": 408,
+		"other_critDamage": 20000
+	},
+	"409": {
+		"base_atk": 826,
+		"base_def": 413,
+		"base_hpMax": 8260,
+		"base_sunder": 413,
+		"battle": 24780,
+		"level": 409,
+		"other_critDamage": 20000
+	},
+	"410": {
+		"base_atk": 828,
+		"base_def": 414,
+		"base_hpMax": 8280,
+		"base_sunder": 414,
+		"battle": 24840,
+		"level": 410,
+		"other_critDamage": 20000
+	},
+	"411": {
+		"base_atk": 830,
+		"base_def": 415,
+		"base_hpMax": 8300,
+		"base_sunder": 415,
+		"battle": 24900,
+		"level": 411,
+		"other_critDamage": 20000
+	},
+	"412": {
+		"base_atk": 832,
+		"base_def": 416,
+		"base_hpMax": 8320,
+		"base_sunder": 416,
+		"battle": 24960,
+		"level": 412,
+		"other_critDamage": 20000
+	},
+	"413": {
+		"base_atk": 834,
+		"base_def": 417,
+		"base_hpMax": 8340,
+		"base_sunder": 417,
+		"battle": 25020,
+		"level": 413,
+		"other_critDamage": 20000
+	},
+	"414": {
+		"base_atk": 836,
+		"base_def": 418,
+		"base_hpMax": 8360,
+		"base_sunder": 418,
+		"battle": 25080,
+		"level": 414,
+		"other_critDamage": 20000
+	},
+	"415": {
+		"base_atk": 838,
+		"base_def": 419,
+		"base_hpMax": 8380,
+		"base_sunder": 419,
+		"battle": 25140,
+		"level": 415,
+		"other_critDamage": 20000
+	},
+	"416": {
+		"base_atk": 840,
+		"base_def": 420,
+		"base_hpMax": 8400,
+		"base_sunder": 420,
+		"battle": 25200,
+		"level": 416,
+		"other_critDamage": 20000
+	},
+	"417": {
+		"base_atk": 842,
+		"base_def": 421,
+		"base_hpMax": 8420,
+		"base_sunder": 421,
+		"battle": 25260,
+		"level": 417,
+		"other_critDamage": 20000
+	},
+	"418": {
+		"base_atk": 844,
+		"base_def": 422,
+		"base_hpMax": 8440,
+		"base_sunder": 422,
+		"battle": 25320,
+		"level": 418,
+		"other_critDamage": 20000
+	},
+	"419": {
+		"base_atk": 846,
+		"base_def": 423,
+		"base_hpMax": 8460,
+		"base_sunder": 423,
+		"battle": 25380,
+		"level": 419,
+		"other_critDamage": 20000
+	},
+	"420": {
+		"base_atk": 848,
+		"base_def": 424,
+		"base_hpMax": 8480,
+		"base_sunder": 424,
+		"battle": 25440,
+		"level": 420,
+		"other_critDamage": 20000
+	},
+	"421": {
+		"base_atk": 850,
+		"base_def": 425,
+		"base_hpMax": 8500,
+		"base_sunder": 425,
+		"battle": 25500,
+		"level": 421,
+		"other_critDamage": 20000
+	},
+	"422": {
+		"base_atk": 852,
+		"base_def": 426,
+		"base_hpMax": 8520,
+		"base_sunder": 426,
+		"battle": 25560,
+		"level": 422,
+		"other_critDamage": 20000
+	},
+	"423": {
+		"base_atk": 854,
+		"base_def": 427,
+		"base_hpMax": 8540,
+		"base_sunder": 427,
+		"battle": 25620,
+		"level": 423,
+		"other_critDamage": 20000
+	},
+	"424": {
+		"base_atk": 856,
+		"base_def": 428,
+		"base_hpMax": 8560,
+		"base_sunder": 428,
+		"battle": 25680,
+		"level": 424,
+		"other_critDamage": 20000
+	},
+	"425": {
+		"base_atk": 858,
+		"base_def": 429,
+		"base_hpMax": 8580,
+		"base_sunder": 429,
+		"battle": 25740,
+		"level": 425,
+		"other_critDamage": 20000
+	},
+	"426": {
+		"base_atk": 860,
+		"base_def": 430,
+		"base_hpMax": 8600,
+		"base_sunder": 430,
+		"battle": 25800,
+		"level": 426,
+		"other_critDamage": 20000
+	},
+	"427": {
+		"base_atk": 862,
+		"base_def": 431,
+		"base_hpMax": 8620,
+		"base_sunder": 431,
+		"battle": 25860,
+		"level": 427,
+		"other_critDamage": 20000
+	},
+	"428": {
+		"base_atk": 864,
+		"base_def": 432,
+		"base_hpMax": 8640,
+		"base_sunder": 432,
+		"battle": 25920,
+		"level": 428,
+		"other_critDamage": 20000
+	},
+	"429": {
+		"base_atk": 866,
+		"base_def": 433,
+		"base_hpMax": 8660,
+		"base_sunder": 433,
+		"battle": 25980,
+		"level": 429,
+		"other_critDamage": 20000
+	},
+	"430": {
+		"base_atk": 868,
+		"base_def": 434,
+		"base_hpMax": 8680,
+		"base_sunder": 434,
+		"battle": 26040,
+		"level": 430,
+		"other_critDamage": 20000
+	},
+	"431": {
+		"base_atk": 870,
+		"base_def": 435,
+		"base_hpMax": 8700,
+		"base_sunder": 435,
+		"battle": 26100,
+		"level": 431,
+		"other_critDamage": 20000
+	},
+	"432": {
+		"base_atk": 872,
+		"base_def": 436,
+		"base_hpMax": 8720,
+		"base_sunder": 436,
+		"battle": 26160,
+		"level": 432,
+		"other_critDamage": 20000
+	},
+	"433": {
+		"base_atk": 874,
+		"base_def": 437,
+		"base_hpMax": 8740,
+		"base_sunder": 437,
+		"battle": 26220,
+		"level": 433,
+		"other_critDamage": 20000
+	},
+	"434": {
+		"base_atk": 876,
+		"base_def": 438,
+		"base_hpMax": 8760,
+		"base_sunder": 438,
+		"battle": 26280,
+		"level": 434,
+		"other_critDamage": 20000
+	},
+	"435": {
+		"base_atk": 878,
+		"base_def": 439,
+		"base_hpMax": 8780,
+		"base_sunder": 439,
+		"battle": 26340,
+		"level": 435,
+		"other_critDamage": 20000
+	},
+	"436": {
+		"base_atk": 880,
+		"base_def": 440,
+		"base_hpMax": 8800,
+		"base_sunder": 440,
+		"battle": 26400,
+		"level": 436,
+		"other_critDamage": 20000
+	},
+	"437": {
+		"base_atk": 882,
+		"base_def": 441,
+		"base_hpMax": 8820,
+		"base_sunder": 441,
+		"battle": 26460,
+		"level": 437,
+		"other_critDamage": 20000
+	},
+	"438": {
+		"base_atk": 884,
+		"base_def": 442,
+		"base_hpMax": 8840,
+		"base_sunder": 442,
+		"battle": 26520,
+		"level": 438,
+		"other_critDamage": 20000
+	},
+	"439": {
+		"base_atk": 886,
+		"base_def": 443,
+		"base_hpMax": 8860,
+		"base_sunder": 443,
+		"battle": 26580,
+		"level": 439,
+		"other_critDamage": 20000
+	},
+	"440": {
+		"base_atk": 888,
+		"base_def": 444,
+		"base_hpMax": 8880,
+		"base_sunder": 444,
+		"battle": 26640,
+		"level": 440,
+		"other_critDamage": 20000
+	},
+	"441": {
+		"base_atk": 890,
+		"base_def": 445,
+		"base_hpMax": 8900,
+		"base_sunder": 445,
+		"battle": 26700,
+		"level": 441,
+		"other_critDamage": 20000
+	},
+	"442": {
+		"base_atk": 892,
+		"base_def": 446,
+		"base_hpMax": 8920,
+		"base_sunder": 446,
+		"battle": 26760,
+		"level": 442,
+		"other_critDamage": 20000
+	},
+	"443": {
+		"base_atk": 894,
+		"base_def": 447,
+		"base_hpMax": 8940,
+		"base_sunder": 447,
+		"battle": 26820,
+		"level": 443,
+		"other_critDamage": 20000
+	},
+	"444": {
+		"base_atk": 896,
+		"base_def": 448,
+		"base_hpMax": 8960,
+		"base_sunder": 448,
+		"battle": 26880,
+		"level": 444,
+		"other_critDamage": 20000
+	},
+	"445": {
+		"base_atk": 898,
+		"base_def": 449,
+		"base_hpMax": 8980,
+		"base_sunder": 449,
+		"battle": 26940,
+		"level": 445,
+		"other_critDamage": 20000
+	},
+	"446": {
+		"base_atk": 900,
+		"base_def": 450,
+		"base_hpMax": 9000,
+		"base_sunder": 450,
+		"battle": 27000,
+		"level": 446,
+		"other_critDamage": 20000
+	},
+	"447": {
+		"base_atk": 902,
+		"base_def": 451,
+		"base_hpMax": 9020,
+		"base_sunder": 451,
+		"battle": 27060,
+		"level": 447,
+		"other_critDamage": 20000
+	},
+	"448": {
+		"base_atk": 904,
+		"base_def": 452,
+		"base_hpMax": 9040,
+		"base_sunder": 452,
+		"battle": 27120,
+		"level": 448,
+		"other_critDamage": 20000
+	},
+	"449": {
+		"base_atk": 906,
+		"base_def": 453,
+		"base_hpMax": 9060,
+		"base_sunder": 453,
+		"battle": 27180,
+		"level": 449,
+		"other_critDamage": 20000
+	},
+	"450": {
+		"base_atk": 908,
+		"base_def": 454,
+		"base_hpMax": 9080,
+		"base_sunder": 454,
+		"battle": 27240,
+		"level": 450,
+		"other_critDamage": 20000
+	},
+	"451": {
+		"base_atk": 910,
+		"base_def": 455,
+		"base_hpMax": 9100,
+		"base_sunder": 455,
+		"battle": 27300,
+		"level": 451,
+		"other_critDamage": 20000
+	},
+	"452": {
+		"base_atk": 912,
+		"base_def": 456,
+		"base_hpMax": 9120,
+		"base_sunder": 456,
+		"battle": 27360,
+		"level": 452,
+		"other_critDamage": 20000
+	},
+	"453": {
+		"base_atk": 914,
+		"base_def": 457,
+		"base_hpMax": 9140,
+		"base_sunder": 457,
+		"battle": 27420,
+		"level": 453,
+		"other_critDamage": 20000
+	},
+	"454": {
+		"base_atk": 916,
+		"base_def": 458,
+		"base_hpMax": 9160,
+		"base_sunder": 458,
+		"battle": 27480,
+		"level": 454,
+		"other_critDamage": 20000
+	},
+	"455": {
+		"base_atk": 918,
+		"base_def": 459,
+		"base_hpMax": 9180,
+		"base_sunder": 459,
+		"battle": 27540,
+		"level": 455,
+		"other_critDamage": 20000
+	},
+	"456": {
+		"base_atk": 920,
+		"base_def": 460,
+		"base_hpMax": 9200,
+		"base_sunder": 460,
+		"battle": 27600,
+		"level": 456,
+		"other_critDamage": 20000
+	},
+	"457": {
+		"base_atk": 922,
+		"base_def": 461,
+		"base_hpMax": 9220,
+		"base_sunder": 461,
+		"battle": 27660,
+		"level": 457,
+		"other_critDamage": 20000
+	},
+	"458": {
+		"base_atk": 924,
+		"base_def": 462,
+		"base_hpMax": 9240,
+		"base_sunder": 462,
+		"battle": 27720,
+		"level": 458,
+		"other_critDamage": 20000
+	},
+	"459": {
+		"base_atk": 926,
+		"base_def": 463,
+		"base_hpMax": 9260,
+		"base_sunder": 463,
+		"battle": 27780,
+		"level": 459,
+		"other_critDamage": 20000
+	},
+	"460": {
+		"base_atk": 928,
+		"base_def": 464,
+		"base_hpMax": 9280,
+		"base_sunder": 464,
+		"battle": 27840,
+		"level": 460,
+		"other_critDamage": 20000
+	},
+	"461": {
+		"base_atk": 930,
+		"base_def": 465,
+		"base_hpMax": 9300,
+		"base_sunder": 465,
+		"battle": 27900,
+		"level": 461,
+		"other_critDamage": 20000
+	},
+	"462": {
+		"base_atk": 932,
+		"base_def": 466,
+		"base_hpMax": 9320,
+		"base_sunder": 466,
+		"battle": 27960,
+		"level": 462,
+		"other_critDamage": 20000
+	},
+	"463": {
+		"base_atk": 934,
+		"base_def": 467,
+		"base_hpMax": 9340,
+		"base_sunder": 467,
+		"battle": 28020,
+		"level": 463,
+		"other_critDamage": 20000
+	},
+	"464": {
+		"base_atk": 936,
+		"base_def": 468,
+		"base_hpMax": 9360,
+		"base_sunder": 468,
+		"battle": 28080,
+		"level": 464,
+		"other_critDamage": 20000
+	},
+	"465": {
+		"base_atk": 938,
+		"base_def": 469,
+		"base_hpMax": 9380,
+		"base_sunder": 469,
+		"battle": 28140,
+		"level": 465,
+		"other_critDamage": 20000
+	},
+	"466": {
+		"base_atk": 940,
+		"base_def": 470,
+		"base_hpMax": 9400,
+		"base_sunder": 470,
+		"battle": 28200,
+		"level": 466,
+		"other_critDamage": 20000
+	},
+	"467": {
+		"base_atk": 942,
+		"base_def": 471,
+		"base_hpMax": 9420,
+		"base_sunder": 471,
+		"battle": 28260,
+		"level": 467,
+		"other_critDamage": 20000
+	},
+	"468": {
+		"base_atk": 944,
+		"base_def": 472,
+		"base_hpMax": 9440,
+		"base_sunder": 472,
+		"battle": 28320,
+		"level": 468,
+		"other_critDamage": 20000
+	},
+	"469": {
+		"base_atk": 946,
+		"base_def": 473,
+		"base_hpMax": 9460,
+		"base_sunder": 473,
+		"battle": 28380,
+		"level": 469,
+		"other_critDamage": 20000
+	},
+	"470": {
+		"base_atk": 948,
+		"base_def": 474,
+		"base_hpMax": 9480,
+		"base_sunder": 474,
+		"battle": 28440,
+		"level": 470,
+		"other_critDamage": 20000
+	},
+	"471": {
+		"base_atk": 950,
+		"base_def": 475,
+		"base_hpMax": 9500,
+		"base_sunder": 475,
+		"battle": 28500,
+		"level": 471,
+		"other_critDamage": 20000
+	},
+	"472": {
+		"base_atk": 952,
+		"base_def": 476,
+		"base_hpMax": 9520,
+		"base_sunder": 476,
+		"battle": 28560,
+		"level": 472,
+		"other_critDamage": 20000
+	},
+	"473": {
+		"base_atk": 954,
+		"base_def": 477,
+		"base_hpMax": 9540,
+		"base_sunder": 477,
+		"battle": 28620,
+		"level": 473,
+		"other_critDamage": 20000
+	},
+	"474": {
+		"base_atk": 956,
+		"base_def": 478,
+		"base_hpMax": 9560,
+		"base_sunder": 478,
+		"battle": 28680,
+		"level": 474,
+		"other_critDamage": 20000
+	},
+	"475": {
+		"base_atk": 958,
+		"base_def": 479,
+		"base_hpMax": 9580,
+		"base_sunder": 479,
+		"battle": 28740,
+		"level": 475,
+		"other_critDamage": 20000
+	},
+	"476": {
+		"base_atk": 960,
+		"base_def": 480,
+		"base_hpMax": 9600,
+		"base_sunder": 480,
+		"battle": 28800,
+		"level": 476,
+		"other_critDamage": 20000
+	},
+	"477": {
+		"base_atk": 962,
+		"base_def": 481,
+		"base_hpMax": 9620,
+		"base_sunder": 481,
+		"battle": 28860,
+		"level": 477,
+		"other_critDamage": 20000
+	},
+	"478": {
+		"base_atk": 964,
+		"base_def": 482,
+		"base_hpMax": 9640,
+		"base_sunder": 482,
+		"battle": 28920,
+		"level": 478,
+		"other_critDamage": 20000
+	},
+	"479": {
+		"base_atk": 966,
+		"base_def": 483,
+		"base_hpMax": 9660,
+		"base_sunder": 483,
+		"battle": 28980,
+		"level": 479,
+		"other_critDamage": 20000
+	},
+	"480": {
+		"base_atk": 968,
+		"base_def": 484,
+		"base_hpMax": 9680,
+		"base_sunder": 484,
+		"battle": 29040,
+		"level": 480,
+		"other_critDamage": 20000
+	},
+	"481": {
+		"base_atk": 970,
+		"base_def": 485,
+		"base_hpMax": 9700,
+		"base_sunder": 485,
+		"battle": 29100,
+		"level": 481,
+		"other_critDamage": 20000
+	},
+	"482": {
+		"base_atk": 972,
+		"base_def": 486,
+		"base_hpMax": 9720,
+		"base_sunder": 486,
+		"battle": 29160,
+		"level": 482,
+		"other_critDamage": 20000
+	},
+	"483": {
+		"base_atk": 974,
+		"base_def": 487,
+		"base_hpMax": 9740,
+		"base_sunder": 487,
+		"battle": 29220,
+		"level": 483,
+		"other_critDamage": 20000
+	},
+	"484": {
+		"base_atk": 976,
+		"base_def": 488,
+		"base_hpMax": 9760,
+		"base_sunder": 488,
+		"battle": 29280,
+		"level": 484,
+		"other_critDamage": 20000
+	},
+	"485": {
+		"base_atk": 978,
+		"base_def": 489,
+		"base_hpMax": 9780,
+		"base_sunder": 489,
+		"battle": 29340,
+		"level": 485,
+		"other_critDamage": 20000
+	},
+	"486": {
+		"base_atk": 980,
+		"base_def": 490,
+		"base_hpMax": 9800,
+		"base_sunder": 490,
+		"battle": 29400,
+		"level": 486,
+		"other_critDamage": 20000
+	},
+	"487": {
+		"base_atk": 982,
+		"base_def": 491,
+		"base_hpMax": 9820,
+		"base_sunder": 491,
+		"battle": 29460,
+		"level": 487,
+		"other_critDamage": 20000
+	},
+	"488": {
+		"base_atk": 984,
+		"base_def": 492,
+		"base_hpMax": 9840,
+		"base_sunder": 492,
+		"battle": 29520,
+		"level": 488,
+		"other_critDamage": 20000
+	},
+	"489": {
+		"base_atk": 986,
+		"base_def": 493,
+		"base_hpMax": 9860,
+		"base_sunder": 493,
+		"battle": 29580,
+		"level": 489,
+		"other_critDamage": 20000
+	},
+	"490": {
+		"base_atk": 988,
+		"base_def": 494,
+		"base_hpMax": 9880,
+		"base_sunder": 494,
+		"battle": 29640,
+		"level": 490,
+		"other_critDamage": 20000
+	},
+	"491": {
+		"base_atk": 990,
+		"base_def": 495,
+		"base_hpMax": 9900,
+		"base_sunder": 495,
+		"battle": 29700,
+		"level": 491,
+		"other_critDamage": 20000
+	},
+	"492": {
+		"base_atk": 992,
+		"base_def": 496,
+		"base_hpMax": 9920,
+		"base_sunder": 496,
+		"battle": 29760,
+		"level": 492,
+		"other_critDamage": 20000
+	},
+	"493": {
+		"base_atk": 994,
+		"base_def": 497,
+		"base_hpMax": 9940,
+		"base_sunder": 497,
+		"battle": 29820,
+		"level": 493,
+		"other_critDamage": 20000
+	},
+	"494": {
+		"base_atk": 996,
+		"base_def": 498,
+		"base_hpMax": 9960,
+		"base_sunder": 498,
+		"battle": 29880,
+		"level": 494,
+		"other_critDamage": 20000
+	},
+	"495": {
+		"base_atk": 998,
+		"base_def": 499,
+		"base_hpMax": 9980,
+		"base_sunder": 499,
+		"battle": 29940,
+		"level": 495,
+		"other_critDamage": 20000
+	},
+	"496": {
+		"base_atk": 1000,
+		"base_def": 500,
+		"base_hpMax": 10000,
+		"base_sunder": 500,
+		"battle": 30000,
+		"level": 496,
+		"other_critDamage": 20000
+	},
+	"497": {
+		"base_atk": 1002,
+		"base_def": 501,
+		"base_hpMax": 10020,
+		"base_sunder": 501,
+		"battle": 30060,
+		"level": 497,
+		"other_critDamage": 20000
+	},
+	"498": {
+		"base_atk": 1004,
+		"base_def": 502,
+		"base_hpMax": 10040,
+		"base_sunder": 502,
+		"battle": 30120,
+		"level": 498,
+		"other_critDamage": 20000
+	},
+	"499": {
+		"base_atk": 1006,
+		"base_def": 503,
+		"base_hpMax": 10060,
+		"base_sunder": 503,
+		"battle": 30180,
+		"level": 499,
+		"other_critDamage": 20000
+	},
+	"500": {
+		"base_atk": 1008,
+		"base_def": 504,
+		"base_hpMax": 10080,
+		"base_sunder": 504,
+		"battle": 30240,
+		"level": 500,
+		"other_critDamage": 20000
+	},
+	"501": {
+		"base_atk": 1010,
+		"base_def": 505,
+		"base_hpMax": 10100,
+		"base_sunder": 505,
+		"battle": 30300,
+		"level": 501,
+		"other_critDamage": 20000
+	},
+	"502": {
+		"base_atk": 1012,
+		"base_def": 506,
+		"base_hpMax": 10120,
+		"base_sunder": 506,
+		"battle": 30360,
+		"level": 502,
+		"other_critDamage": 20000
+	},
+	"503": {
+		"base_atk": 1014,
+		"base_def": 507,
+		"base_hpMax": 10140,
+		"base_sunder": 507,
+		"battle": 30420,
+		"level": 503,
+		"other_critDamage": 20000
+	},
+	"504": {
+		"base_atk": 1016,
+		"base_def": 508,
+		"base_hpMax": 10160,
+		"base_sunder": 508,
+		"battle": 30480,
+		"level": 504,
+		"other_critDamage": 20000
+	},
+	"505": {
+		"base_atk": 1018,
+		"base_def": 509,
+		"base_hpMax": 10180,
+		"base_sunder": 509,
+		"battle": 30540,
+		"level": 505,
+		"other_critDamage": 20000
+	},
+	"506": {
+		"base_atk": 1020,
+		"base_def": 510,
+		"base_hpMax": 10200,
+		"base_sunder": 510,
+		"battle": 30600,
+		"level": 506,
+		"other_critDamage": 20000
+	},
+	"507": {
+		"base_atk": 1022,
+		"base_def": 511,
+		"base_hpMax": 10220,
+		"base_sunder": 511,
+		"battle": 30660,
+		"level": 507,
+		"other_critDamage": 20000
+	},
+	"508": {
+		"base_atk": 1024,
+		"base_def": 512,
+		"base_hpMax": 10240,
+		"base_sunder": 512,
+		"battle": 30720,
+		"level": 508,
+		"other_critDamage": 20000
+	},
+	"509": {
+		"base_atk": 1026,
+		"base_def": 513,
+		"base_hpMax": 10260,
+		"base_sunder": 513,
+		"battle": 30780,
+		"level": 509,
+		"other_critDamage": 20000
+	},
+	"510": {
+		"base_atk": 1028,
+		"base_def": 514,
+		"base_hpMax": 10280,
+		"base_sunder": 514,
+		"battle": 30840,
+		"level": 510,
+		"other_critDamage": 20000
+	},
+	"511": {
+		"base_atk": 1030,
+		"base_def": 515,
+		"base_hpMax": 10300,
+		"base_sunder": 515,
+		"battle": 30900,
+		"level": 511,
+		"other_critDamage": 20000
+	},
+	"512": {
+		"base_atk": 1032,
+		"base_def": 516,
+		"base_hpMax": 10320,
+		"base_sunder": 516,
+		"battle": 30960,
+		"level": 512,
+		"other_critDamage": 20000
+	},
+	"513": {
+		"base_atk": 1034,
+		"base_def": 517,
+		"base_hpMax": 10340,
+		"base_sunder": 517,
+		"battle": 31020,
+		"level": 513,
+		"other_critDamage": 20000
+	},
+	"514": {
+		"base_atk": 1036,
+		"base_def": 518,
+		"base_hpMax": 10360,
+		"base_sunder": 518,
+		"battle": 31080,
+		"level": 514,
+		"other_critDamage": 20000
+	},
+	"515": {
+		"base_atk": 1038,
+		"base_def": 519,
+		"base_hpMax": 10380,
+		"base_sunder": 519,
+		"battle": 31140,
+		"level": 515,
+		"other_critDamage": 20000
+	},
+	"516": {
+		"base_atk": 1040,
+		"base_def": 520,
+		"base_hpMax": 10400,
+		"base_sunder": 520,
+		"battle": 31200,
+		"level": 516,
+		"other_critDamage": 20000
+	},
+	"517": {
+		"base_atk": 1042,
+		"base_def": 521,
+		"base_hpMax": 10420,
+		"base_sunder": 521,
+		"battle": 31260,
+		"level": 517,
+		"other_critDamage": 20000
+	},
+	"518": {
+		"base_atk": 1044,
+		"base_def": 522,
+		"base_hpMax": 10440,
+		"base_sunder": 522,
+		"battle": 31320,
+		"level": 518,
+		"other_critDamage": 20000
+	},
+	"519": {
+		"base_atk": 1046,
+		"base_def": 523,
+		"base_hpMax": 10460,
+		"base_sunder": 523,
+		"battle": 31380,
+		"level": 519,
+		"other_critDamage": 20000
+	},
+	"520": {
+		"base_atk": 1048,
+		"base_def": 524,
+		"base_hpMax": 10480,
+		"base_sunder": 524,
+		"battle": 31440,
+		"level": 520,
+		"other_critDamage": 20000
+	},
+	"521": {
+		"base_atk": 1050,
+		"base_def": 525,
+		"base_hpMax": 10500,
+		"base_sunder": 525,
+		"battle": 31500,
+		"level": 521,
+		"other_critDamage": 20000
+	},
+	"522": {
+		"base_atk": 1052,
+		"base_def": 526,
+		"base_hpMax": 10520,
+		"base_sunder": 526,
+		"battle": 31560,
+		"level": 522,
+		"other_critDamage": 20000
+	},
+	"523": {
+		"base_atk": 1054,
+		"base_def": 527,
+		"base_hpMax": 10540,
+		"base_sunder": 527,
+		"battle": 31620,
+		"level": 523,
+		"other_critDamage": 20000
+	},
+	"524": {
+		"base_atk": 1056,
+		"base_def": 528,
+		"base_hpMax": 10560,
+		"base_sunder": 528,
+		"battle": 31680,
+		"level": 524,
+		"other_critDamage": 20000
+	},
+	"525": {
+		"base_atk": 1058,
+		"base_def": 529,
+		"base_hpMax": 10580,
+		"base_sunder": 529,
+		"battle": 31740,
+		"level": 525,
+		"other_critDamage": 20000
+	},
+	"526": {
+		"base_atk": 1060,
+		"base_def": 530,
+		"base_hpMax": 10600,
+		"base_sunder": 530,
+		"battle": 31800,
+		"level": 526,
+		"other_critDamage": 20000
+	},
+	"527": {
+		"base_atk": 1062,
+		"base_def": 531,
+		"base_hpMax": 10620,
+		"base_sunder": 531,
+		"battle": 31860,
+		"level": 527,
+		"other_critDamage": 20000
+	},
+	"528": {
+		"base_atk": 1064,
+		"base_def": 532,
+		"base_hpMax": 10640,
+		"base_sunder": 532,
+		"battle": 31920,
+		"level": 528,
+		"other_critDamage": 20000
+	},
+	"529": {
+		"base_atk": 1066,
+		"base_def": 533,
+		"base_hpMax": 10660,
+		"base_sunder": 533,
+		"battle": 31980,
+		"level": 529,
+		"other_critDamage": 20000
+	},
+	"530": {
+		"base_atk": 1068,
+		"base_def": 534,
+		"base_hpMax": 10680,
+		"base_sunder": 534,
+		"battle": 32040,
+		"level": 530,
+		"other_critDamage": 20000
+	},
+	"531": {
+		"base_atk": 1070,
+		"base_def": 535,
+		"base_hpMax": 10700,
+		"base_sunder": 535,
+		"battle": 32100,
+		"level": 531,
+		"other_critDamage": 20000
+	},
+	"532": {
+		"base_atk": 1072,
+		"base_def": 536,
+		"base_hpMax": 10720,
+		"base_sunder": 536,
+		"battle": 32160,
+		"level": 532,
+		"other_critDamage": 20000
+	},
+	"533": {
+		"base_atk": 1074,
+		"base_def": 537,
+		"base_hpMax": 10740,
+		"base_sunder": 537,
+		"battle": 32220,
+		"level": 533,
+		"other_critDamage": 20000
+	},
+	"534": {
+		"base_atk": 1076,
+		"base_def": 538,
+		"base_hpMax": 10760,
+		"base_sunder": 538,
+		"battle": 32280,
+		"level": 534,
+		"other_critDamage": 20000
+	},
+	"535": {
+		"base_atk": 1078,
+		"base_def": 539,
+		"base_hpMax": 10780,
+		"base_sunder": 539,
+		"battle": 32340,
+		"level": 535,
+		"other_critDamage": 20000
+	},
+	"536": {
+		"base_atk": 1080,
+		"base_def": 540,
+		"base_hpMax": 10800,
+		"base_sunder": 540,
+		"battle": 32400,
+		"level": 536,
+		"other_critDamage": 20000
+	},
+	"537": {
+		"base_atk": 1082,
+		"base_def": 541,
+		"base_hpMax": 10820,
+		"base_sunder": 541,
+		"battle": 32460,
+		"level": 537,
+		"other_critDamage": 20000
+	},
+	"538": {
+		"base_atk": 1084,
+		"base_def": 542,
+		"base_hpMax": 10840,
+		"base_sunder": 542,
+		"battle": 32520,
+		"level": 538,
+		"other_critDamage": 20000
+	},
+	"539": {
+		"base_atk": 1086,
+		"base_def": 543,
+		"base_hpMax": 10860,
+		"base_sunder": 543,
+		"battle": 32580,
+		"level": 539,
+		"other_critDamage": 20000
+	},
+	"540": {
+		"base_atk": 1088,
+		"base_def": 544,
+		"base_hpMax": 10880,
+		"base_sunder": 544,
+		"battle": 32640,
+		"level": 540,
+		"other_critDamage": 20000
+	},
+	"541": {
+		"base_atk": 1090,
+		"base_def": 545,
+		"base_hpMax": 10900,
+		"base_sunder": 545,
+		"battle": 32700,
+		"level": 541,
+		"other_critDamage": 20000
+	},
+	"542": {
+		"base_atk": 1092,
+		"base_def": 546,
+		"base_hpMax": 10920,
+		"base_sunder": 546,
+		"battle": 32760,
+		"level": 542,
+		"other_critDamage": 20000
+	},
+	"543": {
+		"base_atk": 1094,
+		"base_def": 547,
+		"base_hpMax": 10940,
+		"base_sunder": 547,
+		"battle": 32820,
+		"level": 543,
+		"other_critDamage": 20000
+	},
+	"544": {
+		"base_atk": 1096,
+		"base_def": 548,
+		"base_hpMax": 10960,
+		"base_sunder": 548,
+		"battle": 32880,
+		"level": 544,
+		"other_critDamage": 20000
+	},
+	"545": {
+		"base_atk": 1098,
+		"base_def": 549,
+		"base_hpMax": 10980,
+		"base_sunder": 549,
+		"battle": 32940,
+		"level": 545,
+		"other_critDamage": 20000
+	},
+	"546": {
+		"base_atk": 1100,
+		"base_def": 550,
+		"base_hpMax": 11000,
+		"base_sunder": 550,
+		"battle": 33000,
+		"level": 546,
+		"other_critDamage": 20000
+	},
+	"547": {
+		"base_atk": 1102,
+		"base_def": 551,
+		"base_hpMax": 11020,
+		"base_sunder": 551,
+		"battle": 33060,
+		"level": 547,
+		"other_critDamage": 20000
+	},
+	"548": {
+		"base_atk": 1104,
+		"base_def": 552,
+		"base_hpMax": 11040,
+		"base_sunder": 552,
+		"battle": 33120,
+		"level": 548,
+		"other_critDamage": 20000
+	},
+	"549": {
+		"base_atk": 1106,
+		"base_def": 553,
+		"base_hpMax": 11060,
+		"base_sunder": 553,
+		"battle": 33180,
+		"level": 549,
+		"other_critDamage": 20000
+	},
+	"550": {
+		"base_atk": 1108,
+		"base_def": 554,
+		"base_hpMax": 11080,
+		"base_sunder": 554,
+		"battle": 33240,
+		"level": 550,
+		"other_critDamage": 20000
+	},
+	"551": {
+		"base_atk": 1110,
+		"base_def": 555,
+		"base_hpMax": 11100,
+		"base_sunder": 555,
+		"battle": 33300,
+		"level": 551,
+		"other_critDamage": 20000
+	},
+	"552": {
+		"base_atk": 1112,
+		"base_def": 556,
+		"base_hpMax": 11120,
+		"base_sunder": 556,
+		"battle": 33360,
+		"level": 552,
+		"other_critDamage": 20000
+	},
+	"553": {
+		"base_atk": 1114,
+		"base_def": 557,
+		"base_hpMax": 11140,
+		"base_sunder": 557,
+		"battle": 33420,
+		"level": 553,
+		"other_critDamage": 20000
+	},
+	"554": {
+		"base_atk": 1116,
+		"base_def": 558,
+		"base_hpMax": 11160,
+		"base_sunder": 558,
+		"battle": 33480,
+		"level": 554,
+		"other_critDamage": 20000
+	},
+	"555": {
+		"base_atk": 1118,
+		"base_def": 559,
+		"base_hpMax": 11180,
+		"base_sunder": 559,
+		"battle": 33540,
+		"level": 555,
+		"other_critDamage": 20000
+	},
+	"556": {
+		"base_atk": 1120,
+		"base_def": 560,
+		"base_hpMax": 11200,
+		"base_sunder": 560,
+		"battle": 33600,
+		"level": 556,
+		"other_critDamage": 20000
+	},
+	"557": {
+		"base_atk": 1122,
+		"base_def": 561,
+		"base_hpMax": 11220,
+		"base_sunder": 561,
+		"battle": 33660,
+		"level": 557,
+		"other_critDamage": 20000
+	},
+	"558": {
+		"base_atk": 1124,
+		"base_def": 562,
+		"base_hpMax": 11240,
+		"base_sunder": 562,
+		"battle": 33720,
+		"level": 558,
+		"other_critDamage": 20000
+	},
+	"559": {
+		"base_atk": 1126,
+		"base_def": 563,
+		"base_hpMax": 11260,
+		"base_sunder": 563,
+		"battle": 33780,
+		"level": 559,
+		"other_critDamage": 20000
+	},
+	"560": {
+		"base_atk": 1128,
+		"base_def": 564,
+		"base_hpMax": 11280,
+		"base_sunder": 564,
+		"battle": 33840,
+		"level": 560,
+		"other_critDamage": 20000
+	},
+	"561": {
+		"base_atk": 1130,
+		"base_def": 565,
+		"base_hpMax": 11300,
+		"base_sunder": 565,
+		"battle": 33900,
+		"level": 561,
+		"other_critDamage": 20000
+	},
+	"562": {
+		"base_atk": 1132,
+		"base_def": 566,
+		"base_hpMax": 11320,
+		"base_sunder": 566,
+		"battle": 33960,
+		"level": 562,
+		"other_critDamage": 20000
+	},
+	"563": {
+		"base_atk": 1134,
+		"base_def": 567,
+		"base_hpMax": 11340,
+		"base_sunder": 567,
+		"battle": 34020,
+		"level": 563,
+		"other_critDamage": 20000
+	},
+	"564": {
+		"base_atk": 1136,
+		"base_def": 568,
+		"base_hpMax": 11360,
+		"base_sunder": 568,
+		"battle": 34080,
+		"level": 564,
+		"other_critDamage": 20000
+	},
+	"565": {
+		"base_atk": 1138,
+		"base_def": 569,
+		"base_hpMax": 11380,
+		"base_sunder": 569,
+		"battle": 34140,
+		"level": 565,
+		"other_critDamage": 20000
+	},
+	"566": {
+		"base_atk": 1140,
+		"base_def": 570,
+		"base_hpMax": 11400,
+		"base_sunder": 570,
+		"battle": 34200,
+		"level": 566,
+		"other_critDamage": 20000
+	},
+	"567": {
+		"base_atk": 1142,
+		"base_def": 571,
+		"base_hpMax": 11420,
+		"base_sunder": 571,
+		"battle": 34260,
+		"level": 567,
+		"other_critDamage": 20000
+	},
+	"568": {
+		"base_atk": 1144,
+		"base_def": 572,
+		"base_hpMax": 11440,
+		"base_sunder": 572,
+		"battle": 34320,
+		"level": 568,
+		"other_critDamage": 20000
+	},
+	"569": {
+		"base_atk": 1146,
+		"base_def": 573,
+		"base_hpMax": 11460,
+		"base_sunder": 573,
+		"battle": 34380,
+		"level": 569,
+		"other_critDamage": 20000
+	},
+	"570": {
+		"base_atk": 1148,
+		"base_def": 574,
+		"base_hpMax": 11480,
+		"base_sunder": 574,
+		"battle": 34440,
+		"level": 570,
+		"other_critDamage": 20000
+	},
+	"571": {
+		"base_atk": 1150,
+		"base_def": 575,
+		"base_hpMax": 11500,
+		"base_sunder": 575,
+		"battle": 34500,
+		"level": 571,
+		"other_critDamage": 20000
+	},
+	"572": {
+		"base_atk": 1152,
+		"base_def": 576,
+		"base_hpMax": 11520,
+		"base_sunder": 576,
+		"battle": 34560,
+		"level": 572,
+		"other_critDamage": 20000
+	},
+	"573": {
+		"base_atk": 1154,
+		"base_def": 577,
+		"base_hpMax": 11540,
+		"base_sunder": 577,
+		"battle": 34620,
+		"level": 573,
+		"other_critDamage": 20000
+	},
+	"574": {
+		"base_atk": 1156,
+		"base_def": 578,
+		"base_hpMax": 11560,
+		"base_sunder": 578,
+		"battle": 34680,
+		"level": 574,
+		"other_critDamage": 20000
+	},
+	"575": {
+		"base_atk": 1158,
+		"base_def": 579,
+		"base_hpMax": 11580,
+		"base_sunder": 579,
+		"battle": 34740,
+		"level": 575,
+		"other_critDamage": 20000
+	},
+	"576": {
+		"base_atk": 1160,
+		"base_def": 580,
+		"base_hpMax": 11600,
+		"base_sunder": 580,
+		"battle": 34800,
+		"level": 576,
+		"other_critDamage": 20000
+	},
+	"577": {
+		"base_atk": 1162,
+		"base_def": 581,
+		"base_hpMax": 11620,
+		"base_sunder": 581,
+		"battle": 34860,
+		"level": 577,
+		"other_critDamage": 20000
+	},
+	"578": {
+		"base_atk": 1164,
+		"base_def": 582,
+		"base_hpMax": 11640,
+		"base_sunder": 582,
+		"battle": 34920,
+		"level": 578,
+		"other_critDamage": 20000
+	},
+	"579": {
+		"base_atk": 1166,
+		"base_def": 583,
+		"base_hpMax": 11660,
+		"base_sunder": 583,
+		"battle": 34980,
+		"level": 579,
+		"other_critDamage": 20000
+	},
+	"580": {
+		"base_atk": 1168,
+		"base_def": 584,
+		"base_hpMax": 11680,
+		"base_sunder": 584,
+		"battle": 35040,
+		"level": 580,
+		"other_critDamage": 20000
+	},
+	"581": {
+		"base_atk": 1170,
+		"base_def": 585,
+		"base_hpMax": 11700,
+		"base_sunder": 585,
+		"battle": 35100,
+		"level": 581,
+		"other_critDamage": 20000
+	},
+	"582": {
+		"base_atk": 1172,
+		"base_def": 586,
+		"base_hpMax": 11720,
+		"base_sunder": 586,
+		"battle": 35160,
+		"level": 582,
+		"other_critDamage": 20000
+	},
+	"583": {
+		"base_atk": 1174,
+		"base_def": 587,
+		"base_hpMax": 11740,
+		"base_sunder": 587,
+		"battle": 35220,
+		"level": 583,
+		"other_critDamage": 20000
+	},
+	"584": {
+		"base_atk": 1176,
+		"base_def": 588,
+		"base_hpMax": 11760,
+		"base_sunder": 588,
+		"battle": 35280,
+		"level": 584,
+		"other_critDamage": 20000
+	},
+	"585": {
+		"base_atk": 1178,
+		"base_def": 589,
+		"base_hpMax": 11780,
+		"base_sunder": 589,
+		"battle": 35340,
+		"level": 585,
+		"other_critDamage": 20000
+	},
+	"586": {
+		"base_atk": 1180,
+		"base_def": 590,
+		"base_hpMax": 11800,
+		"base_sunder": 590,
+		"battle": 35400,
+		"level": 586,
+		"other_critDamage": 20000
+	},
+	"587": {
+		"base_atk": 1182,
+		"base_def": 591,
+		"base_hpMax": 11820,
+		"base_sunder": 591,
+		"battle": 35460,
+		"level": 587,
+		"other_critDamage": 20000
+	},
+	"588": {
+		"base_atk": 1184,
+		"base_def": 592,
+		"base_hpMax": 11840,
+		"base_sunder": 592,
+		"battle": 35520,
+		"level": 588,
+		"other_critDamage": 20000
+	},
+	"589": {
+		"base_atk": 1186,
+		"base_def": 593,
+		"base_hpMax": 11860,
+		"base_sunder": 593,
+		"battle": 35580,
+		"level": 589,
+		"other_critDamage": 20000
+	},
+	"590": {
+		"base_atk": 1188,
+		"base_def": 594,
+		"base_hpMax": 11880,
+		"base_sunder": 594,
+		"battle": 35640,
+		"level": 590,
+		"other_critDamage": 20000
+	},
+	"591": {
+		"base_atk": 1190,
+		"base_def": 595,
+		"base_hpMax": 11900,
+		"base_sunder": 595,
+		"battle": 35700,
+		"level": 591,
+		"other_critDamage": 20000
+	},
+	"592": {
+		"base_atk": 1192,
+		"base_def": 596,
+		"base_hpMax": 11920,
+		"base_sunder": 596,
+		"battle": 35760,
+		"level": 592,
+		"other_critDamage": 20000
+	},
+	"593": {
+		"base_atk": 1194,
+		"base_def": 597,
+		"base_hpMax": 11940,
+		"base_sunder": 597,
+		"battle": 35820,
+		"level": 593,
+		"other_critDamage": 20000
+	},
+	"594": {
+		"base_atk": 1196,
+		"base_def": 598,
+		"base_hpMax": 11960,
+		"base_sunder": 598,
+		"battle": 35880,
+		"level": 594,
+		"other_critDamage": 20000
+	},
+	"595": {
+		"base_atk": 1198,
+		"base_def": 599,
+		"base_hpMax": 11980,
+		"base_sunder": 599,
+		"battle": 35940,
+		"level": 595,
+		"other_critDamage": 20000
+	},
+	"596": {
+		"base_atk": 1200,
+		"base_def": 600,
+		"base_hpMax": 12000,
+		"base_sunder": 600,
+		"battle": 36000,
+		"level": 596,
+		"other_critDamage": 20000
+	},
+	"597": {
+		"base_atk": 1202,
+		"base_def": 601,
+		"base_hpMax": 12020,
+		"base_sunder": 601,
+		"battle": 36060,
+		"level": 597,
+		"other_critDamage": 20000
+	},
+	"598": {
+		"base_atk": 1204,
+		"base_def": 602,
+		"base_hpMax": 12040,
+		"base_sunder": 602,
+		"battle": 36120,
+		"level": 598,
+		"other_critDamage": 20000
+	},
+	"599": {
+		"base_atk": 1206,
+		"base_def": 603,
+		"base_hpMax": 12060,
+		"base_sunder": 603,
+		"battle": 36180,
+		"level": 599,
+		"other_critDamage": 20000
+	},
+	"600": {
+		"base_atk": 1208,
+		"base_def": 604,
+		"base_hpMax": 12080,
+		"base_sunder": 604,
+		"battle": 36240,
+		"level": 600,
+		"other_critDamage": 20000
+	},
+	"601": {
+		"base_atk": 1210,
+		"base_def": 605,
+		"base_hpMax": 12100,
+		"base_sunder": 605,
+		"battle": 36300,
+		"level": 601,
+		"other_critDamage": 20000
+	},
+	"602": {
+		"base_atk": 1212,
+		"base_def": 606,
+		"base_hpMax": 12120,
+		"base_sunder": 606,
+		"battle": 36360,
+		"level": 602,
+		"other_critDamage": 20000
+	},
+	"603": {
+		"base_atk": 1214,
+		"base_def": 607,
+		"base_hpMax": 12140,
+		"base_sunder": 607,
+		"battle": 36420,
+		"level": 603,
+		"other_critDamage": 20000
+	},
+	"604": {
+		"base_atk": 1216,
+		"base_def": 608,
+		"base_hpMax": 12160,
+		"base_sunder": 608,
+		"battle": 36480,
+		"level": 604,
+		"other_critDamage": 20000
+	},
+	"605": {
+		"base_atk": 1218,
+		"base_def": 609,
+		"base_hpMax": 12180,
+		"base_sunder": 609,
+		"battle": 36540,
+		"level": 605,
+		"other_critDamage": 20000
+	},
+	"606": {
+		"base_atk": 1220,
+		"base_def": 610,
+		"base_hpMax": 12200,
+		"base_sunder": 610,
+		"battle": 36600,
+		"level": 606,
+		"other_critDamage": 20000
+	},
+	"607": {
+		"base_atk": 1222,
+		"base_def": 611,
+		"base_hpMax": 12220,
+		"base_sunder": 611,
+		"battle": 36660,
+		"level": 607,
+		"other_critDamage": 20000
+	},
+	"608": {
+		"base_atk": 1224,
+		"base_def": 612,
+		"base_hpMax": 12240,
+		"base_sunder": 612,
+		"battle": 36720,
+		"level": 608,
+		"other_critDamage": 20000
+	},
+	"609": {
+		"base_atk": 1226,
+		"base_def": 613,
+		"base_hpMax": 12260,
+		"base_sunder": 613,
+		"battle": 36780,
+		"level": 609,
+		"other_critDamage": 20000
+	},
+	"610": {
+		"base_atk": 1228,
+		"base_def": 614,
+		"base_hpMax": 12280,
+		"base_sunder": 614,
+		"battle": 36840,
+		"level": 610,
+		"other_critDamage": 20000
+	},
+	"611": {
+		"base_atk": 1230,
+		"base_def": 615,
+		"base_hpMax": 12300,
+		"base_sunder": 615,
+		"battle": 36900,
+		"level": 611,
+		"other_critDamage": 20000
+	},
+	"612": {
+		"base_atk": 1232,
+		"base_def": 616,
+		"base_hpMax": 12320,
+		"base_sunder": 616,
+		"battle": 36960,
+		"level": 612,
+		"other_critDamage": 20000
+	},
+	"613": {
+		"base_atk": 1234,
+		"base_def": 617,
+		"base_hpMax": 12340,
+		"base_sunder": 617,
+		"battle": 37020,
+		"level": 613,
+		"other_critDamage": 20000
+	},
+	"614": {
+		"base_atk": 1236,
+		"base_def": 618,
+		"base_hpMax": 12360,
+		"base_sunder": 618,
+		"battle": 37080,
+		"level": 614,
+		"other_critDamage": 20000
+	},
+	"615": {
+		"base_atk": 1238,
+		"base_def": 619,
+		"base_hpMax": 12380,
+		"base_sunder": 619,
+		"battle": 37140,
+		"level": 615,
+		"other_critDamage": 20000
+	},
+	"616": {
+		"base_atk": 1240,
+		"base_def": 620,
+		"base_hpMax": 12400,
+		"base_sunder": 620,
+		"battle": 37200,
+		"level": 616,
+		"other_critDamage": 20000
+	},
+	"617": {
+		"base_atk": 1242,
+		"base_def": 621,
+		"base_hpMax": 12420,
+		"base_sunder": 621,
+		"battle": 37260,
+		"level": 617,
+		"other_critDamage": 20000
+	},
+	"618": {
+		"base_atk": 1244,
+		"base_def": 622,
+		"base_hpMax": 12440,
+		"base_sunder": 622,
+		"battle": 37320,
+		"level": 618,
+		"other_critDamage": 20000
+	},
+	"619": {
+		"base_atk": 1246,
+		"base_def": 623,
+		"base_hpMax": 12460,
+		"base_sunder": 623,
+		"battle": 37380,
+		"level": 619,
+		"other_critDamage": 20000
+	},
+	"620": {
+		"base_atk": 1248,
+		"base_def": 624,
+		"base_hpMax": 12480,
+		"base_sunder": 624,
+		"battle": 37440,
+		"level": 620,
+		"other_critDamage": 20000
+	},
+	"621": {
+		"base_atk": 1250,
+		"base_def": 625,
+		"base_hpMax": 12500,
+		"base_sunder": 625,
+		"battle": 37500,
+		"level": 621,
+		"other_critDamage": 20000
+	},
+	"622": {
+		"base_atk": 1252,
+		"base_def": 626,
+		"base_hpMax": 12520,
+		"base_sunder": 626,
+		"battle": 37560,
+		"level": 622,
+		"other_critDamage": 20000
+	},
+	"623": {
+		"base_atk": 1254,
+		"base_def": 627,
+		"base_hpMax": 12540,
+		"base_sunder": 627,
+		"battle": 37620,
+		"level": 623,
+		"other_critDamage": 20000
+	},
+	"624": {
+		"base_atk": 1256,
+		"base_def": 628,
+		"base_hpMax": 12560,
+		"base_sunder": 628,
+		"battle": 37680,
+		"level": 624,
+		"other_critDamage": 20000
+	},
+	"625": {
+		"base_atk": 1258,
+		"base_def": 629,
+		"base_hpMax": 12580,
+		"base_sunder": 629,
+		"battle": 37740,
+		"level": 625,
+		"other_critDamage": 20000
+	},
+	"626": {
+		"base_atk": 1260,
+		"base_def": 630,
+		"base_hpMax": 12600,
+		"base_sunder": 630,
+		"battle": 37800,
+		"level": 626,
+		"other_critDamage": 20000
+	},
+	"627": {
+		"base_atk": 1262,
+		"base_def": 631,
+		"base_hpMax": 12620,
+		"base_sunder": 631,
+		"battle": 37860,
+		"level": 627,
+		"other_critDamage": 20000
+	},
+	"628": {
+		"base_atk": 1264,
+		"base_def": 632,
+		"base_hpMax": 12640,
+		"base_sunder": 632,
+		"battle": 37920,
+		"level": 628,
+		"other_critDamage": 20000
+	},
+	"629": {
+		"base_atk": 1266,
+		"base_def": 633,
+		"base_hpMax": 12660,
+		"base_sunder": 633,
+		"battle": 37980,
+		"level": 629,
+		"other_critDamage": 20000
+	},
+	"630": {
+		"base_atk": 1268,
+		"base_def": 634,
+		"base_hpMax": 12680,
+		"base_sunder": 634,
+		"battle": 38040,
+		"level": 630,
+		"other_critDamage": 20000
+	},
+	"631": {
+		"base_atk": 1270,
+		"base_def": 635,
+		"base_hpMax": 12700,
+		"base_sunder": 635,
+		"battle": 38100,
+		"level": 631,
+		"other_critDamage": 20000
+	},
+	"632": {
+		"base_atk": 1272,
+		"base_def": 636,
+		"base_hpMax": 12720,
+		"base_sunder": 636,
+		"battle": 38160,
+		"level": 632,
+		"other_critDamage": 20000
+	},
+	"633": {
+		"base_atk": 1274,
+		"base_def": 637,
+		"base_hpMax": 12740,
+		"base_sunder": 637,
+		"battle": 38220,
+		"level": 633,
+		"other_critDamage": 20000
+	},
+	"634": {
+		"base_atk": 1276,
+		"base_def": 638,
+		"base_hpMax": 12760,
+		"base_sunder": 638,
+		"battle": 38280,
+		"level": 634,
+		"other_critDamage": 20000
+	},
+	"635": {
+		"base_atk": 1278,
+		"base_def": 639,
+		"base_hpMax": 12780,
+		"base_sunder": 639,
+		"battle": 38340,
+		"level": 635,
+		"other_critDamage": 20000
+	},
+	"636": {
+		"base_atk": 1280,
+		"base_def": 640,
+		"base_hpMax": 12800,
+		"base_sunder": 640,
+		"battle": 38400,
+		"level": 636,
+		"other_critDamage": 20000
+	},
+	"637": {
+		"base_atk": 1282,
+		"base_def": 641,
+		"base_hpMax": 12820,
+		"base_sunder": 641,
+		"battle": 38460,
+		"level": 637,
+		"other_critDamage": 20000
+	},
+	"638": {
+		"base_atk": 1284,
+		"base_def": 642,
+		"base_hpMax": 12840,
+		"base_sunder": 642,
+		"battle": 38520,
+		"level": 638,
+		"other_critDamage": 20000
+	},
+	"639": {
+		"base_atk": 1286,
+		"base_def": 643,
+		"base_hpMax": 12860,
+		"base_sunder": 643,
+		"battle": 38580,
+		"level": 639,
+		"other_critDamage": 20000
+	},
+	"640": {
+		"base_atk": 1288,
+		"base_def": 644,
+		"base_hpMax": 12880,
+		"base_sunder": 644,
+		"battle": 38640,
+		"level": 640,
+		"other_critDamage": 20000
+	},
+	"641": {
+		"base_atk": 1290,
+		"base_def": 645,
+		"base_hpMax": 12900,
+		"base_sunder": 645,
+		"battle": 38700,
+		"level": 641,
+		"other_critDamage": 20000
+	},
+	"642": {
+		"base_atk": 1292,
+		"base_def": 646,
+		"base_hpMax": 12920,
+		"base_sunder": 646,
+		"battle": 38760,
+		"level": 642,
+		"other_critDamage": 20000
+	},
+	"643": {
+		"base_atk": 1294,
+		"base_def": 647,
+		"base_hpMax": 12940,
+		"base_sunder": 647,
+		"battle": 38820,
+		"level": 643,
+		"other_critDamage": 20000
+	},
+	"644": {
+		"base_atk": 1296,
+		"base_def": 648,
+		"base_hpMax": 12960,
+		"base_sunder": 648,
+		"battle": 38880,
+		"level": 644,
+		"other_critDamage": 20000
+	},
+	"645": {
+		"base_atk": 1298,
+		"base_def": 649,
+		"base_hpMax": 12980,
+		"base_sunder": 649,
+		"battle": 38940,
+		"level": 645,
+		"other_critDamage": 20000
+	},
+	"646": {
+		"base_atk": 1300,
+		"base_def": 650,
+		"base_hpMax": 13000,
+		"base_sunder": 650,
+		"battle": 39000,
+		"level": 646,
+		"other_critDamage": 20000
+	},
+	"647": {
+		"base_atk": 1302,
+		"base_def": 651,
+		"base_hpMax": 13020,
+		"base_sunder": 651,
+		"battle": 39060,
+		"level": 647,
+		"other_critDamage": 20000
+	},
+	"648": {
+		"base_atk": 1304,
+		"base_def": 652,
+		"base_hpMax": 13040,
+		"base_sunder": 652,
+		"battle": 39120,
+		"level": 648,
+		"other_critDamage": 20000
+	},
+	"649": {
+		"base_atk": 1306,
+		"base_def": 653,
+		"base_hpMax": 13060,
+		"base_sunder": 653,
+		"battle": 39180,
+		"level": 649,
+		"other_critDamage": 20000
+	},
+	"650": {
+		"base_atk": 1308,
+		"base_def": 654,
+		"base_hpMax": 13080,
+		"base_sunder": 654,
+		"battle": 39240,
+		"level": 650,
+		"other_critDamage": 20000
+	},
+	"651": {
+		"base_atk": 1310,
+		"base_def": 655,
+		"base_hpMax": 13100,
+		"base_sunder": 655,
+		"battle": 39300,
+		"level": 651,
+		"other_critDamage": 20000
+	},
+	"652": {
+		"base_atk": 1312,
+		"base_def": 656,
+		"base_hpMax": 13120,
+		"base_sunder": 656,
+		"battle": 39360,
+		"level": 652,
+		"other_critDamage": 20000
+	},
+	"653": {
+		"base_atk": 1314,
+		"base_def": 657,
+		"base_hpMax": 13140,
+		"base_sunder": 657,
+		"battle": 39420,
+		"level": 653,
+		"other_critDamage": 20000
+	},
+	"654": {
+		"base_atk": 1316,
+		"base_def": 658,
+		"base_hpMax": 13160,
+		"base_sunder": 658,
+		"battle": 39480,
+		"level": 654,
+		"other_critDamage": 20000
+	},
+	"655": {
+		"base_atk": 1318,
+		"base_def": 659,
+		"base_hpMax": 13180,
+		"base_sunder": 659,
+		"battle": 39540,
+		"level": 655,
+		"other_critDamage": 20000
+	},
+	"656": {
+		"base_atk": 1320,
+		"base_def": 660,
+		"base_hpMax": 13200,
+		"base_sunder": 660,
+		"battle": 39600,
+		"level": 656,
+		"other_critDamage": 20000
+	},
+	"657": {
+		"base_atk": 1322,
+		"base_def": 661,
+		"base_hpMax": 13220,
+		"base_sunder": 661,
+		"battle": 39660,
+		"level": 657,
+		"other_critDamage": 20000
+	},
+	"658": {
+		"base_atk": 1324,
+		"base_def": 662,
+		"base_hpMax": 13240,
+		"base_sunder": 662,
+		"battle": 39720,
+		"level": 658,
+		"other_critDamage": 20000
+	},
+	"659": {
+		"base_atk": 1326,
+		"base_def": 663,
+		"base_hpMax": 13260,
+		"base_sunder": 663,
+		"battle": 39780,
+		"level": 659,
+		"other_critDamage": 20000
+	},
+	"660": {
+		"base_atk": 1328,
+		"base_def": 664,
+		"base_hpMax": 13280,
+		"base_sunder": 664,
+		"battle": 39840,
+		"level": 660,
+		"other_critDamage": 20000
+	},
+	"661": {
+		"base_atk": 1330,
+		"base_def": 665,
+		"base_hpMax": 13300,
+		"base_sunder": 665,
+		"battle": 39900,
+		"level": 661,
+		"other_critDamage": 20000
+	},
+	"662": {
+		"base_atk": 1332,
+		"base_def": 666,
+		"base_hpMax": 13320,
+		"base_sunder": 666,
+		"battle": 39960,
+		"level": 662,
+		"other_critDamage": 20000
+	},
+	"663": {
+		"base_atk": 1334,
+		"base_def": 667,
+		"base_hpMax": 13340,
+		"base_sunder": 667,
+		"battle": 40020,
+		"level": 663,
+		"other_critDamage": 20000
+	},
+	"664": {
+		"base_atk": 1336,
+		"base_def": 668,
+		"base_hpMax": 13360,
+		"base_sunder": 668,
+		"battle": 40080,
+		"level": 664,
+		"other_critDamage": 20000
+	},
+	"665": {
+		"base_atk": 1338,
+		"base_def": 669,
+		"base_hpMax": 13380,
+		"base_sunder": 669,
+		"battle": 40140,
+		"level": 665,
+		"other_critDamage": 20000
+	},
+	"666": {
+		"base_atk": 1340,
+		"base_def": 670,
+		"base_hpMax": 13400,
+		"base_sunder": 670,
+		"battle": 40200,
+		"level": 666,
+		"other_critDamage": 20000
+	},
+	"667": {
+		"base_atk": 1342,
+		"base_def": 671,
+		"base_hpMax": 13420,
+		"base_sunder": 671,
+		"battle": 40260,
+		"level": 667,
+		"other_critDamage": 20000
+	},
+	"668": {
+		"base_atk": 1344,
+		"base_def": 672,
+		"base_hpMax": 13440,
+		"base_sunder": 672,
+		"battle": 40320,
+		"level": 668,
+		"other_critDamage": 20000
+	},
+	"669": {
+		"base_atk": 1346,
+		"base_def": 673,
+		"base_hpMax": 13460,
+		"base_sunder": 673,
+		"battle": 40380,
+		"level": 669,
+		"other_critDamage": 20000
+	},
+	"670": {
+		"base_atk": 1348,
+		"base_def": 674,
+		"base_hpMax": 13480,
+		"base_sunder": 674,
+		"battle": 40440,
+		"level": 670,
+		"other_critDamage": 20000
+	},
+	"671": {
+		"base_atk": 1350,
+		"base_def": 675,
+		"base_hpMax": 13500,
+		"base_sunder": 675,
+		"battle": 40500,
+		"level": 671,
+		"other_critDamage": 20000
+	},
+	"672": {
+		"base_atk": 1352,
+		"base_def": 676,
+		"base_hpMax": 13520,
+		"base_sunder": 676,
+		"battle": 40560,
+		"level": 672,
+		"other_critDamage": 20000
+	},
+	"673": {
+		"base_atk": 1354,
+		"base_def": 677,
+		"base_hpMax": 13540,
+		"base_sunder": 677,
+		"battle": 40620,
+		"level": 673,
+		"other_critDamage": 20000
+	},
+	"674": {
+		"base_atk": 1356,
+		"base_def": 678,
+		"base_hpMax": 13560,
+		"base_sunder": 678,
+		"battle": 40680,
+		"level": 674,
+		"other_critDamage": 20000
+	},
+	"675": {
+		"base_atk": 1358,
+		"base_def": 679,
+		"base_hpMax": 13580,
+		"base_sunder": 679,
+		"battle": 40740,
+		"level": 675,
+		"other_critDamage": 20000
+	},
+	"676": {
+		"base_atk": 1360,
+		"base_def": 680,
+		"base_hpMax": 13600,
+		"base_sunder": 680,
+		"battle": 40800,
+		"level": 676,
+		"other_critDamage": 20000
+	},
+	"677": {
+		"base_atk": 1362,
+		"base_def": 681,
+		"base_hpMax": 13620,
+		"base_sunder": 681,
+		"battle": 40860,
+		"level": 677,
+		"other_critDamage": 20000
+	},
+	"678": {
+		"base_atk": 1364,
+		"base_def": 682,
+		"base_hpMax": 13640,
+		"base_sunder": 682,
+		"battle": 40920,
+		"level": 678,
+		"other_critDamage": 20000
+	},
+	"679": {
+		"base_atk": 1366,
+		"base_def": 683,
+		"base_hpMax": 13660,
+		"base_sunder": 683,
+		"battle": 40980,
+		"level": 679,
+		"other_critDamage": 20000
+	},
+	"680": {
+		"base_atk": 1368,
+		"base_def": 684,
+		"base_hpMax": 13680,
+		"base_sunder": 684,
+		"battle": 41040,
+		"level": 680,
+		"other_critDamage": 20000
+	},
+	"681": {
+		"base_atk": 1370,
+		"base_def": 685,
+		"base_hpMax": 13700,
+		"base_sunder": 685,
+		"battle": 41100,
+		"level": 681,
+		"other_critDamage": 20000
+	},
+	"682": {
+		"base_atk": 1372,
+		"base_def": 686,
+		"base_hpMax": 13720,
+		"base_sunder": 686,
+		"battle": 41160,
+		"level": 682,
+		"other_critDamage": 20000
+	},
+	"683": {
+		"base_atk": 1374,
+		"base_def": 687,
+		"base_hpMax": 13740,
+		"base_sunder": 687,
+		"battle": 41220,
+		"level": 683,
+		"other_critDamage": 20000
+	},
+	"684": {
+		"base_atk": 1376,
+		"base_def": 688,
+		"base_hpMax": 13760,
+		"base_sunder": 688,
+		"battle": 41280,
+		"level": 684,
+		"other_critDamage": 20000
+	},
+	"685": {
+		"base_atk": 1378,
+		"base_def": 689,
+		"base_hpMax": 13780,
+		"base_sunder": 689,
+		"battle": 41340,
+		"level": 685,
+		"other_critDamage": 20000
+	},
+	"686": {
+		"base_atk": 1380,
+		"base_def": 690,
+		"base_hpMax": 13800,
+		"base_sunder": 690,
+		"battle": 41400,
+		"level": 686,
+		"other_critDamage": 20000
+	},
+	"687": {
+		"base_atk": 1382,
+		"base_def": 691,
+		"base_hpMax": 13820,
+		"base_sunder": 691,
+		"battle": 41460,
+		"level": 687,
+		"other_critDamage": 20000
+	},
+	"688": {
+		"base_atk": 1384,
+		"base_def": 692,
+		"base_hpMax": 13840,
+		"base_sunder": 692,
+		"battle": 41520,
+		"level": 688,
+		"other_critDamage": 20000
+	},
+	"689": {
+		"base_atk": 1386,
+		"base_def": 693,
+		"base_hpMax": 13860,
+		"base_sunder": 693,
+		"battle": 41580,
+		"level": 689,
+		"other_critDamage": 20000
+	},
+	"690": {
+		"base_atk": 1388,
+		"base_def": 694,
+		"base_hpMax": 13880,
+		"base_sunder": 694,
+		"battle": 41640,
+		"level": 690,
+		"other_critDamage": 20000
+	},
+	"691": {
+		"base_atk": 1390,
+		"base_def": 695,
+		"base_hpMax": 13900,
+		"base_sunder": 695,
+		"battle": 41700,
+		"level": 691,
+		"other_critDamage": 20000
+	},
+	"692": {
+		"base_atk": 1392,
+		"base_def": 696,
+		"base_hpMax": 13920,
+		"base_sunder": 696,
+		"battle": 41760,
+		"level": 692,
+		"other_critDamage": 20000
+	},
+	"693": {
+		"base_atk": 1394,
+		"base_def": 697,
+		"base_hpMax": 13940,
+		"base_sunder": 697,
+		"battle": 41820,
+		"level": 693,
+		"other_critDamage": 20000
+	},
+	"694": {
+		"base_atk": 1396,
+		"base_def": 698,
+		"base_hpMax": 13960,
+		"base_sunder": 698,
+		"battle": 41880,
+		"level": 694,
+		"other_critDamage": 20000
+	},
+	"695": {
+		"base_atk": 1398,
+		"base_def": 699,
+		"base_hpMax": 13980,
+		"base_sunder": 699,
+		"battle": 41940,
+		"level": 695,
+		"other_critDamage": 20000
+	},
+	"696": {
+		"base_atk": 1400,
+		"base_def": 700,
+		"base_hpMax": 14000,
+		"base_sunder": 700,
+		"battle": 42000,
+		"level": 696,
+		"other_critDamage": 20000
+	},
+	"697": {
+		"base_atk": 1402,
+		"base_def": 701,
+		"base_hpMax": 14020,
+		"base_sunder": 701,
+		"battle": 42060,
+		"level": 697,
+		"other_critDamage": 20000
+	},
+	"698": {
+		"base_atk": 1404,
+		"base_def": 702,
+		"base_hpMax": 14040,
+		"base_sunder": 702,
+		"battle": 42120,
+		"level": 698,
+		"other_critDamage": 20000
+	},
+	"699": {
+		"base_atk": 1406,
+		"base_def": 703,
+		"base_hpMax": 14060,
+		"base_sunder": 703,
+		"battle": 42180,
+		"level": 699,
+		"other_critDamage": 20000
+	},
+	"700": {
+		"base_atk": 1408,
+		"base_def": 704,
+		"base_hpMax": 14080,
+		"base_sunder": 704,
+		"battle": 42240,
+		"level": 700,
+		"other_critDamage": 20000
+	},
+	"701": {
+		"base_atk": 1410,
+		"base_def": 705,
+		"base_hpMax": 14100,
+		"base_sunder": 705,
+		"battle": 42300,
+		"level": 701,
+		"other_critDamage": 20000
+	},
+	"702": {
+		"base_atk": 1412,
+		"base_def": 706,
+		"base_hpMax": 14120,
+		"base_sunder": 706,
+		"battle": 42360,
+		"level": 702,
+		"other_critDamage": 20000
+	},
+	"703": {
+		"base_atk": 1414,
+		"base_def": 707,
+		"base_hpMax": 14140,
+		"base_sunder": 707,
+		"battle": 42420,
+		"level": 703,
+		"other_critDamage": 20000
+	},
+	"704": {
+		"base_atk": 1416,
+		"base_def": 708,
+		"base_hpMax": 14160,
+		"base_sunder": 708,
+		"battle": 42480,
+		"level": 704,
+		"other_critDamage": 20000
+	},
+	"705": {
+		"base_atk": 1418,
+		"base_def": 709,
+		"base_hpMax": 14180,
+		"base_sunder": 709,
+		"battle": 42540,
+		"level": 705,
+		"other_critDamage": 20000
+	},
+	"706": {
+		"base_atk": 1420,
+		"base_def": 710,
+		"base_hpMax": 14200,
+		"base_sunder": 710,
+		"battle": 42600,
+		"level": 706,
+		"other_critDamage": 20000
+	},
+	"707": {
+		"base_atk": 1422,
+		"base_def": 711,
+		"base_hpMax": 14220,
+		"base_sunder": 711,
+		"battle": 42660,
+		"level": 707,
+		"other_critDamage": 20000
+	},
+	"708": {
+		"base_atk": 1424,
+		"base_def": 712,
+		"base_hpMax": 14240,
+		"base_sunder": 712,
+		"battle": 42720,
+		"level": 708,
+		"other_critDamage": 20000
+	},
+	"709": {
+		"base_atk": 1426,
+		"base_def": 713,
+		"base_hpMax": 14260,
+		"base_sunder": 713,
+		"battle": 42780,
+		"level": 709,
+		"other_critDamage": 20000
+	},
+	"710": {
+		"base_atk": 1428,
+		"base_def": 714,
+		"base_hpMax": 14280,
+		"base_sunder": 714,
+		"battle": 42840,
+		"level": 710,
+		"other_critDamage": 20000
+	},
+	"711": {
+		"base_atk": 1430,
+		"base_def": 715,
+		"base_hpMax": 14300,
+		"base_sunder": 715,
+		"battle": 42900,
+		"level": 711,
+		"other_critDamage": 20000
+	},
+	"712": {
+		"base_atk": 1432,
+		"base_def": 716,
+		"base_hpMax": 14320,
+		"base_sunder": 716,
+		"battle": 42960,
+		"level": 712,
+		"other_critDamage": 20000
+	},
+	"713": {
+		"base_atk": 1434,
+		"base_def": 717,
+		"base_hpMax": 14340,
+		"base_sunder": 717,
+		"battle": 43020,
+		"level": 713,
+		"other_critDamage": 20000
+	},
+	"714": {
+		"base_atk": 1436,
+		"base_def": 718,
+		"base_hpMax": 14360,
+		"base_sunder": 718,
+		"battle": 43080,
+		"level": 714,
+		"other_critDamage": 20000
+	},
+	"715": {
+		"base_atk": 1438,
+		"base_def": 719,
+		"base_hpMax": 14380,
+		"base_sunder": 719,
+		"battle": 43140,
+		"level": 715,
+		"other_critDamage": 20000
+	},
+	"716": {
+		"base_atk": 1440,
+		"base_def": 720,
+		"base_hpMax": 14400,
+		"base_sunder": 720,
+		"battle": 43200,
+		"level": 716,
+		"other_critDamage": 20000
+	},
+	"717": {
+		"base_atk": 1442,
+		"base_def": 721,
+		"base_hpMax": 14420,
+		"base_sunder": 721,
+		"battle": 43260,
+		"level": 717,
+		"other_critDamage": 20000
+	},
+	"718": {
+		"base_atk": 1444,
+		"base_def": 722,
+		"base_hpMax": 14440,
+		"base_sunder": 722,
+		"battle": 43320,
+		"level": 718,
+		"other_critDamage": 20000
+	},
+	"719": {
+		"base_atk": 1446,
+		"base_def": 723,
+		"base_hpMax": 14460,
+		"base_sunder": 723,
+		"battle": 43380,
+		"level": 719,
+		"other_critDamage": 20000
+	},
+	"720": {
+		"base_atk": 1448,
+		"base_def": 724,
+		"base_hpMax": 14480,
+		"base_sunder": 724,
+		"battle": 43440,
+		"level": 720,
+		"other_critDamage": 20000
+	},
+	"721": {
+		"base_atk": 1450,
+		"base_def": 725,
+		"base_hpMax": 14500,
+		"base_sunder": 725,
+		"battle": 43500,
+		"level": 721,
+		"other_critDamage": 20000
+	},
+	"722": {
+		"base_atk": 1452,
+		"base_def": 726,
+		"base_hpMax": 14520,
+		"base_sunder": 726,
+		"battle": 43560,
+		"level": 722,
+		"other_critDamage": 20000
+	},
+	"723": {
+		"base_atk": 1454,
+		"base_def": 727,
+		"base_hpMax": 14540,
+		"base_sunder": 727,
+		"battle": 43620,
+		"level": 723,
+		"other_critDamage": 20000
+	},
+	"724": {
+		"base_atk": 1456,
+		"base_def": 728,
+		"base_hpMax": 14560,
+		"base_sunder": 728,
+		"battle": 43680,
+		"level": 724,
+		"other_critDamage": 20000
+	},
+	"725": {
+		"base_atk": 1458,
+		"base_def": 729,
+		"base_hpMax": 14580,
+		"base_sunder": 729,
+		"battle": 43740,
+		"level": 725,
+		"other_critDamage": 20000
+	},
+	"726": {
+		"base_atk": 1460,
+		"base_def": 730,
+		"base_hpMax": 14600,
+		"base_sunder": 730,
+		"battle": 43800,
+		"level": 726,
+		"other_critDamage": 20000
+	},
+	"727": {
+		"base_atk": 1462,
+		"base_def": 731,
+		"base_hpMax": 14620,
+		"base_sunder": 731,
+		"battle": 43860,
+		"level": 727,
+		"other_critDamage": 20000
+	},
+	"728": {
+		"base_atk": 1464,
+		"base_def": 732,
+		"base_hpMax": 14640,
+		"base_sunder": 732,
+		"battle": 43920,
+		"level": 728,
+		"other_critDamage": 20000
+	},
+	"729": {
+		"base_atk": 1466,
+		"base_def": 733,
+		"base_hpMax": 14660,
+		"base_sunder": 733,
+		"battle": 43980,
+		"level": 729,
+		"other_critDamage": 20000
+	},
+	"730": {
+		"base_atk": 1468,
+		"base_def": 734,
+		"base_hpMax": 14680,
+		"base_sunder": 734,
+		"battle": 44040,
+		"level": 730,
+		"other_critDamage": 20000
+	},
+	"731": {
+		"base_atk": 1470,
+		"base_def": 735,
+		"base_hpMax": 14700,
+		"base_sunder": 735,
+		"battle": 44100,
+		"level": 731,
+		"other_critDamage": 20000
+	},
+	"732": {
+		"base_atk": 1472,
+		"base_def": 736,
+		"base_hpMax": 14720,
+		"base_sunder": 736,
+		"battle": 44160,
+		"level": 732,
+		"other_critDamage": 20000
+	},
+	"733": {
+		"base_atk": 1474,
+		"base_def": 737,
+		"base_hpMax": 14740,
+		"base_sunder": 737,
+		"battle": 44220,
+		"level": 733,
+		"other_critDamage": 20000
+	},
+	"734": {
+		"base_atk": 1476,
+		"base_def": 738,
+		"base_hpMax": 14760,
+		"base_sunder": 738,
+		"battle": 44280,
+		"level": 734,
+		"other_critDamage": 20000
+	},
+	"735": {
+		"base_atk": 1478,
+		"base_def": 739,
+		"base_hpMax": 14780,
+		"base_sunder": 739,
+		"battle": 44340,
+		"level": 735,
+		"other_critDamage": 20000
+	},
+	"736": {
+		"base_atk": 1480,
+		"base_def": 740,
+		"base_hpMax": 14800,
+		"base_sunder": 740,
+		"battle": 44400,
+		"level": 736,
+		"other_critDamage": 20000
+	},
+	"737": {
+		"base_atk": 1482,
+		"base_def": 741,
+		"base_hpMax": 14820,
+		"base_sunder": 741,
+		"battle": 44460,
+		"level": 737,
+		"other_critDamage": 20000
+	},
+	"738": {
+		"base_atk": 1484,
+		"base_def": 742,
+		"base_hpMax": 14840,
+		"base_sunder": 742,
+		"battle": 44520,
+		"level": 738,
+		"other_critDamage": 20000
+	},
+	"739": {
+		"base_atk": 1486,
+		"base_def": 743,
+		"base_hpMax": 14860,
+		"base_sunder": 743,
+		"battle": 44580,
+		"level": 739,
+		"other_critDamage": 20000
+	},
+	"740": {
+		"base_atk": 1488,
+		"base_def": 744,
+		"base_hpMax": 14880,
+		"base_sunder": 744,
+		"battle": 44640,
+		"level": 740,
+		"other_critDamage": 20000
+	},
+	"741": {
+		"base_atk": 1490,
+		"base_def": 745,
+		"base_hpMax": 14900,
+		"base_sunder": 745,
+		"battle": 44700,
+		"level": 741,
+		"other_critDamage": 20000
+	},
+	"742": {
+		"base_atk": 1492,
+		"base_def": 746,
+		"base_hpMax": 14920,
+		"base_sunder": 746,
+		"battle": 44760,
+		"level": 742,
+		"other_critDamage": 20000
+	},
+	"743": {
+		"base_atk": 1494,
+		"base_def": 747,
+		"base_hpMax": 14940,
+		"base_sunder": 747,
+		"battle": 44820,
+		"level": 743,
+		"other_critDamage": 20000
+	},
+	"744": {
+		"base_atk": 1496,
+		"base_def": 748,
+		"base_hpMax": 14960,
+		"base_sunder": 748,
+		"battle": 44880,
+		"level": 744,
+		"other_critDamage": 20000
+	},
+	"745": {
+		"base_atk": 1498,
+		"base_def": 749,
+		"base_hpMax": 14980,
+		"base_sunder": 749,
+		"battle": 44940,
+		"level": 745,
+		"other_critDamage": 20000
+	},
+	"746": {
+		"base_atk": 1500,
+		"base_def": 750,
+		"base_hpMax": 15000,
+		"base_sunder": 750,
+		"battle": 45000,
+		"level": 746,
+		"other_critDamage": 20000
+	},
+	"747": {
+		"base_atk": 1502,
+		"base_def": 751,
+		"base_hpMax": 15020,
+		"base_sunder": 751,
+		"battle": 45060,
+		"level": 747,
+		"other_critDamage": 20000
+	},
+	"748": {
+		"base_atk": 1504,
+		"base_def": 752,
+		"base_hpMax": 15040,
+		"base_sunder": 752,
+		"battle": 45120,
+		"level": 748,
+		"other_critDamage": 20000
+	},
+	"749": {
+		"base_atk": 1506,
+		"base_def": 753,
+		"base_hpMax": 15060,
+		"base_sunder": 753,
+		"battle": 45180,
+		"level": 749,
+		"other_critDamage": 20000
+	},
+	"750": {
+		"base_atk": 1508,
+		"base_def": 754,
+		"base_hpMax": 15080,
+		"base_sunder": 754,
+		"battle": 45240,
+		"level": 750,
+		"other_critDamage": 20000
+	},
+	"751": {
+		"base_atk": 1510,
+		"base_def": 755,
+		"base_hpMax": 15100,
+		"base_sunder": 755,
+		"battle": 45300,
+		"level": 751,
+		"other_critDamage": 20000
+	},
+	"752": {
+		"base_atk": 1512,
+		"base_def": 756,
+		"base_hpMax": 15120,
+		"base_sunder": 756,
+		"battle": 45360,
+		"level": 752,
+		"other_critDamage": 20000
+	},
+	"753": {
+		"base_atk": 1514,
+		"base_def": 757,
+		"base_hpMax": 15140,
+		"base_sunder": 757,
+		"battle": 45420,
+		"level": 753,
+		"other_critDamage": 20000
+	},
+	"754": {
+		"base_atk": 1516,
+		"base_def": 758,
+		"base_hpMax": 15160,
+		"base_sunder": 758,
+		"battle": 45480,
+		"level": 754,
+		"other_critDamage": 20000
+	},
+	"755": {
+		"base_atk": 1518,
+		"base_def": 759,
+		"base_hpMax": 15180,
+		"base_sunder": 759,
+		"battle": 45540,
+		"level": 755,
+		"other_critDamage": 20000
+	},
+	"756": {
+		"base_atk": 1520,
+		"base_def": 760,
+		"base_hpMax": 15200,
+		"base_sunder": 760,
+		"battle": 45600,
+		"level": 756,
+		"other_critDamage": 20000
+	},
+	"757": {
+		"base_atk": 1522,
+		"base_def": 761,
+		"base_hpMax": 15220,
+		"base_sunder": 761,
+		"battle": 45660,
+		"level": 757,
+		"other_critDamage": 20000
+	},
+	"758": {
+		"base_atk": 1524,
+		"base_def": 762,
+		"base_hpMax": 15240,
+		"base_sunder": 762,
+		"battle": 45720,
+		"level": 758,
+		"other_critDamage": 20000
+	},
+	"759": {
+		"base_atk": 1526,
+		"base_def": 763,
+		"base_hpMax": 15260,
+		"base_sunder": 763,
+		"battle": 45780,
+		"level": 759,
+		"other_critDamage": 20000
+	},
+	"760": {
+		"base_atk": 1528,
+		"base_def": 764,
+		"base_hpMax": 15280,
+		"base_sunder": 764,
+		"battle": 45840,
+		"level": 760,
+		"other_critDamage": 20000
+	},
+	"761": {
+		"base_atk": 1530,
+		"base_def": 765,
+		"base_hpMax": 15300,
+		"base_sunder": 765,
+		"battle": 45900,
+		"level": 761,
+		"other_critDamage": 20000
+	},
+	"762": {
+		"base_atk": 1532,
+		"base_def": 766,
+		"base_hpMax": 15320,
+		"base_sunder": 766,
+		"battle": 45960,
+		"level": 762,
+		"other_critDamage": 20000
+	},
+	"763": {
+		"base_atk": 1534,
+		"base_def": 767,
+		"base_hpMax": 15340,
+		"base_sunder": 767,
+		"battle": 46020,
+		"level": 763,
+		"other_critDamage": 20000
+	},
+	"764": {
+		"base_atk": 1536,
+		"base_def": 768,
+		"base_hpMax": 15360,
+		"base_sunder": 768,
+		"battle": 46080,
+		"level": 764,
+		"other_critDamage": 20000
+	},
+	"765": {
+		"base_atk": 1538,
+		"base_def": 769,
+		"base_hpMax": 15380,
+		"base_sunder": 769,
+		"battle": 46140,
+		"level": 765,
+		"other_critDamage": 20000
+	},
+	"766": {
+		"base_atk": 1540,
+		"base_def": 770,
+		"base_hpMax": 15400,
+		"base_sunder": 770,
+		"battle": 46200,
+		"level": 766,
+		"other_critDamage": 20000
+	},
+	"767": {
+		"base_atk": 1542,
+		"base_def": 771,
+		"base_hpMax": 15420,
+		"base_sunder": 771,
+		"battle": 46260,
+		"level": 767,
+		"other_critDamage": 20000
+	},
+	"768": {
+		"base_atk": 1544,
+		"base_def": 772,
+		"base_hpMax": 15440,
+		"base_sunder": 772,
+		"battle": 46320,
+		"level": 768,
+		"other_critDamage": 20000
+	},
+	"769": {
+		"base_atk": 1546,
+		"base_def": 773,
+		"base_hpMax": 15460,
+		"base_sunder": 773,
+		"battle": 46380,
+		"level": 769,
+		"other_critDamage": 20000
+	},
+	"770": {
+		"base_atk": 1548,
+		"base_def": 774,
+		"base_hpMax": 15480,
+		"base_sunder": 774,
+		"battle": 46440,
+		"level": 770,
+		"other_critDamage": 20000
+	},
+	"771": {
+		"base_atk": 1550,
+		"base_def": 775,
+		"base_hpMax": 15500,
+		"base_sunder": 775,
+		"battle": 46500,
+		"level": 771,
+		"other_critDamage": 20000
+	},
+	"772": {
+		"base_atk": 1552,
+		"base_def": 776,
+		"base_hpMax": 15520,
+		"base_sunder": 776,
+		"battle": 46560,
+		"level": 772,
+		"other_critDamage": 20000
+	},
+	"773": {
+		"base_atk": 1554,
+		"base_def": 777,
+		"base_hpMax": 15540,
+		"base_sunder": 777,
+		"battle": 46620,
+		"level": 773,
+		"other_critDamage": 20000
+	},
+	"774": {
+		"base_atk": 1556,
+		"base_def": 778,
+		"base_hpMax": 15560,
+		"base_sunder": 778,
+		"battle": 46680,
+		"level": 774,
+		"other_critDamage": 20000
+	},
+	"775": {
+		"base_atk": 1558,
+		"base_def": 779,
+		"base_hpMax": 15580,
+		"base_sunder": 779,
+		"battle": 46740,
+		"level": 775,
+		"other_critDamage": 20000
+	},
+	"776": {
+		"base_atk": 1560,
+		"base_def": 780,
+		"base_hpMax": 15600,
+		"base_sunder": 780,
+		"battle": 46800,
+		"level": 776,
+		"other_critDamage": 20000
+	},
+	"777": {
+		"base_atk": 1562,
+		"base_def": 781,
+		"base_hpMax": 15620,
+		"base_sunder": 781,
+		"battle": 46860,
+		"level": 777,
+		"other_critDamage": 20000
+	},
+	"778": {
+		"base_atk": 1564,
+		"base_def": 782,
+		"base_hpMax": 15640,
+		"base_sunder": 782,
+		"battle": 46920,
+		"level": 778,
+		"other_critDamage": 20000
+	},
+	"779": {
+		"base_atk": 1566,
+		"base_def": 783,
+		"base_hpMax": 15660,
+		"base_sunder": 783,
+		"battle": 46980,
+		"level": 779,
+		"other_critDamage": 20000
+	},
+	"780": {
+		"base_atk": 1568,
+		"base_def": 784,
+		"base_hpMax": 15680,
+		"base_sunder": 784,
+		"battle": 47040,
+		"level": 780,
+		"other_critDamage": 20000
+	},
+	"781": {
+		"base_atk": 1570,
+		"base_def": 785,
+		"base_hpMax": 15700,
+		"base_sunder": 785,
+		"battle": 47100,
+		"level": 781,
+		"other_critDamage": 20000
+	},
+	"782": {
+		"base_atk": 1572,
+		"base_def": 786,
+		"base_hpMax": 15720,
+		"base_sunder": 786,
+		"battle": 47160,
+		"level": 782,
+		"other_critDamage": 20000
+	},
+	"783": {
+		"base_atk": 1574,
+		"base_def": 787,
+		"base_hpMax": 15740,
+		"base_sunder": 787,
+		"battle": 47220,
+		"level": 783,
+		"other_critDamage": 20000
+	},
+	"784": {
+		"base_atk": 1576,
+		"base_def": 788,
+		"base_hpMax": 15760,
+		"base_sunder": 788,
+		"battle": 47280,
+		"level": 784,
+		"other_critDamage": 20000
+	},
+	"785": {
+		"base_atk": 1578,
+		"base_def": 789,
+		"base_hpMax": 15780,
+		"base_sunder": 789,
+		"battle": 47340,
+		"level": 785,
+		"other_critDamage": 20000
+	},
+	"786": {
+		"base_atk": 1580,
+		"base_def": 790,
+		"base_hpMax": 15800,
+		"base_sunder": 790,
+		"battle": 47400,
+		"level": 786,
+		"other_critDamage": 20000
+	},
+	"787": {
+		"base_atk": 1582,
+		"base_def": 791,
+		"base_hpMax": 15820,
+		"base_sunder": 791,
+		"battle": 47460,
+		"level": 787,
+		"other_critDamage": 20000
+	},
+	"788": {
+		"base_atk": 1584,
+		"base_def": 792,
+		"base_hpMax": 15840,
+		"base_sunder": 792,
+		"battle": 47520,
+		"level": 788,
+		"other_critDamage": 20000
+	},
+	"789": {
+		"base_atk": 1586,
+		"base_def": 793,
+		"base_hpMax": 15860,
+		"base_sunder": 793,
+		"battle": 47580,
+		"level": 789,
+		"other_critDamage": 20000
+	},
+	"790": {
+		"base_atk": 1588,
+		"base_def": 794,
+		"base_hpMax": 15880,
+		"base_sunder": 794,
+		"battle": 47640,
+		"level": 790,
+		"other_critDamage": 20000
+	},
+	"791": {
+		"base_atk": 1590,
+		"base_def": 795,
+		"base_hpMax": 15900,
+		"base_sunder": 795,
+		"battle": 47700,
+		"level": 791,
+		"other_critDamage": 20000
+	},
+	"792": {
+		"base_atk": 1592,
+		"base_def": 796,
+		"base_hpMax": 15920,
+		"base_sunder": 796,
+		"battle": 47760,
+		"level": 792,
+		"other_critDamage": 20000
+	},
+	"793": {
+		"base_atk": 1594,
+		"base_def": 797,
+		"base_hpMax": 15940,
+		"base_sunder": 797,
+		"battle": 47820,
+		"level": 793,
+		"other_critDamage": 20000
+	},
+	"794": {
+		"base_atk": 1596,
+		"base_def": 798,
+		"base_hpMax": 15960,
+		"base_sunder": 798,
+		"battle": 47880,
+		"level": 794,
+		"other_critDamage": 20000
+	},
+	"795": {
+		"base_atk": 1598,
+		"base_def": 799,
+		"base_hpMax": 15980,
+		"base_sunder": 799,
+		"battle": 47940,
+		"level": 795,
+		"other_critDamage": 20000
+	},
+	"796": {
+		"base_atk": 1600,
+		"base_def": 800,
+		"base_hpMax": 16000,
+		"base_sunder": 800,
+		"battle": 48000,
+		"level": 796,
+		"other_critDamage": 20000
+	},
+	"797": {
+		"base_atk": 1602,
+		"base_def": 801,
+		"base_hpMax": 16020,
+		"base_sunder": 801,
+		"battle": 48060,
+		"level": 797,
+		"other_critDamage": 20000
+	},
+	"798": {
+		"base_atk": 1604,
+		"base_def": 802,
+		"base_hpMax": 16040,
+		"base_sunder": 802,
+		"battle": 48120,
+		"level": 798,
+		"other_critDamage": 20000
+	},
+	"799": {
+		"base_atk": 1606,
+		"base_def": 803,
+		"base_hpMax": 16060,
+		"base_sunder": 803,
+		"battle": 48180,
+		"level": 799,
+		"other_critDamage": 20000
+	},
+	"800": {
+		"base_atk": 1608,
+		"base_def": 804,
+		"base_hpMax": 16080,
+		"base_sunder": 804,
+		"battle": 48240,
+		"level": 800,
+		"other_critDamage": 20000
+	},
+	"801": {
+		"base_atk": 1610,
+		"base_def": 805,
+		"base_hpMax": 16100,
+		"base_sunder": 805,
+		"battle": 48300,
+		"level": 801,
+		"other_critDamage": 20000
+	},
+	"802": {
+		"base_atk": 1612,
+		"base_def": 806,
+		"base_hpMax": 16120,
+		"base_sunder": 806,
+		"battle": 48360,
+		"level": 802,
+		"other_critDamage": 20000
+	},
+	"803": {
+		"base_atk": 1614,
+		"base_def": 807,
+		"base_hpMax": 16140,
+		"base_sunder": 807,
+		"battle": 48420,
+		"level": 803,
+		"other_critDamage": 20000
+	},
+	"804": {
+		"base_atk": 1616,
+		"base_def": 808,
+		"base_hpMax": 16160,
+		"base_sunder": 808,
+		"battle": 48480,
+		"level": 804,
+		"other_critDamage": 20000
+	},
+	"805": {
+		"base_atk": 1618,
+		"base_def": 809,
+		"base_hpMax": 16180,
+		"base_sunder": 809,
+		"battle": 48540,
+		"level": 805,
+		"other_critDamage": 20000
+	},
+	"806": {
+		"base_atk": 1620,
+		"base_def": 810,
+		"base_hpMax": 16200,
+		"base_sunder": 810,
+		"battle": 48600,
+		"level": 806,
+		"other_critDamage": 20000
+	},
+	"807": {
+		"base_atk": 1622,
+		"base_def": 811,
+		"base_hpMax": 16220,
+		"base_sunder": 811,
+		"battle": 48660,
+		"level": 807,
+		"other_critDamage": 20000
+	},
+	"808": {
+		"base_atk": 1624,
+		"base_def": 812,
+		"base_hpMax": 16240,
+		"base_sunder": 812,
+		"battle": 48720,
+		"level": 808,
+		"other_critDamage": 20000
+	},
+	"809": {
+		"base_atk": 1626,
+		"base_def": 813,
+		"base_hpMax": 16260,
+		"base_sunder": 813,
+		"battle": 48780,
+		"level": 809,
+		"other_critDamage": 20000
+	},
+	"810": {
+		"base_atk": 1628,
+		"base_def": 814,
+		"base_hpMax": 16280,
+		"base_sunder": 814,
+		"battle": 48840,
+		"level": 810,
+		"other_critDamage": 20000
+	},
+	"811": {
+		"base_atk": 1630,
+		"base_def": 815,
+		"base_hpMax": 16300,
+		"base_sunder": 815,
+		"battle": 48900,
+		"level": 811,
+		"other_critDamage": 20000
+	},
+	"812": {
+		"base_atk": 1632,
+		"base_def": 816,
+		"base_hpMax": 16320,
+		"base_sunder": 816,
+		"battle": 48960,
+		"level": 812,
+		"other_critDamage": 20000
+	},
+	"813": {
+		"base_atk": 1634,
+		"base_def": 817,
+		"base_hpMax": 16340,
+		"base_sunder": 817,
+		"battle": 49020,
+		"level": 813,
+		"other_critDamage": 20000
+	},
+	"814": {
+		"base_atk": 1636,
+		"base_def": 818,
+		"base_hpMax": 16360,
+		"base_sunder": 818,
+		"battle": 49080,
+		"level": 814,
+		"other_critDamage": 20000
+	},
+	"815": {
+		"base_atk": 1638,
+		"base_def": 819,
+		"base_hpMax": 16380,
+		"base_sunder": 819,
+		"battle": 49140,
+		"level": 815,
+		"other_critDamage": 20000
+	},
+	"816": {
+		"base_atk": 1640,
+		"base_def": 820,
+		"base_hpMax": 16400,
+		"base_sunder": 820,
+		"battle": 49200,
+		"level": 816,
+		"other_critDamage": 20000
+	},
+	"817": {
+		"base_atk": 1642,
+		"base_def": 821,
+		"base_hpMax": 16420,
+		"base_sunder": 821,
+		"battle": 49260,
+		"level": 817,
+		"other_critDamage": 20000
+	},
+	"818": {
+		"base_atk": 1644,
+		"base_def": 822,
+		"base_hpMax": 16440,
+		"base_sunder": 822,
+		"battle": 49320,
+		"level": 818,
+		"other_critDamage": 20000
+	},
+	"819": {
+		"base_atk": 1646,
+		"base_def": 823,
+		"base_hpMax": 16460,
+		"base_sunder": 823,
+		"battle": 49380,
+		"level": 819,
+		"other_critDamage": 20000
+	},
+	"820": {
+		"base_atk": 1648,
+		"base_def": 824,
+		"base_hpMax": 16480,
+		"base_sunder": 824,
+		"battle": 49440,
+		"level": 820,
+		"other_critDamage": 20000
+	},
+	"821": {
+		"base_atk": 1650,
+		"base_def": 825,
+		"base_hpMax": 16500,
+		"base_sunder": 825,
+		"battle": 49500,
+		"level": 821,
+		"other_critDamage": 20000
+	},
+	"822": {
+		"base_atk": 1652,
+		"base_def": 826,
+		"base_hpMax": 16520,
+		"base_sunder": 826,
+		"battle": 49560,
+		"level": 822,
+		"other_critDamage": 20000
+	},
+	"823": {
+		"base_atk": 1654,
+		"base_def": 827,
+		"base_hpMax": 16540,
+		"base_sunder": 827,
+		"battle": 49620,
+		"level": 823,
+		"other_critDamage": 20000
+	},
+	"824": {
+		"base_atk": 1656,
+		"base_def": 828,
+		"base_hpMax": 16560,
+		"base_sunder": 828,
+		"battle": 49680,
+		"level": 824,
+		"other_critDamage": 20000
+	},
+	"825": {
+		"base_atk": 1658,
+		"base_def": 829,
+		"base_hpMax": 16580,
+		"base_sunder": 829,
+		"battle": 49740,
+		"level": 825,
+		"other_critDamage": 20000
+	},
+	"826": {
+		"base_atk": 1660,
+		"base_def": 830,
+		"base_hpMax": 16600,
+		"base_sunder": 830,
+		"battle": 49800,
+		"level": 826,
+		"other_critDamage": 20000
+	},
+	"827": {
+		"base_atk": 1662,
+		"base_def": 831,
+		"base_hpMax": 16620,
+		"base_sunder": 831,
+		"battle": 49860,
+		"level": 827,
+		"other_critDamage": 20000
+	},
+	"828": {
+		"base_atk": 1664,
+		"base_def": 832,
+		"base_hpMax": 16640,
+		"base_sunder": 832,
+		"battle": 49920,
+		"level": 828,
+		"other_critDamage": 20000
+	},
+	"829": {
+		"base_atk": 1666,
+		"base_def": 833,
+		"base_hpMax": 16660,
+		"base_sunder": 833,
+		"battle": 49980,
+		"level": 829,
+		"other_critDamage": 20000
+	},
+	"830": {
+		"base_atk": 1668,
+		"base_def": 834,
+		"base_hpMax": 16680,
+		"base_sunder": 834,
+		"battle": 50040,
+		"level": 830,
+		"other_critDamage": 20000
+	},
+	"831": {
+		"base_atk": 1670,
+		"base_def": 835,
+		"base_hpMax": 16700,
+		"base_sunder": 835,
+		"battle": 50100,
+		"level": 831,
+		"other_critDamage": 20000
+	},
+	"832": {
+		"base_atk": 1672,
+		"base_def": 836,
+		"base_hpMax": 16720,
+		"base_sunder": 836,
+		"battle": 50160,
+		"level": 832,
+		"other_critDamage": 20000
+	},
+	"833": {
+		"base_atk": 1674,
+		"base_def": 837,
+		"base_hpMax": 16740,
+		"base_sunder": 837,
+		"battle": 50220,
+		"level": 833,
+		"other_critDamage": 20000
+	},
+	"834": {
+		"base_atk": 1676,
+		"base_def": 838,
+		"base_hpMax": 16760,
+		"base_sunder": 838,
+		"battle": 50280,
+		"level": 834,
+		"other_critDamage": 20000
+	},
+	"835": {
+		"base_atk": 1678,
+		"base_def": 839,
+		"base_hpMax": 16780,
+		"base_sunder": 839,
+		"battle": 50340,
+		"level": 835,
+		"other_critDamage": 20000
+	},
+	"836": {
+		"base_atk": 1680,
+		"base_def": 840,
+		"base_hpMax": 16800,
+		"base_sunder": 840,
+		"battle": 50400,
+		"level": 836,
+		"other_critDamage": 20000
+	},
+	"837": {
+		"base_atk": 1682,
+		"base_def": 841,
+		"base_hpMax": 16820,
+		"base_sunder": 841,
+		"battle": 50460,
+		"level": 837,
+		"other_critDamage": 20000
+	},
+	"838": {
+		"base_atk": 1684,
+		"base_def": 842,
+		"base_hpMax": 16840,
+		"base_sunder": 842,
+		"battle": 50520,
+		"level": 838,
+		"other_critDamage": 20000
+	},
+	"839": {
+		"base_atk": 1686,
+		"base_def": 843,
+		"base_hpMax": 16860,
+		"base_sunder": 843,
+		"battle": 50580,
+		"level": 839,
+		"other_critDamage": 20000
+	},
+	"840": {
+		"base_atk": 1688,
+		"base_def": 844,
+		"base_hpMax": 16880,
+		"base_sunder": 844,
+		"battle": 50640,
+		"level": 840,
+		"other_critDamage": 20000
+	},
+	"841": {
+		"base_atk": 1690,
+		"base_def": 845,
+		"base_hpMax": 16900,
+		"base_sunder": 845,
+		"battle": 50700,
+		"level": 841,
+		"other_critDamage": 20000
+	},
+	"842": {
+		"base_atk": 1692,
+		"base_def": 846,
+		"base_hpMax": 16920,
+		"base_sunder": 846,
+		"battle": 50760,
+		"level": 842,
+		"other_critDamage": 20000
+	},
+	"843": {
+		"base_atk": 1694,
+		"base_def": 847,
+		"base_hpMax": 16940,
+		"base_sunder": 847,
+		"battle": 50820,
+		"level": 843,
+		"other_critDamage": 20000
+	},
+	"844": {
+		"base_atk": 1696,
+		"base_def": 848,
+		"base_hpMax": 16960,
+		"base_sunder": 848,
+		"battle": 50880,
+		"level": 844,
+		"other_critDamage": 20000
+	},
+	"845": {
+		"base_atk": 1698,
+		"base_def": 849,
+		"base_hpMax": 16980,
+		"base_sunder": 849,
+		"battle": 50940,
+		"level": 845,
+		"other_critDamage": 20000
+	},
+	"846": {
+		"base_atk": 1700,
+		"base_def": 850,
+		"base_hpMax": 17000,
+		"base_sunder": 850,
+		"battle": 51000,
+		"level": 846,
+		"other_critDamage": 20000
+	},
+	"847": {
+		"base_atk": 1702,
+		"base_def": 851,
+		"base_hpMax": 17020,
+		"base_sunder": 851,
+		"battle": 51060,
+		"level": 847,
+		"other_critDamage": 20000
+	},
+	"848": {
+		"base_atk": 1704,
+		"base_def": 852,
+		"base_hpMax": 17040,
+		"base_sunder": 852,
+		"battle": 51120,
+		"level": 848,
+		"other_critDamage": 20000
+	},
+	"849": {
+		"base_atk": 1706,
+		"base_def": 853,
+		"base_hpMax": 17060,
+		"base_sunder": 853,
+		"battle": 51180,
+		"level": 849,
+		"other_critDamage": 20000
+	},
+	"850": {
+		"base_atk": 1708,
+		"base_def": 854,
+		"base_hpMax": 17080,
+		"base_sunder": 854,
+		"battle": 51240,
+		"level": 850,
+		"other_critDamage": 20000
+	},
+	"851": {
+		"base_atk": 1710,
+		"base_def": 855,
+		"base_hpMax": 17100,
+		"base_sunder": 855,
+		"battle": 51300,
+		"level": 851,
+		"other_critDamage": 20000
+	},
+	"852": {
+		"base_atk": 1712,
+		"base_def": 856,
+		"base_hpMax": 17120,
+		"base_sunder": 856,
+		"battle": 51360,
+		"level": 852,
+		"other_critDamage": 20000
+	},
+	"853": {
+		"base_atk": 1714,
+		"base_def": 857,
+		"base_hpMax": 17140,
+		"base_sunder": 857,
+		"battle": 51420,
+		"level": 853,
+		"other_critDamage": 20000
+	},
+	"854": {
+		"base_atk": 1716,
+		"base_def": 858,
+		"base_hpMax": 17160,
+		"base_sunder": 858,
+		"battle": 51480,
+		"level": 854,
+		"other_critDamage": 20000
+	},
+	"855": {
+		"base_atk": 1718,
+		"base_def": 859,
+		"base_hpMax": 17180,
+		"base_sunder": 859,
+		"battle": 51540,
+		"level": 855,
+		"other_critDamage": 20000
+	},
+	"856": {
+		"base_atk": 1720,
+		"base_def": 860,
+		"base_hpMax": 17200,
+		"base_sunder": 860,
+		"battle": 51600,
+		"level": 856,
+		"other_critDamage": 20000
+	},
+	"857": {
+		"base_atk": 1722,
+		"base_def": 861,
+		"base_hpMax": 17220,
+		"base_sunder": 861,
+		"battle": 51660,
+		"level": 857,
+		"other_critDamage": 20000
+	},
+	"858": {
+		"base_atk": 1724,
+		"base_def": 862,
+		"base_hpMax": 17240,
+		"base_sunder": 862,
+		"battle": 51720,
+		"level": 858,
+		"other_critDamage": 20000
+	},
+	"859": {
+		"base_atk": 1726,
+		"base_def": 863,
+		"base_hpMax": 17260,
+		"base_sunder": 863,
+		"battle": 51780,
+		"level": 859,
+		"other_critDamage": 20000
+	},
+	"860": {
+		"base_atk": 1728,
+		"base_def": 864,
+		"base_hpMax": 17280,
+		"base_sunder": 864,
+		"battle": 51840,
+		"level": 860,
+		"other_critDamage": 20000
+	},
+	"861": {
+		"base_atk": 1730,
+		"base_def": 865,
+		"base_hpMax": 17300,
+		"base_sunder": 865,
+		"battle": 51900,
+		"level": 861,
+		"other_critDamage": 20000
+	},
+	"862": {
+		"base_atk": 1732,
+		"base_def": 866,
+		"base_hpMax": 17320,
+		"base_sunder": 866,
+		"battle": 51960,
+		"level": 862,
+		"other_critDamage": 20000
+	},
+	"863": {
+		"base_atk": 1734,
+		"base_def": 867,
+		"base_hpMax": 17340,
+		"base_sunder": 867,
+		"battle": 52020,
+		"level": 863,
+		"other_critDamage": 20000
+	},
+	"864": {
+		"base_atk": 1736,
+		"base_def": 868,
+		"base_hpMax": 17360,
+		"base_sunder": 868,
+		"battle": 52080,
+		"level": 864,
+		"other_critDamage": 20000
+	},
+	"865": {
+		"base_atk": 1738,
+		"base_def": 869,
+		"base_hpMax": 17380,
+		"base_sunder": 869,
+		"battle": 52140,
+		"level": 865,
+		"other_critDamage": 20000
+	},
+	"866": {
+		"base_atk": 1740,
+		"base_def": 870,
+		"base_hpMax": 17400,
+		"base_sunder": 870,
+		"battle": 52200,
+		"level": 866,
+		"other_critDamage": 20000
+	},
+	"867": {
+		"base_atk": 1742,
+		"base_def": 871,
+		"base_hpMax": 17420,
+		"base_sunder": 871,
+		"battle": 52260,
+		"level": 867,
+		"other_critDamage": 20000
+	},
+	"868": {
+		"base_atk": 1744,
+		"base_def": 872,
+		"base_hpMax": 17440,
+		"base_sunder": 872,
+		"battle": 52320,
+		"level": 868,
+		"other_critDamage": 20000
+	},
+	"869": {
+		"base_atk": 1746,
+		"base_def": 873,
+		"base_hpMax": 17460,
+		"base_sunder": 873,
+		"battle": 52380,
+		"level": 869,
+		"other_critDamage": 20000
+	},
+	"870": {
+		"base_atk": 1748,
+		"base_def": 874,
+		"base_hpMax": 17480,
+		"base_sunder": 874,
+		"battle": 52440,
+		"level": 870,
+		"other_critDamage": 20000
+	},
+	"871": {
+		"base_atk": 1750,
+		"base_def": 875,
+		"base_hpMax": 17500,
+		"base_sunder": 875,
+		"battle": 52500,
+		"level": 871,
+		"other_critDamage": 20000
+	},
+	"872": {
+		"base_atk": 1752,
+		"base_def": 876,
+		"base_hpMax": 17520,
+		"base_sunder": 876,
+		"battle": 52560,
+		"level": 872,
+		"other_critDamage": 20000
+	},
+	"873": {
+		"base_atk": 1754,
+		"base_def": 877,
+		"base_hpMax": 17540,
+		"base_sunder": 877,
+		"battle": 52620,
+		"level": 873,
+		"other_critDamage": 20000
+	},
+	"874": {
+		"base_atk": 1756,
+		"base_def": 878,
+		"base_hpMax": 17560,
+		"base_sunder": 878,
+		"battle": 52680,
+		"level": 874,
+		"other_critDamage": 20000
+	},
+	"875": {
+		"base_atk": 1758,
+		"base_def": 879,
+		"base_hpMax": 17580,
+		"base_sunder": 879,
+		"battle": 52740,
+		"level": 875,
+		"other_critDamage": 20000
+	},
+	"876": {
+		"base_atk": 1760,
+		"base_def": 880,
+		"base_hpMax": 17600,
+		"base_sunder": 880,
+		"battle": 52800,
+		"level": 876,
+		"other_critDamage": 20000
+	},
+	"877": {
+		"base_atk": 1762,
+		"base_def": 881,
+		"base_hpMax": 17620,
+		"base_sunder": 881,
+		"battle": 52860,
+		"level": 877,
+		"other_critDamage": 20000
+	},
+	"878": {
+		"base_atk": 1764,
+		"base_def": 882,
+		"base_hpMax": 17640,
+		"base_sunder": 882,
+		"battle": 52920,
+		"level": 878,
+		"other_critDamage": 20000
+	},
+	"879": {
+		"base_atk": 1766,
+		"base_def": 883,
+		"base_hpMax": 17660,
+		"base_sunder": 883,
+		"battle": 52980,
+		"level": 879,
+		"other_critDamage": 20000
+	},
+	"880": {
+		"base_atk": 1768,
+		"base_def": 884,
+		"base_hpMax": 17680,
+		"base_sunder": 884,
+		"battle": 53040,
+		"level": 880,
+		"other_critDamage": 20000
+	},
+	"881": {
+		"base_atk": 1770,
+		"base_def": 885,
+		"base_hpMax": 17700,
+		"base_sunder": 885,
+		"battle": 53100,
+		"level": 881,
+		"other_critDamage": 20000
+	},
+	"882": {
+		"base_atk": 1772,
+		"base_def": 886,
+		"base_hpMax": 17720,
+		"base_sunder": 886,
+		"battle": 53160,
+		"level": 882,
+		"other_critDamage": 20000
+	},
+	"883": {
+		"base_atk": 1774,
+		"base_def": 887,
+		"base_hpMax": 17740,
+		"base_sunder": 887,
+		"battle": 53220,
+		"level": 883,
+		"other_critDamage": 20000
+	},
+	"884": {
+		"base_atk": 1776,
+		"base_def": 888,
+		"base_hpMax": 17760,
+		"base_sunder": 888,
+		"battle": 53280,
+		"level": 884,
+		"other_critDamage": 20000
+	},
+	"885": {
+		"base_atk": 1778,
+		"base_def": 889,
+		"base_hpMax": 17780,
+		"base_sunder": 889,
+		"battle": 53340,
+		"level": 885,
+		"other_critDamage": 20000
+	},
+	"886": {
+		"base_atk": 1780,
+		"base_def": 890,
+		"base_hpMax": 17800,
+		"base_sunder": 890,
+		"battle": 53400,
+		"level": 886,
+		"other_critDamage": 20000
+	},
+	"887": {
+		"base_atk": 1782,
+		"base_def": 891,
+		"base_hpMax": 17820,
+		"base_sunder": 891,
+		"battle": 53460,
+		"level": 887,
+		"other_critDamage": 20000
+	},
+	"888": {
+		"base_atk": 1784,
+		"base_def": 892,
+		"base_hpMax": 17840,
+		"base_sunder": 892,
+		"battle": 53520,
+		"level": 888,
+		"other_critDamage": 20000
+	},
+	"889": {
+		"base_atk": 1786,
+		"base_def": 893,
+		"base_hpMax": 17860,
+		"base_sunder": 893,
+		"battle": 53580,
+		"level": 889,
+		"other_critDamage": 20000
+	},
+	"890": {
+		"base_atk": 1788,
+		"base_def": 894,
+		"base_hpMax": 17880,
+		"base_sunder": 894,
+		"battle": 53640,
+		"level": 890,
+		"other_critDamage": 20000
+	},
+	"891": {
+		"base_atk": 1790,
+		"base_def": 895,
+		"base_hpMax": 17900,
+		"base_sunder": 895,
+		"battle": 53700,
+		"level": 891,
+		"other_critDamage": 20000
+	},
+	"892": {
+		"base_atk": 1792,
+		"base_def": 896,
+		"base_hpMax": 17920,
+		"base_sunder": 896,
+		"battle": 53760,
+		"level": 892,
+		"other_critDamage": 20000
+	},
+	"893": {
+		"base_atk": 1794,
+		"base_def": 897,
+		"base_hpMax": 17940,
+		"base_sunder": 897,
+		"battle": 53820,
+		"level": 893,
+		"other_critDamage": 20000
+	},
+	"894": {
+		"base_atk": 1796,
+		"base_def": 898,
+		"base_hpMax": 17960,
+		"base_sunder": 898,
+		"battle": 53880,
+		"level": 894,
+		"other_critDamage": 20000
+	},
+	"895": {
+		"base_atk": 1798,
+		"base_def": 899,
+		"base_hpMax": 17980,
+		"base_sunder": 899,
+		"battle": 53940,
+		"level": 895,
+		"other_critDamage": 20000
+	},
+	"896": {
+		"base_atk": 1800,
+		"base_def": 900,
+		"base_hpMax": 18000,
+		"base_sunder": 900,
+		"battle": 54000,
+		"level": 896,
+		"other_critDamage": 20000
+	},
+	"897": {
+		"base_atk": 1802,
+		"base_def": 901,
+		"base_hpMax": 18020,
+		"base_sunder": 901,
+		"battle": 54060,
+		"level": 897,
+		"other_critDamage": 20000
+	},
+	"898": {
+		"base_atk": 1804,
+		"base_def": 902,
+		"base_hpMax": 18040,
+		"base_sunder": 902,
+		"battle": 54120,
+		"level": 898,
+		"other_critDamage": 20000
+	},
+	"899": {
+		"base_atk": 1806,
+		"base_def": 903,
+		"base_hpMax": 18060,
+		"base_sunder": 903,
+		"battle": 54180,
+		"level": 899,
+		"other_critDamage": 20000
+	},
+	"900": {
+		"base_atk": 1808,
+		"base_def": 904,
+		"base_hpMax": 18080,
+		"base_sunder": 904,
+		"battle": 54240,
+		"level": 900,
+		"other_critDamage": 20000
+	},
+	"901": {
+		"base_atk": 1810,
+		"base_def": 905,
+		"base_hpMax": 18100,
+		"base_sunder": 905,
+		"battle": 54300,
+		"level": 901,
+		"other_critDamage": 20000
+	},
+	"902": {
+		"base_atk": 1812,
+		"base_def": 906,
+		"base_hpMax": 18120,
+		"base_sunder": 906,
+		"battle": 54360,
+		"level": 902,
+		"other_critDamage": 20000
+	},
+	"903": {
+		"base_atk": 1814,
+		"base_def": 907,
+		"base_hpMax": 18140,
+		"base_sunder": 907,
+		"battle": 54420,
+		"level": 903,
+		"other_critDamage": 20000
+	},
+	"904": {
+		"base_atk": 1816,
+		"base_def": 908,
+		"base_hpMax": 18160,
+		"base_sunder": 908,
+		"battle": 54480,
+		"level": 904,
+		"other_critDamage": 20000
+	},
+	"905": {
+		"base_atk": 1818,
+		"base_def": 909,
+		"base_hpMax": 18180,
+		"base_sunder": 909,
+		"battle": 54540,
+		"level": 905,
+		"other_critDamage": 20000
+	},
+	"906": {
+		"base_atk": 1820,
+		"base_def": 910,
+		"base_hpMax": 18200,
+		"base_sunder": 910,
+		"battle": 54600,
+		"level": 906,
+		"other_critDamage": 20000
+	},
+	"907": {
+		"base_atk": 1822,
+		"base_def": 911,
+		"base_hpMax": 18220,
+		"base_sunder": 911,
+		"battle": 54660,
+		"level": 907,
+		"other_critDamage": 20000
+	},
+	"908": {
+		"base_atk": 1824,
+		"base_def": 912,
+		"base_hpMax": 18240,
+		"base_sunder": 912,
+		"battle": 54720,
+		"level": 908,
+		"other_critDamage": 20000
+	},
+	"909": {
+		"base_atk": 1826,
+		"base_def": 913,
+		"base_hpMax": 18260,
+		"base_sunder": 913,
+		"battle": 54780,
+		"level": 909,
+		"other_critDamage": 20000
+	},
+	"910": {
+		"base_atk": 1828,
+		"base_def": 914,
+		"base_hpMax": 18280,
+		"base_sunder": 914,
+		"battle": 54840,
+		"level": 910,
+		"other_critDamage": 20000
+	},
+	"911": {
+		"base_atk": 1830,
+		"base_def": 915,
+		"base_hpMax": 18300,
+		"base_sunder": 915,
+		"battle": 54900,
+		"level": 911,
+		"other_critDamage": 20000
+	},
+	"912": {
+		"base_atk": 1832,
+		"base_def": 916,
+		"base_hpMax": 18320,
+		"base_sunder": 916,
+		"battle": 54960,
+		"level": 912,
+		"other_critDamage": 20000
+	},
+	"913": {
+		"base_atk": 1834,
+		"base_def": 917,
+		"base_hpMax": 18340,
+		"base_sunder": 917,
+		"battle": 55020,
+		"level": 913,
+		"other_critDamage": 20000
+	},
+	"914": {
+		"base_atk": 1836,
+		"base_def": 918,
+		"base_hpMax": 18360,
+		"base_sunder": 918,
+		"battle": 55080,
+		"level": 914,
+		"other_critDamage": 20000
+	},
+	"915": {
+		"base_atk": 1838,
+		"base_def": 919,
+		"base_hpMax": 18380,
+		"base_sunder": 919,
+		"battle": 55140,
+		"level": 915,
+		"other_critDamage": 20000
+	},
+	"916": {
+		"base_atk": 1840,
+		"base_def": 920,
+		"base_hpMax": 18400,
+		"base_sunder": 920,
+		"battle": 55200,
+		"level": 916,
+		"other_critDamage": 20000
+	},
+	"917": {
+		"base_atk": 1842,
+		"base_def": 921,
+		"base_hpMax": 18420,
+		"base_sunder": 921,
+		"battle": 55260,
+		"level": 917,
+		"other_critDamage": 20000
+	},
+	"918": {
+		"base_atk": 1844,
+		"base_def": 922,
+		"base_hpMax": 18440,
+		"base_sunder": 922,
+		"battle": 55320,
+		"level": 918,
+		"other_critDamage": 20000
+	},
+	"919": {
+		"base_atk": 1846,
+		"base_def": 923,
+		"base_hpMax": 18460,
+		"base_sunder": 923,
+		"battle": 55380,
+		"level": 919,
+		"other_critDamage": 20000
+	},
+	"920": {
+		"base_atk": 1848,
+		"base_def": 924,
+		"base_hpMax": 18480,
+		"base_sunder": 924,
+		"battle": 55440,
+		"level": 920,
+		"other_critDamage": 20000
+	},
+	"921": {
+		"base_atk": 1850,
+		"base_def": 925,
+		"base_hpMax": 18500,
+		"base_sunder": 925,
+		"battle": 55500,
+		"level": 921,
+		"other_critDamage": 20000
+	},
+	"922": {
+		"base_atk": 1852,
+		"base_def": 926,
+		"base_hpMax": 18520,
+		"base_sunder": 926,
+		"battle": 55560,
+		"level": 922,
+		"other_critDamage": 20000
+	},
+	"923": {
+		"base_atk": 1854,
+		"base_def": 927,
+		"base_hpMax": 18540,
+		"base_sunder": 927,
+		"battle": 55620,
+		"level": 923,
+		"other_critDamage": 20000
+	},
+	"924": {
+		"base_atk": 1856,
+		"base_def": 928,
+		"base_hpMax": 18560,
+		"base_sunder": 928,
+		"battle": 55680,
+		"level": 924,
+		"other_critDamage": 20000
+	},
+	"925": {
+		"base_atk": 1858,
+		"base_def": 929,
+		"base_hpMax": 18580,
+		"base_sunder": 929,
+		"battle": 55740,
+		"level": 925,
+		"other_critDamage": 20000
+	},
+	"926": {
+		"base_atk": 1860,
+		"base_def": 930,
+		"base_hpMax": 18600,
+		"base_sunder": 930,
+		"battle": 55800,
+		"level": 926,
+		"other_critDamage": 20000
+	},
+	"927": {
+		"base_atk": 1862,
+		"base_def": 931,
+		"base_hpMax": 18620,
+		"base_sunder": 931,
+		"battle": 55860,
+		"level": 927,
+		"other_critDamage": 20000
+	},
+	"928": {
+		"base_atk": 1864,
+		"base_def": 932,
+		"base_hpMax": 18640,
+		"base_sunder": 932,
+		"battle": 55920,
+		"level": 928,
+		"other_critDamage": 20000
+	},
+	"929": {
+		"base_atk": 1866,
+		"base_def": 933,
+		"base_hpMax": 18660,
+		"base_sunder": 933,
+		"battle": 55980,
+		"level": 929,
+		"other_critDamage": 20000
+	},
+	"930": {
+		"base_atk": 1868,
+		"base_def": 934,
+		"base_hpMax": 18680,
+		"base_sunder": 934,
+		"battle": 56040,
+		"level": 930,
+		"other_critDamage": 20000
+	},
+	"931": {
+		"base_atk": 1870,
+		"base_def": 935,
+		"base_hpMax": 18700,
+		"base_sunder": 935,
+		"battle": 56100,
+		"level": 931,
+		"other_critDamage": 20000
+	},
+	"932": {
+		"base_atk": 1872,
+		"base_def": 936,
+		"base_hpMax": 18720,
+		"base_sunder": 936,
+		"battle": 56160,
+		"level": 932,
+		"other_critDamage": 20000
+	},
+	"933": {
+		"base_atk": 1874,
+		"base_def": 937,
+		"base_hpMax": 18740,
+		"base_sunder": 937,
+		"battle": 56220,
+		"level": 933,
+		"other_critDamage": 20000
+	},
+	"934": {
+		"base_atk": 1876,
+		"base_def": 938,
+		"base_hpMax": 18760,
+		"base_sunder": 938,
+		"battle": 56280,
+		"level": 934,
+		"other_critDamage": 20000
+	},
+	"935": {
+		"base_atk": 1878,
+		"base_def": 939,
+		"base_hpMax": 18780,
+		"base_sunder": 939,
+		"battle": 56340,
+		"level": 935,
+		"other_critDamage": 20000
+	},
+	"936": {
+		"base_atk": 1880,
+		"base_def": 940,
+		"base_hpMax": 18800,
+		"base_sunder": 940,
+		"battle": 56400,
+		"level": 936,
+		"other_critDamage": 20000
+	},
+	"937": {
+		"base_atk": 1882,
+		"base_def": 941,
+		"base_hpMax": 18820,
+		"base_sunder": 941,
+		"battle": 56460,
+		"level": 937,
+		"other_critDamage": 20000
+	},
+	"938": {
+		"base_atk": 1884,
+		"base_def": 942,
+		"base_hpMax": 18840,
+		"base_sunder": 942,
+		"battle": 56520,
+		"level": 938,
+		"other_critDamage": 20000
+	},
+	"939": {
+		"base_atk": 1886,
+		"base_def": 943,
+		"base_hpMax": 18860,
+		"base_sunder": 943,
+		"battle": 56580,
+		"level": 939,
+		"other_critDamage": 20000
+	},
+	"940": {
+		"base_atk": 1888,
+		"base_def": 944,
+		"base_hpMax": 18880,
+		"base_sunder": 944,
+		"battle": 56640,
+		"level": 940,
+		"other_critDamage": 20000
+	},
+	"941": {
+		"base_atk": 1890,
+		"base_def": 945,
+		"base_hpMax": 18900,
+		"base_sunder": 945,
+		"battle": 56700,
+		"level": 941,
+		"other_critDamage": 20000
+	},
+	"942": {
+		"base_atk": 1892,
+		"base_def": 946,
+		"base_hpMax": 18920,
+		"base_sunder": 946,
+		"battle": 56760,
+		"level": 942,
+		"other_critDamage": 20000
+	},
+	"943": {
+		"base_atk": 1894,
+		"base_def": 947,
+		"base_hpMax": 18940,
+		"base_sunder": 947,
+		"battle": 56820,
+		"level": 943,
+		"other_critDamage": 20000
+	},
+	"944": {
+		"base_atk": 1896,
+		"base_def": 948,
+		"base_hpMax": 18960,
+		"base_sunder": 948,
+		"battle": 56880,
+		"level": 944,
+		"other_critDamage": 20000
+	},
+	"945": {
+		"base_atk": 1898,
+		"base_def": 949,
+		"base_hpMax": 18980,
+		"base_sunder": 949,
+		"battle": 56940,
+		"level": 945,
+		"other_critDamage": 20000
+	},
+	"946": {
+		"base_atk": 1900,
+		"base_def": 950,
+		"base_hpMax": 19000,
+		"base_sunder": 950,
+		"battle": 57000,
+		"level": 946,
+		"other_critDamage": 20000
+	},
+	"947": {
+		"base_atk": 1902,
+		"base_def": 951,
+		"base_hpMax": 19020,
+		"base_sunder": 951,
+		"battle": 57060,
+		"level": 947,
+		"other_critDamage": 20000
+	},
+	"948": {
+		"base_atk": 1904,
+		"base_def": 952,
+		"base_hpMax": 19040,
+		"base_sunder": 952,
+		"battle": 57120,
+		"level": 948,
+		"other_critDamage": 20000
+	},
+	"949": {
+		"base_atk": 1906,
+		"base_def": 953,
+		"base_hpMax": 19060,
+		"base_sunder": 953,
+		"battle": 57180,
+		"level": 949,
+		"other_critDamage": 20000
+	},
+	"950": {
+		"base_atk": 1908,
+		"base_def": 954,
+		"base_hpMax": 19080,
+		"base_sunder": 954,
+		"battle": 57240,
+		"level": 950,
+		"other_critDamage": 20000
+	},
+	"951": {
+		"base_atk": 1910,
+		"base_def": 955,
+		"base_hpMax": 19100,
+		"base_sunder": 955,
+		"battle": 57300,
+		"level": 951,
+		"other_critDamage": 20000
+	},
+	"952": {
+		"base_atk": 1912,
+		"base_def": 956,
+		"base_hpMax": 19120,
+		"base_sunder": 956,
+		"battle": 57360,
+		"level": 952,
+		"other_critDamage": 20000
+	},
+	"953": {
+		"base_atk": 1914,
+		"base_def": 957,
+		"base_hpMax": 19140,
+		"base_sunder": 957,
+		"battle": 57420,
+		"level": 953,
+		"other_critDamage": 20000
+	},
+	"954": {
+		"base_atk": 1916,
+		"base_def": 958,
+		"base_hpMax": 19160,
+		"base_sunder": 958,
+		"battle": 57480,
+		"level": 954,
+		"other_critDamage": 20000
+	},
+	"955": {
+		"base_atk": 1918,
+		"base_def": 959,
+		"base_hpMax": 19180,
+		"base_sunder": 959,
+		"battle": 57540,
+		"level": 955,
+		"other_critDamage": 20000
+	},
+	"956": {
+		"base_atk": 1920,
+		"base_def": 960,
+		"base_hpMax": 19200,
+		"base_sunder": 960,
+		"battle": 57600,
+		"level": 956,
+		"other_critDamage": 20000
+	},
+	"957": {
+		"base_atk": 1922,
+		"base_def": 961,
+		"base_hpMax": 19220,
+		"base_sunder": 961,
+		"battle": 57660,
+		"level": 957,
+		"other_critDamage": 20000
+	},
+	"958": {
+		"base_atk": 1924,
+		"base_def": 962,
+		"base_hpMax": 19240,
+		"base_sunder": 962,
+		"battle": 57720,
+		"level": 958,
+		"other_critDamage": 20000
+	},
+	"959": {
+		"base_atk": 1926,
+		"base_def": 963,
+		"base_hpMax": 19260,
+		"base_sunder": 963,
+		"battle": 57780,
+		"level": 959,
+		"other_critDamage": 20000
+	},
+	"960": {
+		"base_atk": 1928,
+		"base_def": 964,
+		"base_hpMax": 19280,
+		"base_sunder": 964,
+		"battle": 57840,
+		"level": 960,
+		"other_critDamage": 20000
+	},
+	"961": {
+		"base_atk": 1930,
+		"base_def": 965,
+		"base_hpMax": 19300,
+		"base_sunder": 965,
+		"battle": 57900,
+		"level": 961,
+		"other_critDamage": 20000
+	},
+	"962": {
+		"base_atk": 1932,
+		"base_def": 966,
+		"base_hpMax": 19320,
+		"base_sunder": 966,
+		"battle": 57960,
+		"level": 962,
+		"other_critDamage": 20000
+	},
+	"963": {
+		"base_atk": 1934,
+		"base_def": 967,
+		"base_hpMax": 19340,
+		"base_sunder": 967,
+		"battle": 58020,
+		"level": 963,
+		"other_critDamage": 20000
+	},
+	"964": {
+		"base_atk": 1936,
+		"base_def": 968,
+		"base_hpMax": 19360,
+		"base_sunder": 968,
+		"battle": 58080,
+		"level": 964,
+		"other_critDamage": 20000
+	},
+	"965": {
+		"base_atk": 1938,
+		"base_def": 969,
+		"base_hpMax": 19380,
+		"base_sunder": 969,
+		"battle": 58140,
+		"level": 965,
+		"other_critDamage": 20000
+	},
+	"966": {
+		"base_atk": 1940,
+		"base_def": 970,
+		"base_hpMax": 19400,
+		"base_sunder": 970,
+		"battle": 58200,
+		"level": 966,
+		"other_critDamage": 20000
+	},
+	"967": {
+		"base_atk": 1942,
+		"base_def": 971,
+		"base_hpMax": 19420,
+		"base_sunder": 971,
+		"battle": 58260,
+		"level": 967,
+		"other_critDamage": 20000
+	},
+	"968": {
+		"base_atk": 1944,
+		"base_def": 972,
+		"base_hpMax": 19440,
+		"base_sunder": 972,
+		"battle": 58320,
+		"level": 968,
+		"other_critDamage": 20000
+	},
+	"969": {
+		"base_atk": 1946,
+		"base_def": 973,
+		"base_hpMax": 19460,
+		"base_sunder": 973,
+		"battle": 58380,
+		"level": 969,
+		"other_critDamage": 20000
+	},
+	"970": {
+		"base_atk": 1948,
+		"base_def": 974,
+		"base_hpMax": 19480,
+		"base_sunder": 974,
+		"battle": 58440,
+		"level": 970,
+		"other_critDamage": 20000
+	},
+	"971": {
+		"base_atk": 1950,
+		"base_def": 975,
+		"base_hpMax": 19500,
+		"base_sunder": 975,
+		"battle": 58500,
+		"level": 971,
+		"other_critDamage": 20000
+	},
+	"972": {
+		"base_atk": 1952,
+		"base_def": 976,
+		"base_hpMax": 19520,
+		"base_sunder": 976,
+		"battle": 58560,
+		"level": 972,
+		"other_critDamage": 20000
+	},
+	"973": {
+		"base_atk": 1954,
+		"base_def": 977,
+		"base_hpMax": 19540,
+		"base_sunder": 977,
+		"battle": 58620,
+		"level": 973,
+		"other_critDamage": 20000
+	},
+	"974": {
+		"base_atk": 1956,
+		"base_def": 978,
+		"base_hpMax": 19560,
+		"base_sunder": 978,
+		"battle": 58680,
+		"level": 974,
+		"other_critDamage": 20000
+	},
+	"975": {
+		"base_atk": 1958,
+		"base_def": 979,
+		"base_hpMax": 19580,
+		"base_sunder": 979,
+		"battle": 58740,
+		"level": 975,
+		"other_critDamage": 20000
+	},
+	"976": {
+		"base_atk": 1960,
+		"base_def": 980,
+		"base_hpMax": 19600,
+		"base_sunder": 980,
+		"battle": 58800,
+		"level": 976,
+		"other_critDamage": 20000
+	},
+	"977": {
+		"base_atk": 1962,
+		"base_def": 981,
+		"base_hpMax": 19620,
+		"base_sunder": 981,
+		"battle": 58860,
+		"level": 977,
+		"other_critDamage": 20000
+	},
+	"978": {
+		"base_atk": 1964,
+		"base_def": 982,
+		"base_hpMax": 19640,
+		"base_sunder": 982,
+		"battle": 58920,
+		"level": 978,
+		"other_critDamage": 20000
+	},
+	"979": {
+		"base_atk": 1966,
+		"base_def": 983,
+		"base_hpMax": 19660,
+		"base_sunder": 983,
+		"battle": 58980,
+		"level": 979,
+		"other_critDamage": 20000
+	},
+	"980": {
+		"base_atk": 1968,
+		"base_def": 984,
+		"base_hpMax": 19680,
+		"base_sunder": 984,
+		"battle": 59040,
+		"level": 980,
+		"other_critDamage": 20000
+	},
+	"981": {
+		"base_atk": 1970,
+		"base_def": 985,
+		"base_hpMax": 19700,
+		"base_sunder": 985,
+		"battle": 59100,
+		"level": 981,
+		"other_critDamage": 20000
+	},
+	"982": {
+		"base_atk": 1972,
+		"base_def": 986,
+		"base_hpMax": 19720,
+		"base_sunder": 986,
+		"battle": 59160,
+		"level": 982,
+		"other_critDamage": 20000
+	},
+	"983": {
+		"base_atk": 1974,
+		"base_def": 987,
+		"base_hpMax": 19740,
+		"base_sunder": 987,
+		"battle": 59220,
+		"level": 983,
+		"other_critDamage": 20000
+	},
+	"984": {
+		"base_atk": 1976,
+		"base_def": 988,
+		"base_hpMax": 19760,
+		"base_sunder": 988,
+		"battle": 59280,
+		"level": 984,
+		"other_critDamage": 20000
+	},
+	"985": {
+		"base_atk": 1978,
+		"base_def": 989,
+		"base_hpMax": 19780,
+		"base_sunder": 989,
+		"battle": 59340,
+		"level": 985,
+		"other_critDamage": 20000
+	},
+	"986": {
+		"base_atk": 1980,
+		"base_def": 990,
+		"base_hpMax": 19800,
+		"base_sunder": 990,
+		"battle": 59400,
+		"level": 986,
+		"other_critDamage": 20000
+	},
+	"987": {
+		"base_atk": 1982,
+		"base_def": 991,
+		"base_hpMax": 19820,
+		"base_sunder": 991,
+		"battle": 59460,
+		"level": 987,
+		"other_critDamage": 20000
+	},
+	"988": {
+		"base_atk": 1984,
+		"base_def": 992,
+		"base_hpMax": 19840,
+		"base_sunder": 992,
+		"battle": 59520,
+		"level": 988,
+		"other_critDamage": 20000
+	},
+	"989": {
+		"base_atk": 1986,
+		"base_def": 993,
+		"base_hpMax": 19860,
+		"base_sunder": 993,
+		"battle": 59580,
+		"level": 989,
+		"other_critDamage": 20000
+	},
+	"990": {
+		"base_atk": 1988,
+		"base_def": 994,
+		"base_hpMax": 19880,
+		"base_sunder": 994,
+		"battle": 59640,
+		"level": 990,
+		"other_critDamage": 20000
+	},
+	"991": {
+		"base_atk": 1990,
+		"base_def": 995,
+		"base_hpMax": 19900,
+		"base_sunder": 995,
+		"battle": 59700,
+		"level": 991,
+		"other_critDamage": 20000
+	},
+	"992": {
+		"base_atk": 1992,
+		"base_def": 996,
+		"base_hpMax": 19920,
+		"base_sunder": 996,
+		"battle": 59760,
+		"level": 992,
+		"other_critDamage": 20000
+	},
+	"993": {
+		"base_atk": 1994,
+		"base_def": 997,
+		"base_hpMax": 19940,
+		"base_sunder": 997,
+		"battle": 59820,
+		"level": 993,
+		"other_critDamage": 20000
+	},
+	"994": {
+		"base_atk": 1996,
+		"base_def": 998,
+		"base_hpMax": 19960,
+		"base_sunder": 998,
+		"battle": 59880,
+		"level": 994,
+		"other_critDamage": 20000
+	},
+	"995": {
+		"base_atk": 1998,
+		"base_def": 999,
+		"base_hpMax": 19980,
+		"base_sunder": 999,
+		"battle": 59940,
+		"level": 995,
+		"other_critDamage": 20000
+	},
+	"996": {
+		"base_atk": 2000,
+		"base_def": 1000,
+		"base_hpMax": 20000,
+		"base_sunder": 1000,
+		"battle": 60000,
+		"level": 996,
+		"other_critDamage": 20000
+	},
+	"997": {
+		"base_atk": 2002,
+		"base_def": 1001,
+		"base_hpMax": 20020,
+		"base_sunder": 1001,
+		"battle": 60060,
+		"level": 997,
+		"other_critDamage": 20000
+	},
+	"998": {
+		"base_atk": 2004,
+		"base_def": 1002,
+		"base_hpMax": 20040,
+		"base_sunder": 1002,
+		"battle": 60120,
+		"level": 998,
+		"other_critDamage": 20000
+	}
+}

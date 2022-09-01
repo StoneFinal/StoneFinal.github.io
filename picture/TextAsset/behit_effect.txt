@@ -1,0 +1,8 @@
+{
+	"1": {
+		"effectId": 500,
+		"id": 1,
+		"makeEffectId": [],
+		"targetMaterialType": 1
+	}
+}

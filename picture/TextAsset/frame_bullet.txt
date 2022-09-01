@@ -1,0 +1,1097 @@
+
+{
+    "230603" : {
+        "pathType" : 0,
+        "duration" : 3.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 1
+                },
+                "time"         : 1.5
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.25,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    4.0,
+                    2.0,
+                    4.0
+                ],
+                "time"         : 1.333333
+            }
+        ]
+    },
+    "110042" : {
+        "pathType" : 2,
+        "duration" : 10.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.2
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.8333334
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 1.466667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 2.166667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 2.833333
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 3.5
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 4.166667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 4.833333
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 5.5
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 6.166667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 6.833333
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 7.5
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 8.166667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 8.833334
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 9.500001
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 0.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 0.6666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 1.333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 2.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 2.666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 3.333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 4.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 4.666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 5.333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 6.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 6.666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 7.333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 8.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 8.666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.05,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    14.0,
+                    2.0,
+                    14.0
+                ],
+                "time"         : 9.333334
+            }
+        ]
+    },
+    "120061" : {
+        "pathType" : 0,
+        "duration" : 1.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 1
+                },
+                "time"         : 0.06666667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 1
+                },
+                "time"         : 0.1666667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 0.2,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 1
+                },
+                "time"         : 0.2666667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 1
+                },
+                "time"         : 0.3666667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 1
+                },
+                "time"         : 0.5
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.2,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.2,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.1333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.2,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.2333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.2,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.3333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.2,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.4333334
+            }
+        ]
+    },
+    "130050" : {
+        "pathType" : 0,
+        "duration" : 2.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 30004,
+                "shakeParams"  : {
+                    "id" : 2
+                },
+                "time"         : 0.6
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 30004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.8333334
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 30004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 1.066667
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.0,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "time"         : 0.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.33,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    18.0,
+                    2.0,
+                    18.0
+                ],
+                "time"         : 0.5
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.33,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    18.0,
+                    2.0,
+                    18.0
+                ],
+                "time"         : 0.7333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.33,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    18.0,
+                    2.0,
+                    18.0
+                ],
+                "time"         : 1.0
+            }
+        ]
+    },
+    "130031" : {
+        "pathType" : 0,
+        "duration" : 3.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.3333333
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.6
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.8666667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300004,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 1.133333
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.0,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "time"         : 0.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.25,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.2666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.25,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.5333334
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.25,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.8000001
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.25,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 1.066667
+            }
+        ]
+    },
+    "140050" : {
+        "pathType" : 0,
+        "duration" : 2.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 1.0
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.0,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "time"         : 0.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 1.0,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.8333334
+            }
+        ]
+    },
+    "140031" : {
+        "pathType" : 0,
+        "duration" : 5.0,
+        "durationEndBulletId" : 0,
+        "hitTargetBulletId"   : 0,
+        "isBornFaceToTarget"  : false,
+        "isRemoveOnHitTarget" : false,
+        "isCheckOneTime"      : false,
+        "loops"               : 1,
+        "hitBox"              : [
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.2666667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 0.8333334
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 1.266667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 1.7
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 2.133333
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 2.566667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 3.0
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 3.433333
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 3.866667
+            },
+            {
+                "targetMotion" : "rigidity",
+                "hurtRate"     : 1.0,
+                "hitEffectId"  : 300001,
+                "shakeParams"  : {
+                    "id" : 5
+                },
+                "time"         : 4.3
+            }
+        ],
+        "checkBox"            : [
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.0,
+                "hitBoxCenter" : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "time"         : 0.0
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.1666667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 0.7333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 1.166667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 1.6
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 2.033334
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 2.466667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 2.9
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 3.333333
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 3.766667
+            },
+            {
+                "targetCheck" : false,
+                "hurtRate"    : 0.1,
+                "hitBoxCenter" : [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "hitBoxSize"   : [
+                    10.0,
+                    2.0,
+                    10.0
+                ],
+                "time"         : 4.2
+            }
+        ]
+    }
+}

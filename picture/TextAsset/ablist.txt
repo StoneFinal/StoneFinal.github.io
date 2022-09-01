@@ -1,0 +1,8 @@
+
+{
+    "bigimage" : {
+        "assets" : [
+            "resources_texture_ui_bigimage_11.assets"
+        ]
+    }
+}

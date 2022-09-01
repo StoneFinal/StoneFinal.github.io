@@ -1,0 +1,3132 @@
+
+{
+    "/map/low/model/qiang_04" : {
+        "prefab" : "Map/World_002/Prefab/qiang_04.prefab",
+        "pos"    : [
+            -23.843,
+            4.701,
+            49.989
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (6)"    : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            28.314,
+            8.330625,
+            -82.04
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (26)" : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.173,
+            8.488,
+            90.172
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/path_01"       : {
+        "prefab" : "Map/World_002/Prefab/path_01.prefab",
+        "pos"    : [
+            136.64,
+            32.72,
+            -12.85
+        ],
+        "rot"    : [
+            36.22293,
+            345.9167,
+            318.6953
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/path_03"       : {
+        "prefab" : "Map/World_002/Prefab/path_03.prefab",
+        "pos"    : [
+            36.37,
+            -0.55,
+            -0.07
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            90.0
+        ],
+        "scale"  : [
+            1.0,
+            22.29394,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (27)" : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -79.658,
+            8.22,
+            7.222
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (3)"     : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -9.382,
+            8.764,
+            24.72
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.67805,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/fangzi_01" : {
+        "prefab" : "Map/World_002/Prefab/fangzi_01.prefab",
+        "pos"    : [
+            74.176,
+            5.746,
+            -57.159
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (22)"  : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.22,
+            8.53,
+            56.28
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/zhuzi_10"  : {
+        "prefab" : "Map/World_002/Prefab/zhuzi_10.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (1)"   : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -61.829,
+            8.4,
+            7.259
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (7)"      : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -41.436,
+            3.821,
+            -49.122
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780505,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (13)"  : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.635,
+            8.624,
+            -48.563
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/world002_beijing" : {
+        "prefab" : "Map/World_002/Prefab/world002_beijing.prefab",
+        "pos"    : [
+            157.9,
+            -16.0,
+            29.1
+        ],
+        "rot"    : [
+            331.4725,
+            238.6254,
+            2.230548
+        ],
+        "scale"  : [
+            0.2281944,
+            0.2678396,
+            0.2281943
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/shitou_01"        : {
+        "prefab" : "Map/World_002/Prefab/shitou_01.prefab",
+        "pos"    : [
+            -22.66,
+            1.495,
+            -31.05
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/dimian_06"        : {
+        "prefab" : "Map/World_002/Prefab/dimian_06.prefab",
+        "pos"    : [
+            -18.43,
+            5.27,
+            -62.35
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_01"         : {
+        "prefab" : "Map/World_002/Prefab/taizi_01.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/weiqiang_13"      : {
+        "prefab" : "Map/World_002/Prefab/weiqiang_13.prefab",
+        "pos"    : [
+            -129.55,
+            4.11,
+            0.5
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/wujian_01"        : {
+        "prefab" : "Map/World_002/Prefab/wujian_01.prefab",
+        "pos"    : [
+            -71.835,
+            5.34,
+            49.833
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo"                   : {
+        "prefab" : "Map/World_002/Prefab/huo.prefab",
+        "pos"    : [
+            103.13,
+            22.98,
+            25.4
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (6)"             : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -41.436,
+            3.821,
+            -42.377
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780505,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/fangzi_04"        : {
+        "prefab" : "Map/World_002/Prefab/fangzi_04.prefab",
+        "pos"    : [
+            -33.01,
+            1.961,
+            -60.734
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/mid/world002_water_02"      : {
+        "prefab" : "Map/World_002/Prefab/world002_water_02.prefab",
+        "pos"    : [
+            0.0,
+            -0.05,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (12)"           : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            30.355,
+            8.366,
+            35.855
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (6)"             : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            -90.48,
+            7.02,
+            59.5
+        ],
+        "rot"    : [
+            270.0,
+            134.5481,
+            0.0
+        ],
+        "scale"  : [
+            0.7881221,
+            0.7881218,
+            0.7881223
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -60.653,
+            8.4,
+            -7.43
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_02"             : {
+        "prefab" : "Map/World_002/Prefab/effect_02.prefab",
+        "pos"    : [
+            34.56,
+            12.22,
+            -13.19
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_03"             : {
+        "prefab" : "Map/World_002/Prefab/effect_03.prefab",
+        "pos"    : [
+            138.8339,
+            17.33,
+            5.92
+        ],
+        "rot"    : [
+            270.0,
+            21.998,
+            0.0
+        ],
+        "scale"  : [
+            4.539521,
+            0.4434402,
+            1.668285
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_02 (2)"         : {
+        "prefab" : "Map/World_002/Prefab/effect_02.prefab",
+        "pos"    : [
+            140.04,
+            21.6,
+            10.16
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (11)"          : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            -72.54,
+            -2.99,
+            -28.46
+        ],
+        "rot"    : [
+            355.7316,
+            285.9451,
+            359.6924
+        ],
+        "scale"  : [
+            2.299669,
+            1.05187,
+            2.75523
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/dimian_02"        : {
+        "prefab" : "Map/World_002/Prefab/dimian_02.prefab",
+        "pos"    : [
+            37.06,
+            5.75,
+            -44.46
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (19)"         : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.133,
+            8.624,
+            38.082
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (13)"           : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            29.619,
+            8.33,
+            67.463
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (15)"         : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.07,
+            8.445,
+            -65.966
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (5)"            : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            28.314,
+            8.330625,
+            -73.23
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (23)"         : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.206,
+            8.491,
+            73.712
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (2)"             : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            9.43,
+            8.776,
+            24.721
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.67805,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_03"         : {
+        "prefab" : "Map/World_002/Prefab/qiang_03.prefab",
+        "pos"    : [
+            142.07,
+            6.28,
+            -10.13
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_03"         : {
+        "prefab" : "Map/World_002/Prefab/taizi_03.prefab",
+        "pos"    : [
+            -79.6,
+            3.53,
+            -54.7
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/mache"            : {
+        "prefab" : "Map/World_002/Prefab/mache.prefab",
+        "pos"    : [
+            110.73,
+            5.761,
+            -68.01
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo (5)"               : {
+        "prefab" : "Map/World_002/Prefab/huo.prefab",
+        "pos"    : [
+            -118.73,
+            5.56,
+            13.57
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (24)"         : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.489,
+            8.471,
+            73.749
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/world002_beijing (2)" : {
+        "prefab" : "Map/World_002/Prefab/world002_beijing.prefab",
+        "pos"    : [
+            -98.5,
+            -63.3,
+            67.6
+        ],
+        "rot"    : [
+            331.4725,
+            192.5705,
+            2.230551
+        ],
+        "scale"  : [
+            0.3287943,
+            0.3859173,
+            0.3287943
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/mid/world002_water_01"          : {
+        "prefab" : "Map/World_002/Prefab/world002_water_01.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (7)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            -61.642,
+            12.88,
+            25.153
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (8)"                 : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -41.436,
+            3.821,
+            -66.931
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780505,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (18)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.081,
+            8.561,
+            -83.435
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (17)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.554,
+            8.492,
+            -83.444
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (5)"                 : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -25.879,
+            8.758,
+            -9.813
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780505,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/guang (2)"                 : {
+        "prefab" : "Map/World_002/Prefab/guang.prefab",
+        "pos"    : [
+            -63.77,
+            7.68,
+            -91.32
+        ],
+        "rot"    : [
+            57.77649,
+            54.5526,
+            15.1983
+        ],
+        "scale"  : [
+            1.486862,
+            1.486863,
+            1.486863
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_02"             : {
+        "prefab" : "Map/World_002/Prefab/taizi_02.prefab",
+        "pos"    : [
+            88.64,
+            -0.35,
+            -1.48
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (20)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.497,
+            8.493,
+            38.129
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (10)"              : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            -76.1,
+            -20.4,
+            -27.15
+        ],
+        "rot"    : [
+            355.7316,
+            291.8074,
+            359.6924
+        ],
+        "scale"  : [
+            2.603011,
+            4.576238,
+            5.196972
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/men"                       : {
+        "prefab" : "Map/World_002/Prefab/men.prefab",
+        "pos"    : [
+            0.0,
+            6.73,
+            -100.73
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            3.470226,
+            0.6056393,
+            0.9208505
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (8)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -128.961,
+            8.281,
+            -7.59
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/world002_beijing (1)" : {
+        "prefab" : "Map/World_002/Prefab/world002_beijing.prefab",
+        "pos"    : [
+            164.9,
+            -25.7,
+            -8.5
+        ],
+        "rot"    : [
+            337.9959,
+            282.4881,
+            8.283228
+        ],
+        "scale"  : [
+            0.2831967,
+            0.3122637,
+            0.2111168
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_07"             : {
+        "prefab" : "Map/World_002/Prefab/qiang_07.prefab",
+        "pos"    : [
+            37.03,
+            4.7,
+            34.98
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_03"                    : {
+        "prefab" : "Map/World_002/Prefab/huo_03.prefab",
+        "pos"    : [
+            -54.847,
+            6.01125,
+            87.004
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.412501,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (6)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            24.5,
+            -2.34,
+            27.14
+        ],
+        "rot"    : [
+            0.0,
+            220.9151,
+            0.0
+        ],
+        "scale"  : [
+            1.159842,
+            1.42604,
+            2.180891
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (16)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.599,
+            8.507,
+            -66.042
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen_01"                  : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -9.375,
+            8.783,
+            -25.922
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780497,
+            1.373818,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (10)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            -95.74,
+            12.88,
+            43.345
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/guang (5)"                 : {
+        "prefab" : "Map/World_002/Prefab/guang.prefab",
+        "pos"    : [
+            -50.37,
+            10.71,
+            27.95
+        ],
+        "rot"    : [
+            297.7561,
+            249.3405,
+            76.83569
+        ],
+        "scale"  : [
+            0.3534348,
+            0.7151123,
+            0.4306648
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (9)"                 : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -41.436,
+            3.821,
+            -73.597
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780505,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/mid/shu"                        : {
+        "prefab" : "Map/World_002/Prefab/shu.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02"                    : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            73.46,
+            8.330625,
+            -27.57
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/zawu_01"              : {
+        "prefab" : "Map/World_002/Prefab/zawu_01.prefab",
+        "pos"    : [
+            -27.65,
+            3.603,
+            -65.424
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/guang (4)"                 : {
+        "prefab" : "Map/World_002/Prefab/guang.prefab",
+        "pos"    : [
+            -47.08,
+            12.07,
+            56.79
+        ],
+        "rot"    : [
+            57.77649,
+            54.5526,
+            15.1983
+        ],
+        "scale"  : [
+            1.23479,
+            1.23479,
+            1.23479
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (1)"                 : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            -54.98,
+            7.04,
+            56.6
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.83936,
+            0.839361,
+            0.839361
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (3)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            39.095,
+            8.330625,
+            -27.57
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo (4)"                   : {
+        "prefab" : "Map/World_002/Prefab/huo.prefab",
+        "pos"    : [
+            -118.73,
+            5.56,
+            -13.61
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (2)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -43.548,
+            8.133,
+            7.228
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/taizi_05"             : {
+        "prefab" : "Map/World_002/Prefab/taizi_05.prefab",
+        "pos"    : [
+            0.0,
+            -0.02,
+            -100.91
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/shitou_03"            : {
+        "prefab" : "Map/World_002/Prefab/shitou_03.prefab",
+        "pos"    : [
+            -116.5,
+            -31.91,
+            21.96
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (4)"                 : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            -25.878,
+            8.75,
+            9.637
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            0.6780502,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (12)"              : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            -72.09,
+            -3.69,
+            -25.51
+        ],
+        "rot"    : [
+            355.7316,
+            244.3614,
+            359.6924
+        ],
+        "scale"  : [
+            2.049027,
+            1.14647,
+            3.01737
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_05"             : {
+        "prefab" : "Map/World_002/Prefab/qiang_05.prefab",
+        "pos"    : [
+            37.06,
+            5.75,
+            -44.46
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (8)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            -87.05,
+            -8.99,
+            16.56
+        ],
+        "rot"    : [
+            0.0,
+            268.2524,
+            0.0
+        ],
+        "scale"  : [
+            1.092291,
+            2.055337,
+            2.79547
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (15)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            45.92,
+            8.33,
+            78.455
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/lizi_1 (1)"                : {
+        "prefab" : "Map/World_002/Prefab/lizi_1.prefab",
+        "pos"    : [
+            36.37422,
+            10.34,
+            -10.37
+        ],
+        "rot"    : [
+            0.0,
+            270.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            4.090625,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (14)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            29.579,
+            8.33,
+            78.455
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo (1)"                   : {
+        "prefab" : "Map/World_002/Prefab/huo.prefab",
+        "pos"    : [
+            135.34,
+            22.98,
+            25.4
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (3)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            43.89,
+            -2.35,
+            16.36
+        ],
+        "rot"    : [
+            0.0,
+            268.2524,
+            0.0
+        ],
+        "scale"  : [
+            1.31233,
+            1.426043,
+            2.180889
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_04 (1)"             : {
+        "prefab" : "Map/World_002/Prefab/effect_04.prefab",
+        "pos"    : [
+            138.04,
+            18.04,
+            6.67
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.21607,
+            1.216071,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (11)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            -95.74,
+            12.88,
+            61.235
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/dimian_01"            : {
+        "prefab" : "Map/World_002/Prefab/dimian_01.prefab",
+        "pos"    : [
+            -23.843,
+            4.701,
+            49.989
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/fangzi_05"            : {
+        "prefab" : "Map/World_002/Prefab/fangzi_05.prefab",
+        "pos"    : [
+            74.176,
+            5.746,
+            -57.159
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (4)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            28.314,
+            8.330625,
+            -35.068
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/guang"                     : {
+        "prefab" : "Map/World_002/Prefab/guang.prefab",
+        "pos"    : [
+            -52.57,
+            10.45,
+            26.4
+        ],
+        "rot"    : [
+            321.0748,
+            260.3307,
+            71.04871
+        ],
+        "scale"  : [
+            1.013358,
+            2.050353,
+            1.234787
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (3)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -43.561,
+            8.175,
+            -7.573
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/lizi_1"                    : {
+        "prefab" : "Map/World_002/Prefab/lizi_1.prefab",
+        "pos"    : [
+            36.37422,
+            10.34,
+            9.76
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            4.090625,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_01"             : {
+        "prefab" : "Map/World_002/Prefab/qiang_01.prefab",
+        "pos"    : [
+            0.03,
+            0.0,
+            -98.79
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_01 (1)"             : {
+        "prefab" : "Map/World_002/Prefab/effect_01.prefab",
+        "pos"    : [
+            -41.21,
+            4.35,
+            -70.42
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (12)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            61.121,
+            11.057,
+            7.087
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (5)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -94.596,
+            8.4,
+            7.161
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (2)"                 : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            -39.15,
+            5.17,
+            -76.27
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.83936,
+            0.839361,
+            0.839361
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (1)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            59.793,
+            8.330625,
+            -27.57
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/path_02"                   : {
+        "prefab" : "Map/World_002/Prefab/path_02.prefab",
+        "pos"    : [
+            36.37,
+            5.23,
+            -0.07
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            90.0
+        ],
+        "scale"  : [
+            1.0,
+            22.29394,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen_02"                  : {
+        "prefab" : "Map/World_002/Prefab/fuwen_02.prefab",
+        "pos"    : [
+            0.0,
+            0.6251554,
+            -101.3378
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            3.470226,
+            0.9208509,
+            0.6056396
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (5)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            27.03,
+            -2.33,
+            -27.01
+        ],
+        "rot"    : [
+            0.0,
+            328.7462,
+            0.0
+        ],
+        "scale"  : [
+            1.157021,
+            1.42604,
+            2.18089
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_02 (1)"             : {
+        "prefab" : "Map/World_002/Prefab/effect_02.prefab",
+        "pos"    : [
+            34.56,
+            12.22,
+            13.19
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/liuguang_3"                : {
+        "prefab" : "Map/World_002/Prefab/liuguang_3 1.prefab",
+        "pos"    : [
+            0.0,
+            5.12,
+            0.0
+        ],
+        "rot"    : [
+            270.0,
+            227.0358,
+            0.0
+        ],
+        "scale"  : [
+            0.3234782,
+            0.3234785,
+            1.63683
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_01"                 : {
+        "prefab" : "Map/World_002/Prefab/effect_01.prefab",
+        "pos"    : [
+            -41.21,
+            4.35,
+            -45.75
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo (3)"                   : {
+        "prefab" : "Map/World_002/Prefab/huo.prefab",
+        "pos"    : [
+            103.5,
+            22.98,
+            -25.67
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (8)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            -80.34,
+            12.88,
+            25.565
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (16)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            58.02,
+            8.33,
+            78.455
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/mid/cao"                        : {
+        "prefab" : "Map/World_002/Prefab/cao.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_06"             : {
+        "prefab" : "Map/World_002/Prefab/qiang_06.prefab",
+        "pos"    : [
+            37.03,
+            4.7,
+            34.98
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_04"                 : {
+        "prefab" : "Map/World_002/Prefab/effect_04.prefab",
+        "pos"    : [
+            138.88,
+            18.04,
+            6.29
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.21607,
+            1.216071,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (9)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -128.915,
+            8.257,
+            7.04
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (25)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.424,
+            8.537,
+            90.211
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (28)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            61.218,
+            11.013,
+            -7.526
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (3)"                 : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            -38.65,
+            5.78,
+            -76.13
+        ],
+        "rot"    : [
+            270.0,
+            134.5481,
+            0.0
+        ],
+        "scale"  : [
+            0.7806051,
+            0.7806054,
+            0.7806057
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01"                   : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            93.04,
+            0.59,
+            -16.42
+        ],
+        "rot"    : [
+            0.0,
+            268.2524,
+            0.0
+        ],
+        "scale"  : [
+            0.5766107,
+            2.45735,
+            1.266562
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (6)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -111.6,
+            8.22,
+            7.054
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (7)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            -85.51,
+            -5.33,
+            16.56
+        ],
+        "rot"    : [
+            0.0,
+            268.2524,
+            0.0
+        ],
+        "scale"  : [
+            1.39107,
+            1.88563,
+            2.56465
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (2)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            45.604,
+            8.330625,
+            -27.57
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_02 (3)"             : {
+        "prefab" : "Map/World_002/Prefab/effect_02.prefab",
+        "pos"    : [
+            140.04,
+            21.6,
+            -10.12
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie"                     : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            -51.188,
+            7.04,
+            44.039
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.8393551,
+            0.839357,
+            0.839357
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/effect_01 (2)"             : {
+        "prefab" : "Map/World_002/Prefab/effect_01.prefab",
+        "pos"    : [
+            142.492,
+            21.333,
+            -0.014
+        ],
+        "rot"    : [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "scale"  : [
+            1.216071,
+            1.21607,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (9)"                : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            -95.74,
+            12.88,
+            25.429
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (10)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            44.04,
+            11.013,
+            -7.636
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/qiang_02"             : {
+        "prefab" : "Map/World_002/Prefab/qiang_02.prefab",
+        "pos"    : [
+            36.5,
+            -2.05,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/dimian_04"            : {
+        "prefab" : "Map/World_002/Prefab/dimian_04.prefab",
+        "pos"    : [
+            -18.4274,
+            5.2713,
+            -62.3474
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/dimian_03"            : {
+        "prefab" : "Map/World_002/Prefab/dimian_03.prefab",
+        "pos"    : [
+            37.034,
+            4.701,
+            34.983
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/fangzi_02"            : {
+        "prefab" : "Map/World_002/Prefab/fangzi_02.prefab",
+        "pos"    : [
+            53.329,
+            5.696,
+            56.151
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/chengmen"             : {
+        "prefab" : "Map/World_002/Prefab/chengmen.prefab",
+        "pos"    : [
+            0.0,
+            5.248493,
+            97.59
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (4)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -94.759,
+            8.293,
+            -7.593
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/guang (3)"                 : {
+        "prefab" : "Map/World_002/Prefab/guang.prefab",
+        "pos"    : [
+            33.44,
+            10.9,
+            73.9
+        ],
+        "rot"    : [
+            57.77649,
+            54.5526,
+            15.1983
+        ],
+        "scale"  : [
+            2.576142,
+            2.576143,
+            2.576143
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo (2)"                   : {
+        "prefab" : "Map/World_002/Prefab/huo.prefab",
+        "pos"    : [
+            135.34,
+            22.98,
+            -25.67
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (1)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            79.88,
+            -0.56,
+            -14.97
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            0.4505662,
+            1.668379,
+            1.26656
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (14)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            7.022,
+            8.624,
+            -48.496
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/fangzi_03"            : {
+        "prefab" : "Map/World_002/Prefab/fangzi_03.prefab",
+        "pos"    : [
+            -45.62,
+            4.68,
+            77.08
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/shitou_02"            : {
+        "prefab" : "Map/World_002/Prefab/shitou_02.prefab",
+        "pos"    : [
+            -10.09,
+            1.49,
+            82.93
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/zawu_02"              : {
+        "prefab" : "Map/World_002/Prefab/zawu_02.prefab",
+        "pos"    : [
+            117.67,
+            5.69,
+            -75.51
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/fuwen (1)"                 : {
+        "prefab" : "Map/World_002/Prefab/fuwen_01.prefab",
+        "pos"    : [
+            9.432,
+            8.779,
+            -25.906
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            0.67805,
+            1.37382,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (5)"                 : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            25.31,
+            7.13,
+            -39.77
+        ],
+        "rot"    : [
+            270.0,
+            134.5481,
+            0.0
+        ],
+        "scale"  : [
+            0.8683207,
+            0.8683205,
+            0.8683209
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (7)"              : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -111.902,
+            8.273,
+            -7.571
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (9)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            -75.8,
+            -17.07,
+            -26.28
+        ],
+        "rot"    : [
+            355.7316,
+            260.2127,
+            359.6924
+        ],
+        "scale"  : [
+            2.5309,
+            3.591094,
+            3.726976
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (21)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            -7.45,
+            8.516,
+            56.152
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (2)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            92.75,
+            0.59,
+            18.02
+        ],
+        "rot"    : [
+            0.0,
+            268.2524,
+            0.0
+        ],
+        "scale"  : [
+            0.5766102,
+            2.45735,
+            1.26656
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (7)"                 : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            99.61,
+            7.907,
+            -45.52
+        ],
+        "rot"    : [
+            270.0,
+            169.1378,
+            0.0
+        ],
+        "scale"  : [
+            0.788121,
+            0.7881205,
+            0.7881209
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/guang (1)"                 : {
+        "prefab" : "Map/World_002/Prefab/guang.prefab",
+        "pos"    : [
+            -65.22,
+            9.51,
+            -59.81
+        ],
+        "rot"    : [
+            57.77649,
+            54.5526,
+            15.1983
+        ],
+        "scale"  : [
+            1.23479,
+            1.23479,
+            1.23479
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (4)"                 : {
+        "prefab" : "Map/World_002/Prefab/hudie.prefab",
+        "pos"    : [
+            25.28,
+            7.98,
+            -67.84
+        ],
+        "rot"    : [
+            270.0,
+            134.5481,
+            0.0
+        ],
+        "scale"  : [
+            0.8683205,
+            0.8683203,
+            0.8683209
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/low/model/shitou_04"            : {
+        "prefab" : "Map/World_002/Prefab/shitou_04.prefab",
+        "pos"    : [
+            96.262,
+            1.079,
+            19.174
+        ],
+        "rot"    : [
+            0.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (18)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            22.68,
+            8.271,
+            54.125
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/pubu_01 (4)"               : {
+        "prefab" : "Map/World_002/Prefab/pubu_01.prefab",
+        "pos"    : [
+            43.1,
+            -2.55,
+            -17.37
+        ],
+        "rot"    : [
+            0.0,
+            268.2524,
+            0.0
+        ],
+        "scale"  : [
+            1.348838,
+            1.42604,
+            2.180891
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/light_01 (11)"             : {
+        "prefab" : "Map/World_002/Prefab/light_02.prefab",
+        "pos"    : [
+            44.182,
+            10.951,
+            7.106
+        ],
+        "rot"    : [
+            270.0198,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huo_02 (17)"               : {
+        "prefab" : "Map/World_002/Prefab/huo_02.prefab",
+        "pos"    : [
+            22.68,
+            8.271,
+            43.817
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"1": {
+		"id": 1,
+		"name": "主角",
+		"path": "Material/player_mainplayer.mat"
+	}
+}

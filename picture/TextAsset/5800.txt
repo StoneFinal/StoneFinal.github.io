@@ -1,0 +1,82 @@
+
+{
+    "doodad" : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 1,
+            "configId"    : 102,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                70.136,
+                0.532,
+                -67.15
+            ],
+            "spawnRot"    : [
+                0.0,
+                -44.02,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 2,
+            "configId"    : 102,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                53.052,
+                0.518,
+                -67.13
+            ],
+            "spawnRot"    : [
+                0.0,
+                43.5,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 3,
+            "configId"    : 102,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                70.7,
+                0.427,
+                -48.939
+            ],
+            "spawnRot"    : [
+                0.0,
+                44.82,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"  : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    }
+}

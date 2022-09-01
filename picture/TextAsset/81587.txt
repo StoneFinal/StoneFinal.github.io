@@ -1,0 +1,43 @@
+{
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 8158701,
+            "groupId"  : 1,
+            "spawnPos" : [
+                2.0,
+                -0.66,
+                -4.0
+            ],
+            "spawnRot" : [
+                0.0,
+                120.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "New Event",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 17,
+                            "eventParams" : "[1]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 5384001,
+            "groupId"  : 0,
+            "spawnPos" : [
+                39.199,
+                0.662,
+                36.403
+            ],
+            "spawnRot" : [
+                0.0,
+                -135.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    },
+    "doodad"  : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 1,
+            "configId"    : 101,
+            "groupId"     : 0,
+            "spawnPos"    : [
+                26.125,
+                -0.794,
+                24.448
+            ],
+            "spawnRot"    : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    }
+}

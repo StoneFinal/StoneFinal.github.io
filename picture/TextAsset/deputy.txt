@@ -1,0 +1,86 @@
+{
+	"1": {
+		"aiName": "deputy_common",
+		"awayRadius": 10.0,
+		"awayRecover": 0.0,
+		"configId": 1,
+		"guardArea": {
+			"angle": 360,
+			"maxRadius": 6,
+			"minRadius": 0
+		},
+		"modelId": 1,
+		"patrolType": 1,
+		"patrolWanderRadius": 4.0
+	},
+	"2": {
+		"aiName": "deputy_common",
+		"awayRadius": 10.0,
+		"awayRecover": 0.0,
+		"configId": 2,
+		"guardArea": {
+			"angle": 360,
+			"maxRadius": 6,
+			"minRadius": 0
+		},
+		"modelId": 2,
+		"patrolType": 1,
+		"patrolWanderRadius": 4.0
+	},
+	"3": {
+		"aiName": "deputy_common",
+		"awayRadius": 10.0,
+		"awayRecover": 0.0,
+		"configId": 3,
+		"guardArea": {
+			"angle": 360,
+			"maxRadius": 6,
+			"minRadius": 0
+		},
+		"modelId": 3,
+		"patrolType": 1,
+		"patrolWanderRadius": 4.0
+	},
+	"4": {
+		"aiName": "deputy_common",
+		"awayRadius": 10.0,
+		"awayRecover": 0.0,
+		"configId": 4,
+		"guardArea": {
+			"angle": 360,
+			"maxRadius": 6,
+			"minRadius": 0
+		},
+		"modelId": 4,
+		"patrolType": 1,
+		"patrolWanderRadius": 4.0
+	},
+	"5": {
+		"aiName": "deputy_common",
+		"awayRadius": 10.0,
+		"awayRecover": 0.0,
+		"configId": 5,
+		"guardArea": {
+			"angle": 360,
+			"maxRadius": 6,
+			"minRadius": 0
+		},
+		"modelId": 5,
+		"patrolType": 1,
+		"patrolWanderRadius": 4.0
+	},
+	"6": {
+		"aiName": "deputy_common",
+		"awayRadius": 10.0,
+		"awayRecover": 0.0,
+		"configId": 6,
+		"guardArea": {
+			"angle": 360,
+			"maxRadius": 6,
+			"minRadius": 0
+		},
+		"modelId": 6,
+		"patrolType": 1,
+		"patrolWanderRadius": 4.0
+	}
+}

@@ -1,0 +1,296 @@
+
+{
+    "1" : {
+        "typeTarget" : {
+            "name" : "\u6444\u50CF\u673A",
+            "type" : 1
+        },
+        "typeBlocks" : [
+            {
+                "beginRotation" : [
+                    24.99986,
+                    96.59981,
+                    2.072474E-05
+                ],
+                "beginPosition" : [
+                    256.3686,
+                    130.9622,
+                    223.6821
+                ],
+                "endRotation"   : [
+                    353.7999,
+                    131.9998,
+                    2.383162E-05
+                ],
+                "endPositioin"  : [
+                    256.9472,
+                    128.5811,
+                    224.4718
+                ],
+                "beginTime"     : 0.0,
+                "duration"      : 0.4,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    353.7999,
+                    131.9998,
+                    2.383162E-05
+                ],
+                "beginPosition" : [
+                    256.9472,
+                    128.5811,
+                    224.4718
+                ],
+                "endRotation"   : [
+                    25.79989,
+                    127.3996,
+                    0.0
+                ],
+                "endPositioin"  : [
+                    256.3686,
+                    130.9622,
+                    223.6821
+                ],
+                "beginTime"     : 0.4,
+                "duration"      : 0.2,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    353.7999,
+                    96.79957,
+                    -1.932293E-06
+                ],
+                "beginPosition" : [
+                    256.3686,
+                    130.9622,
+                    223.6821
+                ],
+                "endRotation"   : [
+                    24.39988,
+                    86.19965,
+                    -1.593763E-05
+                ],
+                "endPositioin"  : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "beginTime"     : 1.5,
+                "duration"      : 0.3,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    25.7999,
+                    127.3996,
+                    9.483006E-07
+                ],
+                "beginPosition" : [
+                    256.3686,
+                    130.9622,
+                    223.6821
+                ],
+                "endRotation"   : [
+                    353.7999,
+                    96.79957,
+                    -2.146993E-06
+                ],
+                "endPositioin"  : [
+                    256.3686,
+                    130.9622,
+                    223.6821
+                ],
+                "beginTime"     : 0.6,
+                "duration"      : 0.9,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    24.39989,
+                    86.19965,
+                    -1.593763E-05
+                ],
+                "beginPosition" : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "endRotation"   : [
+                    6.199883,
+                    97.39955,
+                    -1.975232E-05
+                ],
+                "endPositioin"  : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "beginTime"     : 1.8,
+                "duration"      : 0.9,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    6.199883,
+                    97.39955,
+                    -1.932292E-05
+                ],
+                "beginPosition" : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "endRotation"   : [
+                    333.9999,
+                    117.3994,
+                    -1.994814E-05
+                ],
+                "endPositioin"  : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "beginTime"     : 2.7,
+                "duration"      : 0.5,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    333.9999,
+                    117.3994,
+                    -1.804831E-05
+                ],
+                "beginPosition" : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "endRotation"   : [
+                    29.19989,
+                    112.3994,
+                    -1.564901E-05
+                ],
+                "endPositioin"  : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "beginTime"     : 3.2,
+                "duration"      : 0.2,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    29.19989,
+                    112.3994,
+                    -1.760513E-05
+                ],
+                "beginPosition" : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "endRotation"   : [
+                    5.201077,
+                    93.32616,
+                    357.3513
+                ],
+                "endPositioin"  : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "beginTime"     : 3.4,
+                "duration"      : 0.4,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    5.201077,
+                    93.32616,
+                    357.3513
+                ],
+                "beginPosition" : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "endRotation"   : [
+                    23.19991,
+                    66.79941,
+                    -2.322218E-05
+                ],
+                "endPositioin"  : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "beginTime"     : 3.8,
+                "duration"      : 0.2,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    23.19991,
+                    66.79941,
+                    -2.322218E-05
+                ],
+                "beginPosition" : [
+                    256.667,
+                    130.9622,
+                    223.109
+                ],
+                "endRotation"   : [
+                    2.199977,
+                    99.99931,
+                    -1.762207E-05
+                ],
+                "endPositioin"  : [
+                    262.2445,
+                    131.1697,
+                    224.1571
+                ],
+                "beginTime"     : 4.0,
+                "duration"      : 1.3,
+                "type"          : 4
+            },
+            {
+                "shakeId" : 7,
+                "beginTime" : 5.3,
+                "duration"  : 1.0,
+                "type"      : 2
+            }
+        ]
+    },
+    "2" : {
+        "typeTarget" : {
+            "configId" : 1001152,
+            "initPos"  : [
+                291.0,
+                105.0,
+                218.0
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                -81.0,
+                0.0
+            ],
+            "createType" : 1,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "appear",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 6.466667,
+                "type"          : 7
+            }
+        ]
+    }
+}

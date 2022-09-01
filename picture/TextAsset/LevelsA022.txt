@@ -1,0 +1,334 @@
+
+{
+    "/map/high/effect/cj_smoke_0006" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0006.prefab",
+        "pos"    : [
+            -14.55,
+            -12.12,
+            -1.47
+        ],
+        "rot"    : [
+            270.0,
+            89.41706,
+            0.0
+        ],
+        "scale"  : [
+            1.258284,
+            1.258284,
+            1.258284
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -14.55,
+            -10.12,
+            -1.47
+        ],
+        "boundsSize" : [
+            17.51862,
+            16.45658,
+            34.0204
+        ]
+    },
+    "/map/high/effect/cj_smoke_0006(6)" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0006.prefab",
+        "pos"    : [
+            15.33,
+            -12.12,
+            -19.72
+        ],
+        "rot"    : [
+            270.0,
+            105.458,
+            0.0
+        ],
+        "scale"  : [
+            1.258281,
+            1.258281,
+            1.25828
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            15.33,
+            -10.12,
+            -19.72
+        ],
+        "boundsSize" : [
+            25.57525,
+            16.45657,
+            37.20066
+        ]
+    },
+    "/map/high/effect/cj_smoke_0006(2)" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0006.prefab",
+        "pos"    : [
+            14.67,
+            -12.12,
+            1.7
+        ],
+        "rot"    : [
+            270.0,
+            89.41706,
+            0.0
+        ],
+        "scale"  : [
+            1.258281,
+            1.258281,
+            1.25828
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            14.67,
+            -10.12,
+            1.7
+        ],
+        "boundsSize" : [
+            17.5186,
+            16.45657,
+            34.02033
+        ]
+    },
+    "/map/mid/model/levels_a022_alpha_01" : {
+        "prefab" : "Map/LevelsA022/Prefab/levels_a022_alpha_01.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            2.504478E-06,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+            "0|0.2828909|0.2828909|-0.001105042|0.002801208"
+        ],
+        "boundsPos" : [
+            0.2033653,
+            0.0764997,
+            -3.05591
+        ],
+        "boundsSize" : [
+            36.93577,
+            3.619003,
+            56.13972
+        ]
+    },
+    "/Main Camera/camera_rain"            : {
+        "prefab" : "Prefab/EffectNeed/Common/CameraRain/camera_rain.prefab",
+        "pos"    : [
+            0.0,
+            1.0,
+            -10.0
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            1.5,
+            -1.990381,
+            7.5
+        ],
+        "boundsSize" : [
+            29.142,
+            47.37089,
+            45.90678
+        ]
+    },
+    "/map/high/effect/cj_smoke_0006(1)"   : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0006.prefab",
+        "pos"    : [
+            -14.75,
+            -12.12,
+            18.67
+        ],
+        "rot"    : [
+            270.0,
+            89.41706,
+            0.0
+        ],
+        "scale"  : [
+            1.258281,
+            1.258281,
+            1.25828
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -14.75,
+            -10.12,
+            18.67
+        ],
+        "boundsSize" : [
+            17.5186,
+            16.45657,
+            34.02033
+        ]
+    },
+    "/map/high/effect/cj_smoke_0006(3)"   : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0006.prefab",
+        "pos"    : [
+            14.47,
+            -12.12,
+            21.84
+        ],
+        "rot"    : [
+            270.0,
+            89.41706,
+            0.0
+        ],
+        "scale"  : [
+            1.258281,
+            1.258281,
+            1.25828
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            14.47,
+            -10.12,
+            21.84
+        ],
+        "boundsSize" : [
+            17.5186,
+            16.45657,
+            34.02033
+        ]
+    },
+    "/map/high/effect/cj_lizi_0002"       : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_lizi_0002.prefab",
+        "pos"    : [
+            7.84,
+            1.57,
+            14.54
+        ],
+        "rot"    : [
+            270.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            7.84,
+            2.57,
+            14.54
+        ],
+        "boundsSize" : [
+            4.92,
+            6.920003,
+            4.920003
+        ]
+    },
+    "/map/high/effect/cj_smoke_0006(5)"   : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0006.prefab",
+        "pos"    : [
+            -10.34,
+            -12.12,
+            -28.52
+        ],
+        "rot"    : [
+            270.0,
+            50.93333,
+            0.0
+        ],
+        "scale"  : [
+            1.258281,
+            1.258281,
+            1.25828
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -10.34,
+            -10.12,
+            -28.52
+        ],
+        "boundsSize" : [
+            34.6664,
+            16.45656,
+            37.10369
+        ]
+    },
+    "/map/high/effect/cj_smoke_0001"      : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0001.prefab",
+        "pos"    : [
+            -57.5,
+            -12.3,
+            -2.5
+        ],
+        "rot"    : [
+            1.355473,
+            354.0413,
+            3.664439
+        ],
+        "scale"  : [
+            2.142537,
+            2.142538,
+            1.205179
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -58.50062,
+            -12.52807,
+            7.086655
+        ],
+        "boundsSize" : [
+            81.8987,
+            73.67932,
+            112.7924
+        ]
+    },
+    "/map/high/effect/cj_smoke_0001(1)"   : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_smoke_0001.prefab",
+        "pos"    : [
+            41.7,
+            -11.3,
+            -1.8
+        ],
+        "rot"    : [
+            1.355473,
+            354.0413,
+            3.664439
+        ],
+        "scale"  : [
+            2.142537,
+            2.142538,
+            1.205179
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            40.69938,
+            -11.52807,
+            7.786655
+        ],
+        "boundsSize" : [
+            81.89869,
+            73.67932,
+            112.7924
+        ]
+    }
+}

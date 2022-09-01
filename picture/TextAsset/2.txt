@@ -1,0 +1,472 @@
+
+{
+    "1" : {
+        "typeTarget" : {
+            "name" : "\u6444\u50CF\u673A",
+            "type" : 1
+        },
+        "typeBlocks" : [
+            {
+                "beginRotation" : [
+                    26.17241,
+                    150.9877,
+                    0.1709693
+                ],
+                "beginPosition" : [
+                    -4.054563,
+                    3.391378,
+                    -57.11019
+                ],
+                "endRotation"   : [
+                    25.9724,
+                    117.9874,
+                    0.1706904
+                ],
+                "endPositioin"  : [
+                    -10.32077,
+                    3.416725,
+                    -63.9982
+                ],
+                "beginTime"     : 3.0,
+                "duration"      : 3.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    14.97246,
+                    126.9536,
+                    0.1588478
+                ],
+                "beginPosition" : [
+                    -2.841884,
+                    -1.51953,
+                    -66.51729
+                ],
+                "endRotation"   : [
+                    14.97246,
+                    126.9536,
+                    0.1588478
+                ],
+                "endPositioin"  : [
+                    -2.841884,
+                    -1.51953,
+                    -66.51729
+                ],
+                "beginTime"     : 7.0,
+                "duration"      : 3.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    25.9724,
+                    117.9874,
+                    0.1706904
+                ],
+                "beginPosition" : [
+                    -10.32077,
+                    3.416725,
+                    -63.9982
+                ],
+                "endRotation"   : [
+                    25.9724,
+                    117.9874,
+                    0.1706904
+                ],
+                "endPositioin"  : [
+                    -10.32077,
+                    3.416725,
+                    -63.9982
+                ],
+                "beginTime"     : 6.0,
+                "duration"      : 1.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    15.82647,
+                    317.3283,
+                    0.1475344
+                ],
+                "beginPosition" : [
+                    0.8389006,
+                    -1.693996,
+                    -67.76105
+                ],
+                "endRotation"   : [
+                    9.026498,
+                    315.5106,
+                    0.1437181
+                ],
+                "endPositioin"  : [
+                    10.30961,
+                    -1.578689,
+                    -77.53896
+                ],
+                "beginTime"     : 0.0,
+                "duration"      : 3.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    14.97246,
+                    126.9536,
+                    0.1588482
+                ],
+                "beginPosition" : [
+                    -2.841884,
+                    -1.51953,
+                    -66.51729
+                ],
+                "endRotation"   : [
+                    28.57241,
+                    111.1963,
+                    0.1747276
+                ],
+                "endPositioin"  : [
+                    -10.94492,
+                    4.625654,
+                    -66.60394
+                ],
+                "beginTime"     : 10.0,
+                "duration"      : 5.0,
+                "type"          : 4
+            }
+        ]
+    },
+    "2" : {
+        "typeTarget" : {
+            "configId" : 1003151,
+            "initPos"  : [
+                -2.8,
+                -5.3,
+                -60.5
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                135.0,
+                0.0
+            ],
+            "createType" : 6,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 5.0,
+                "duration"      : 2.0,
+                "type"          : 7
+            },
+            {
+                "motionName" : "show",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 7.0,
+                "duration"      : 3.0,
+                "type"          : 7
+            },
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 10.0,
+                "duration"      : 5.0,
+                "type"          : 7
+            },
+            {
+                "targetPoint" : [
+                    5.7,
+                    -5.3,
+                    -69.4
+                ],
+                "speed"       : 2.461382,
+                "isTelesport" : false,
+                "motionId"    : 0,
+                "profMotionIds" : "",
+                "moveMotion"    : "",
+                "isIngrone"     : false,
+                "beginTime"     : 0.0,
+                "duration"      : 5.0,
+                "type"          : 3
+            },
+            {
+                "angle" : 90.0,
+                "beginTime" : 5.0,
+                "duration"  : 0.3,
+                "type"      : 22
+            }
+        ]
+    },
+    "3" : {
+        "typeTarget" : {
+            "configId" : 1003152,
+            "initPos"  : [
+                -6.6,
+                -5.3,
+                -63.83
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                135.0,
+                0.0
+            ],
+            "createType" : 7,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 5.0,
+                "duration"      : 2.0,
+                "type"          : 7
+            },
+            {
+                "motionName" : "show",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 7.0,
+                "duration"      : 3.0,
+                "type"          : 7
+            },
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 10.0,
+                "duration"      : 5.0,
+                "type"          : 7
+            },
+            {
+                "targetPoint" : [
+                    2.3,
+                    -5.3,
+                    -73.0
+                ],
+                "speed"       : 2.555769,
+                "isTelesport" : false,
+                "motionId"    : 0,
+                "profMotionIds" : "",
+                "moveMotion"    : "",
+                "isIngrone"     : false,
+                "beginTime"     : 0.0,
+                "duration"      : 5.0,
+                "type"          : 3
+            },
+            {
+                "angle" : -90.0,
+                "beginTime" : 5.0,
+                "duration"  : 0.3,
+                "type"      : 22
+            }
+        ]
+    },
+    "4" : {
+        "typeTarget" : {
+            "configId" : 1003056,
+            "initPos"  : [
+                13.2,
+                -5.5,
+                -66.3
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "createType" : 2,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 15.0,
+                "type"          : 7
+            }
+        ]
+    },
+    "5" : {
+        "typeTarget" : {
+            "configId" : 1003047,
+            "initPos"  : [
+                11.8,
+                -5.5,
+                -74.6
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "createType" : 2,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 15.0,
+                "type"          : 7
+            }
+        ]
+    },
+    "6" : {
+        "typeTarget" : {
+            "configId" : 1003046,
+            "initPos"  : [
+                10.8,
+                -5.5,
+                -77.9
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                -45.0,
+                0.0
+            ],
+            "createType" : 2,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 15.0,
+                "type"          : 7
+            }
+        ]
+    },
+    "7" : {
+        "typeTarget" : {
+            "configId" : 1003048,
+            "initPos"  : [
+                7.6,
+                -5.5,
+                -78.9
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "createType" : 2,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 15.0,
+                "type"          : 7
+            }
+        ]
+    },
+    "8" : {
+        "typeTarget" : {
+            "configId" : 1003055,
+            "initPos"  : [
+                -0.9,
+                -5.5,
+                -80.7
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "createType" : 2,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 15.0,
+                "type"          : 7
+            }
+        ]
+    },
+    "9" : {
+        "typeTarget" : {
+            "name" : "\u5C4F\u5E55",
+            "type" : 3
+        },
+        "typeBlocks" : [
+            {
+                "effectId" : 500004,
+                "offset"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "beginTime" : 1.0,
+                "duration"  : 14.0,
+                "type"      : 21
+            }
+        ]
+    },
+    "10" : {
+        "typeTarget" : {
+            "name" : "\u5C4F\u5E55",
+            "type" : 3
+        },
+        "typeBlocks" : [
+            {
+                "effectId" : 410111,
+                "offset"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "beginTime" : 5.0,
+                "duration"  : 10.0,
+                "type"      : 21
+            }
+        ]
+    },
+    "11" : {
+        "typeTarget" : {
+            "name" : "\u5C4F\u5E55",
+            "type" : 3
+        },
+        "typeBlocks" : [
+            {
+                "effectId" : 410148,
+                "offset"   : [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "beginTime" : 10.0,
+                "duration"  : 5.0,
+                "type"      : 21
+            }
+        ]
+    }
+}

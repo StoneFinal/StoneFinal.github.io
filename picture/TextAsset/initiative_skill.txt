@@ -1,0 +1,712 @@
+{
+	"1100": {
+		"changeId": 1,
+		"id": 1100,
+		"openLevel": 1,
+		"profession": 1,
+		"type": 1
+	},
+	"1101": {
+		"changeId": 2,
+		"id": 1101,
+		"openDes": "8级开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 2
+	},
+	"1102": {
+		"changeId": 3,
+		"id": 1102,
+		"openDes": "14级开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 2
+	},
+	"1103": {
+		"changeId": 4,
+		"id": 1103,
+		"openDes": "25级开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 2
+	},
+	"1104": {
+		"changeId": 5,
+		"id": 1104,
+		"openDes": "36级开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 2
+	},
+	"1105": {
+		"changeId": 6,
+		"id": 1105,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 2
+	},
+	"1106": {
+		"changeId": 7,
+		"id": 1106,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 2
+	},
+	"1107": {
+		"changeId": 8,
+		"id": 1107,
+		"openDes": "激活上古圣物",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 6
+	},
+	"1108": {
+		"changeId": 9,
+		"id": 1108,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 7
+	},
+	"1109": {
+		"changeId": 10,
+		"id": 1109,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 7
+	},
+	"1110": {
+		"changeId": 11,
+		"id": 1110,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 7
+	},
+	"1111": {
+		"changeId": 12,
+		"id": 1111,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 7
+	},
+	"1112": {
+		"changeId": 13,
+		"id": 1112,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 7
+	},
+	"1113": {
+		"changeId": 14,
+		"id": 1113,
+		"openDes": "激活蚩尤开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 8
+	},
+	"1114": {
+		"changeId": 15,
+		"id": 1114,
+		"openDes": "激活波塞冬开启",
+		"openLevel": -1,
+		"profession": 1,
+		"type": 8
+	},
+	"1200": {
+		"changeId": 1,
+		"id": 1200,
+		"openLevel": 1,
+		"profession": 2,
+		"type": 1
+	},
+	"1201": {
+		"changeId": 2,
+		"id": 1201,
+		"openDes": "8级开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 2
+	},
+	"1202": {
+		"changeId": 3,
+		"id": 1202,
+		"openDes": "14级开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 2
+	},
+	"1203": {
+		"changeId": 4,
+		"id": 1203,
+		"openDes": "25级开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 2
+	},
+	"1204": {
+		"changeId": 5,
+		"id": 1204,
+		"openDes": "36级开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 2
+	},
+	"1205": {
+		"changeId": 6,
+		"id": 1205,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 2
+	},
+	"1206": {
+		"changeId": 7,
+		"id": 1206,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 2
+	},
+	"1207": {
+		"changeId": 8,
+		"id": 1207,
+		"openDes": "激活上古圣物",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 6
+	},
+	"1208": {
+		"changeId": 9,
+		"id": 1208,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 7
+	},
+	"1209": {
+		"changeId": 10,
+		"id": 1209,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 7
+	},
+	"1210": {
+		"changeId": 11,
+		"id": 1210,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 7
+	},
+	"1211": {
+		"changeId": 12,
+		"id": 1211,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 7
+	},
+	"1212": {
+		"changeId": 13,
+		"id": 1212,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 7
+	},
+	"1213": {
+		"changeId": 14,
+		"id": 1213,
+		"openDes": "激活蚩尤开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 8
+	},
+	"1214": {
+		"changeId": 15,
+		"id": 1214,
+		"openDes": "激活波塞冬开启",
+		"openLevel": -1,
+		"profession": 2,
+		"type": 8
+	},
+	"1300": {
+		"changeId": 1,
+		"id": 1300,
+		"openLevel": 1,
+		"profession": 3,
+		"type": 1
+	},
+	"1301": {
+		"changeId": 2,
+		"id": 1301,
+		"openDes": "8级开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 2
+	},
+	"1302": {
+		"changeId": 3,
+		"id": 1302,
+		"openDes": "14级开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 2
+	},
+	"1303": {
+		"changeId": 4,
+		"id": 1303,
+		"openDes": "25级开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 2
+	},
+	"1304": {
+		"changeId": 5,
+		"id": 1304,
+		"openDes": "36级开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 2
+	},
+	"1305": {
+		"changeId": 6,
+		"id": 1305,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 2
+	},
+	"1306": {
+		"changeId": 7,
+		"id": 1306,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 2
+	},
+	"1307": {
+		"changeId": 8,
+		"id": 1307,
+		"openDes": "激活上古圣物",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 6
+	},
+	"1308": {
+		"changeId": 9,
+		"id": 1308,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 7
+	},
+	"1309": {
+		"changeId": 10,
+		"id": 1309,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 7
+	},
+	"1310": {
+		"changeId": 11,
+		"id": 1310,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 7
+	},
+	"1311": {
+		"changeId": 12,
+		"id": 1311,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 7
+	},
+	"1312": {
+		"changeId": 13,
+		"id": 1312,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 7
+	},
+	"1313": {
+		"changeId": 14,
+		"id": 1313,
+		"openDes": "激活蚩尤开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 8
+	},
+	"1314": {
+		"changeId": 15,
+		"id": 1314,
+		"openDes": "激活波塞冬开启",
+		"openLevel": -1,
+		"profession": 3,
+		"type": 8
+	},
+	"1400": {
+		"changeId": 1,
+		"id": 1400,
+		"openLevel": 1,
+		"profession": 4,
+		"type": 1
+	},
+	"1401": {
+		"changeId": 2,
+		"id": 1401,
+		"openDes": "8级开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 2
+	},
+	"1402": {
+		"changeId": 3,
+		"id": 1402,
+		"openDes": "14级开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 2
+	},
+	"1403": {
+		"changeId": 4,
+		"id": 1403,
+		"openDes": "25级开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 2
+	},
+	"1404": {
+		"changeId": 5,
+		"id": 1404,
+		"openDes": "36级开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 2
+	},
+	"1405": {
+		"changeId": 6,
+		"id": 1405,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 2
+	},
+	"1406": {
+		"changeId": 7,
+		"id": 1406,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 2
+	},
+	"1407": {
+		"changeId": 8,
+		"id": 1407,
+		"openDes": "激活上古圣物",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 6
+	},
+	"1408": {
+		"changeId": 9,
+		"id": 1408,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 7
+	},
+	"1409": {
+		"changeId": 10,
+		"id": 1409,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 7
+	},
+	"1410": {
+		"changeId": 11,
+		"id": 1410,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 7
+	},
+	"1411": {
+		"changeId": 12,
+		"id": 1411,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 7
+	},
+	"1412": {
+		"changeId": 13,
+		"id": 1412,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 7
+	},
+	"1413": {
+		"changeId": 14,
+		"id": 1413,
+		"openDes": "激活蚩尤开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 8
+	},
+	"1414": {
+		"changeId": 15,
+		"id": 1414,
+		"openDes": "激活波塞冬开启",
+		"openLevel": -1,
+		"profession": 4,
+		"type": 8
+	},
+	"1500": {
+		"changeId": 1,
+		"id": 1500,
+		"openLevel": 1,
+		"profession": 5,
+		"type": 1
+	},
+	"1501": {
+		"changeId": 2,
+		"id": 1501,
+		"openDes": "8级开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 2
+	},
+	"1502": {
+		"changeId": 3,
+		"id": 1502,
+		"openDes": "14级开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 2
+	},
+	"1503": {
+		"changeId": 4,
+		"id": 1503,
+		"openDes": "25级开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 2
+	},
+	"1504": {
+		"changeId": 5,
+		"id": 1504,
+		"openDes": "36级开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 2
+	},
+	"1505": {
+		"changeId": 6,
+		"id": 1505,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 2
+	},
+	"1506": {
+		"changeId": 7,
+		"id": 1506,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 2
+	},
+	"1507": {
+		"changeId": 8,
+		"id": 1507,
+		"openDes": "激活上古圣物",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 6
+	},
+	"1508": {
+		"changeId": 9,
+		"id": 1508,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 7
+	},
+	"1509": {
+		"changeId": 10,
+		"id": 1509,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 7
+	},
+	"1510": {
+		"changeId": 11,
+		"id": 1510,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 7
+	},
+	"1511": {
+		"changeId": 12,
+		"id": 1511,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 7
+	},
+	"1512": {
+		"changeId": 13,
+		"id": 1512,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 5,
+		"type": 7
+	},
+	"1513": {
+		"changeId": 14,
+		"id": 1513,
+		"openDes": "激活蚩尤开启",
+		"openLevel": -1,
+		"profession": 5
+	},
+	"1514": {
+		"changeId": 15,
+		"id": 1514,
+		"openDes": "激活波塞冬开启",
+		"openLevel": -1,
+		"profession": 5
+	},
+	"1600": {
+		"changeId": 1,
+		"id": 1600,
+		"openLevel": 1,
+		"profession": 6,
+		"type": 1
+	},
+	"1601": {
+		"changeId": 2,
+		"id": 1601,
+		"openDes": "8级开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 2
+	},
+	"1602": {
+		"changeId": 3,
+		"id": 1602,
+		"openDes": "14级开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 2
+	},
+	"1603": {
+		"changeId": 4,
+		"id": 1603,
+		"openDes": "25级开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 2
+	},
+	"1604": {
+		"changeId": 5,
+		"id": 1604,
+		"openDes": "36级开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 2
+	},
+	"1605": {
+		"changeId": 6,
+		"id": 1605,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 2
+	},
+	"1606": {
+		"changeId": 7,
+		"id": 1606,
+		"openDes": "技能书开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 2
+	},
+	"1607": {
+		"changeId": 8,
+		"id": 1607,
+		"openDes": "激活上古圣物",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 6
+	},
+	"1608": {
+		"changeId": 9,
+		"id": 1608,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 7
+	},
+	"1609": {
+		"changeId": 10,
+		"id": 1609,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 7
+	},
+	"1610": {
+		"changeId": 11,
+		"id": 1610,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 7
+	},
+	"1611": {
+		"changeId": 12,
+		"id": 1611,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 7
+	},
+	"1612": {
+		"changeId": 13,
+		"id": 1612,
+		"openDes": "星辰之力功能开启",
+		"openLevel": -1,
+		"profession": 6,
+		"type": 7
+	},
+	"1613": {
+		"changeId": 14,
+		"id": 1613,
+		"openDes": "激活蚩尤开启",
+		"openLevel": -1,
+		"profession": 6
+	},
+	"1614": {
+		"changeId": 15,
+		"id": 1614,
+		"openDes": "激活波塞冬开启",
+		"openLevel": -1,
+		"profession": 6
+	}
+}

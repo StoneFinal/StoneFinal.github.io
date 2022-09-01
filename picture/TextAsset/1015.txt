@@ -1,0 +1,303 @@
+
+{
+    "event" : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "\u8FDB\u5165\u5B89\u5168\u533A",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 10,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u79BB\u5F00\u5B89\u5168\u533A",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 11,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u8FDB\u5165\u548C\u5E73\u533A2",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[2]",
+                    "events"          : [
+                        {
+                            "eventType" : 44,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u79BB\u5F00\u548C\u5E73\u533A2",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[2]",
+                    "events"          : [
+                        {
+                            "eventType" : 45,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u8FDB\u5165\u548C\u5E73\u533A3",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[3]",
+                    "events"          : [
+                        {
+                            "eventType" : 44,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u79BB\u5F00\u548C\u5E73\u533A3",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[3]",
+                    "events"          : [
+                        {
+                            "eventType" : 45,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u8FDB\u5165\u548C\u5E73\u533A4",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[4]",
+                    "events"          : [
+                        {
+                            "eventType" : 44,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u79BB\u5F00\u548C\u5E73\u533A4",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[4]",
+                    "events"          : [
+                        {
+                            "eventType" : 45,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u8FDB\u5165\u548C\u5E73\u533A5",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[5]",
+                    "events"          : [
+                        {
+                            "eventType" : 44,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u79BB\u5F00\u548C\u5E73\u533A5",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[5]",
+                    "events"          : [
+                        {
+                            "eventType" : 45,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "area"  : {
+        "1" : {
+            "areaId" : 1,
+            "name"   : "\u5B89\u5168\u533A",
+            "type"   : 1,
+            "area"   : {
+                "points" : [
+                    [
+                        7.713562,
+                        13.66454
+                    ],
+                    [
+                        7.713562,
+                        -8.33546
+                    ],
+                    [
+                        29.71356,
+                        -8.33546
+                    ],
+                    [
+                        29.71356,
+                        13.66454
+                    ]
+                ],
+                "center" : [
+                    18.71356,
+                    2.66454
+                ],
+                "width"  : 22.0,
+                "height" : 22.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "2" : {
+            "areaId" : 2,
+            "name"   : "\u548C\u5E73\u533A1",
+            "type"   : 6,
+            "area"   : {
+                "points" : [
+                    [
+                        -77.10788,
+                        45.44214
+                    ],
+                    [
+                        -62.10788,
+                        19.46137
+                    ],
+                    [
+                        -36.12712,
+                        34.46137
+                    ],
+                    [
+                        -51.12712,
+                        60.44214
+                    ]
+                ],
+                "center" : [
+                    -56.6175,
+                    39.95176
+                ],
+                "width"  : 30.0,
+                "height" : 30.0,
+                "orientAngle" : -30.0
+            }
+        },
+        "3" : {
+            "areaId" : 3,
+            "name"   : "\u548C\u5E73\u533A2",
+            "type"   : 6,
+            "area"   : {
+                "points" : [
+                    [
+                        0.7270432,
+                        -40.39167
+                    ],
+                    [
+                        13.22704,
+                        -62.04231
+                    ],
+                    [
+                        37.47575,
+                        -48.04231
+                    ],
+                    [
+                        24.97575,
+                        -26.39167
+                    ]
+                ],
+                "center" : [
+                    19.1014,
+                    -44.21699
+                ],
+                "width"  : 28.0,
+                "height" : 25.0,
+                "orientAngle" : -30.0
+            }
+        },
+        "4" : {
+            "areaId" : 4,
+            "name"   : "\u548C\u5E73\u533A3",
+            "type"   : 6,
+            "area"   : {
+                "points" : [
+                    [
+                        27.63418,
+                        -23.17194
+                    ],
+                    [
+                        44.34665,
+                        -43.0891
+                    ],
+                    [
+                        64.26381,
+                        -26.37662
+                    ],
+                    [
+                        47.55133,
+                        -6.459465
+                    ]
+                ],
+                "center" : [
+                    45.94899,
+                    -24.77428
+                ],
+                "width"  : 26.0,
+                "height" : 26.0,
+                "orientAngle" : -40.0
+            }
+        },
+        "5" : {
+            "areaId" : 5,
+            "name"   : "\u548C\u5E73\u533A4",
+            "type"   : 6,
+            "area"   : {
+                "points" : [
+                    [
+                        2.82171,
+                        58.03346
+                    ],
+                    [
+                        -11.67829,
+                        32.91872
+                    ],
+                    [
+                        13.43645,
+                        18.41872
+                    ],
+                    [
+                        27.93645,
+                        43.53346
+                    ]
+                ],
+                "center" : [
+                    8.129078,
+                    38.22609
+                ],
+                "width"  : 29.0,
+                "height" : 29.0,
+                "orientAngle" : 30.0
+            }
+        }
+    }
+}

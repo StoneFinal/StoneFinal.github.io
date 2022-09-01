@@ -1,0 +1,123 @@
+
+{
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 1946102,
+            "groupId"  : 0,
+            "spawnPos" : [
+                -87.0,
+                2.5,
+                -1.0
+            ],
+            "spawnRot" : [
+                0.0,
+                90.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "id" : 2,
+            "configId" : 1946103,
+            "groupId"  : 0,
+            "spawnPos" : [
+                89.0,
+                2.0,
+                -1.0
+            ],
+            "spawnRot" : [
+                0.0,
+                270.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    },
+    "plant"   : {
+        "5" : {
+            "id" : 5,
+            "configId" : 1946201,
+            "groupId"  : 0,
+            "spawnPos" : [
+                -75.0,
+                3.5,
+                10.0
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "6" : {
+            "id" : 6,
+            "configId" : 1946201,
+            "groupId"  : 0,
+            "spawnPos" : [
+                -75.0,
+                3.5,
+                -12.0
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "1" : {
+            "id" : 1,
+            "configId" : 1946202,
+            "groupId"  : 0,
+            "spawnPos" : [
+                77.0,
+                3.0,
+                8.0
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "id" : 3,
+            "configId" : 1946202,
+            "groupId"  : 0,
+            "spawnPos" : [
+                77.0,
+                3.0,
+                -10.0
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    }
+}

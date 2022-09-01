@@ -1,0 +1,146 @@
+{
+	"Appear": {
+		"motionName": [
+			"appear"
+		],
+		"state": "Appear"
+	},
+	"Climbup": {
+		"motionName": [
+			"climbup"
+		],
+		"state": "Climbup"
+	},
+	"Collect": {
+		"motionName": [
+			"collect"
+		],
+		"state": "Collect"
+	},
+	"Die": {
+		"motionName": [
+			"die"
+		],
+		"state": "Die"
+	},
+	"Emoji": {
+		"motionName": [
+			"emoji09",
+			"emoji02",
+			"emoji04",
+			"emoji05",
+			"emoji06",
+			"emoji07",
+			"emoji08",
+			"emoji01"
+		],
+		"state": "Emoji"
+	},
+	"Float": {
+		"motionName": [
+			"float"
+		],
+		"state": "Float"
+	},
+	"FloorDown": {
+		"motionName": [
+			"floor_down"
+		],
+		"state": "FloorDown"
+	},
+	"Fly": {
+		"motionName": [
+			"fly"
+		],
+		"state": "Fly"
+	},
+	"Frozen": {
+		"motionName": [
+			"frozen"
+		],
+		"state": "Frozen"
+	},
+	"Jump": {
+		"motionName": [
+			"jump_1",
+			"jump_2",
+			"jump_3",
+			"jump_decline",
+			"jump_down",
+			"jump_4",
+			"glide"
+		],
+		"state": "Jump"
+	},
+	"Lose": {
+		"motionName": [
+			"lose"
+		],
+		"state": "Lose"
+	},
+	"Marry": {
+		"motionName": [
+			"marry10",
+			"marry11"
+		],
+		"state": "Marry"
+	},
+	"Meditation": {
+		"motionName": [
+			"meditation1",
+			"meditation2"
+		],
+		"state": "Meditation"
+	},
+	"Rigidity": {
+		"motionName": [
+			"rigidity"
+		],
+		"state": "Rigidity"
+	},
+	"RigiditySlight": {
+		"motionName": [
+			"rigidity_slight"
+		],
+		"state": "RigiditySlight"
+	},
+	"Run": {
+		"motionName": [
+			"run_normal",
+			"run_quick",
+			"ride_run_normal"
+		],
+		"state": "Run"
+	},
+	"Show": {
+		"motionName": [
+			"show"
+		],
+		"state": "Show"
+	},
+	"Sprint": {
+		"motionName": [
+			"sprint"
+		],
+		"state": "Sprint"
+	},
+	"Stand": {
+		"motionName": [
+			"stand_fight",
+			"ride_stand_fight"
+		],
+		"state": "Stand"
+	},
+	"Stun": {
+		"motionName": [
+			"stun"
+		],
+		"state": "Stun"
+	},
+	"Win": {
+		"motionName": [
+			"win"
+		],
+		"state": "Win"
+	}
+}

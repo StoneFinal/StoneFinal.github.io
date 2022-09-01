@@ -1,0 +1,366 @@
+
+{
+    "doodad" : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 3,
+            "id"          : 1,
+            "configId"    : 312,
+            "groupId"     : 1,
+            "spawnPos"    : [
+                -15.0,
+                0.0,
+                0.0
+            ],
+            "spawnRot"    : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"  : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "\u8FDB\u5165\u5B89\u5168\u533A",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 10,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u79BB\u5F00\u5B89\u5168\u533A",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 11,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u5207\u955C\u59341",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[2]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-45,38,15,28,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u955C\u5934\u91CD\u7F6E1",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[3]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-45,38,12,28,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u5207\u955C\u59342",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[4]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-45,38,15,28,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u955C\u5934\u91CD\u7F6E2",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[5]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-45,38,12,28,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u5207\u955C\u59343",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[6]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-45,38,15,28,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u955C\u5934\u91CD\u7F6E3",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[7]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-45,38,12,28,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "area"   : {
+        "1" : {
+            "areaId" : 1,
+            "name"   : "\u5B89\u5168\u533A",
+            "type"   : 1,
+            "area"   : {
+                "points" : [
+                    [
+                        -30.0,
+                        30.0
+                    ],
+                    [
+                        -30.0,
+                        -30.0
+                    ],
+                    [
+                        0.0,
+                        -30.0
+                    ],
+                    [
+                        0.0,
+                        30.0
+                    ]
+                ],
+                "center" : [
+                    -15.0,
+                    0.0
+                ],
+                "width"  : 30.0,
+                "height" : 60.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "2" : {
+            "areaId" : 2,
+            "name"   : "\u5207\u955C\u59341",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        31.31837,
+                        53.50139
+                    ],
+                    [
+                        31.31837,
+                        23.50139
+                    ],
+                    [
+                        36.31837,
+                        23.50139
+                    ],
+                    [
+                        36.31837,
+                        53.50139
+                    ]
+                ],
+                "center" : [
+                    33.81837,
+                    38.50139
+                ],
+                "width"  : 5.0,
+                "height" : 30.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "3" : {
+            "areaId" : 3,
+            "name"   : "\u955C\u5934\u91CD\u7F6E1",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        24.51389,
+                        51.68505
+                    ],
+                    [
+                        24.51389,
+                        21.68505
+                    ],
+                    [
+                        29.51389,
+                        21.68505
+                    ],
+                    [
+                        29.51389,
+                        51.68505
+                    ]
+                ],
+                "center" : [
+                    27.01389,
+                    36.68505
+                ],
+                "width"  : 5.0,
+                "height" : 30.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "4" : {
+            "areaId" : 4,
+            "name"   : "\u5207\u955C\u59342",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        31.40307,
+                        15.4425
+                    ],
+                    [
+                        31.40307,
+                        -14.5575
+                    ],
+                    [
+                        36.40307,
+                        -14.5575
+                    ],
+                    [
+                        36.40307,
+                        15.4425
+                    ]
+                ],
+                "center" : [
+                    33.90307,
+                    0.4425027
+                ],
+                "width"  : 5.0,
+                "height" : 30.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "5" : {
+            "areaId" : 5,
+            "name"   : "\u955C\u5934\u91CD\u7F6E2",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        24.71371,
+                        13.58039
+                    ],
+                    [
+                        24.71371,
+                        -16.41961
+                    ],
+                    [
+                        29.71371,
+                        -16.41961
+                    ],
+                    [
+                        29.71371,
+                        13.58039
+                    ]
+                ],
+                "center" : [
+                    27.21371,
+                    -1.419611
+                ],
+                "width"  : 5.0,
+                "height" : 30.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "6" : {
+            "areaId" : 6,
+            "name"   : "\u5207\u955C\u59343",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        20.45094,
+                        -22.29397
+                    ],
+                    [
+                        20.45094,
+                        -52.29397
+                    ],
+                    [
+                        25.45094,
+                        -52.29397
+                    ],
+                    [
+                        25.45094,
+                        -22.29397
+                    ]
+                ],
+                "center" : [
+                    22.95094,
+                    -37.29397
+                ],
+                "width"  : 5.0,
+                "height" : 30.0,
+                "orientAngle" : 0.0
+            }
+        },
+        "7" : {
+            "areaId" : 7,
+            "name"   : "\u955C\u5934\u91CD\u7F6E3",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        13.59919,
+                        -22.38085
+                    ],
+                    [
+                        13.59919,
+                        -52.38085
+                    ],
+                    [
+                        18.59919,
+                        -52.38085
+                    ],
+                    [
+                        18.59919,
+                        -22.38085
+                    ]
+                ],
+                "center" : [
+                    16.09919,
+                    -37.38085
+                ],
+                "width"  : 5.0,
+                "height" : 30.0,
+                "orientAngle" : 0.0
+            }
+        }
+    }
+}

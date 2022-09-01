@@ -1,0 +1,33 @@
+
+{
+    "/Main Camera/camera_rain" : {
+        "prefab" : "Map/Public/Effect/Rain/camera_rain.prefab",
+        "pos"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rot"    : [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            1.5,
+            -24.64102,
+            30.0
+        ],
+        "boundsSize" : [
+            29.213,
+            90.76915,
+            71.00378
+        ]
+    }
+}

@@ -1,0 +1,444 @@
+
+{
+    "/map/high/huaban_01 (14)" : {
+        "prefab" : "Map/Public/Effect/Prefab/huaban_01.prefab",
+        "pos"    : [
+            51.328,
+            -6.5826,
+            10.4408
+        ],
+        "rot"    : [
+            16.75328,
+            268.8105,
+            356.3517
+        ],
+        "scale"  : [
+            0.5755831,
+            0.5755827,
+            0.5755841
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/yun_001 (11)"   : {
+        "prefab" : "Map/Public/Effect/Prefab/yun_001.prefab",
+        "pos"    : [
+            1.069839,
+            -23.67,
+            50.57645
+        ],
+        "rot"    : [
+            319.6808,
+            184.1701,
+            8.300321E-05
+        ],
+        "scale"  : [
+            1.067021,
+            0.82165,
+            0.9579508
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 34.82769
+    },
+    "/map/high/guanzhu (1)"    : {
+        "prefab" : "Map/Public/Effect/Prefab/cj_light_0005.prefab",
+        "pos"    : [
+            -10.31996,
+            6.690001,
+            -33.14001
+        ],
+        "rot"    : [
+            29.08582,
+            278.8526,
+            90.00002
+        ],
+        "scale"  : [
+            1.111112,
+            1.111112,
+            1.111111
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (3)"      : {
+        "prefab" : "Map/Public/Effect/Prefab/hudie.prefab",
+        "pos"    : [
+            -0.782074,
+            -5.886,
+            -38.8946
+        ],
+        "rot"    : [
+            0.0,
+            225.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie"          : {
+        "prefab" : "Map/Public/Effect/Prefab/hudie.prefab",
+        "pos"    : [
+            -42.81609,
+            -5.4,
+            -7.832077
+        ],
+        "rot"    : [
+            0.0,
+            225.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/yun_003 (18)"   : {
+        "prefab" : "Map/Public/Effect/Prefab/yun_003.prefab",
+        "pos"    : [
+            61.84573,
+            -49.41,
+            11.43805
+        ],
+        "rot"    : [
+            327.0236,
+            187.2648,
+            5.616672
+        ],
+        "scale"  : [
+            2.00821,
+            1.80669,
+            1.80669
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 34.82769
+    },
+    "/map/high/glow (2)"       : {
+        "prefab" : "Map/Public/Effect/Prefab/glow.prefab",
+        "pos"    : [
+            -25.06061,
+            -1.575,
+            -31.48058
+        ],
+        "rot"    : [
+            270.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_01 (26)" : {
+        "prefab" : "Map/Public/Effect/Prefab/huaban_01.prefab",
+        "pos"    : [
+            -27.93711,
+            -2.691,
+            -34.39528
+        ],
+        "rot"    : [
+            6.81854,
+            254.2918,
+            0.438894
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_01 (16)" : {
+        "prefab" : "Map/Public/Effect/Prefab/huaban_01.prefab",
+        "pos"    : [
+            50.1806,
+            -21.591,
+            9.993378
+        ],
+        "rot"    : [
+            16.40476,
+            298.553,
+            5.017673
+        ],
+        "scale"  : [
+            0.5755829,
+            0.5755827,
+            0.575584
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_01"      : {
+        "prefab" : "Map/Public/Effect/Prefab/huaban_01.prefab",
+        "pos"    : [
+            -42.96882,
+            -6.327001,
+            34.6665
+        ],
+        "rot"    : [
+            0.0,
+            225.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/glow (7)"       : {
+        "prefab" : "Map/Public/Effect/Prefab/glow.prefab",
+        "pos"    : [
+            4.735481,
+            -2.358,
+            3.533966
+        ],
+        "rot"    : [
+            270.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/yun_003 (21)"   : {
+        "prefab" : "Map/Public/Effect/Prefab/yun_003.prefab",
+        "pos"    : [
+            -35.23659,
+            -22.536,
+            -22.90832
+        ],
+        "rot"    : [
+            346.4455,
+            157.7919,
+            -2.195587E-07
+        ],
+        "scale"  : [
+            1.266811,
+            1.13969,
+            1.139691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 34.82769
+    },
+    "/map/high/yun_002 (1)"    : {
+        "prefab" : "Map/Public/Effect/Prefab/yun_002.prefab",
+        "pos"    : [
+            -89.36215,
+            -144.6075,
+            187.9745
+        ],
+        "rot"    : [
+            327.2702,
+            164.8735,
+            356.0565
+        ],
+        "scale"  : [
+            10.69816,
+            7.237839,
+            4.462085
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 34.82769
+    },
+    "/map/high/glow"           : {
+        "prefab" : "Map/Public/Effect/Prefab/glow.prefab",
+        "pos"    : [
+            -10.97713,
+            -1.575,
+            -6.221985
+        ],
+        "rot"    : [
+            270.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/glow (9)"       : {
+        "prefab" : "Map/Public/Effect/Prefab/glow.prefab",
+        "pos"    : [
+            -38.2213,
+            -0.72,
+            -39.94466
+        ],
+        "rot"    : [
+            270.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/hudie (2)"      : {
+        "prefab" : "Map/Public/Effect/Prefab/hudie.prefab",
+        "pos"    : [
+            -16.0874,
+            -5.886,
+            -40.8738
+        ],
+        "rot"    : [
+            0.0,
+            225.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/huaban_01 (13)" : {
+        "prefab" : "Map/Public/Effect/Prefab/huaban_01.prefab",
+        "pos"    : [
+            40.14014,
+            -14.32188,
+            15.58289
+        ],
+        "rot"    : [
+            16.40476,
+            298.553,
+            5.017673
+        ],
+        "scale"  : [
+            0.5755829,
+            0.5755827,
+            0.575584
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/glow (1)"       : {
+        "prefab" : "Map/Public/Effect/Prefab/glow.prefab",
+        "pos"    : [
+            -5.38958,
+            -1.575,
+            -11.80956
+        ],
+        "rot"    : [
+            270.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/glow (3)"       : {
+        "prefab" : "Map/Public/Effect/Prefab/glow.prefab",
+        "pos"    : [
+            -30.69907,
+            -1.575,
+            -25.84212
+        ],
+        "rot"    : [
+            270.0,
+            180.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    },
+    "/map/high/yun_003 (19)"   : {
+        "prefab" : "Map/Public/Effect/Prefab/yun_003.prefab",
+        "pos"    : [
+            -18.91302,
+            -52.74001,
+            60.12238
+        ],
+        "rot"    : [
+            327.0236,
+            190.4819,
+            5.616677
+        ],
+        "scale"  : [
+            2.008211,
+            1.80669,
+            1.806691
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 34.82769
+    },
+    "/map/high/hudie (1)"      : {
+        "prefab" : "Map/Public/Effect/Prefab/hudie.prefab",
+        "pos"    : [
+            -44.09523,
+            -8.28,
+            -19.22996
+        ],
+        "rot"    : [
+            0.0,
+            225.0,
+            0.0
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundSize" : 0.0
+    }
+}

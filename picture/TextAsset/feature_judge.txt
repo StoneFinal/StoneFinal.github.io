@@ -1,0 +1,7282 @@
+{
+	"1": [
+		{
+			"judgeId": 1,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2000"
+		},
+		{
+			"judgeId": 1,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax/2"
+		}
+	],
+	"2": [
+		{
+			"judgeId": 2,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "1002",
+			"parameter2": "5"
+		}
+	],
+	"3": [
+		{
+			"judgeId": 3,
+			"judgeMethod": 2,
+			"judgeTarget": 2,
+			"parameter1": "1"
+		}
+	],
+	"4": [
+		{
+			"judgeId": 4,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "1"
+		}
+	],
+	"5": [
+		{
+			"judgeId": 5,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "1001",
+			"parameter2": "0"
+		}
+	],
+	"6": [
+		{
+			"judgeId": 6,
+			"judgeMethod": 3,
+			"judgeTarget": 2,
+			"parameter1": "hp"
+		}
+	],
+	"7": [
+		{
+			"judgeId": 7,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "1"
+		}
+	],
+	"8": [
+		{
+			"judgeId": 8,
+			"judgeMethod": 7,
+			"judgeTarget": 4,
+			"parameter1": "8",
+			"parameter2": "5"
+		}
+	],
+	"51": [
+		{
+			"judgeId": 51,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "13344"
+		}
+	],
+	"52": [
+		{
+			"judgeId": 52,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "13347"
+		}
+	],
+	"53": [
+		{
+			"judgeId": 53,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.1"
+		}
+	],
+	"60": [
+		{
+			"judgeId": 60,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=35900"
+		}
+	],
+	"61": [
+		{
+			"judgeId": 61,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=1"
+		}
+	],
+	"62": [
+		{
+			"judgeId": 62,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=4500"
+		}
+	],
+	"63": [
+		{
+			"judgeId": 63,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=7300"
+		}
+	],
+	"64": [
+		{
+			"judgeId": 64,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=12000"
+		}
+	],
+	"65": [
+		{
+			"judgeId": 65,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=15000"
+		}
+	],
+	"66": [
+		{
+			"judgeId": 66,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=23000"
+		}
+	],
+	"67": [
+		{
+			"judgeId": 67,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=32000"
+		}
+	],
+	"68": [
+		{
+			"judgeId": 68,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=50000"
+		}
+	],
+	"69": [
+		{
+			"judgeId": 69,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=80000"
+		}
+	],
+	"70": [
+		{
+			"judgeId": 70,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=90000"
+		}
+	],
+	"71": [
+		{
+			"judgeId": 71,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=110000"
+		}
+	],
+	"72": [
+		{
+			"judgeId": 72,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=140000"
+		}
+	],
+	"73": [
+		{
+			"judgeId": 73,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=200000"
+		}
+	],
+	"74": [
+		{
+			"judgeId": 74,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "atk",
+			"parameter2": "value=320000"
+		}
+	],
+	"100": [
+		{
+			"judgeId": 100,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "2003",
+			"parameter2": "0"
+		}
+	],
+	"101": [
+		{
+			"judgeId": 101,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "2005",
+			"parameter2": "0"
+		}
+	],
+	"200": [
+		{
+			"judgeId": 200,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "shield",
+			"parameter2": "value=1"
+		}
+	],
+	"401": [
+		{
+			"judgeId": 401,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "42001",
+			"parameter2": "0"
+		}
+	],
+	"402": [
+		{
+			"judgeId": 402,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "42002",
+			"parameter2": "0"
+		}
+	],
+	"411": [
+		{
+			"judgeId": 411,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.4"
+		}
+	],
+	"412": [
+		{
+			"judgeId": 412,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"500": [
+		{
+			"judgeId": 500,
+			"judgeMethod": 8,
+			"judgeTarget": 1
+		}
+	],
+	"601": [
+		{
+			"judgeId": 601,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22011",
+			"parameter2": "0"
+		}
+	],
+	"602": [
+		{
+			"judgeId": 602,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22012",
+			"parameter2": "0"
+		}
+	],
+	"603": [
+		{
+			"judgeId": 603,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22013",
+			"parameter2": "0"
+		}
+	],
+	"604": [
+		{
+			"judgeId": 604,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22014",
+			"parameter2": "0"
+		}
+	],
+	"605": [
+		{
+			"judgeId": 605,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22015",
+			"parameter2": "0"
+		}
+	],
+	"611": [
+		{
+			"judgeId": 611,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22001",
+			"parameter2": "0"
+		}
+	],
+	"612": [
+		{
+			"judgeId": 612,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22002",
+			"parameter2": "0"
+		}
+	],
+	"613": [
+		{
+			"judgeId": 613,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22003",
+			"parameter2": "0"
+		}
+	],
+	"614": [
+		{
+			"judgeId": 614,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22004",
+			"parameter2": "0"
+		}
+	],
+	"615": [
+		{
+			"judgeId": 615,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "22005",
+			"parameter2": "0"
+		}
+	],
+	"666": [
+		{
+			"judgeId": 666,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "666"
+		}
+	],
+	"1001": [
+		{
+			"judgeId": 1001,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80160"
+		}
+	],
+	"1002": [
+		{
+			"judgeId": 1002,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80260"
+		}
+	],
+	"1003": [
+		{
+			"judgeId": 1003,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80360"
+		}
+	],
+	"1004": [
+		{
+			"judgeId": 1004,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80460"
+		}
+	],
+	"1005": [
+		{
+			"judgeId": 1005,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80560"
+		}
+	],
+	"1010": [
+		{
+			"judgeId": 1010,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1010"
+		}
+	],
+	"1020": [
+		{
+			"judgeId": 1020,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1020"
+		}
+	],
+	"1030": [
+		{
+			"judgeId": 1030,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1040"
+		}
+	],
+	"1031": [
+		{
+			"judgeId": 1031,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1031"
+		}
+	],
+	"1040": [
+		{
+			"judgeId": 1040,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1030"
+		}
+	],
+	"1050": [
+		{
+			"judgeId": 1050,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1050"
+		}
+	],
+	"1060": [
+		{
+			"judgeId": 1060,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1060"
+		}
+	],
+	"1070": [
+		{
+			"judgeId": 1070,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1070"
+		}
+	],
+	"2010": [
+		{
+			"judgeId": 2010,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2010"
+		}
+	],
+	"2020": [
+		{
+			"judgeId": 2020,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2020"
+		}
+	],
+	"2030": [
+		{
+			"judgeId": 2030,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2030"
+		}
+	],
+	"2040": [
+		{
+			"judgeId": 2040,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2040"
+		}
+	],
+	"2041": [
+		{
+			"judgeId": 2041,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2041"
+		}
+	],
+	"2050": [
+		{
+			"judgeId": 2050,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2050"
+		}
+	],
+	"2060": [
+		{
+			"judgeId": 2060,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2060"
+		}
+	],
+	"2070": [
+		{
+			"judgeId": 2070,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2070"
+		}
+	],
+	"3010": [
+		{
+			"judgeId": 3010,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3010"
+		}
+	],
+	"3020": [
+		{
+			"judgeId": 3020,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3020"
+		}
+	],
+	"3030": [
+		{
+			"judgeId": 3030,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3030"
+		}
+	],
+	"3040": [
+		{
+			"judgeId": 3040,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3040"
+		}
+	],
+	"3041": [
+		{
+			"judgeId": 3041,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3041"
+		}
+	],
+	"3050": [
+		{
+			"judgeId": 3050,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3050"
+		}
+	],
+	"3060": [
+		{
+			"judgeId": 3060,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3060"
+		}
+	],
+	"3070": [
+		{
+			"judgeId": 3070,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3070"
+		}
+	],
+	"4010": [
+		{
+			"judgeId": 4010,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4010"
+		}
+	],
+	"4020": [
+		{
+			"judgeId": 4020,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4020"
+		}
+	],
+	"4030": [
+		{
+			"judgeId": 4030,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4030"
+		}
+	],
+	"4040": [
+		{
+			"judgeId": 4040,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4040"
+		}
+	],
+	"4041": [
+		{
+			"judgeId": 4041,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4041"
+		}
+	],
+	"4050": [
+		{
+			"judgeId": 4050,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4050"
+		}
+	],
+	"4060": [
+		{
+			"judgeId": 4060,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4060"
+		}
+	],
+	"4070": [
+		{
+			"judgeId": 4070,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4070"
+		}
+	],
+	"5010": [
+		{
+			"judgeId": 5010,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5010"
+		}
+	],
+	"5020": [
+		{
+			"judgeId": 5020,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5020"
+		}
+	],
+	"5030": [
+		{
+			"judgeId": 5030,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5030"
+		}
+	],
+	"5031": [
+		{
+			"judgeId": 5031,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5031"
+		}
+	],
+	"5040": [
+		{
+			"judgeId": 5040,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5040"
+		}
+	],
+	"5050": [
+		{
+			"judgeId": 5050,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5050"
+		}
+	],
+	"5060": [
+		{
+			"judgeId": 5060,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5060"
+		}
+	],
+	"5061": [
+		{
+			"judgeId": 5061,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5030"
+		}
+	],
+	"5062": [
+		{
+			"judgeId": 5062,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5060"
+		}
+	],
+	"5063": [
+		{
+			"judgeId": 5063,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5060"
+		}
+	],
+	"5064": [
+		{
+			"judgeId": 5064,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6030"
+		}
+	],
+	"5065": [
+		{
+			"judgeId": 5065,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6060"
+		}
+	],
+	"5066": [
+		{
+			"judgeId": 5066,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6060"
+		}
+	],
+	"5070": [
+		{
+			"judgeId": 5070,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5070"
+		}
+	],
+	"6006": [
+		{
+			"judgeId": 6006,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.8"
+		}
+	],
+	"6019": [
+		{
+			"judgeId": 6019,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"6023": [
+		{
+			"judgeId": 6023,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"7011": [
+		{
+			"judgeId": 7011,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "1"
+		}
+	],
+	"7051": [
+		{
+			"judgeId": 7051,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "10"
+		}
+	],
+	"7052": [
+		{
+			"judgeId": 7052,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "11"
+		}
+	],
+	"7081": [
+		{
+			"judgeId": 7081,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"7101": [
+		{
+			"judgeId": 7101,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.8"
+		}
+	],
+	"7102": [
+		{
+			"judgeId": 7102,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.6"
+		}
+	],
+	"7103": [
+		{
+			"judgeId": 7103,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.4"
+		}
+	],
+	"7104": [
+		{
+			"judgeId": 7104,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"7121": [
+		{
+			"judgeId": 7121,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"7131": [
+		{
+			"judgeId": 7131,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"7151": [
+		{
+			"judgeId": 7151,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"7161": [
+		{
+			"judgeId": 7161,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"8011": [
+		{
+			"judgeId": 8011,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "70103"
+		}
+	],
+	"8012": [
+		{
+			"judgeId": 8012,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "70203"
+		}
+	],
+	"8102": [
+		{
+			"judgeId": 8102,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8203": [
+		{
+			"judgeId": 8203,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8204": [
+		{
+			"judgeId": 8204,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8303": [
+		{
+			"judgeId": 8303,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8403": [
+		{
+			"judgeId": 8403,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8502": [
+		{
+			"judgeId": 8502,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8603": [
+		{
+			"judgeId": 8603,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.2"
+		}
+	],
+	"8701": [
+		{
+			"judgeId": 8701,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"8702": [
+		{
+			"judgeId": 8702,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"10000": [
+		{
+			"judgeId": 10000,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.1"
+		}
+	],
+	"10001": [
+		{
+			"judgeId": 10001,
+			"judgeMethod": 7,
+			"judgeTarget": 4,
+			"parameter1": "12",
+			"parameter2": "10"
+		}
+	],
+	"10002": [
+		{
+			"judgeId": 10002,
+			"judgeMethod": 7,
+			"judgeTarget": 4,
+			"parameter1": "16",
+			"parameter2": "10"
+		}
+	],
+	"10003": [
+		{
+			"judgeId": 10003,
+			"judgeMethod": 7,
+			"judgeTarget": 4,
+			"parameter1": "20",
+			"parameter2": "10"
+		}
+	],
+	"10004": [
+		{
+			"judgeId": 10004,
+			"judgeMethod": 7,
+			"judgeTarget": 4,
+			"parameter1": "28",
+			"parameter2": "10"
+		}
+	],
+	"10005": [
+		{
+			"judgeId": 10005,
+			"judgeMethod": 7,
+			"judgeTarget": 4,
+			"parameter1": "36",
+			"parameter2": "10"
+		}
+	],
+	"10007": [
+		{
+			"judgeId": 10007,
+			"judgeMethod": 1,
+			"judgeTarget": 4,
+			"parameter1": "13350"
+		}
+	],
+	"10008": [
+		{
+			"judgeId": 10008,
+			"judgeMethod": 1,
+			"judgeTarget": 4,
+			"parameter1": "13351"
+		}
+	],
+	"11402": [
+		{
+			"judgeId": 11402,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "11402"
+		}
+	],
+	"21021": [
+		{
+			"judgeId": 21021,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"21061": [
+		{
+			"judgeId": 21061,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"21206": [
+		{
+			"judgeId": 21206,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.91"
+		}
+	],
+	"21221": [
+		{
+			"judgeId": 21221,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"21261": [
+		{
+			"judgeId": 21261,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"21318": [
+		{
+			"judgeId": 21318,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21317"
+		}
+	],
+	"21320": [
+		{
+			"judgeId": 21320,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21319"
+		}
+	],
+	"21322": [
+		{
+			"judgeId": 21322,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21321"
+		}
+	],
+	"21324": [
+		{
+			"judgeId": 21324,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21323"
+		}
+	],
+	"21326": [
+		{
+			"judgeId": 21326,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21325"
+		}
+	],
+	"21328": [
+		{
+			"judgeId": 21328,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21327"
+		}
+	],
+	"21330": [
+		{
+			"judgeId": 21330,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21329"
+		}
+	],
+	"21332": [
+		{
+			"judgeId": 21332,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "21331"
+		}
+	],
+	"30101": [
+		{
+			"judgeId": 30101,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80160"
+		}
+	],
+	"30102": [
+		{
+			"judgeId": 30102,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80260"
+		}
+	],
+	"30103": [
+		{
+			"judgeId": 30103,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80360"
+		}
+	],
+	"30104": [
+		{
+			"judgeId": 30104,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80460"
+		}
+	],
+	"30105": [
+		{
+			"judgeId": 30105,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80560"
+		}
+	],
+	"30201": [
+		{
+			"judgeId": 30201,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80161"
+		}
+	],
+	"30202": [
+		{
+			"judgeId": 30202,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80261"
+		}
+	],
+	"30203": [
+		{
+			"judgeId": 30203,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80361"
+		}
+	],
+	"30204": [
+		{
+			"judgeId": 30204,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80461"
+		}
+	],
+	"30205": [
+		{
+			"judgeId": 30205,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80561"
+		}
+	],
+	"30301": [
+		{
+			"judgeId": 30301,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80162"
+		}
+	],
+	"30302": [
+		{
+			"judgeId": 30302,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80262"
+		}
+	],
+	"30303": [
+		{
+			"judgeId": 30303,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80362"
+		}
+	],
+	"30304": [
+		{
+			"judgeId": 30304,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80462"
+		}
+	],
+	"30305": [
+		{
+			"judgeId": 30305,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80562"
+		}
+	],
+	"30401": [
+		{
+			"judgeId": 30401,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80163"
+		}
+	],
+	"30402": [
+		{
+			"judgeId": 30402,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80263"
+		}
+	],
+	"30403": [
+		{
+			"judgeId": 30403,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80363"
+		}
+	],
+	"30404": [
+		{
+			"judgeId": 30404,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80463"
+		}
+	],
+	"30405": [
+		{
+			"judgeId": 30405,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80563"
+		}
+	],
+	"30501": [
+		{
+			"judgeId": 30501,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80164"
+		}
+	],
+	"30502": [
+		{
+			"judgeId": 30502,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80264"
+		}
+	],
+	"30503": [
+		{
+			"judgeId": 30503,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80364"
+		}
+	],
+	"30504": [
+		{
+			"judgeId": 30504,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80464"
+		}
+	],
+	"30505": [
+		{
+			"judgeId": 30505,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80564"
+		}
+	],
+	"30601": [
+		{
+			"judgeId": 30601,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80165"
+		}
+	],
+	"30602": [
+		{
+			"judgeId": 30602,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80265"
+		}
+	],
+	"30603": [
+		{
+			"judgeId": 30603,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80365"
+		}
+	],
+	"30604": [
+		{
+			"judgeId": 30604,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80465"
+		}
+	],
+	"30605": [
+		{
+			"judgeId": 30605,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80565"
+		}
+	],
+	"30701": [
+		{
+			"judgeId": 30701,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80166"
+		}
+	],
+	"30702": [
+		{
+			"judgeId": 30702,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80266"
+		}
+	],
+	"30703": [
+		{
+			"judgeId": 30703,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80366"
+		}
+	],
+	"30704": [
+		{
+			"judgeId": 30704,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80466"
+		}
+	],
+	"30705": [
+		{
+			"judgeId": 30705,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80566"
+		}
+	],
+	"30801": [
+		{
+			"judgeId": 30801,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80167"
+		}
+	],
+	"30802": [
+		{
+			"judgeId": 30802,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80267"
+		}
+	],
+	"30803": [
+		{
+			"judgeId": 30803,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80367"
+		}
+	],
+	"30804": [
+		{
+			"judgeId": 30804,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80467"
+		}
+	],
+	"30805": [
+		{
+			"judgeId": 30805,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80567"
+		}
+	],
+	"30902": [
+		{
+			"judgeId": 30902,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "30902"
+		}
+	],
+	"30903": [
+		{
+			"judgeId": 30903,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "30402"
+		}
+	],
+	"30904": [
+		{
+			"judgeId": 30904,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "30802"
+		}
+	],
+	"30905": [
+		{
+			"judgeId": 30905,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "30602"
+		}
+	],
+	"31002": [
+		{
+			"judgeId": 31002,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "31002"
+		}
+	],
+	"31102": [
+		{
+			"judgeId": 31102,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "31102"
+		}
+	],
+	"31502": [
+		{
+			"judgeId": 31502,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "31502"
+		}
+	],
+	"31802": [
+		{
+			"judgeId": 31802,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "31802"
+		}
+	],
+	"31904": [
+		{
+			"judgeId": 31904,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "31904"
+		}
+	],
+	"32002": [
+		{
+			"judgeId": 32002,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32002"
+		}
+	],
+	"32003": [
+		{
+			"judgeId": 32003,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32003"
+		}
+	],
+	"32202": [
+		{
+			"judgeId": 32202,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32202"
+		}
+	],
+	"32302": [
+		{
+			"judgeId": 32302,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32302"
+		}
+	],
+	"32402": [
+		{
+			"judgeId": 32402,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32402"
+		}
+	],
+	"32704": [
+		{
+			"judgeId": 32704,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32704"
+		}
+	],
+	"32904": [
+		{
+			"judgeId": 32904,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "32904"
+		}
+	],
+	"33001": [
+		{
+			"judgeId": 33001,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "3001"
+		}
+	],
+	"33002": [
+		{
+			"judgeId": 33002,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "3002"
+		}
+	],
+	"33003": [
+		{
+			"judgeId": 33003,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "3003"
+		}
+	],
+	"33004": [
+		{
+			"judgeId": 33004,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "3004"
+		}
+	],
+	"33005": [
+		{
+			"judgeId": 33005,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "3005"
+		}
+	],
+	"33006": [
+		{
+			"judgeId": 33006,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80120"
+		}
+	],
+	"33007": [
+		{
+			"judgeId": 33007,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80220"
+		}
+	],
+	"33008": [
+		{
+			"judgeId": 33008,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80320"
+		}
+	],
+	"33009": [
+		{
+			"judgeId": 33009,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80420"
+		}
+	],
+	"33010": [
+		{
+			"judgeId": 33010,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80520"
+		}
+	],
+	"33016": [
+		{
+			"judgeId": 33016,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80130"
+		}
+	],
+	"33017": [
+		{
+			"judgeId": 33017,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80230"
+		}
+	],
+	"33018": [
+		{
+			"judgeId": 33018,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80330"
+		}
+	],
+	"33019": [
+		{
+			"judgeId": 33019,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80430"
+		}
+	],
+	"33020": [
+		{
+			"judgeId": 33020,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80530"
+		}
+	],
+	"33026": [
+		{
+			"judgeId": 33026,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80140"
+		}
+	],
+	"33027": [
+		{
+			"judgeId": 33027,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80240"
+		}
+	],
+	"33028": [
+		{
+			"judgeId": 33028,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80340"
+		}
+	],
+	"33029": [
+		{
+			"judgeId": 33029,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80440"
+		}
+	],
+	"33030": [
+		{
+			"judgeId": 33030,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80540"
+		}
+	],
+	"33031": [
+		{
+			"judgeId": 33031,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80150"
+		}
+	],
+	"33032": [
+		{
+			"judgeId": 33032,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80250"
+		}
+	],
+	"33033": [
+		{
+			"judgeId": 33033,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80350"
+		}
+	],
+	"33034": [
+		{
+			"judgeId": 33034,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80450"
+		}
+	],
+	"33035": [
+		{
+			"judgeId": 33035,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80550"
+		}
+	],
+	"33036": [
+		{
+			"judgeId": 33036,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80110"
+		}
+	],
+	"33037": [
+		{
+			"judgeId": 33037,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80210"
+		}
+	],
+	"33038": [
+		{
+			"judgeId": 33038,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80310"
+		}
+	],
+	"33039": [
+		{
+			"judgeId": 33039,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80410"
+		}
+	],
+	"33040": [
+		{
+			"judgeId": 33040,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80510"
+		}
+	],
+	"33109": [
+		{
+			"judgeId": 33109,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80000"
+		}
+	],
+	"33110": [
+		{
+			"judgeId": 33110,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80001"
+		}
+	],
+	"33111": [
+		{
+			"judgeId": 33111,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80002"
+		}
+	],
+	"33112": [
+		{
+			"judgeId": 33112,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80003"
+		}
+	],
+	"33113": [
+		{
+			"judgeId": 33113,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80004"
+		}
+	],
+	"33114": [
+		{
+			"judgeId": 33114,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80005"
+		}
+	],
+	"33115": [
+		{
+			"judgeId": 33115,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80006"
+		}
+	],
+	"33116": [
+		{
+			"judgeId": 33116,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80007"
+		}
+	],
+	"33117": [
+		{
+			"judgeId": 33117,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80008"
+		}
+	],
+	"33118": [
+		{
+			"judgeId": 33118,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80009"
+		}
+	],
+	"33119": [
+		{
+			"judgeId": 33119,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80010"
+		}
+	],
+	"33203": [
+		{
+			"judgeId": 33203,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "34102"
+		}
+	],
+	"33204": [
+		{
+			"judgeId": 33204,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "33204"
+		}
+	],
+	"33205": [
+		{
+			"judgeId": 33205,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "33205"
+		}
+	],
+	"33402": [
+		{
+			"judgeId": 33402,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "33402"
+		}
+	],
+	"33403": [
+		{
+			"judgeId": 33403,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "13342"
+		}
+	],
+	"33804": [
+		{
+			"judgeId": 33804,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "33004"
+		}
+	],
+	"40000": [
+		{
+			"judgeId": 40000,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "4"
+		}
+	],
+	"40001": [
+		{
+			"judgeId": 40001,
+			"judgeMethod": 9,
+			"judgeTarget": 2,
+			"parameter1": "level"
+		}
+	],
+	"40002": [
+		{
+			"judgeId": 40002,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=0"
+		}
+	],
+	"40003": [
+		{
+			"judgeId": 40003,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=500"
+		}
+	],
+	"40004": [
+		{
+			"judgeId": 40004,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=1000"
+		}
+	],
+	"40005": [
+		{
+			"judgeId": 40005,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=2000"
+		}
+	],
+	"40006": [
+		{
+			"judgeId": 40006,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=2350"
+		}
+	],
+	"40007": [
+		{
+			"judgeId": 40007,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=2800"
+		}
+	],
+	"40008": [
+		{
+			"judgeId": 40008,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=3000"
+		}
+	],
+	"40009": [
+		{
+			"judgeId": 40009,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=3350"
+		}
+	],
+	"40010": [
+		{
+			"judgeId": 40010,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=3800"
+		}
+	],
+	"40011": [
+		{
+			"judgeId": 40011,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=4000"
+		}
+	],
+	"40012": [
+		{
+			"judgeId": 40012,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=4350"
+		}
+	],
+	"40013": [
+		{
+			"judgeId": 40013,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=4800"
+		}
+	],
+	"40014": [
+		{
+			"judgeId": 40014,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=5000"
+		}
+	],
+	"40015": [
+		{
+			"judgeId": 40015,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=5350"
+		}
+	],
+	"40016": [
+		{
+			"judgeId": 40016,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=5800"
+		}
+	],
+	"40017": [
+		{
+			"judgeId": 40017,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=6000"
+		}
+	],
+	"40018": [
+		{
+			"judgeId": 40018,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=6350"
+		}
+	],
+	"40019": [
+		{
+			"judgeId": 40019,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=6800"
+		}
+	],
+	"40020": [
+		{
+			"judgeId": 40020,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=7000"
+		}
+	],
+	"40021": [
+		{
+			"judgeId": 40021,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=7350"
+		}
+	],
+	"40022": [
+		{
+			"judgeId": 40022,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=7800"
+		}
+	],
+	"40023": [
+		{
+			"judgeId": 40023,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=8000"
+		}
+	],
+	"40024": [
+		{
+			"judgeId": 40024,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=8350"
+		}
+	],
+	"40025": [
+		{
+			"judgeId": 40025,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=8800"
+		}
+	],
+	"40026": [
+		{
+			"judgeId": 40026,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=10000"
+		}
+	],
+	"40027": [
+		{
+			"judgeId": 40027,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=10800"
+		}
+	],
+	"40028": [
+		{
+			"judgeId": 40028,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=11600"
+		}
+	],
+	"40029": [
+		{
+			"judgeId": 40029,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=12000"
+		}
+	],
+	"40030": [
+		{
+			"judgeId": 40030,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=12800"
+		}
+	],
+	"40031": [
+		{
+			"judgeId": 40031,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=13600"
+		}
+	],
+	"40032": [
+		{
+			"judgeId": 40032,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=14000"
+		}
+	],
+	"40033": [
+		{
+			"judgeId": 40033,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=14800"
+		}
+	],
+	"40034": [
+		{
+			"judgeId": 40034,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=15600"
+		}
+	],
+	"40035": [
+		{
+			"judgeId": 40035,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=16000"
+		}
+	],
+	"40036": [
+		{
+			"judgeId": 40036,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=16800"
+		}
+	],
+	"40037": [
+		{
+			"judgeId": 40037,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "godPower",
+			"parameter2": "value=17600"
+		}
+	],
+	"43040": [
+		{
+			"judgeId": 43040,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43039"
+		}
+	],
+	"43041": [
+		{
+			"judgeId": 43041,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43042": [
+		{
+			"judgeId": 43042,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43043": [
+		{
+			"judgeId": 43043,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43044": [
+		{
+			"judgeId": 43044,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43045": [
+		{
+			"judgeId": 43045,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43046": [
+		{
+			"judgeId": 43046,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43047": [
+		{
+			"judgeId": 43047,
+			"judgeMethod": 6,
+			"judgeTarget": 1,
+			"parameter1": "2"
+		}
+	],
+	"43074": [
+		{
+			"judgeId": 43074,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43073"
+		}
+	],
+	"43084": [
+		{
+			"judgeId": 43084,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43083"
+		}
+	],
+	"43094": [
+		{
+			"judgeId": 43094,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43093"
+		}
+	],
+	"43104": [
+		{
+			"judgeId": 43104,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43103"
+		}
+	],
+	"43120": [
+		{
+			"judgeId": 43120,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "11"
+		}
+	],
+	"43121": [
+		{
+			"judgeId": 43121,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "11"
+		}
+	],
+	"43122": [
+		{
+			"judgeId": 43122,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "11"
+		}
+	],
+	"43123": [
+		{
+			"judgeId": 43123,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "11"
+		}
+	],
+	"43124": [
+		{
+			"judgeId": 43124,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "11"
+		}
+	],
+	"43135": [
+		{
+			"judgeId": 43135,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "15"
+		},
+		{
+			"judgeId": 43135,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "15"
+		},
+		{
+			"judgeId": 43135,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "15"
+		},
+		{
+			"judgeId": 43135,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "15"
+		},
+		{
+			"judgeId": 43135,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "15"
+		}
+	],
+	"43150": [
+		{
+			"judgeId": 43150,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "16"
+		},
+		{
+			"judgeId": 43150,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "16"
+		},
+		{
+			"judgeId": 43150,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "16"
+		},
+		{
+			"judgeId": 43150,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "16"
+		},
+		{
+			"judgeId": 43150,
+			"judgeMethod": 2,
+			"judgeTarget": 1,
+			"parameter1": "16"
+		}
+	],
+	"43190": [
+		{
+			"judgeId": 43190,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "4001",
+			"parameter2": "0"
+		}
+	],
+	"43195": [
+		{
+			"judgeId": 43195,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "4002",
+			"parameter2": "0"
+		}
+	],
+	"43200": [
+		{
+			"judgeId": 43200,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "4003",
+			"parameter2": "0"
+		}
+	],
+	"43205": [
+		{
+			"judgeId": 43205,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "4004",
+			"parameter2": "0"
+		}
+	],
+	"43210": [
+		{
+			"judgeId": 43210,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "4005",
+			"parameter2": "0"
+		}
+	],
+	"43215": [
+		{
+			"judgeId": 43215,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "4006",
+			"parameter2": "0"
+		}
+	],
+	"43332": [
+		{
+			"judgeId": 43332,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"43350": [
+		{
+			"judgeId": 43350,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43448",
+			"parameter2": "0"
+		}
+	],
+	"43351": [
+		{
+			"judgeId": 43351,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43449",
+			"parameter2": "0"
+		}
+	],
+	"43352": [
+		{
+			"judgeId": 43352,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43450",
+			"parameter2": "0"
+		}
+	],
+	"43353": [
+		{
+			"judgeId": 43353,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43451",
+			"parameter2": "0"
+		}
+	],
+	"43354": [
+		{
+			"judgeId": 43354,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43452",
+			"parameter2": "0"
+		}
+	],
+	"43355": [
+		{
+			"judgeId": 43355,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43453",
+			"parameter2": "0"
+		}
+	],
+	"43356": [
+		{
+			"judgeId": 43356,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43454",
+			"parameter2": "0"
+		}
+	],
+	"43357": [
+		{
+			"judgeId": 43357,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43455",
+			"parameter2": "0"
+		}
+	],
+	"43358": [
+		{
+			"judgeId": 43358,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43456",
+			"parameter2": "0"
+		}
+	],
+	"43359": [
+		{
+			"judgeId": 43359,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43457",
+			"parameter2": "0"
+		}
+	],
+	"43360": [
+		{
+			"judgeId": 43360,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43458",
+			"parameter2": "0"
+		}
+	],
+	"43361": [
+		{
+			"judgeId": 43361,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43459",
+			"parameter2": "0"
+		}
+	],
+	"43362": [
+		{
+			"judgeId": 43362,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43460",
+			"parameter2": "0"
+		}
+	],
+	"43363": [
+		{
+			"judgeId": 43363,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43461",
+			"parameter2": "0"
+		}
+	],
+	"43364": [
+		{
+			"judgeId": 43364,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43462",
+			"parameter2": "0"
+		}
+	],
+	"43365": [
+		{
+			"judgeId": 43365,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43463",
+			"parameter2": "0"
+		}
+	],
+	"43366": [
+		{
+			"judgeId": 43366,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43464",
+			"parameter2": "0"
+		}
+	],
+	"43367": [
+		{
+			"judgeId": 43367,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43465",
+			"parameter2": "0"
+		}
+	],
+	"43368": [
+		{
+			"judgeId": 43368,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43466",
+			"parameter2": "0"
+		}
+	],
+	"43369": [
+		{
+			"judgeId": 43369,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43467",
+			"parameter2": "0"
+		}
+	],
+	"43370": [
+		{
+			"judgeId": 43370,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43468",
+			"parameter2": "0"
+		}
+	],
+	"43371": [
+		{
+			"judgeId": 43371,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43469",
+			"parameter2": "0"
+		}
+	],
+	"43372": [
+		{
+			"judgeId": 43372,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43470",
+			"parameter2": "0"
+		}
+	],
+	"43373": [
+		{
+			"judgeId": 43373,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "43471",
+			"parameter2": "0"
+		}
+	],
+	"43400": [
+		{
+			"judgeId": 43400,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43496",
+			"parameter2": "0"
+		}
+	],
+	"43401": [
+		{
+			"judgeId": 43401,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43497",
+			"parameter2": "0"
+		}
+	],
+	"43402": [
+		{
+			"judgeId": 43402,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43498",
+			"parameter2": "0"
+		}
+	],
+	"43403": [
+		{
+			"judgeId": 43403,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43499",
+			"parameter2": "0"
+		}
+	],
+	"43404": [
+		{
+			"judgeId": 43404,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43500",
+			"parameter2": "0"
+		}
+	],
+	"43405": [
+		{
+			"judgeId": 43405,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43501",
+			"parameter2": "0"
+		}
+	],
+	"43406": [
+		{
+			"judgeId": 43406,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43502",
+			"parameter2": "0"
+		}
+	],
+	"43407": [
+		{
+			"judgeId": 43407,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43503",
+			"parameter2": "0"
+		}
+	],
+	"43408": [
+		{
+			"judgeId": 43408,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43504",
+			"parameter2": "0"
+		}
+	],
+	"43409": [
+		{
+			"judgeId": 43409,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43505",
+			"parameter2": "0"
+		}
+	],
+	"43410": [
+		{
+			"judgeId": 43410,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43506",
+			"parameter2": "0"
+		}
+	],
+	"43411": [
+		{
+			"judgeId": 43411,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43507",
+			"parameter2": "0"
+		}
+	],
+	"43412": [
+		{
+			"judgeId": 43412,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43508",
+			"parameter2": "0"
+		}
+	],
+	"43413": [
+		{
+			"judgeId": 43413,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43509",
+			"parameter2": "0"
+		}
+	],
+	"43414": [
+		{
+			"judgeId": 43414,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43510",
+			"parameter2": "0"
+		}
+	],
+	"43415": [
+		{
+			"judgeId": 43415,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43511",
+			"parameter2": "0"
+		}
+	],
+	"43416": [
+		{
+			"judgeId": 43416,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43512",
+			"parameter2": "0"
+		}
+	],
+	"43417": [
+		{
+			"judgeId": 43417,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43513",
+			"parameter2": "0"
+		}
+	],
+	"43418": [
+		{
+			"judgeId": 43418,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43514",
+			"parameter2": "0"
+		}
+	],
+	"43419": [
+		{
+			"judgeId": 43419,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43515",
+			"parameter2": "0"
+		}
+	],
+	"43420": [
+		{
+			"judgeId": 43420,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43516",
+			"parameter2": "0"
+		}
+	],
+	"43421": [
+		{
+			"judgeId": 43421,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43517",
+			"parameter2": "0"
+		}
+	],
+	"43422": [
+		{
+			"judgeId": 43422,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43518",
+			"parameter2": "0"
+		}
+	],
+	"43423": [
+		{
+			"judgeId": 43423,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "43519",
+			"parameter2": "0"
+		}
+	],
+	"43576": [
+		{
+			"judgeId": 43576,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"43577": [
+		{
+			"judgeId": 43577,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"43578": [
+		{
+			"judgeId": 43578,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"43579": [
+		{
+			"judgeId": 43579,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44100": [
+		{
+			"judgeId": 44100,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44200",
+			"parameter2": "0"
+		}
+	],
+	"44101": [
+		{
+			"judgeId": 44101,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44201",
+			"parameter2": "0"
+		}
+	],
+	"44102": [
+		{
+			"judgeId": 44102,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44202",
+			"parameter2": "0"
+		}
+	],
+	"44103": [
+		{
+			"judgeId": 44103,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44203",
+			"parameter2": "0"
+		}
+	],
+	"44104": [
+		{
+			"judgeId": 44104,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44204",
+			"parameter2": "0"
+		}
+	],
+	"44105": [
+		{
+			"judgeId": 44105,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44205",
+			"parameter2": "0"
+		}
+	],
+	"44106": [
+		{
+			"judgeId": 44106,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44206",
+			"parameter2": "0"
+		}
+	],
+	"44107": [
+		{
+			"judgeId": 44107,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44207",
+			"parameter2": "0"
+		}
+	],
+	"44108": [
+		{
+			"judgeId": 44108,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44208",
+			"parameter2": "0"
+		}
+	],
+	"44109": [
+		{
+			"judgeId": 44109,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44209",
+			"parameter2": "0"
+		}
+	],
+	"44110": [
+		{
+			"judgeId": 44110,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44210",
+			"parameter2": "0"
+		}
+	],
+	"44111": [
+		{
+			"judgeId": 44111,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44211",
+			"parameter2": "0"
+		}
+	],
+	"44112": [
+		{
+			"judgeId": 44112,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44212",
+			"parameter2": "0"
+		}
+	],
+	"44113": [
+		{
+			"judgeId": 44113,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44213",
+			"parameter2": "0"
+		}
+	],
+	"44114": [
+		{
+			"judgeId": 44114,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44214",
+			"parameter2": "0"
+		}
+	],
+	"44150": [
+		{
+			"judgeId": 44150,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44250",
+			"parameter2": "0"
+		}
+	],
+	"44151": [
+		{
+			"judgeId": 44151,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44251",
+			"parameter2": "0"
+		}
+	],
+	"44152": [
+		{
+			"judgeId": 44152,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44252",
+			"parameter2": "0"
+		}
+	],
+	"44153": [
+		{
+			"judgeId": 44153,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44253",
+			"parameter2": "0"
+		}
+	],
+	"44154": [
+		{
+			"judgeId": 44154,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44254",
+			"parameter2": "0"
+		}
+	],
+	"44155": [
+		{
+			"judgeId": 44155,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44255",
+			"parameter2": "0"
+		}
+	],
+	"44156": [
+		{
+			"judgeId": 44156,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44256",
+			"parameter2": "0"
+		}
+	],
+	"44157": [
+		{
+			"judgeId": 44157,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44257",
+			"parameter2": "0"
+		}
+	],
+	"44158": [
+		{
+			"judgeId": 44158,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44258",
+			"parameter2": "0"
+		}
+	],
+	"44159": [
+		{
+			"judgeId": 44159,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44259",
+			"parameter2": "0"
+		}
+	],
+	"44160": [
+		{
+			"judgeId": 44160,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44260",
+			"parameter2": "0"
+		}
+	],
+	"44161": [
+		{
+			"judgeId": 44161,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44261",
+			"parameter2": "0"
+		}
+	],
+	"44162": [
+		{
+			"judgeId": 44162,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44262",
+			"parameter2": "0"
+		}
+	],
+	"44163": [
+		{
+			"judgeId": 44163,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44263",
+			"parameter2": "0"
+		}
+	],
+	"44164": [
+		{
+			"judgeId": 44164,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44264",
+			"parameter2": "0"
+		}
+	],
+	"44504": [
+		{
+			"judgeId": 44504,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44505": [
+		{
+			"judgeId": 44505,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44506": [
+		{
+			"judgeId": 44506,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44507": [
+		{
+			"judgeId": 44507,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44508": [
+		{
+			"judgeId": 44508,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44509": [
+		{
+			"judgeId": 44509,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44510": [
+		{
+			"judgeId": 44510,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44511": [
+		{
+			"judgeId": 44511,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44512": [
+		{
+			"judgeId": 44512,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44501",
+			"parameter2": "0"
+		}
+	],
+	"44513": [
+		{
+			"judgeId": 44513,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44514": [
+		{
+			"judgeId": 44514,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44515": [
+		{
+			"judgeId": 44515,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44516": [
+		{
+			"judgeId": 44516,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44517": [
+		{
+			"judgeId": 44517,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44518": [
+		{
+			"judgeId": 44518,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44519": [
+		{
+			"judgeId": 44519,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44520": [
+		{
+			"judgeId": 44520,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44521": [
+		{
+			"judgeId": 44521,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44502",
+			"parameter2": "0"
+		}
+	],
+	"44522": [
+		{
+			"judgeId": 44522,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44523": [
+		{
+			"judgeId": 44523,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44524": [
+		{
+			"judgeId": 44524,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44525": [
+		{
+			"judgeId": 44525,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44526": [
+		{
+			"judgeId": 44526,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44527": [
+		{
+			"judgeId": 44527,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44528": [
+		{
+			"judgeId": 44528,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44529": [
+		{
+			"judgeId": 44529,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44530": [
+		{
+			"judgeId": 44530,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44503",
+			"parameter2": "0"
+		}
+	],
+	"44531": [
+		{
+			"judgeId": 44531,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44532": [
+		{
+			"judgeId": 44532,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44533": [
+		{
+			"judgeId": 44533,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44534": [
+		{
+			"judgeId": 44534,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44535": [
+		{
+			"judgeId": 44535,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44536": [
+		{
+			"judgeId": 44536,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44537": [
+		{
+			"judgeId": 44537,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44538": [
+		{
+			"judgeId": 44538,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44539": [
+		{
+			"judgeId": 44539,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44500",
+			"parameter2": "0"
+		}
+	],
+	"44550": [
+		{
+			"judgeId": 44550,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44848",
+			"parameter2": "0"
+		}
+	],
+	"44551": [
+		{
+			"judgeId": 44551,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44849",
+			"parameter2": "0"
+		}
+	],
+	"44552": [
+		{
+			"judgeId": 44552,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44850",
+			"parameter2": "0"
+		}
+	],
+	"44553": [
+		{
+			"judgeId": 44553,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44851",
+			"parameter2": "0"
+		}
+	],
+	"44554": [
+		{
+			"judgeId": 44554,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44852",
+			"parameter2": "0"
+		}
+	],
+	"44555": [
+		{
+			"judgeId": 44555,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44853",
+			"parameter2": "0"
+		}
+	],
+	"44556": [
+		{
+			"judgeId": 44556,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44854",
+			"parameter2": "0"
+		}
+	],
+	"44557": [
+		{
+			"judgeId": 44557,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44855",
+			"parameter2": "0"
+		}
+	],
+	"44558": [
+		{
+			"judgeId": 44558,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44856",
+			"parameter2": "0"
+		}
+	],
+	"44559": [
+		{
+			"judgeId": 44559,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44857",
+			"parameter2": "0"
+		}
+	],
+	"44560": [
+		{
+			"judgeId": 44560,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44858",
+			"parameter2": "0"
+		}
+	],
+	"44561": [
+		{
+			"judgeId": 44561,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44859",
+			"parameter2": "0"
+		}
+	],
+	"44562": [
+		{
+			"judgeId": 44562,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44860",
+			"parameter2": "0"
+		}
+	],
+	"44563": [
+		{
+			"judgeId": 44563,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44861",
+			"parameter2": "0"
+		}
+	],
+	"44564": [
+		{
+			"judgeId": 44564,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44862",
+			"parameter2": "0"
+		}
+	],
+	"44565": [
+		{
+			"judgeId": 44565,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44863",
+			"parameter2": "0"
+		}
+	],
+	"44566": [
+		{
+			"judgeId": 44566,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44864",
+			"parameter2": "0"
+		}
+	],
+	"44567": [
+		{
+			"judgeId": 44567,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44865",
+			"parameter2": "0"
+		}
+	],
+	"44568": [
+		{
+			"judgeId": 44568,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44866",
+			"parameter2": "0"
+		}
+	],
+	"44569": [
+		{
+			"judgeId": 44569,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44867",
+			"parameter2": "0"
+		}
+	],
+	"44570": [
+		{
+			"judgeId": 44570,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44868",
+			"parameter2": "0"
+		}
+	],
+	"44571": [
+		{
+			"judgeId": 44571,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44869",
+			"parameter2": "0"
+		}
+	],
+	"44572": [
+		{
+			"judgeId": 44572,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44870",
+			"parameter2": "0"
+		}
+	],
+	"44573": [
+		{
+			"judgeId": 44573,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "44871",
+			"parameter2": "0"
+		}
+	],
+	"44600": [
+		{
+			"judgeId": 44600,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44872",
+			"parameter2": "0"
+		}
+	],
+	"44601": [
+		{
+			"judgeId": 44601,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44873",
+			"parameter2": "0"
+		}
+	],
+	"44602": [
+		{
+			"judgeId": 44602,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44874",
+			"parameter2": "0"
+		}
+	],
+	"44603": [
+		{
+			"judgeId": 44603,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44875",
+			"parameter2": "0"
+		}
+	],
+	"44604": [
+		{
+			"judgeId": 44604,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44876",
+			"parameter2": "0"
+		}
+	],
+	"44605": [
+		{
+			"judgeId": 44605,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44877",
+			"parameter2": "0"
+		}
+	],
+	"44606": [
+		{
+			"judgeId": 44606,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44878",
+			"parameter2": "0"
+		}
+	],
+	"44607": [
+		{
+			"judgeId": 44607,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44879",
+			"parameter2": "0"
+		}
+	],
+	"44608": [
+		{
+			"judgeId": 44608,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44880",
+			"parameter2": "0"
+		}
+	],
+	"44609": [
+		{
+			"judgeId": 44609,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44881",
+			"parameter2": "0"
+		}
+	],
+	"44610": [
+		{
+			"judgeId": 44610,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44882",
+			"parameter2": "0"
+		}
+	],
+	"44611": [
+		{
+			"judgeId": 44611,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44883",
+			"parameter2": "0"
+		}
+	],
+	"44612": [
+		{
+			"judgeId": 44612,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44884",
+			"parameter2": "0"
+		}
+	],
+	"44613": [
+		{
+			"judgeId": 44613,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44885",
+			"parameter2": "0"
+		}
+	],
+	"44614": [
+		{
+			"judgeId": 44614,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44886",
+			"parameter2": "0"
+		}
+	],
+	"44615": [
+		{
+			"judgeId": 44615,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44887",
+			"parameter2": "0"
+		}
+	],
+	"44616": [
+		{
+			"judgeId": 44616,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44888",
+			"parameter2": "0"
+		}
+	],
+	"44617": [
+		{
+			"judgeId": 44617,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44889",
+			"parameter2": "0"
+		}
+	],
+	"44618": [
+		{
+			"judgeId": 44618,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44890",
+			"parameter2": "0"
+		}
+	],
+	"44619": [
+		{
+			"judgeId": 44619,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44891",
+			"parameter2": "0"
+		}
+	],
+	"44620": [
+		{
+			"judgeId": 44620,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44892",
+			"parameter2": "0"
+		}
+	],
+	"44621": [
+		{
+			"judgeId": 44621,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44893",
+			"parameter2": "0"
+		}
+	],
+	"44622": [
+		{
+			"judgeId": 44622,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44894",
+			"parameter2": "0"
+		}
+	],
+	"44623": [
+		{
+			"judgeId": 44623,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "44895",
+			"parameter2": "0"
+		}
+	],
+	"45002": [
+		{
+			"judgeId": 45002,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "45001",
+			"parameter2": "0"
+		}
+	],
+	"45003": [
+		{
+			"judgeId": 45003,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "45004",
+			"parameter2": "0"
+		}
+	],
+	"45004": [
+		{
+			"judgeId": 45004,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "45007",
+			"parameter2": "0"
+		}
+	],
+	"45005": [
+		{
+			"judgeId": 45005,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "45010",
+			"parameter2": "0"
+		}
+	],
+	"45006": [
+		{
+			"judgeId": 45006,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "45013",
+			"parameter2": "0"
+		}
+	],
+	"45016": [
+		{
+			"judgeId": 45016,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "45016",
+			"parameter2": "0"
+		}
+	],
+	"45017": [
+		{
+			"judgeId": 45017,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "45019",
+			"parameter2": "0"
+		}
+	],
+	"45018": [
+		{
+			"judgeId": 45018,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "45022",
+			"parameter2": "0"
+		}
+	],
+	"45019": [
+		{
+			"judgeId": 45019,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "45025",
+			"parameter2": "0"
+		}
+	],
+	"45020": [
+		{
+			"judgeId": 45020,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "45028",
+			"parameter2": "0"
+		}
+	],
+	"46100": [
+		{
+			"judgeId": 46100,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46121",
+			"parameter2": "0"
+		}
+	],
+	"46101": [
+		{
+			"judgeId": 46101,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46122",
+			"parameter2": "0"
+		}
+	],
+	"46102": [
+		{
+			"judgeId": 46102,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46123",
+			"parameter2": "0"
+		}
+	],
+	"46103": [
+		{
+			"judgeId": 46103,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46124",
+			"parameter2": "0"
+		}
+	],
+	"46104": [
+		{
+			"judgeId": 46104,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46125",
+			"parameter2": "0"
+		}
+	],
+	"46105": [
+		{
+			"judgeId": 46105,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46126",
+			"parameter2": "0"
+		}
+	],
+	"46106": [
+		{
+			"judgeId": 46106,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46127",
+			"parameter2": "0"
+		}
+	],
+	"46107": [
+		{
+			"judgeId": 46107,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46114",
+			"parameter2": "0"
+		}
+	],
+	"46108": [
+		{
+			"judgeId": 46108,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46115",
+			"parameter2": "0"
+		}
+	],
+	"46109": [
+		{
+			"judgeId": 46109,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46116",
+			"parameter2": "0"
+		}
+	],
+	"46110": [
+		{
+			"judgeId": 46110,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46117",
+			"parameter2": "0"
+		}
+	],
+	"46111": [
+		{
+			"judgeId": 46111,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46118",
+			"parameter2": "0"
+		}
+	],
+	"46112": [
+		{
+			"judgeId": 46112,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46119",
+			"parameter2": "0"
+		}
+	],
+	"46113": [
+		{
+			"judgeId": 46113,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46120",
+			"parameter2": "0"
+		}
+	],
+	"46501": [
+		{
+			"judgeId": 46501,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46500",
+			"parameter2": "0"
+		}
+	],
+	"46505": [
+		{
+			"judgeId": 46505,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46504",
+			"parameter2": "0"
+		}
+	],
+	"46507": [
+		{
+			"judgeId": 46507,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"46509": [
+		{
+			"judgeId": 46509,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46508",
+			"parameter2": "0"
+		}
+	],
+	"46511": [
+		{
+			"judgeId": 46511,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46510",
+			"parameter2": "0"
+		}
+	],
+	"46513": [
+		{
+			"judgeId": 46513,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46512",
+			"parameter2": "0"
+		}
+	],
+	"46515": [
+		{
+			"judgeId": 46515,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"46517": [
+		{
+			"judgeId": 46517,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46516",
+			"parameter2": "0"
+		}
+	],
+	"46519": [
+		{
+			"judgeId": 46519,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"46521": [
+		{
+			"judgeId": 46521,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46520",
+			"parameter2": "0"
+		}
+	],
+	"46524": [
+		{
+			"judgeId": 46524,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46523",
+			"parameter2": "0"
+		}
+	],
+	"46528": [
+		{
+			"judgeId": 46528,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "46527",
+			"parameter2": "0"
+		}
+	],
+	"46531": [
+		{
+			"judgeId": 46531,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46530",
+			"parameter2": "0"
+		}
+	],
+	"46534": [
+		{
+			"judgeId": 46534,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46533",
+			"parameter2": "0"
+		}
+	],
+	"46570": [
+		{
+			"judgeId": 46570,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46601",
+			"parameter2": "0"
+		}
+	],
+	"46571": [
+		{
+			"judgeId": 46571,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46603",
+			"parameter2": "0"
+		}
+	],
+	"46572": [
+		{
+			"judgeId": 46572,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46605",
+			"parameter2": "0"
+		}
+	],
+	"46573": [
+		{
+			"judgeId": 46573,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46607",
+			"parameter2": "0"
+		}
+	],
+	"46574": [
+		{
+			"judgeId": 46574,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46609",
+			"parameter2": "0"
+		}
+	],
+	"46575": [
+		{
+			"judgeId": 46575,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46611",
+			"parameter2": "0"
+		}
+	],
+	"46576": [
+		{
+			"judgeId": 46576,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46613",
+			"parameter2": "0"
+		}
+	],
+	"46577": [
+		{
+			"judgeId": 46577,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46615",
+			"parameter2": "0"
+		}
+	],
+	"46578": [
+		{
+			"judgeId": 46578,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46617",
+			"parameter2": "0"
+		}
+	],
+	"46579": [
+		{
+			"judgeId": 46579,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46619",
+			"parameter2": "0"
+		}
+	],
+	"46580": [
+		{
+			"judgeId": 46580,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46621",
+			"parameter2": "0"
+		}
+	],
+	"46581": [
+		{
+			"judgeId": 46581,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46623",
+			"parameter2": "0"
+		}
+	],
+	"46582": [
+		{
+			"judgeId": 46582,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46625",
+			"parameter2": "0"
+		}
+	],
+	"46583": [
+		{
+			"judgeId": 46583,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46627",
+			"parameter2": "0"
+		}
+	],
+	"46584": [
+		{
+			"judgeId": 46584,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46629",
+			"parameter2": "0"
+		}
+	],
+	"46585": [
+		{
+			"judgeId": 46585,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46631",
+			"parameter2": "0"
+		}
+	],
+	"46586": [
+		{
+			"judgeId": 46586,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46633",
+			"parameter2": "0"
+		}
+	],
+	"46587": [
+		{
+			"judgeId": 46587,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46635",
+			"parameter2": "0"
+		}
+	],
+	"46588": [
+		{
+			"judgeId": 46588,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46637",
+			"parameter2": "0"
+		}
+	],
+	"46589": [
+		{
+			"judgeId": 46589,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46639",
+			"parameter2": "0"
+		}
+	],
+	"46700": [
+		{
+			"judgeId": 46700,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"46701": [
+		{
+			"judgeId": 46701,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.55"
+		}
+	],
+	"46702": [
+		{
+			"judgeId": 46702,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.6"
+		}
+	],
+	"46730": [
+		{
+			"judgeId": 46730,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"46735": [
+		{
+			"judgeId": 46735,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"46736": [
+		{
+			"judgeId": 46736,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.35"
+		}
+	],
+	"46737": [
+		{
+			"judgeId": 46737,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.4"
+		}
+	],
+	"46901": [
+		{
+			"judgeId": 46901,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46900"
+		}
+	],
+	"46903": [
+		{
+			"judgeId": 46903,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46902"
+		}
+	],
+	"46905": [
+		{
+			"judgeId": 46905,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46904"
+		}
+	],
+	"46907": [
+		{
+			"judgeId": 46907,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46906"
+		}
+	],
+	"46909": [
+		{
+			"judgeId": 46909,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46908"
+		}
+	],
+	"46910": [
+		{
+			"judgeId": 46910,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46900"
+		}
+	],
+	"46911": [
+		{
+			"judgeId": 46911,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46902"
+		}
+	],
+	"46912": [
+		{
+			"judgeId": 46912,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46904"
+		}
+	],
+	"46913": [
+		{
+			"judgeId": 46913,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46906"
+		}
+	],
+	"46914": [
+		{
+			"judgeId": 46914,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "46908"
+		}
+	],
+	"47001": [
+		{
+			"judgeId": 47001,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "47000",
+			"parameter2": "0"
+		}
+	],
+	"47002": [
+		{
+			"judgeId": 47002,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "47116",
+			"parameter2": "0"
+		},
+		{
+			"judgeId": 47002,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "47117",
+			"parameter2": "0"
+		},
+		{
+			"judgeId": 47002,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "47118",
+			"parameter2": "0"
+		},
+		{
+			"judgeId": 47002,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "47119",
+			"parameter2": "0"
+		},
+		{
+			"judgeId": 47002,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "47120",
+			"parameter2": "0"
+		}
+	],
+	"49000": [
+		{
+			"judgeId": 49000,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.3"
+		}
+	],
+	"49109": [
+		{
+			"judgeId": 49109,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "[1108,1208,1308,1408]"
+		}
+	],
+	"49110": [
+		{
+			"judgeId": 49110,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49109"
+		}
+	],
+	"49112": [
+		{
+			"judgeId": 49112,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49111"
+		}
+	],
+	"49114": [
+		{
+			"judgeId": 49114,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49113"
+		}
+	],
+	"49116": [
+		{
+			"judgeId": 49116,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49115"
+		}
+	],
+	"49118": [
+		{
+			"judgeId": 49118,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49117"
+		}
+	],
+	"49120": [
+		{
+			"judgeId": 49120,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49119"
+		}
+	],
+	"49122": [
+		{
+			"judgeId": 49122,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49121"
+		}
+	],
+	"49124": [
+		{
+			"judgeId": 49124,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49123"
+		}
+	],
+	"49126": [
+		{
+			"judgeId": 49126,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49125"
+		}
+	],
+	"49128": [
+		{
+			"judgeId": 49128,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49127"
+		}
+	],
+	"49130": [
+		{
+			"judgeId": 49130,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49129"
+		}
+	],
+	"49132": [
+		{
+			"judgeId": 49132,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49131"
+		}
+	],
+	"49134": [
+		{
+			"judgeId": 49134,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49133"
+		}
+	],
+	"49136": [
+		{
+			"judgeId": 49136,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49135"
+		}
+	],
+	"49138": [
+		{
+			"judgeId": 49138,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "49137"
+		}
+	],
+	"49140": [
+		{
+			"judgeId": 49140,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49139"
+		}
+	],
+	"49142": [
+		{
+			"judgeId": 49142,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49141"
+		}
+	],
+	"49144": [
+		{
+			"judgeId": 49144,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49143"
+		}
+	],
+	"49146": [
+		{
+			"judgeId": 49146,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49145"
+		}
+	],
+	"49148": [
+		{
+			"judgeId": 49148,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49147"
+		}
+	],
+	"49332": [
+		{
+			"judgeId": 49332,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49331"
+		}
+	],
+	"49335": [
+		{
+			"judgeId": 49335,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49334"
+		}
+	],
+	"49338": [
+		{
+			"judgeId": 49338,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49337"
+		}
+	],
+	"49341": [
+		{
+			"judgeId": 49341,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49340"
+		}
+	],
+	"49344": [
+		{
+			"judgeId": 49344,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49343"
+		}
+	],
+	"49347": [
+		{
+			"judgeId": 49347,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49346"
+		}
+	],
+	"49350": [
+		{
+			"judgeId": 49350,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49349"
+		}
+	],
+	"49353": [
+		{
+			"judgeId": 49353,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49352"
+		}
+	],
+	"49356": [
+		{
+			"judgeId": 49356,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49355"
+		}
+	],
+	"49359": [
+		{
+			"judgeId": 49359,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49358"
+		}
+	],
+	"49362": [
+		{
+			"judgeId": 49362,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49361"
+		}
+	],
+	"49365": [
+		{
+			"judgeId": 49365,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49364"
+		}
+	],
+	"49368": [
+		{
+			"judgeId": 49368,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49367"
+		}
+	],
+	"49371": [
+		{
+			"judgeId": 49371,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49370"
+		}
+	],
+	"49374": [
+		{
+			"judgeId": 49374,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49373"
+		}
+	],
+	"49377": [
+		{
+			"judgeId": 49377,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49376"
+		}
+	],
+	"49379": [
+		{
+			"judgeId": 49379,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1080"
+		}
+	],
+	"49380": [
+		{
+			"judgeId": 49380,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1081"
+		}
+	],
+	"49381": [
+		{
+			"judgeId": 49381,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1082"
+		}
+	],
+	"49382": [
+		{
+			"judgeId": 49382,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1083"
+		}
+	],
+	"49383": [
+		{
+			"judgeId": 49383,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "1084"
+		}
+	],
+	"49384": [
+		{
+			"judgeId": 49384,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2080"
+		}
+	],
+	"49385": [
+		{
+			"judgeId": 49385,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2081"
+		}
+	],
+	"49386": [
+		{
+			"judgeId": 49386,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2082"
+		}
+	],
+	"49387": [
+		{
+			"judgeId": 49387,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2083"
+		}
+	],
+	"49388": [
+		{
+			"judgeId": 49388,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "2084"
+		}
+	],
+	"49389": [
+		{
+			"judgeId": 49389,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3080"
+		}
+	],
+	"49390": [
+		{
+			"judgeId": 49390,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3081"
+		}
+	],
+	"49391": [
+		{
+			"judgeId": 49391,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3082"
+		}
+	],
+	"49392": [
+		{
+			"judgeId": 49392,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3083"
+		}
+	],
+	"49393": [
+		{
+			"judgeId": 49393,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "3084"
+		}
+	],
+	"49394": [
+		{
+			"judgeId": 49394,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4080"
+		}
+	],
+	"49395": [
+		{
+			"judgeId": 49395,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4081"
+		}
+	],
+	"49396": [
+		{
+			"judgeId": 49396,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4082"
+		}
+	],
+	"49397": [
+		{
+			"judgeId": 49397,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4083"
+		}
+	],
+	"49398": [
+		{
+			"judgeId": 49398,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "4084"
+		}
+	],
+	"49399": [
+		{
+			"judgeId": 49399,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5080"
+		}
+	],
+	"49400": [
+		{
+			"judgeId": 49400,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5081"
+		}
+	],
+	"49401": [
+		{
+			"judgeId": 49401,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5082"
+		}
+	],
+	"49402": [
+		{
+			"judgeId": 49402,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5083"
+		}
+	],
+	"49403": [
+		{
+			"judgeId": 49403,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "5084"
+		}
+	],
+	"49404": [
+		{
+			"judgeId": 49404,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6080"
+		}
+	],
+	"49405": [
+		{
+			"judgeId": 49405,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6081"
+		}
+	],
+	"49406": [
+		{
+			"judgeId": 49406,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6082"
+		}
+	],
+	"49407": [
+		{
+			"judgeId": 49407,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6083"
+		}
+	],
+	"49408": [
+		{
+			"judgeId": 49408,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "6084"
+		}
+	],
+	"49583": [
+		{
+			"judgeId": 49583,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "49583"
+		}
+	],
+	"50101": [
+		{
+			"judgeId": 50101,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50100"
+		}
+	],
+	"50103": [
+		{
+			"judgeId": 50103,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50102"
+		}
+	],
+	"50105": [
+		{
+			"judgeId": 50105,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50104"
+		}
+	],
+	"50107": [
+		{
+			"judgeId": 50107,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50106"
+		}
+	],
+	"50109": [
+		{
+			"judgeId": 50109,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50108"
+		}
+	],
+	"50111": [
+		{
+			"judgeId": 50111,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50110"
+		}
+	],
+	"50113": [
+		{
+			"judgeId": 50113,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50112"
+		}
+	],
+	"50115": [
+		{
+			"judgeId": 50115,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50114"
+		}
+	],
+	"50117": [
+		{
+			"judgeId": 50117,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50116"
+		}
+	],
+	"50119": [
+		{
+			"judgeId": 50119,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50118"
+		}
+	],
+	"50121": [
+		{
+			"judgeId": 50121,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50120"
+		}
+	],
+	"50123": [
+		{
+			"judgeId": 50123,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50122"
+		}
+	],
+	"50125": [
+		{
+			"judgeId": 50125,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50124"
+		}
+	],
+	"50127": [
+		{
+			"judgeId": 50127,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50126"
+		}
+	],
+	"50129": [
+		{
+			"judgeId": 50129,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50128"
+		}
+	],
+	"50131": [
+		{
+			"judgeId": 50131,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50130"
+		}
+	],
+	"50133": [
+		{
+			"judgeId": 50133,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50132"
+		}
+	],
+	"50135": [
+		{
+			"judgeId": 50135,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50134"
+		}
+	],
+	"50137": [
+		{
+			"judgeId": 50137,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50136"
+		}
+	],
+	"50139": [
+		{
+			"judgeId": 50139,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50138"
+		}
+	],
+	"50161": [
+		{
+			"judgeId": 50161,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50160"
+		}
+	],
+	"50163": [
+		{
+			"judgeId": 50163,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50162"
+		}
+	],
+	"50165": [
+		{
+			"judgeId": 50165,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50164"
+		}
+	],
+	"50167": [
+		{
+			"judgeId": 50167,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50166"
+		}
+	],
+	"50169": [
+		{
+			"judgeId": 50169,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50168"
+		}
+	],
+	"50171": [
+		{
+			"judgeId": 50171,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50170"
+		}
+	],
+	"50173": [
+		{
+			"judgeId": 50173,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50172"
+		}
+	],
+	"50175": [
+		{
+			"judgeId": 50175,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50174"
+		}
+	],
+	"50177": [
+		{
+			"judgeId": 50177,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50176"
+		}
+	],
+	"50179": [
+		{
+			"judgeId": 50179,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50178"
+		}
+	],
+	"50181": [
+		{
+			"judgeId": 50181,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50180"
+		}
+	],
+	"50183": [
+		{
+			"judgeId": 50183,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50182"
+		}
+	],
+	"50185": [
+		{
+			"judgeId": 50185,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50184"
+		}
+	],
+	"50187": [
+		{
+			"judgeId": 50187,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50186"
+		}
+	],
+	"50189": [
+		{
+			"judgeId": 50189,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50188"
+		}
+	],
+	"50191": [
+		{
+			"judgeId": 50191,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50190"
+		}
+	],
+	"50194": [
+		{
+			"judgeId": 50194,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50193"
+		}
+	],
+	"50197": [
+		{
+			"judgeId": 50197,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50196"
+		}
+	],
+	"50200": [
+		{
+			"judgeId": 50200,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50199"
+		}
+	],
+	"50203": [
+		{
+			"judgeId": 50203,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50202"
+		}
+	],
+	"50206": [
+		{
+			"judgeId": 50206,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50205"
+		}
+	],
+	"50209": [
+		{
+			"judgeId": 50209,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50208"
+		}
+	],
+	"50212": [
+		{
+			"judgeId": 50212,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50211"
+		}
+	],
+	"50215": [
+		{
+			"judgeId": 50215,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50214"
+		}
+	],
+	"50218": [
+		{
+			"judgeId": 50218,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50217"
+		}
+	],
+	"50221": [
+		{
+			"judgeId": 50221,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50220"
+		}
+	],
+	"50224": [
+		{
+			"judgeId": 50224,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50223"
+		}
+	],
+	"50227": [
+		{
+			"judgeId": 50227,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50226"
+		}
+	],
+	"50230": [
+		{
+			"judgeId": 50230,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50229"
+		}
+	],
+	"50233": [
+		{
+			"judgeId": 50233,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "50232"
+		}
+	],
+	"51012": [
+		{
+			"judgeId": 51012,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51011"
+		}
+	],
+	"51014": [
+		{
+			"judgeId": 51014,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51013"
+		}
+	],
+	"51016": [
+		{
+			"judgeId": 51016,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51015"
+		}
+	],
+	"51018": [
+		{
+			"judgeId": 51018,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51017"
+		}
+	],
+	"51020": [
+		{
+			"judgeId": 51020,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51019"
+		}
+	],
+	"51032": [
+		{
+			"judgeId": 51032,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51031"
+		}
+	],
+	"51035": [
+		{
+			"judgeId": 51035,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51034"
+		}
+	],
+	"51038": [
+		{
+			"judgeId": 51038,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51037"
+		}
+	],
+	"51041": [
+		{
+			"judgeId": 51041,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51040"
+		}
+	],
+	"51044": [
+		{
+			"judgeId": 51044,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51043"
+		}
+	],
+	"51057": [
+		{
+			"judgeId": 51057,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51056"
+		}
+	],
+	"51059": [
+		{
+			"judgeId": 51059,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51058"
+		}
+	],
+	"51061": [
+		{
+			"judgeId": 51061,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51060"
+		}
+	],
+	"51063": [
+		{
+			"judgeId": 51063,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51062"
+		}
+	],
+	"51065": [
+		{
+			"judgeId": 51065,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51064"
+		}
+	],
+	"51077": [
+		{
+			"judgeId": 51077,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51076"
+		}
+	],
+	"51078": [
+		{
+			"judgeId": 51078,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51077"
+		}
+	],
+	"51080": [
+		{
+			"judgeId": 51080,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51079"
+		}
+	],
+	"51081": [
+		{
+			"judgeId": 51081,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51080"
+		}
+	],
+	"51083": [
+		{
+			"judgeId": 51083,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51082"
+		}
+	],
+	"51084": [
+		{
+			"judgeId": 51084,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51083"
+		}
+	],
+	"51086": [
+		{
+			"judgeId": 51086,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51085"
+		}
+	],
+	"51087": [
+		{
+			"judgeId": 51087,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51086"
+		}
+	],
+	"51089": [
+		{
+			"judgeId": 51089,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51088"
+		}
+	],
+	"51090": [
+		{
+			"judgeId": 51090,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51089"
+		}
+	],
+	"51104": [
+		{
+			"judgeId": 51104,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51103"
+		}
+	],
+	"51106": [
+		{
+			"judgeId": 51106,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51105"
+		}
+	],
+	"51111": [
+		{
+			"judgeId": 51111,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51110"
+		}
+	],
+	"51113": [
+		{
+			"judgeId": 51113,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51112"
+		}
+	],
+	"51115": [
+		{
+			"judgeId": 51115,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51114"
+		}
+	],
+	"51121": [
+		{
+			"judgeId": 51121,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51120"
+		}
+	],
+	"51123": [
+		{
+			"judgeId": 51123,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51122"
+		}
+	],
+	"51126": [
+		{
+			"judgeId": 51126,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51125"
+		}
+	],
+	"51128": [
+		{
+			"judgeId": 51128,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51127"
+		}
+	],
+	"51130": [
+		{
+			"judgeId": 51130,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "51129"
+		}
+	],
+	"51140": [
+		{
+			"judgeId": 51140,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "51141"
+		}
+	],
+	"51150": [
+		{
+			"judgeId": 51150,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80710"
+		}
+	],
+	"51151": [
+		{
+			"judgeId": 51151,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80711"
+		}
+	],
+	"51152": [
+		{
+			"judgeId": 51152,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80712"
+		}
+	],
+	"51153": [
+		{
+			"judgeId": 51153,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80713"
+		}
+	],
+	"51154": [
+		{
+			"judgeId": 51154,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80714"
+		}
+	],
+	"51155": [
+		{
+			"judgeId": 51155,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80720"
+		}
+	],
+	"51156": [
+		{
+			"judgeId": 51156,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80721"
+		}
+	],
+	"51157": [
+		{
+			"judgeId": 51157,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80722"
+		}
+	],
+	"51158": [
+		{
+			"judgeId": 51158,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80723"
+		}
+	],
+	"51159": [
+		{
+			"judgeId": 51159,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80724"
+		}
+	],
+	"51160": [
+		{
+			"judgeId": 51160,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80730"
+		}
+	],
+	"51161": [
+		{
+			"judgeId": 51161,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80731"
+		}
+	],
+	"51162": [
+		{
+			"judgeId": 51162,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80732"
+		}
+	],
+	"51163": [
+		{
+			"judgeId": 51163,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80733"
+		}
+	],
+	"51164": [
+		{
+			"judgeId": 51164,
+			"judgeMethod": 5,
+			"judgeTarget": 1,
+			"parameter1": "80734"
+		}
+	],
+	"51165": [
+		{
+			"judgeId": 51165,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.5"
+		}
+	],
+	"51221": [
+		{
+			"judgeId": 51221,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=50000"
+		}
+	],
+	"51222": [
+		{
+			"judgeId": 51222,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=100000"
+		}
+	],
+	"51223": [
+		{
+			"judgeId": 51223,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=150000"
+		}
+	],
+	"51224": [
+		{
+			"judgeId": 51224,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=200000"
+		}
+	],
+	"51225": [
+		{
+			"judgeId": 51225,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=300000"
+		}
+	],
+	"51226": [
+		{
+			"judgeId": 51226,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=400000"
+		}
+	],
+	"51227": [
+		{
+			"judgeId": 51227,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=450000"
+		}
+	],
+	"51228": [
+		{
+			"judgeId": 51228,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=500000"
+		}
+	],
+	"51229": [
+		{
+			"judgeId": 51229,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=700000"
+		}
+	],
+	"51230": [
+		{
+			"judgeId": 51230,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=900000"
+		}
+	],
+	"51231": [
+		{
+			"judgeId": 51231,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=1200000"
+		}
+	],
+	"51232": [
+		{
+			"judgeId": 51232,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=1500000"
+		}
+	],
+	"51233": [
+		{
+			"judgeId": 51233,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=1800000"
+		}
+	],
+	"51234": [
+		{
+			"judgeId": 51234,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=1900000"
+		}
+	],
+	"51235": [
+		{
+			"judgeId": 51235,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=2000000"
+		}
+	],
+	"51236": [
+		{
+			"judgeId": 51236,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=2500000"
+		}
+	],
+	"51237": [
+		{
+			"judgeId": 51237,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=3000000"
+		}
+	],
+	"51238": [
+		{
+			"judgeId": 51238,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=3500000"
+		}
+	],
+	"51239": [
+		{
+			"judgeId": 51239,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=4500000"
+		}
+	],
+	"51240": [
+		{
+			"judgeId": 51240,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=6000000"
+		}
+	],
+	"51241": [
+		{
+			"judgeId": 51241,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "fireLongwei",
+			"parameter2": "value=7000000"
+		}
+	],
+	"51286": [
+		{
+			"judgeId": 51286,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=50000"
+		}
+	],
+	"51287": [
+		{
+			"judgeId": 51287,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=100000"
+		}
+	],
+	"51288": [
+		{
+			"judgeId": 51288,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=150000"
+		}
+	],
+	"51289": [
+		{
+			"judgeId": 51289,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=200000"
+		}
+	],
+	"51290": [
+		{
+			"judgeId": 51290,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=300000"
+		}
+	],
+	"51291": [
+		{
+			"judgeId": 51291,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=400000"
+		}
+	],
+	"51292": [
+		{
+			"judgeId": 51292,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=450000"
+		}
+	],
+	"51293": [
+		{
+			"judgeId": 51293,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=500000"
+		}
+	],
+	"51294": [
+		{
+			"judgeId": 51294,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=700000"
+		}
+	],
+	"51295": [
+		{
+			"judgeId": 51295,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=900000"
+		}
+	],
+	"51296": [
+		{
+			"judgeId": 51296,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=1200000"
+		}
+	],
+	"51297": [
+		{
+			"judgeId": 51297,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=1500000"
+		}
+	],
+	"51298": [
+		{
+			"judgeId": 51298,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=1800000"
+		}
+	],
+	"51299": [
+		{
+			"judgeId": 51299,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=1900000"
+		}
+	],
+	"51300": [
+		{
+			"judgeId": 51300,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=2000000"
+		}
+	],
+	"51301": [
+		{
+			"judgeId": 51301,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=2500000"
+		}
+	],
+	"51302": [
+		{
+			"judgeId": 51302,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=3000000"
+		}
+	],
+	"51303": [
+		{
+			"judgeId": 51303,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=3500000"
+		}
+	],
+	"51304": [
+		{
+			"judgeId": 51304,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=4500000"
+		}
+	],
+	"51305": [
+		{
+			"judgeId": 51305,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=6000000"
+		}
+	],
+	"51306": [
+		{
+			"judgeId": 51306,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "iceLongwei",
+			"parameter2": "value=7000000"
+		}
+	],
+	"51349": [
+		{
+			"judgeId": 51349,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=50000"
+		}
+	],
+	"51350": [
+		{
+			"judgeId": 51350,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=100000"
+		}
+	],
+	"51351": [
+		{
+			"judgeId": 51351,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=150000"
+		}
+	],
+	"51352": [
+		{
+			"judgeId": 51352,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=200000"
+		}
+	],
+	"51353": [
+		{
+			"judgeId": 51353,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=300000"
+		}
+	],
+	"51354": [
+		{
+			"judgeId": 51354,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=400000"
+		}
+	],
+	"51355": [
+		{
+			"judgeId": 51355,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=450000"
+		}
+	],
+	"51356": [
+		{
+			"judgeId": 51356,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=500000"
+		}
+	],
+	"51357": [
+		{
+			"judgeId": 51357,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=700000"
+		}
+	],
+	"51358": [
+		{
+			"judgeId": 51358,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=900000"
+		}
+	],
+	"51359": [
+		{
+			"judgeId": 51359,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=1200000"
+		}
+	],
+	"51360": [
+		{
+			"judgeId": 51360,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=1500000"
+		}
+	],
+	"51361": [
+		{
+			"judgeId": 51361,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=1800000"
+		}
+	],
+	"51362": [
+		{
+			"judgeId": 51362,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=1900000"
+		}
+	],
+	"51363": [
+		{
+			"judgeId": 51363,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=2000000"
+		}
+	],
+	"51364": [
+		{
+			"judgeId": 51364,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=2500000"
+		}
+	],
+	"51365": [
+		{
+			"judgeId": 51365,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=3000000"
+		}
+	],
+	"51366": [
+		{
+			"judgeId": 51366,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=3500000"
+		}
+	],
+	"51367": [
+		{
+			"judgeId": 51367,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=4500000"
+		}
+	],
+	"51368": [
+		{
+			"judgeId": 51368,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=6000000"
+		}
+	],
+	"51369": [
+		{
+			"judgeId": 51369,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "mineLongwei",
+			"parameter2": "value=7000000"
+		}
+	],
+	"51412": [
+		{
+			"judgeId": 51412,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=50000"
+		}
+	],
+	"51413": [
+		{
+			"judgeId": 51413,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=100000"
+		}
+	],
+	"51414": [
+		{
+			"judgeId": 51414,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=150000"
+		}
+	],
+	"51415": [
+		{
+			"judgeId": 51415,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=200000"
+		}
+	],
+	"51416": [
+		{
+			"judgeId": 51416,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=300000"
+		}
+	],
+	"51417": [
+		{
+			"judgeId": 51417,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=400000"
+		}
+	],
+	"51418": [
+		{
+			"judgeId": 51418,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=450000"
+		}
+	],
+	"51419": [
+		{
+			"judgeId": 51419,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=500000"
+		}
+	],
+	"51420": [
+		{
+			"judgeId": 51420,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=700000"
+		}
+	],
+	"51421": [
+		{
+			"judgeId": 51421,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=900000"
+		}
+	],
+	"51422": [
+		{
+			"judgeId": 51422,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=1200000"
+		}
+	],
+	"51423": [
+		{
+			"judgeId": 51423,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=1500000"
+		}
+	],
+	"51424": [
+		{
+			"judgeId": 51424,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=1800000"
+		}
+	],
+	"51425": [
+		{
+			"judgeId": 51425,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=1900000"
+		}
+	],
+	"51426": [
+		{
+			"judgeId": 51426,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=2000000"
+		}
+	],
+	"51427": [
+		{
+			"judgeId": 51427,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=2500000"
+		}
+	],
+	"51428": [
+		{
+			"judgeId": 51428,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=3000000"
+		}
+	],
+	"51429": [
+		{
+			"judgeId": 51429,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=3500000"
+		}
+	],
+	"51430": [
+		{
+			"judgeId": 51430,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=4500000"
+		}
+	],
+	"51431": [
+		{
+			"judgeId": 51431,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=6000000"
+		}
+	],
+	"51432": [
+		{
+			"judgeId": 51432,
+			"judgeMethod": 4,
+			"judgeTarget": 2,
+			"parameter1": "voidLongwei",
+			"parameter2": "value=7000000"
+		}
+	],
+	"52005": [
+		{
+			"judgeId": 52005,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52004"
+		}
+	],
+	"52007": [
+		{
+			"judgeId": 52007,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52006"
+		}
+	],
+	"52009": [
+		{
+			"judgeId": 52009,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52008"
+		}
+	],
+	"52011": [
+		{
+			"judgeId": 52011,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52010"
+		}
+	],
+	"52012": [
+		{
+			"judgeId": 52012,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52010"
+		}
+	],
+	"52014": [
+		{
+			"judgeId": 52014,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52013"
+		}
+	],
+	"52015": [
+		{
+			"judgeId": 52015,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52013"
+		}
+	],
+	"52017": [
+		{
+			"judgeId": 52017,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52016"
+		}
+	],
+	"52018": [
+		{
+			"judgeId": 52018,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52016"
+		}
+	],
+	"52020": [
+		{
+			"judgeId": 52020,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52019"
+		}
+	],
+	"52022": [
+		{
+			"judgeId": 52022,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52021"
+		}
+	],
+	"52024": [
+		{
+			"judgeId": 52024,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52023"
+		}
+	],
+	"52036": [
+		{
+			"judgeId": 52036,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52038"
+		}
+	],
+	"52037": [
+		{
+			"judgeId": 52037,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52038"
+		}
+	],
+	"52038": [
+		{
+			"judgeId": 52038,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52039"
+		}
+	],
+	"52039": [
+		{
+			"judgeId": 52039,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "52039"
+		}
+	],
+	"206001": [
+		{
+			"judgeId": 206001,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "206001"
+		}
+	],
+	"730301": [
+		{
+			"judgeId": 730301,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "730302"
+		}
+	],
+	"730501": [
+		{
+			"judgeId": 730501,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "730504"
+		}
+	],
+	"730801": [
+		{
+			"judgeId": 730801,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "730802"
+		}
+	],
+	"730901": [
+		{
+			"judgeId": 730901,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "730901"
+		}
+	],
+	"740101": [
+		{
+			"judgeId": 740101,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740101"
+		}
+	],
+	"740401": [
+		{
+			"judgeId": 740401,
+			"judgeMethod": 4,
+			"judgeTarget": 1,
+			"parameter1": "hp",
+			"parameter2": "value=hpMax*0.15"
+		}
+	],
+	"740501": [
+		{
+			"judgeId": 740501,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740504"
+		}
+	],
+	"740601": [
+		{
+			"judgeId": 740601,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740601"
+		},
+		{
+			"judgeId": 740601,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "740601"
+		}
+	],
+	"740602": [
+		{
+			"judgeId": 740602,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740602"
+		},
+		{
+			"judgeId": 740602,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "740602"
+		}
+	],
+	"740603": [
+		{
+			"judgeId": 740603,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740603"
+		},
+		{
+			"judgeId": 740603,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "740603"
+		}
+	],
+	"740604": [
+		{
+			"judgeId": 740604,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740604"
+		},
+		{
+			"judgeId": 740604,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "740604"
+		}
+	],
+	"740605": [
+		{
+			"judgeId": 740605,
+			"judgeMethod": 1,
+			"judgeTarget": 1,
+			"parameter1": "740606"
+		}
+	],
+	"740606": [
+		{
+			"judgeId": 740606,
+			"judgeMethod": 1,
+			"judgeTarget": 2,
+			"parameter1": "740606"
+		}
+	],
+	"910501": [
+		{
+			"judgeId": 910501,
+			"judgeMethod": 2,
+			"judgeTarget": 2,
+			"parameter1": "10"
+		},
+		{
+			"judgeId": 910501,
+			"judgeMethod": 2,
+			"judgeTarget": 2,
+			"parameter1": "11"
+		},
+		{
+			"judgeId": 910501,
+			"judgeMethod": 2,
+			"judgeTarget": 2,
+			"parameter1": "12"
+		},
+		{
+			"judgeId": 910501,
+			"judgeMethod": 2,
+			"judgeTarget": 2,
+			"parameter1": "13"
+		},
+		{
+			"judgeId": 910501,
+			"judgeMethod": 2,
+			"judgeTarget": 2,
+			"parameter1": "14"
+		}
+	]
+}

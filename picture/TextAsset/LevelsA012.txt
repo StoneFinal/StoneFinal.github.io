@@ -1,0 +1,153 @@
+
+{
+    "/map/mid/liuguang_3 (1)" : {
+        "prefab" : "Map/Public/Effect/Effect01/cj_liuguang_0001.prefab",
+        "pos"    : [
+            -2.6,
+            -1.6,
+            -0.7
+        ],
+        "rot"    : [
+            270.0,
+            200.7073,
+            0.0
+        ],
+        "scale"  : [
+            0.4120909,
+            0.4120904,
+            3.165243
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -2.599998,
+            6.31311,
+            -0.7000008
+        ],
+        "boundsSize" : [
+            69.49253,
+            150.6656,
+            69.49249
+        ]
+    },
+    "/map/high/texiao/cj_light_0006" : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0006.prefab",
+        "pos"    : [
+            -2.09,
+            10.27,
+            0.25
+        ],
+        "rot"    : [
+            70.70407,
+            90.13091,
+            0.8222201
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            -1.369308,
+            9.463313,
+            -0.121603
+        ],
+        "boundsSize" : [
+            92.91838,
+            47.81012,
+            54.13698
+        ]
+    },
+    "/map/high/texiao/world_a003_texiao_008 (1)" : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_texiao_0008.prefab",
+        "pos"    : [
+            114.44,
+            -26.644,
+            174.72
+        ],
+        "rot"    : [
+            9.334692E-06,
+            355.4427,
+            7.836887E-12
+        ],
+        "scale"  : [
+            2.093298,
+            2.093299,
+            2.093299
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            0.1282959,
+            -1.625448,
+            -0.1001587
+        ],
+        "boundsSize" : [
+            46.42966,
+            0.0035007,
+            47.11344
+        ]
+    },
+    "/map/high/texiao/cj_light_0005"             : {
+        "prefab" : "Map/Public/Effect/Effect02/cj_light_0005.prefab",
+        "pos"    : [
+            0.46,
+            -6.11,
+            -0.18
+        ],
+        "rot"    : [
+            272.7832,
+            270.0011,
+            89.99891
+        ],
+        "scale"  : [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            0.3017387,
+            -3.631861,
+            -0.1799965
+        ],
+        "boundsSize" : [
+            42.38378,
+            42.78765,
+            44.92763
+        ]
+    },
+    "/map/high/texiao/cj_texiao_0008"            : {
+        "prefab" : "Map/Public/Effect/Effect03/cj_texiao_0008.prefab",
+        "pos"    : [
+            208.94,
+            -19.356,
+            34.876
+        ],
+        "rot"    : [
+            9.334682E-06,
+            42.75269,
+            4.07111E-12
+        ],
+        "scale"  : [
+            2.121852,
+            2.121853,
+            2.121853
+        ],
+        "lights" : [
+        ],
+        "boundsPos" : [
+            0.1244659,
+            6.00382,
+            -0.105423
+        ],
+        "boundsSize" : [
+            62.22562,
+            0.003548622,
+            62.26751
+        ]
+    }
+}

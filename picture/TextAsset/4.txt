@@ -1,0 +1,81 @@
+
+{
+    "1" : {
+        "typeTarget" : {
+            "name" : "\u6444\u50CF\u673A",
+            "type" : 1
+        },
+        "typeBlocks" : [
+            {
+                "beginRotation" : [
+                    24.20048,
+                    80.60086,
+                    0.0001179405
+                ],
+                "beginPosition" : [
+                    -27.18622,
+                    9.58657,
+                    -33.7472
+                ],
+                "endRotation"   : [
+                    24.20048,
+                    80.60086,
+                    0.0001179405
+                ],
+                "endPositioin"  : [
+                    -27.18622,
+                    9.58657,
+                    -33.7472
+                ],
+                "beginTime"     : 0.0,
+                "duration"      : 4.8,
+                "type"          : 4
+            }
+        ]
+    },
+    "2" : {
+        "typeTarget" : {
+            "configId" : 1002151,
+            "initPos"  : [
+                -18.0,
+                4.3,
+                -31.6
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "createType" : 1,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "appear",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 1.333333,
+                "type"          : 7
+            },
+            {
+                "motionName" : "show",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 1.333333,
+                "duration"      : 2.5,
+                "type"          : 7
+            },
+            {
+                "motionName" : "stand_fight",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 3.833333,
+                "duration"      : 1.0,
+                "type"          : 7
+            }
+        ]
+    }
+}

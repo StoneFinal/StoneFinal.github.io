@@ -1,0 +1,7809 @@
+{
+	"1": {
+		"addFeature": [
+			100001,
+			666,
+			43106
+		],
+		"battle": 2000,
+		"damageMultiple": 1300,
+		"des": "四连枪击，对前方敌人进行强力的重击（最多命中2个目标）",
+		"exprId": 1000,
+		"id": 1100,
+		"level": 1,
+		"name": "普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 1,
+		"upDes": "职业1转升级：目标数增加2"
+	},
+	"2": {
+		"addFeature": [
+			100001,
+			666,
+			43106
+		],
+		"battle": 4000,
+		"damageMultiple": 1300,
+		"des": "四连枪击，对前方敌人进行强力的重击（最多命中4个目标）",
+		"exprId": 1100,
+		"id": 1100,
+		"level": 2,
+		"name": "一转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 2,
+		"upDes": "职业2转升级：伤害提高20%"
+	},
+	"3": {
+		"addFeature": [
+			100001,
+			666,
+			43106
+		],
+		"battle": 6000,
+		"damageMultiple": 1560,
+		"des": "四连枪击，对前方敌人进行强力的重击（最多命中4个目标）",
+		"exprId": 1100,
+		"id": 1100,
+		"level": 3,
+		"name": "二转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 3,
+		"upDes": "职业3转升级：攻击间隔缩短20%"
+	},
+	"4": {
+		"addFeature": [
+			100001,
+			666,
+			43106
+		],
+		"battle": 8000,
+		"damageMultiple": 1560,
+		"des": "四连枪击，对前方敌人进行强力的重击（最多命中4个目标）",
+		"exprId": 1300,
+		"id": 1100,
+		"level": 4,
+		"name": "三转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 4
+	},
+	"5": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "蓄力向前方冲锋突刺造成直线范围伤害（最多命中6个目标）",
+		"exprId": 1010,
+		"id": 1101,
+		"level": 1,
+		"name": "龙枪突刺",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1001.png",
+		"skillTag": "位移",
+		"type": 2,
+		"uId": 5
+	},
+	"6": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤神兵从天而降，造成范围伤害（最多命中6个目标）",
+		"exprId": 1020,
+		"id": 1102,
+		"level": 1,
+		"name": "神兵天降",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1002.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 6
+	},
+	"7": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "对前方扇形面积内的敌人进行连续刺击，造成多次伤害（最多命中6个目标）",
+		"exprId": 1050,
+		"id": 1103,
+		"level": 1,
+		"name": "暴雨梨花枪",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1005.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 7
+	},
+	"8": {
+		"addFeature": [
+			106001
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "跳向空中，将全身的力量凝聚于枪中，砸向地面的敌人造成范围伤害，同时反弹敌人的伤害（最多命中6个目标）",
+		"exprId": 1030,
+		"id": 1104,
+		"level": 1,
+		"name": "魔枪阵",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1003.png",
+		"skillTag": "反伤",
+		"type": 2,
+		"uId": 8
+	},
+	"9": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "凝聚力量于枪尖，上挑出发出三道枪芒，对前方的敌人造成范围伤害。（最多命中8个目标）",
+		"exprId": 1060,
+		"id": 1105,
+		"level": 1,
+		"name": "裂地穿云",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1006.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 9
+	},
+	"10": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "聚气爆发，召唤龙神附体，对身边的敌人持续造成伤害（最多命中8个目标）",
+		"exprId": 1040,
+		"id": 1106,
+		"level": 1,
+		"name": "龙神护体",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1004.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 10
+	},
+	"11": {
+		"addFeature": [
+			46640
+		],
+		"damageMultiple": 20000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成200%技能伤害，并且使目标陷入2秒的迟缓状态，减速30%，冷却75秒",
+		"exprId": 1070,
+		"id": 1107,
+		"level": 1,
+		"name": "万剑归宗Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 11
+	},
+	"12": {
+		"addFeature": [
+			46641
+		],
+		"damageMultiple": 22000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成220%技能伤害，并且使目标陷入2秒的迟缓状态，减速35%，冷却65秒",
+		"exprId": 1071,
+		"id": 1107,
+		"level": 2,
+		"name": "万剑归宗Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 12
+	},
+	"13": {
+		"addFeature": [
+			46642
+		],
+		"damageMultiple": 24000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成240%技能伤害，并且使目标陷入2秒的迟缓状态，减速40%，冷却55秒",
+		"exprId": 1072,
+		"id": 1107,
+		"level": 3,
+		"name": "万剑归宗Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 13
+	},
+	"14": {
+		"addFeature": [
+			46643
+		],
+		"damageMultiple": 26000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成260%技能伤害，并且使目标陷入3秒的迟缓状态，减速45%，冷却50秒",
+		"exprId": 1073,
+		"id": 1107,
+		"level": 4,
+		"name": "万剑归宗Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 14
+	},
+	"15": {
+		"addFeature": [
+			46644
+		],
+		"damageMultiple": 28000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成280%技能伤害，并且使目标陷入3秒的迟缓状态，减速50%，冷却45秒",
+		"exprId": 1074,
+		"id": 1107,
+		"level": 5,
+		"name": "万剑归宗Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 15
+	},
+	"16": {
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害",
+		"exprId": 1080,
+		"id": 1108,
+		"level": 1,
+		"name": "星辰一击Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill002.png",
+		"type": 2,
+		"uId": 16
+	},
+	"17": {
+		"addFeature": [
+			49100
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御",
+		"exprId": 1081,
+		"id": 1109,
+		"level": 1,
+		"name": "星辰一击Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill003.png",
+		"type": 2,
+		"uId": 17
+	},
+	"18": {
+		"addFeature": [
+			49100,
+			49101
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复",
+		"exprId": 1082,
+		"id": 1110,
+		"level": 1,
+		"name": "星辰一击Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill004.png",
+		"type": 2,
+		"uId": 18
+	},
+	"19": {
+		"addFeature": [
+			49100,
+			49101,
+			49102
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒",
+		"exprId": 1083,
+		"id": 1111,
+		"level": 1,
+		"name": "星辰一击Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill005.png",
+		"type": 2,
+		"uId": 19
+	},
+	"20": {
+		"addFeature": [
+			49100,
+			49101,
+			49102,
+			49103
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒，禁止目标星辰护盾恢复3秒",
+		"exprId": 1084,
+		"id": 1112,
+		"level": 1,
+		"name": "星辰一击Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill006.png",
+		"type": 2,
+		"uId": 20
+	},
+	"21": {
+		"addFeature": [
+			52034
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害,有30%的概率使目标陷入【辰·火殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 1091,
+		"id": 1113,
+		"level": 1,
+		"name": "焚天烈炎",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill001.png",
+		"type": 2,
+		"uId": 21
+	},
+	"22": {
+		"addFeature": [
+			52035
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害，有30%的概率使目标陷入【辰·水殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 1092,
+		"id": 1114,
+		"level": 1,
+		"name": "水幕天华",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill002.png",
+		"type": 2,
+		"uId": 22
+	},
+	"23": {
+		"addFeature": [
+			100002,
+			666,
+			43106
+		],
+		"battle": 2000,
+		"damageMultiple": 1300,
+		"des": "剑气狂舞，对前方区域的敌人造成剑气伤害（最多命中2个目标）",
+		"exprId": 2000,
+		"id": 1200,
+		"level": 1,
+		"name": "普攻",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2000.png",
+		"type": 1,
+		"uId": 23,
+		"upDes": "职业1转升级：目标数增加2"
+	},
+	"24": {
+		"addFeature": [
+			100002,
+			666,
+			43106
+		],
+		"battle": 4000,
+		"damageMultiple": 1300,
+		"des": "剑气狂舞，对前方区域的敌人造成剑气伤害（最多命中4个目标）",
+		"exprId": 2100,
+		"id": 1200,
+		"level": 2,
+		"name": "一转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2000.png",
+		"type": 1,
+		"uId": 24,
+		"upDes": "职业2转升级：伤害提高20%"
+	},
+	"25": {
+		"addFeature": [
+			100002,
+			666,
+			43106
+		],
+		"battle": 6000,
+		"damageMultiple": 1560,
+		"des": "剑气狂舞，对前方区域的敌人造成剑气伤害（最多命中4个目标）",
+		"exprId": 2100,
+		"id": 1200,
+		"level": 3,
+		"name": "二转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2000.png",
+		"type": 1,
+		"uId": 25,
+		"upDes": "职业3转升级：攻击间隔缩短20%"
+	},
+	"26": {
+		"addFeature": [
+			100002,
+			666,
+			43106
+		],
+		"battle": 8000,
+		"damageMultiple": 1560,
+		"des": "剑气狂舞，对前方区域的敌人造成剑气伤害（最多命中4个目标）",
+		"exprId": 2300,
+		"id": 1200,
+		"level": 4,
+		"name": "三转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2000.png",
+		"type": 1,
+		"uId": 26
+	},
+	"27": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "挥剑向前冲锋，对路径上的敌人造成伤害（最多命中6个目标）",
+		"exprId": 2010,
+		"id": 1201,
+		"level": 1,
+		"name": "拔剑术",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2001.png",
+		"skillTag": "位移",
+		"type": 2,
+		"uId": 27
+	},
+	"28": {
+		"addFeature": [
+			201001
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "后跳并发射出两道锋利的剑气，对路径上的敌人造成伤害并减速敌人（最多命中6个目标）",
+		"exprId": 2020,
+		"id": 1202,
+		"level": 1,
+		"name": "双子剑芒",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2002.png",
+		"skillTag": "控制",
+		"type": 2,
+		"uId": 28
+	},
+	"29": {
+		"addFeature": [
+			204001,
+			204002
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤虚空剑气，对敌人所在区域进行致命打击，并眩晕敌人（最多命中6个目标）",
+		"exprId": 2060,
+		"id": 1203,
+		"level": 1,
+		"name": "虚空剑阵",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2004.png",
+		"skillTag": "控制",
+		"type": 2,
+		"uId": 29
+	},
+	"30": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "御剑穿梭，对区域内的敌人造成多段伤害（最多命中6个目标）",
+		"exprId": 2040,
+		"id": 1204,
+		"level": 1,
+		"name": "天外飞仙",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2003.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 30
+	},
+	"31": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "在敌人身边周围生成无数剑气，持续落下，造成持续伤害（最多命中8个目标）",
+		"exprId": 2050,
+		"id": 1205,
+		"level": 1,
+		"name": "万剑诀",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2006.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 31
+	},
+	"32": {
+		"addFeature": [
+			203001
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "激发一身剑气，以自身为中心向心，向外发射，击伤范围内的所有敌人，并提高自身的伤害（最多命中8个目标）",
+		"exprId": 2030,
+		"id": 1206,
+		"level": 1,
+		"name": "无双剑轮",
+		"skillIcon": "Texture/UI/UIIcon/Sm/skill2005.png",
+		"skillTag": "强化",
+		"type": 2,
+		"uId": 32
+	},
+	"33": {
+		"addFeature": [
+			46640
+		],
+		"damageMultiple": 20000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成200%技能伤害，并且使目标陷入2秒的迟缓状态，减速30%，冷却75秒",
+		"exprId": 2070,
+		"id": 1207,
+		"level": 1,
+		"name": "万剑归宗Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 33
+	},
+	"34": {
+		"addFeature": [
+			46641
+		],
+		"damageMultiple": 22000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成220%技能伤害，并且使目标陷入2秒的迟缓状态，减速35%，冷却65秒",
+		"exprId": 2071,
+		"id": 1207,
+		"level": 2,
+		"name": "万剑归宗Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 34
+	},
+	"35": {
+		"addFeature": [
+			46642
+		],
+		"damageMultiple": 24000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成240%技能伤害，并且使目标陷入2秒的迟缓状态，减速40%，冷却55秒",
+		"exprId": 2072,
+		"id": 1207,
+		"level": 3,
+		"name": "万剑归宗Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 35
+	},
+	"36": {
+		"addFeature": [
+			46643
+		],
+		"damageMultiple": 26000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成260%技能伤害，并且使目标陷入3秒的迟缓状态，减速45%，冷却50秒",
+		"exprId": 2073,
+		"id": 1207,
+		"level": 4,
+		"name": "万剑归宗Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 36
+	},
+	"37": {
+		"addFeature": [
+			46644
+		],
+		"damageMultiple": 28000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成280%技能伤害，并且使目标陷入3秒的迟缓状态，减速50%，冷却45秒",
+		"exprId": 2074,
+		"id": 1207,
+		"level": 5,
+		"name": "万剑归宗Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 37
+	},
+	"38": {
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害",
+		"exprId": 2080,
+		"id": 1208,
+		"level": 1,
+		"name": "星辰一击Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill002.png",
+		"type": 2,
+		"uId": 38
+	},
+	"39": {
+		"addFeature": [
+			49100
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御",
+		"exprId": 2081,
+		"id": 1209,
+		"level": 1,
+		"name": "星辰一击Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill003.png",
+		"type": 2,
+		"uId": 39
+	},
+	"40": {
+		"addFeature": [
+			49100,
+			49101
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复",
+		"exprId": 2082,
+		"id": 1210,
+		"level": 1,
+		"name": "星辰一击Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill004.png",
+		"type": 2,
+		"uId": 40
+	},
+	"41": {
+		"addFeature": [
+			49100,
+			49101,
+			49102
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒",
+		"exprId": 2083,
+		"id": 1211,
+		"level": 1,
+		"name": "星辰一击Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill005.png",
+		"type": 2,
+		"uId": 41
+	},
+	"42": {
+		"addFeature": [
+			49100,
+			49101,
+			49102,
+			49103
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒，禁止目标星辰护盾恢复3秒",
+		"exprId": 2084,
+		"id": 1212,
+		"level": 1,
+		"name": "星辰一击Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill006.png",
+		"type": 2,
+		"uId": 42
+	},
+	"43": {
+		"addFeature": [
+			52040
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害,有30%的概率使目标陷入【辰·火殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 2091,
+		"id": 1213,
+		"level": 1,
+		"name": "焚天烈炎",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill001.png",
+		"type": 2,
+		"uId": 43
+	},
+	"44": {
+		"addFeature": [
+			52041
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害，有30%的概率使目标陷入【辰·水殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 2092,
+		"id": 1214,
+		"level": 1,
+		"name": "水幕天华",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill002.png",
+		"type": 2,
+		"uId": 44
+	},
+	"45": {
+		"addFeature": [
+			100003,
+			666,
+			43106
+		],
+		"battle": 2000,
+		"damageMultiple": 1300,
+		"des": "重炮连击，对中远程的敌人进行连续炮击（最多命中2个目标）",
+		"exprId": 3000,
+		"id": 1300,
+		"level": 1,
+		"name": "普攻",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3000.png",
+		"type": 1,
+		"uId": 45,
+		"upDes": "职业1转升级：目标数增加2"
+	},
+	"46": {
+		"addFeature": [
+			100003,
+			666,
+			43106
+		],
+		"battle": 4000,
+		"damageMultiple": 1300,
+		"des": "重炮连击，对中远程的敌人进行连续炮击（最多命中4个目标）",
+		"exprId": 3100,
+		"id": 1300,
+		"level": 2,
+		"name": "一转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3000.png",
+		"type": 1,
+		"uId": 46,
+		"upDes": "职业2转升级：伤害提高20%"
+	},
+	"47": {
+		"addFeature": [
+			100003,
+			666,
+			43106
+		],
+		"battle": 6000,
+		"damageMultiple": 1560,
+		"des": "重炮连击，对中远程的敌人进行连续炮击（最多命中4个目标）",
+		"exprId": 3100,
+		"id": 1300,
+		"level": 3,
+		"name": "二转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3000.png",
+		"type": 1,
+		"uId": 47,
+		"upDes": "职业3转升级：攻击间隔缩短20%"
+	},
+	"48": {
+		"addFeature": [
+			100003,
+			666,
+			43106
+		],
+		"battle": 8000,
+		"damageMultiple": 1560,
+		"des": "重炮连击，对中远程的敌人进行连续炮击（最多命中4个目标）",
+		"exprId": 3300,
+		"id": 1300,
+		"level": 4,
+		"name": "三转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3000.png",
+		"type": 1,
+		"uId": 48
+	},
+	"49": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "蓄力充能，向前方直线区域发射光能弹造成伤害（最多命中6个目标）",
+		"exprId": 3010,
+		"id": 1301,
+		"level": 1,
+		"name": "光能炮",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3001.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 49
+	},
+	"50": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "对前方进行连续散弹射击造成多段范围伤害（最多命中6个目标）",
+		"exprId": 3020,
+		"id": 1302,
+		"level": 1,
+		"name": "散弹喷射",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3002.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 50
+	},
+	"51": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "转身射击，对目标所在区域释放轰炸造成范围伤害（最多命中6个目标）",
+		"exprId": 3030,
+		"id": 1303,
+		"level": 1,
+		"name": "榴弹空袭",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3004.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 51
+	},
+	"52": {
+		"addFeature": [
+			306001
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "向四周投掷爆破手雷造成范围伤害，进入隐身状态并提高移动速度（最多命中6个目标）",
+		"exprId": 3050,
+		"id": 1304,
+		"level": 1,
+		"name": "爆破者手雷",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3003.png",
+		"skillTag": "隐身",
+		"type": 2,
+		"uId": 52
+	},
+	"53": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "跳跃至高空，华丽旋转着向自身下方区域进行扫射造成大量伤害（最多命中8个目标）",
+		"exprId": 3040,
+		"id": 1305,
+		"level": 1,
+		"name": "华丽漫游",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3006.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 53
+	},
+	"54": {
+		"addFeature": [
+			305001
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤并操控机甲，向四周发射能量弹幕造成持续范围伤害，技能释放期间处于霸体并可移动（最多命中8个目标）",
+		"exprId": 3060,
+		"id": 1306,
+		"level": 1,
+		"name": "机甲降临",
+		"skillIcon": "Texture/UI/UIIcon/Wl/skill3005.png",
+		"skillTag": "霸体",
+		"type": 2,
+		"uId": 54
+	},
+	"55": {
+		"addFeature": [
+			46640
+		],
+		"damageMultiple": 20000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成200%技能伤害，并且使目标陷入2秒的迟缓状态，减速30%，冷却75秒",
+		"exprId": 3070,
+		"id": 1307,
+		"level": 1,
+		"name": "万剑归宗Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 55
+	},
+	"56": {
+		"addFeature": [
+			46641
+		],
+		"damageMultiple": 22000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成220%技能伤害，并且使目标陷入2秒的迟缓状态，减速35%，冷却65秒",
+		"exprId": 3071,
+		"id": 1307,
+		"level": 2,
+		"name": "万剑归宗Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 56
+	},
+	"57": {
+		"addFeature": [
+			46642
+		],
+		"damageMultiple": 24000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成240%技能伤害，并且使目标陷入2秒的迟缓状态，减速40%，冷却55秒",
+		"exprId": 3072,
+		"id": 1307,
+		"level": 3,
+		"name": "万剑归宗Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 57
+	},
+	"58": {
+		"addFeature": [
+			46643
+		],
+		"damageMultiple": 26000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成260%技能伤害，并且使目标陷入3秒的迟缓状态，减速45%，冷却50秒",
+		"exprId": 3073,
+		"id": 1307,
+		"level": 4,
+		"name": "万剑归宗Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 58
+	},
+	"59": {
+		"addFeature": [
+			46644
+		],
+		"damageMultiple": 28000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成280%技能伤害，并且使目标陷入3秒的迟缓状态，减速50%，冷却45秒",
+		"exprId": 3074,
+		"id": 1307,
+		"level": 5,
+		"name": "万剑归宗Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 59
+	},
+	"60": {
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害",
+		"exprId": 3080,
+		"id": 1308,
+		"level": 1,
+		"name": "星辰一击Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill002.png",
+		"type": 2,
+		"uId": 60
+	},
+	"61": {
+		"addFeature": [
+			49100
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御",
+		"exprId": 3081,
+		"id": 1309,
+		"level": 1,
+		"name": "星辰一击Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill003.png",
+		"type": 2,
+		"uId": 61
+	},
+	"62": {
+		"addFeature": [
+			49100,
+			49101
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复",
+		"exprId": 3082,
+		"id": 1310,
+		"level": 1,
+		"name": "星辰一击Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill004.png",
+		"type": 2,
+		"uId": 62
+	},
+	"63": {
+		"addFeature": [
+			49100,
+			49101,
+			49102
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒",
+		"exprId": 3083,
+		"id": 1311,
+		"level": 1,
+		"name": "星辰一击Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill005.png",
+		"type": 2,
+		"uId": 63
+	},
+	"64": {
+		"addFeature": [
+			49100,
+			49101,
+			49102,
+			49103
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒，禁止目标星辰护盾恢复3秒",
+		"exprId": 3084,
+		"id": 1312,
+		"level": 1,
+		"name": "星辰一击Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill006.png",
+		"type": 2,
+		"uId": 64
+	},
+	"65": {
+		"addFeature": [
+			52042
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害,有30%的概率使目标陷入【辰·火殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 3091,
+		"id": 1313,
+		"level": 1,
+		"name": "焚天烈炎",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill001.png",
+		"type": 2,
+		"uId": 65
+	},
+	"66": {
+		"addFeature": [
+			52043
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害，有30%的概率使目标陷入【辰·水殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 3092,
+		"id": 1314,
+		"level": 1,
+		"name": "水幕天华",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill002.png",
+		"type": 2,
+		"uId": 66
+	},
+	"67": {
+		"addFeature": [
+			100004,
+			666,
+			43106
+		],
+		"battle": 2000,
+		"damageMultiple": 1300,
+		"des": "蝴蝶飞舞，对中远程的敌人进行连续攻击（最多命中2个目标）",
+		"exprId": 4000,
+		"id": 1400,
+		"level": 1,
+		"name": "普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4000.png",
+		"type": 1,
+		"uId": 67,
+		"upDes": "职业1转升级：目标数增加2"
+	},
+	"68": {
+		"addFeature": [
+			100004,
+			666,
+			43106
+		],
+		"battle": 4000,
+		"damageMultiple": 1300,
+		"des": "蝴蝶飞舞，对中远程的敌人进行连续攻击（最多命中4个目标）",
+		"exprId": 4100,
+		"id": 1400,
+		"level": 2,
+		"name": "一转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4000.png",
+		"type": 1,
+		"uId": 68,
+		"upDes": "职业2转升级：伤害提高20%"
+	},
+	"69": {
+		"addFeature": [
+			100004,
+			666,
+			43106
+		],
+		"battle": 6000,
+		"damageMultiple": 1560,
+		"des": "蝴蝶飞舞，对中远程的敌人进行连续攻击（最多命中4个目标）",
+		"exprId": 4100,
+		"id": 1400,
+		"level": 3,
+		"name": "二转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4000.png",
+		"type": 1,
+		"uId": 69,
+		"upDes": "职业3转升级：攻击间隔缩短20%"
+	},
+	"70": {
+		"addFeature": [
+			100004,
+			666,
+			43106
+		],
+		"battle": 8000,
+		"damageMultiple": 1560,
+		"des": "蝴蝶飞舞，对中远程的敌人进行连续攻击（最多命中4个目标）",
+		"exprId": 4300,
+		"id": 1400,
+		"level": 4,
+		"name": "三转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4000.png",
+		"type": 1,
+		"uId": 70
+	},
+	"71": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤一只老鹰直线冲撞，对路径上的敌人造成伤害（最多命中6个目标）",
+		"exprId": 4010,
+		"id": 1401,
+		"level": 1,
+		"name": "鹰击长空",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4001.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 71
+	},
+	"72": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤三只蝴蝶，对前方区域的敌人造成伤害（最多命中6个目标）",
+		"exprId": 4020,
+		"id": 1402,
+		"level": 1,
+		"name": "灵蝶涌动",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4002.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 72
+	},
+	"73": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "在目标地点召唤一只手持锤子的猫，旋转锤子产生多段伤害（最多命中6个目标）",
+		"exprId": 4030,
+		"id": 1403,
+		"level": 1,
+		"name": "猫咪铁锤",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4003.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 73
+	},
+	"74": {
+		"addFeature": [
+			206001,
+			206002
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤盛放之花在自身周围爆炸造成伤害，剩余的能量会留下治愈法阵，持续产生治疗效果（最多命中6个目标）",
+		"exprId": 4060,
+		"id": 1404,
+		"level": 1,
+		"name": "一花一世界",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4006.png",
+		"skillTag": "治疗",
+		"type": 2,
+		"uId": 74
+	},
+	"75": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤三条鲸鱼跃至身旁，对周围敌人造成伤害（最多命中8个目标）",
+		"exprId": 4050,
+		"id": 1405,
+		"level": 1,
+		"name": "龙门鲸鱼",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4005.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 75
+	},
+	"76": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "召唤密林中的荆棘对自身周围的敌人造成伤害（最多命中8个目标）",
+		"exprId": 4040,
+		"id": 1406,
+		"level": 1,
+		"name": "荆棘密布",
+		"skillIcon": "Texture/UI/UIIcon/Yj/skill4004.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 76
+	},
+	"77": {
+		"addFeature": [
+			46640
+		],
+		"damageMultiple": 20000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成200%技能伤害，并且使目标陷入2秒的迟缓状态，减速30%，冷却75秒",
+		"exprId": 4070,
+		"id": 1407,
+		"level": 1,
+		"name": "万剑归宗Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 77
+	},
+	"78": {
+		"addFeature": [
+			46641
+		],
+		"damageMultiple": 22000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成220%技能伤害，并且使目标陷入2秒的迟缓状态，减速35%，冷却65秒",
+		"exprId": 4071,
+		"id": 1407,
+		"level": 2,
+		"name": "万剑归宗Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 78
+	},
+	"79": {
+		"addFeature": [
+			46642
+		],
+		"damageMultiple": 24000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成240%技能伤害，并且使目标陷入2秒的迟缓状态，减速40%，冷却55秒",
+		"exprId": 4072,
+		"id": 1407,
+		"level": 3,
+		"name": "万剑归宗Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 79
+	},
+	"80": {
+		"addFeature": [
+			46643
+		],
+		"damageMultiple": 26000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成260%技能伤害，并且使目标陷入3秒的迟缓状态，减速45%，冷却50秒",
+		"exprId": 4073,
+		"id": 1407,
+		"level": 4,
+		"name": "万剑归宗Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 80
+	},
+	"81": {
+		"addFeature": [
+			46644
+		],
+		"damageMultiple": 28000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成280%技能伤害，并且使目标陷入3秒的迟缓状态，减速50%，冷却45秒",
+		"exprId": 4074,
+		"id": 1407,
+		"level": 5,
+		"name": "万剑归宗Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 81
+	},
+	"82": {
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害",
+		"exprId": 4080,
+		"id": 1408,
+		"level": 1,
+		"name": "星辰一击Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill002.png",
+		"type": 2,
+		"uId": 82
+	},
+	"83": {
+		"addFeature": [
+			49100
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御",
+		"exprId": 4081,
+		"id": 1409,
+		"level": 1,
+		"name": "星辰一击Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill003.png",
+		"type": 2,
+		"uId": 83
+	},
+	"84": {
+		"addFeature": [
+			49100,
+			49101
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复",
+		"exprId": 4082,
+		"id": 1410,
+		"level": 1,
+		"name": "星辰一击Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill004.png",
+		"type": 2,
+		"uId": 84
+	},
+	"85": {
+		"addFeature": [
+			49100,
+			49101,
+			49102
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒",
+		"exprId": 4083,
+		"id": 1411,
+		"level": 1,
+		"name": "星辰一击Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill005.png",
+		"type": 2,
+		"uId": 85
+	},
+	"86": {
+		"addFeature": [
+			49100,
+			49101,
+			49102,
+			49103
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒，禁止目标星辰护盾恢复3秒",
+		"exprId": 4084,
+		"id": 1412,
+		"level": 1,
+		"name": "星辰一击Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill006.png",
+		"type": 2,
+		"uId": 86
+	},
+	"87": {
+		"addFeature": [
+			52044
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害,有30%的概率使目标陷入【辰·火殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 4091,
+		"id": 1413,
+		"level": 1,
+		"name": "焚天烈炎",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill001.png",
+		"type": 2,
+		"uId": 87
+	},
+	"88": {
+		"addFeature": [
+			52045
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害，有30%的概率使目标陷入【辰·水殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 4092,
+		"id": 1414,
+		"level": 1,
+		"name": "水幕天华",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill002.png",
+		"type": 2,
+		"uId": 88
+	},
+	"89": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 2000,
+		"damageMultiple": 1300,
+		"des": "念气流转，对身边敌人进行多段打击（最多命中2个目标）",
+		"exprId": 5000,
+		"id": 1500,
+		"level": 1,
+		"name": "普攻",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5000.png",
+		"type": 1,
+		"uId": 89,
+		"upDes": "职业1转升级：目标数增加2"
+	},
+	"90": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 4000,
+		"damageMultiple": 1300,
+		"des": "念气流转，对身边敌人进行多段打击（最多命中4个目标）",
+		"exprId": 5100,
+		"id": 1500,
+		"level": 2,
+		"name": "一转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5000.png",
+		"type": 1,
+		"uId": 90,
+		"upDes": "职业2转升级：伤害提高20%"
+	},
+	"91": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 6000,
+		"damageMultiple": 1560,
+		"des": "念气流转，对身边敌人进行多段打击（最多命中4个目标）",
+		"exprId": 5100,
+		"id": 1500,
+		"level": 3,
+		"name": "二转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5000.png",
+		"type": 1,
+		"uId": 91,
+		"upDes": "职业3转升级：攻击间隔缩短20%"
+	},
+	"92": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 8000,
+		"damageMultiple": 1560,
+		"des": "念气流转，对身边敌人进行多段打击（最多命中4个目标）",
+		"exprId": 5300,
+		"id": 1500,
+		"level": 4,
+		"name": "三转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5000.png",
+		"type": 1,
+		"uId": 92
+	},
+	"93": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "跃起用双臂撕裂前方地面，造成小范围伤害（最多命中6个目标）",
+		"exprId": 5010,
+		"id": 1501,
+		"level": 1,
+		"name": "裂石破天",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5001.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 93
+	},
+	"94": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "对前方踢出烈焰强风，造成直接范围伤害（最多命中6个目标）",
+		"exprId": 5020,
+		"id": 1502,
+		"level": 1,
+		"name": "烈火强踢",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5002.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 94
+	},
+	"95": {
+		"addFeature": [
+			506101
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "重创地面释放烈火攻击周围敌人，造成大范围伤害，并提高自身的防御（最多命中6个目标）",
+		"exprId": 5030,
+		"id": 1503,
+		"level": 1,
+		"name": "炽焰蔓延",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5003.png",
+		"skillTag": "增防",
+		"type": 2,
+		"uId": 95
+	},
+	"96": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "跃起召唤双龙幻影攻击前方区域，造成大范围伤害（最多命中6个目标）",
+		"exprId": 5040,
+		"id": 1504,
+		"level": 1,
+		"name": "龙影爆碎",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5004.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 96
+	},
+	"97": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "跃起召唤流星落下，对前方区域造成大范围伤害（最多命中8个目标）",
+		"exprId": 5050,
+		"id": 1505,
+		"level": 1,
+		"name": "陨星落",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5005.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 97
+	},
+	"98": {
+		"addFeature": [
+			506102,
+			506103
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "念气环绕自身，在周围多次穿梭后重重落下，造成大范围伤害，并冰冻敌人，且降低敌人防御（最多命中8个目标）",
+		"exprId": 5060,
+		"id": 1506,
+		"level": 1,
+		"name": "炽焰冲击",
+		"skillIcon": "Texture/UI/UIIcon/Qs/skill5006.png",
+		"skillTag": "冰冻减防",
+		"type": 2,
+		"uId": 98
+	},
+	"99": {
+		"addFeature": [
+			46640
+		],
+		"damageMultiple": 20000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成200%技能伤害，并且使目标陷入2秒的迟缓状态，减速30%，冷却75秒",
+		"exprId": 5070,
+		"id": 1507,
+		"level": 1,
+		"name": "万剑归宗Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 99
+	},
+	"100": {
+		"addFeature": [
+			46641
+		],
+		"damageMultiple": 22000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成220%技能伤害，并且使目标陷入2秒的迟缓状态，减速35%，冷却65秒",
+		"exprId": 5071,
+		"id": 1507,
+		"level": 2,
+		"name": "万剑归宗Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 100
+	},
+	"101": {
+		"addFeature": [
+			46642
+		],
+		"damageMultiple": 24000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成240%技能伤害，并且使目标陷入2秒的迟缓状态，减速40%，冷却55秒",
+		"exprId": 5072,
+		"id": 1507,
+		"level": 3,
+		"name": "万剑归宗Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 101
+	},
+	"102": {
+		"addFeature": [
+			46643
+		],
+		"damageMultiple": 26000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成260%技能伤害，并且使目标陷入3秒的迟缓状态，减速45%，冷却50秒",
+		"exprId": 5073,
+		"id": 1507,
+		"level": 4,
+		"name": "万剑归宗Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 102
+	},
+	"103": {
+		"addFeature": [
+			46644
+		],
+		"damageMultiple": 28000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成280%技能伤害，并且使目标陷入3秒的迟缓状态，减速50%，冷却45秒",
+		"exprId": 5074,
+		"id": 1507,
+		"level": 5,
+		"name": "万剑归宗Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 103
+	},
+	"104": {
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害",
+		"exprId": 5080,
+		"id": 1508,
+		"level": 1,
+		"name": "星辰一击Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill002.png",
+		"type": 2,
+		"uId": 104
+	},
+	"105": {
+		"addFeature": [
+			49100
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御",
+		"exprId": 5081,
+		"id": 1509,
+		"level": 1,
+		"name": "星辰一击Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill003.png",
+		"type": 2,
+		"uId": 105
+	},
+	"106": {
+		"addFeature": [
+			49100,
+			49101
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复",
+		"exprId": 5082,
+		"id": 1510,
+		"level": 1,
+		"name": "星辰一击Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill004.png",
+		"type": 2,
+		"uId": 106
+	},
+	"107": {
+		"addFeature": [
+			49100,
+			49101,
+			49102
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒",
+		"exprId": 5083,
+		"id": 1511,
+		"level": 1,
+		"name": "星辰一击Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill005.png",
+		"type": 2,
+		"uId": 107
+	},
+	"108": {
+		"addFeature": [
+			49100,
+			49101,
+			49102,
+			49103
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒，禁止目标星辰护盾恢复3秒",
+		"exprId": 5084,
+		"id": 1512,
+		"level": 1,
+		"name": "星辰一击Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill006.png",
+		"type": 2,
+		"uId": 108
+	},
+	"109": {
+		"addFeature": [
+			52046
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害,有30%的概率使目标陷入【辰·火殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 5091,
+		"id": 1513,
+		"level": 1,
+		"name": "焚天烈炎",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill001.png",
+		"type": 2,
+		"uId": 109
+	},
+	"110": {
+		"addFeature": [
+			52047
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害，有30%的概率使目标陷入【辰·水殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 5092,
+		"id": 1514,
+		"level": 1,
+		"name": "水幕天华",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill002.png",
+		"type": 2,
+		"uId": 110
+	},
+	"111": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 2000,
+		"damageMultiple": 1300,
+		"des": "魔能涌动，对中远距离敌人进行多段攻击（最多命中2个目标）",
+		"exprId": 6000,
+		"id": 1600,
+		"level": 1,
+		"name": "普攻",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6000.png",
+		"type": 1,
+		"uId": 111,
+		"upDes": "职业1转升级：目标数增加2"
+	},
+	"112": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 4000,
+		"damageMultiple": 1300,
+		"des": "魔能涌动，对中远距离敌人进行多段攻击（最多命中4个目标）",
+		"exprId": 6100,
+		"id": 1600,
+		"level": 2,
+		"name": "一转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6000.png",
+		"type": 1,
+		"uId": 112,
+		"upDes": "职业2转升级：伤害提高20%"
+	},
+	"113": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 6000,
+		"damageMultiple": 1560,
+		"des": "魔能涌动，对中远距离敌人进行多段攻击（最多命中4个目标）",
+		"exprId": 6100,
+		"id": 1600,
+		"level": 3,
+		"name": "二转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6000.png",
+		"type": 1,
+		"uId": 113,
+		"upDes": "职业3转升级：攻击间隔缩短20%"
+	},
+	"114": {
+		"addFeature": [
+			100005,
+			666,
+			43106
+		],
+		"battle": 8000,
+		"damageMultiple": 1560,
+		"des": "魔能涌动，对中远距离敌人进行多段攻击（最多命中4个目标）",
+		"exprId": 6300,
+		"id": 1600,
+		"level": 4,
+		"name": "三转普攻",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6000.png",
+		"type": 1,
+		"uId": 114
+	},
+	"115": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "魔气聚集，唤出蝎影对前方敌人进行冲击，造成小范围伤害（最多命中6个目标）",
+		"exprId": 6010,
+		"id": 1601,
+		"level": 1,
+		"name": "碧蝎惊影",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6001.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 115
+	},
+	"116": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "转身跃起对前方敌人施加重压，造成小范围伤害（最多命中6个目标）",
+		"exprId": 6020,
+		"id": 1602,
+		"level": 1,
+		"name": "普生撼地",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6002.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 116
+	},
+	"117": {
+		"addFeature": [
+			506201
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "化身残影横扫六合，造成大范围伤害，并对范围内敌人造成定身效果（最多命中6个目标）",
+		"exprId": 6030,
+		"id": 1603,
+		"level": 1,
+		"name": "地网天罗",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6003.png",
+		"skillTag": "增防",
+		"type": 2,
+		"uId": 117
+	},
+	"118": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "业障轮回法相加持，对区域内敌人造成大范围伤害（最多命中6个目标）",
+		"exprId": 6040,
+		"id": 1604,
+		"level": 1,
+		"name": "法相天地",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6004.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 118
+	},
+	"119": {
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "跃起唤醒恒河，普渡众生，对区域内敌人造成大范围伤害（最多命中8个目标）",
+		"exprId": 6050,
+		"id": 1605,
+		"level": 1,
+		"name": "恒河劫沙",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6005.png",
+		"skillTag": "群伤",
+		"type": 2,
+		"uId": 119
+	},
+	"120": {
+		"addFeature": [
+			506202,
+			506203
+		],
+		"battle": 3000,
+		"damageMultiple": 1560,
+		"des": "集万千法能于一掌，跃起对区域内敌人进行超度，造成大范围伤害，并眩晕敌人，且增加自身伤害（最多命中8个目标）",
+		"exprId": 6060,
+		"id": 1606,
+		"level": 1,
+		"name": "摩诃无量",
+		"skillIcon": "Texture/UI/UIIcon/Mz/skill6006.png",
+		"skillTag": "冰冻减防",
+		"type": 2,
+		"uId": 120
+	},
+	"121": {
+		"addFeature": [
+			46640
+		],
+		"damageMultiple": 20000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成200%技能伤害，并且使目标陷入2秒的迟缓状态，减速30%，冷却75秒",
+		"exprId": 6070,
+		"id": 1607,
+		"level": 1,
+		"name": "万剑归宗Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 121
+	},
+	"122": {
+		"addFeature": [
+			46641
+		],
+		"damageMultiple": 22000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成220%技能伤害，并且使目标陷入2秒的迟缓状态，减速35%，冷却65秒",
+		"exprId": 6071,
+		"id": 1607,
+		"level": 2,
+		"name": "万剑归宗Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 122
+	},
+	"123": {
+		"addFeature": [
+			46642
+		],
+		"damageMultiple": 24000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成240%技能伤害，并且使目标陷入2秒的迟缓状态，减速40%，冷却55秒",
+		"exprId": 6072,
+		"id": 1607,
+		"level": 3,
+		"name": "万剑归宗Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 123
+	},
+	"124": {
+		"addFeature": [
+			46643
+		],
+		"damageMultiple": 26000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成260%技能伤害，并且使目标陷入3秒的迟缓状态，减速45%，冷却50秒",
+		"exprId": 6073,
+		"id": 1607,
+		"level": 4,
+		"name": "万剑归宗Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 124
+	},
+	"125": {
+		"addFeature": [
+			46644
+		],
+		"damageMultiple": 28000,
+		"des": "以自身灵力为引，凝聚无数剑气从天而降，对8米范围内的敌人造成280%技能伤害，并且使目标陷入3秒的迟缓状态，减速50%，冷却45秒",
+		"exprId": 6074,
+		"id": 1607,
+		"level": 5,
+		"name": "万剑归宗Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Other/relics_skill005",
+		"type": 2,
+		"uId": 125
+	},
+	"126": {
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害",
+		"exprId": 6080,
+		"id": 1608,
+		"level": 1,
+		"name": "星辰一击Lv.1",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill002.png",
+		"type": 2,
+		"uId": 126
+	},
+	"127": {
+		"addFeature": [
+			49100
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御",
+		"exprId": 6081,
+		"id": 1609,
+		"level": 1,
+		"name": "星辰一击Lv.2",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill003.png",
+		"type": 2,
+		"uId": 127
+	},
+	"128": {
+		"addFeature": [
+			49100,
+			49101
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复",
+		"exprId": 6082,
+		"id": 1610,
+		"level": 1,
+		"name": "星辰一击Lv.3",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill004.png",
+		"type": 2,
+		"uId": 128
+	},
+	"129": {
+		"addFeature": [
+			49100,
+			49101,
+			49102
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒",
+		"exprId": 6083,
+		"id": 1611,
+		"level": 1,
+		"name": "星辰一击Lv.4",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill005.png",
+		"type": 2,
+		"uId": 129
+	},
+	"130": {
+		"addFeature": [
+			49100,
+			49101,
+			49102,
+			49103
+		],
+		"damageMultiple": 15000,
+		"des": "汇聚星辰能量，对8米范围内的敌人造成150%的星辰攻击伤害，并在3秒内降低目标20%的星辰防御，永久提升自身星辰能量3%恢复，眩晕目标1秒，禁止目标星辰护盾恢复3秒",
+		"exprId": 6084,
+		"id": 1612,
+		"level": 1,
+		"name": "星辰一击Lv.5",
+		"skillIcon": "Texture/UI/UIIcon/Stars/stars_skill006.png",
+		"type": 2,
+		"uId": 130
+	},
+	"131": {
+		"addFeature": [
+			52048
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害,有30%的概率使目标陷入【辰·火殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 6091,
+		"id": 1613,
+		"level": 1,
+		"name": "焚天烈炎",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill001.png",
+		"type": 2,
+		"uId": 131
+	},
+	"132": {
+		"addFeature": [
+			52049
+		],
+		"damageMultiple": 50000,
+		"des": "日月星辰，万物由此延展，与守护灵的极致力量融合，幻化成缕缕虹光环绕四周，对8米范围内的敌人500%技能伤害，有30%的概率使目标陷入【辰·水殇】状态，降低目标50%的星辰攻击，10%的星辰狂暴几率",
+		"exprId": 6092,
+		"id": 1614,
+		"level": 1,
+		"name": "水幕天华",
+		"skillIcon": "Texture/UI/UIIcon/Other/guardian_skill002.png",
+		"type": 2,
+		"uId": 132
+	},
+	"133": {
+		"damageMultiple": 10000,
+		"exprId": 10101,
+		"id": 10101,
+		"level": 1,
+		"name": "小怪1",
+		"type": 2,
+		"uId": 133
+	},
+	"134": {
+		"damageMultiple": 10000,
+		"exprId": 10201,
+		"id": 10201,
+		"level": 1,
+		"name": "小怪2",
+		"type": 2,
+		"uId": 134
+	},
+	"135": {
+		"damageMultiple": 10000,
+		"exprId": 10301,
+		"id": 10301,
+		"level": 1,
+		"name": "小怪3",
+		"type": 2,
+		"uId": 135
+	},
+	"136": {
+		"damageMultiple": 10000,
+		"exprId": 10401,
+		"id": 10401,
+		"level": 1,
+		"name": "小怪4",
+		"type": 2,
+		"uId": 136
+	},
+	"137": {
+		"damageMultiple": 10000,
+		"exprId": 10501,
+		"id": 10501,
+		"level": 1,
+		"name": "小怪5",
+		"type": 2,
+		"uId": 137
+	},
+	"138": {
+		"damageMultiple": 10000,
+		"exprId": 10601,
+		"id": 10601,
+		"level": 1,
+		"name": "小怪6",
+		"type": 2,
+		"uId": 138
+	},
+	"139": {
+		"damageMultiple": 10000,
+		"exprId": 10701,
+		"id": 10701,
+		"level": 1,
+		"name": "小怪7",
+		"type": 2,
+		"uId": 139
+	},
+	"140": {
+		"damageMultiple": 10000,
+		"exprId": 10801,
+		"id": 10801,
+		"level": 1,
+		"name": "小怪8",
+		"type": 2,
+		"uId": 140
+	},
+	"141": {
+		"damageMultiple": 10000,
+		"exprId": 10901,
+		"id": 10901,
+		"level": 1,
+		"name": "小怪9",
+		"type": 2,
+		"uId": 141
+	},
+	"142": {
+		"damageMultiple": 10000,
+		"exprId": 11001,
+		"id": 11001,
+		"level": 1,
+		"name": "小怪10",
+		"type": 2,
+		"uId": 142
+	},
+	"143": {
+		"damageMultiple": 10000,
+		"exprId": 11101,
+		"id": 11101,
+		"level": 1,
+		"name": "小怪11",
+		"type": 2,
+		"uId": 143
+	},
+	"144": {
+		"damageMultiple": 10000,
+		"exprId": 11201,
+		"id": 11201,
+		"level": 1,
+		"name": "小怪12",
+		"type": 2,
+		"uId": 144
+	},
+	"145": {
+		"damageMultiple": 10000,
+		"exprId": 11301,
+		"id": 11301,
+		"level": 1,
+		"name": "小怪13",
+		"type": 2,
+		"uId": 145
+	},
+	"146": {
+		"damageMultiple": 10000,
+		"exprId": 11401,
+		"id": 11401,
+		"level": 1,
+		"name": "小怪14",
+		"type": 2,
+		"uId": 146
+	},
+	"147": {
+		"damageMultiple": 10000,
+		"exprId": 11501,
+		"id": 11501,
+		"level": 1,
+		"name": "小怪15",
+		"type": 2,
+		"uId": 147
+	},
+	"148": {
+		"damageMultiple": 10000,
+		"exprId": 11601,
+		"id": 11601,
+		"level": 1,
+		"name": "小怪16",
+		"type": 2,
+		"uId": 148
+	},
+	"149": {
+		"damageMultiple": 10000,
+		"exprId": 11701,
+		"id": 11701,
+		"level": 1,
+		"name": "小怪17",
+		"type": 2,
+		"uId": 149
+	},
+	"150": {
+		"damageMultiple": 10000,
+		"exprId": 11801,
+		"id": 11801,
+		"level": 1,
+		"name": "小怪18",
+		"type": 2,
+		"uId": 150
+	},
+	"151": {
+		"damageMultiple": 10000,
+		"exprId": 11901,
+		"id": 11901,
+		"level": 1,
+		"name": "小怪19",
+		"type": 2,
+		"uId": 151
+	},
+	"152": {
+		"damageMultiple": 10000,
+		"exprId": 12001,
+		"id": 12001,
+		"level": 1,
+		"name": "小怪20",
+		"type": 2,
+		"uId": 152
+	},
+	"153": {
+		"damageMultiple": 10000,
+		"exprId": 12101,
+		"id": 12101,
+		"level": 1,
+		"name": "小怪21",
+		"type": 2,
+		"uId": 153
+	},
+	"154": {
+		"damageMultiple": 10000,
+		"exprId": 12201,
+		"id": 12201,
+		"level": 1,
+		"name": "小怪22",
+		"type": 2,
+		"uId": 154
+	},
+	"155": {
+		"damageMultiple": 10000,
+		"exprId": 12301,
+		"id": 12301,
+		"level": 1,
+		"name": "小怪23",
+		"type": 2,
+		"uId": 155
+	},
+	"156": {
+		"damageMultiple": 10000,
+		"exprId": 12401,
+		"id": 12401,
+		"level": 1,
+		"name": "小怪24",
+		"type": 2,
+		"uId": 156
+	},
+	"157": {
+		"damageMultiple": 10000,
+		"exprId": 12501,
+		"id": 12501,
+		"level": 1,
+		"name": "小怪25",
+		"type": 2,
+		"uId": 157
+	},
+	"158": {
+		"damageMultiple": 10000,
+		"exprId": 12601,
+		"id": 12601,
+		"level": 1,
+		"name": "小怪26",
+		"type": 2,
+		"uId": 158
+	},
+	"159": {
+		"damageMultiple": 10000,
+		"exprId": 12701,
+		"id": 12701,
+		"level": 1,
+		"name": "小怪27",
+		"type": 2,
+		"uId": 159
+	},
+	"160": {
+		"damageMultiple": 10000,
+		"exprId": 12801,
+		"id": 12801,
+		"level": 1,
+		"name": "小怪28",
+		"type": 2,
+		"uId": 160
+	},
+	"161": {
+		"damageMultiple": 10000,
+		"exprId": 12901,
+		"id": 12901,
+		"level": 1,
+		"name": "小怪29",
+		"type": 2,
+		"uId": 161
+	},
+	"162": {
+		"damageMultiple": 10000,
+		"exprId": 13001,
+		"id": 13001,
+		"level": 1,
+		"name": "小怪30",
+		"type": 2,
+		"uId": 162
+	},
+	"163": {
+		"damageMultiple": 10000,
+		"exprId": 13101,
+		"id": 13101,
+		"level": 1,
+		"name": "小怪31",
+		"type": 2,
+		"uId": 163
+	},
+	"164": {
+		"damageMultiple": 10000,
+		"exprId": 13201,
+		"id": 13201,
+		"level": 1,
+		"name": "小怪32",
+		"type": 2,
+		"uId": 164
+	},
+	"165": {
+		"damageMultiple": 10000,
+		"exprId": 13301,
+		"id": 13301,
+		"level": 1,
+		"name": "小怪33",
+		"type": 2,
+		"uId": 165
+	},
+	"166": {
+		"damageMultiple": 10000,
+		"exprId": 13401,
+		"id": 13401,
+		"level": 1,
+		"name": "小怪34",
+		"type": 2,
+		"uId": 166
+	},
+	"167": {
+		"damageMultiple": 10000,
+		"exprId": 13501,
+		"id": 13501,
+		"level": 1,
+		"name": "小怪35",
+		"type": 2,
+		"uId": 167
+	},
+	"168": {
+		"damageMultiple": 10000,
+		"exprId": 13601,
+		"id": 13601,
+		"level": 1,
+		"name": "小怪36",
+		"type": 2,
+		"uId": 168
+	},
+	"169": {
+		"damageMultiple": 10000,
+		"exprId": 13701,
+		"id": 13701,
+		"level": 1,
+		"name": "小怪37",
+		"type": 2,
+		"uId": 169
+	},
+	"170": {
+		"damageMultiple": 10000,
+		"exprId": 13801,
+		"id": 13801,
+		"level": 1,
+		"name": "小怪38",
+		"type": 2,
+		"uId": 170
+	},
+	"171": {
+		"damageMultiple": 10000,
+		"exprId": 13901,
+		"id": 13901,
+		"level": 1,
+		"name": "小怪39",
+		"type": 2,
+		"uId": 171
+	},
+	"172": {
+		"damageMultiple": 10000,
+		"exprId": 14001,
+		"id": 14001,
+		"level": 1,
+		"name": "小怪40",
+		"type": 2,
+		"uId": 172
+	},
+	"173": {
+		"damageMultiple": 10000,
+		"exprId": 14101,
+		"id": 14101,
+		"level": 1,
+		"name": "小怪41",
+		"type": 2,
+		"uId": 173
+	},
+	"174": {
+		"damageMultiple": 10000,
+		"exprId": 14201,
+		"id": 14201,
+		"level": 1,
+		"name": "小怪42",
+		"type": 2,
+		"uId": 174
+	},
+	"175": {
+		"damageMultiple": 10000,
+		"exprId": 14301,
+		"id": 14301,
+		"level": 1,
+		"name": "小怪43",
+		"type": 2,
+		"uId": 175
+	},
+	"176": {
+		"damageMultiple": 10000,
+		"exprId": 14401,
+		"id": 14401,
+		"level": 1,
+		"name": "小怪44",
+		"type": 2,
+		"uId": 176
+	},
+	"177": {
+		"damageMultiple": 10000,
+		"exprId": 14501,
+		"id": 14501,
+		"level": 1,
+		"name": "小怪45",
+		"type": 2,
+		"uId": 177
+	},
+	"178": {
+		"damageMultiple": 10000,
+		"exprId": 14601,
+		"id": 14601,
+		"level": 1,
+		"name": "小怪46",
+		"type": 2,
+		"uId": 178
+	},
+	"179": {
+		"damageMultiple": 10000,
+		"exprId": 14701,
+		"id": 14701,
+		"level": 1,
+		"name": "小怪47",
+		"type": 2,
+		"uId": 179
+	},
+	"180": {
+		"damageMultiple": 10000,
+		"exprId": 14801,
+		"id": 14801,
+		"level": 1,
+		"name": "小怪48",
+		"type": 2,
+		"uId": 180
+	},
+	"181": {
+		"damageMultiple": 10000,
+		"exprId": 15101,
+		"id": 15101,
+		"level": 1,
+		"name": "小鬼子",
+		"type": 2,
+		"uId": 181
+	},
+	"182": {
+		"damageMultiple": 10000,
+		"exprId": 15201,
+		"id": 15201,
+		"level": 1,
+		"name": "小怪52",
+		"type": 2,
+		"uId": 182
+	},
+	"183": {
+		"damageMultiple": 10000,
+		"exprId": 15301,
+		"id": 15301,
+		"level": 1,
+		"name": "小怪53",
+		"type": 2,
+		"uId": 183
+	},
+	"184": {
+		"damageMultiple": 10000,
+		"exprId": 15401,
+		"id": 15401,
+		"level": 1,
+		"name": "小怪54",
+		"type": 2,
+		"uId": 184
+	},
+	"185": {
+		"damageMultiple": 10000,
+		"exprId": 15501,
+		"id": 15501,
+		"level": 1,
+		"name": "小怪55",
+		"type": 2,
+		"uId": 185
+	},
+	"186": {
+		"damageMultiple": 10000,
+		"exprId": 15601,
+		"id": 15601,
+		"level": 1,
+		"name": "小怪56",
+		"type": 2,
+		"uId": 186
+	},
+	"187": {
+		"damageMultiple": 10000,
+		"exprId": 15701,
+		"id": 15701,
+		"level": 1,
+		"name": "小怪57",
+		"type": 2,
+		"uId": 187
+	},
+	"188": {
+		"damageMultiple": 10000,
+		"exprId": 15801,
+		"id": 15801,
+		"level": 1,
+		"name": "小怪58",
+		"type": 2,
+		"uId": 188
+	},
+	"189": {
+		"damageMultiple": 10000,
+		"exprId": 16601,
+		"id": 16601,
+		"level": 1,
+		"name": "小鬼",
+		"type": 2,
+		"uId": 189
+	},
+	"190": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30101,
+		"id": 30101,
+		"level": 1,
+		"name": "boss1",
+		"type": 2,
+		"uId": 190
+	},
+	"191": {
+		"damageMultiple": 10000,
+		"exprId": 30102,
+		"id": 30102,
+		"level": 1,
+		"name": "boss1",
+		"type": 2,
+		"uId": 191
+	},
+	"192": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30201,
+		"id": 30201,
+		"level": 1,
+		"name": "boss2",
+		"type": 2,
+		"uId": 192
+	},
+	"193": {
+		"damageMultiple": 10000,
+		"exprId": 30202,
+		"id": 30202,
+		"level": 1,
+		"name": "boss2",
+		"type": 2,
+		"uId": 193
+	},
+	"194": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30301,
+		"id": 30301,
+		"level": 1,
+		"name": "boss3",
+		"type": 2,
+		"uId": 194
+	},
+	"195": {
+		"damageMultiple": 10000,
+		"exprId": 30302,
+		"id": 30302,
+		"level": 1,
+		"name": "boss3",
+		"type": 2,
+		"uId": 195
+	},
+	"196": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30401,
+		"id": 30401,
+		"level": 1,
+		"name": "boss4",
+		"type": 2,
+		"uId": 196
+	},
+	"197": {
+		"damageMultiple": 10000,
+		"exprId": 30402,
+		"id": 30402,
+		"level": 1,
+		"name": "boss4",
+		"type": 2,
+		"uId": 197
+	},
+	"198": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30501,
+		"id": 30501,
+		"level": 1,
+		"name": "boss5",
+		"type": 2,
+		"uId": 198
+	},
+	"199": {
+		"damageMultiple": 10000,
+		"exprId": 30502,
+		"id": 30502,
+		"level": 1,
+		"name": "boss5",
+		"type": 2,
+		"uId": 199
+	},
+	"200": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30601,
+		"id": 30601,
+		"level": 1,
+		"name": "心魔技能01",
+		"type": 2,
+		"uId": 200
+	},
+	"201": {
+		"damageMultiple": 10000,
+		"exprId": 30602,
+		"id": 30602,
+		"level": 1,
+		"name": "心魔技能02",
+		"type": 2,
+		"uId": 201
+	},
+	"202": {
+		"damageMultiple": 10000,
+		"exprId": 30603,
+		"id": 30603,
+		"level": 1,
+		"name": "心魔技能03",
+		"type": 2,
+		"uId": 202
+	},
+	"203": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30701,
+		"id": 30701,
+		"level": 1,
+		"name": "boss7",
+		"type": 2,
+		"uId": 203
+	},
+	"204": {
+		"damageMultiple": 10000,
+		"exprId": 30702,
+		"id": 30702,
+		"level": 1,
+		"name": "boss7",
+		"type": 2,
+		"uId": 204
+	},
+	"205": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30801,
+		"id": 30801,
+		"level": 1,
+		"name": "boss8",
+		"type": 2,
+		"uId": 205
+	},
+	"206": {
+		"damageMultiple": 10000,
+		"exprId": 30802,
+		"id": 30802,
+		"level": 1,
+		"name": "boss8",
+		"type": 2,
+		"uId": 206
+	},
+	"207": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 30901,
+		"id": 30901,
+		"level": 1,
+		"name": "boss9",
+		"type": 2,
+		"uId": 207
+	},
+	"208": {
+		"damageMultiple": 10000,
+		"exprId": 30902,
+		"id": 30902,
+		"level": 1,
+		"name": "boss9",
+		"type": 2,
+		"uId": 208
+	},
+	"209": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31001,
+		"id": 31001,
+		"level": 1,
+		"name": "boss10",
+		"type": 2,
+		"uId": 209
+	},
+	"210": {
+		"damageMultiple": 10000,
+		"exprId": 31002,
+		"id": 31002,
+		"level": 1,
+		"name": "boss10",
+		"type": 2,
+		"uId": 210
+	},
+	"211": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31101,
+		"id": 31101,
+		"level": 1,
+		"name": "boss11",
+		"type": 2,
+		"uId": 211
+	},
+	"212": {
+		"damageMultiple": 10000,
+		"exprId": 31102,
+		"id": 31102,
+		"level": 1,
+		"name": "boss11",
+		"type": 2,
+		"uId": 212
+	},
+	"213": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31201,
+		"id": 31201,
+		"level": 1,
+		"name": "boss12",
+		"type": 2,
+		"uId": 213
+	},
+	"214": {
+		"damageMultiple": 10000,
+		"exprId": 31202,
+		"id": 31202,
+		"level": 1,
+		"name": "boss12",
+		"type": 2,
+		"uId": 214
+	},
+	"215": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31301,
+		"id": 31301,
+		"level": 1,
+		"name": "boss13",
+		"type": 2,
+		"uId": 215
+	},
+	"216": {
+		"damageMultiple": 10000,
+		"exprId": 31302,
+		"id": 31302,
+		"level": 1,
+		"name": "boss13",
+		"type": 2,
+		"uId": 216
+	},
+	"217": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31401,
+		"id": 31401,
+		"level": 1,
+		"name": "boss14",
+		"type": 2,
+		"uId": 217
+	},
+	"218": {
+		"damageMultiple": 10000,
+		"exprId": 31402,
+		"id": 31402,
+		"level": 1,
+		"name": "boss14",
+		"type": 2,
+		"uId": 218
+	},
+	"219": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31501,
+		"id": 31501,
+		"level": 1,
+		"name": "boss15",
+		"type": 2,
+		"uId": 219
+	},
+	"220": {
+		"damageMultiple": 10000,
+		"exprId": 31502,
+		"id": 31502,
+		"level": 1,
+		"name": "boss15",
+		"type": 2,
+		"uId": 220
+	},
+	"221": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31601,
+		"id": 31601,
+		"level": 1,
+		"name": "boss16",
+		"type": 2,
+		"uId": 221
+	},
+	"222": {
+		"damageMultiple": 10000,
+		"exprId": 31602,
+		"id": 31602,
+		"level": 1,
+		"name": "boss16",
+		"type": 2,
+		"uId": 222
+	},
+	"223": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31701,
+		"id": 31701,
+		"level": 1,
+		"name": "boss17",
+		"type": 2,
+		"uId": 223
+	},
+	"224": {
+		"damageMultiple": 10000,
+		"exprId": 31702,
+		"id": 31702,
+		"level": 1,
+		"name": "boss17",
+		"type": 2,
+		"uId": 224
+	},
+	"225": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31801,
+		"id": 31801,
+		"level": 1,
+		"name": "boss18",
+		"type": 2,
+		"uId": 225
+	},
+	"226": {
+		"damageMultiple": 10000,
+		"exprId": 31802,
+		"id": 31802,
+		"level": 1,
+		"name": "boss18",
+		"type": 2,
+		"uId": 226
+	},
+	"227": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 31901,
+		"id": 31901,
+		"level": 1,
+		"name": "boss19",
+		"type": 2,
+		"uId": 227
+	},
+	"228": {
+		"damageMultiple": 10000,
+		"exprId": 31902,
+		"id": 31902,
+		"level": 1,
+		"name": "boss19",
+		"type": 2,
+		"uId": 228
+	},
+	"229": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32001,
+		"id": 32001,
+		"level": 1,
+		"name": "boss20",
+		"type": 2,
+		"uId": 229
+	},
+	"230": {
+		"damageMultiple": 10000,
+		"exprId": 32002,
+		"id": 32002,
+		"level": 1,
+		"name": "boss20",
+		"type": 2,
+		"uId": 230
+	},
+	"231": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32101,
+		"id": 32101,
+		"level": 1,
+		"name": "boss21",
+		"type": 2,
+		"uId": 231
+	},
+	"232": {
+		"damageMultiple": 10000,
+		"exprId": 32102,
+		"id": 32102,
+		"level": 1,
+		"name": "boss21",
+		"type": 2,
+		"uId": 232
+	},
+	"233": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32201,
+		"id": 32201,
+		"level": 1,
+		"name": "boss22",
+		"type": 2,
+		"uId": 233
+	},
+	"234": {
+		"damageMultiple": 10000,
+		"exprId": 32202,
+		"id": 32202,
+		"level": 1,
+		"name": "boss22",
+		"type": 2,
+		"uId": 234
+	},
+	"235": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32301,
+		"id": 32301,
+		"level": 1,
+		"name": "boss23",
+		"type": 2,
+		"uId": 235
+	},
+	"236": {
+		"damageMultiple": 10000,
+		"exprId": 32302,
+		"id": 32302,
+		"level": 1,
+		"name": "boss23",
+		"type": 2,
+		"uId": 236
+	},
+	"237": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32401,
+		"id": 32401,
+		"level": 1,
+		"name": "boss24",
+		"type": 2,
+		"uId": 237
+	},
+	"238": {
+		"damageMultiple": 10000,
+		"exprId": 32402,
+		"id": 32402,
+		"level": 1,
+		"name": "boss24",
+		"type": 2,
+		"uId": 238
+	},
+	"239": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32501,
+		"id": 32501,
+		"level": 1,
+		"name": "boss25",
+		"type": 2,
+		"uId": 239
+	},
+	"240": {
+		"damageMultiple": 10000,
+		"exprId": 32502,
+		"id": 32502,
+		"level": 1,
+		"name": "boss25",
+		"type": 2,
+		"uId": 240
+	},
+	"241": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32601,
+		"id": 32601,
+		"level": 1,
+		"name": "boss26",
+		"type": 2,
+		"uId": 241
+	},
+	"242": {
+		"damageMultiple": 10000,
+		"exprId": 32602,
+		"id": 32602,
+		"level": 1,
+		"name": "boss26",
+		"type": 2,
+		"uId": 242
+	},
+	"243": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32701,
+		"id": 32701,
+		"level": 1,
+		"name": "boss27",
+		"type": 2,
+		"uId": 243
+	},
+	"244": {
+		"damageMultiple": 10000,
+		"exprId": 32702,
+		"id": 32702,
+		"level": 1,
+		"name": "boss27",
+		"type": 2,
+		"uId": 244
+	},
+	"245": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32801,
+		"id": 32801,
+		"level": 1,
+		"name": "boss28",
+		"type": 2,
+		"uId": 245
+	},
+	"246": {
+		"damageMultiple": 10000,
+		"exprId": 32802,
+		"id": 32802,
+		"level": 1,
+		"name": "boss28",
+		"type": 2,
+		"uId": 246
+	},
+	"247": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 32901,
+		"id": 32901,
+		"level": 1,
+		"name": "boss29",
+		"type": 2,
+		"uId": 247
+	},
+	"248": {
+		"damageMultiple": 10000,
+		"exprId": 32902,
+		"id": 32902,
+		"level": 1,
+		"name": "boss29",
+		"type": 2,
+		"uId": 248
+	},
+	"249": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33001,
+		"id": 33001,
+		"level": 1,
+		"name": "boss30",
+		"type": 2,
+		"uId": 249
+	},
+	"250": {
+		"damageMultiple": 10000,
+		"exprId": 33002,
+		"id": 33002,
+		"level": 1,
+		"name": "boss30",
+		"type": 2,
+		"uId": 250
+	},
+	"251": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33101,
+		"id": 33101,
+		"level": 1,
+		"name": "boss31",
+		"type": 2,
+		"uId": 251
+	},
+	"252": {
+		"damageMultiple": 10000,
+		"exprId": 33102,
+		"id": 33102,
+		"level": 1,
+		"name": "boss31",
+		"type": 2,
+		"uId": 252
+	},
+	"253": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33201,
+		"id": 33201,
+		"level": 1,
+		"name": "boss32",
+		"type": 2,
+		"uId": 253
+	},
+	"254": {
+		"damageMultiple": 10000,
+		"exprId": 33202,
+		"id": 33202,
+		"level": 1,
+		"name": "boss32",
+		"type": 2,
+		"uId": 254
+	},
+	"255": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33301,
+		"id": 33301,
+		"level": 1,
+		"name": "boss33",
+		"type": 2,
+		"uId": 255
+	},
+	"256": {
+		"damageMultiple": 10000,
+		"exprId": 33302,
+		"id": 33302,
+		"level": 1,
+		"name": "boss33",
+		"type": 2,
+		"uId": 256
+	},
+	"257": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33401,
+		"id": 33401,
+		"level": 1,
+		"name": "boss34",
+		"type": 2,
+		"uId": 257
+	},
+	"258": {
+		"damageMultiple": 10000,
+		"exprId": 33402,
+		"id": 33402,
+		"level": 1,
+		"name": "boss34",
+		"type": 2,
+		"uId": 258
+	},
+	"259": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33501,
+		"id": 33501,
+		"level": 1,
+		"name": "boss35",
+		"type": 2,
+		"uId": 259
+	},
+	"260": {
+		"damageMultiple": 10000,
+		"exprId": 33502,
+		"id": 33502,
+		"level": 1,
+		"name": "boss35",
+		"type": 2,
+		"uId": 260
+	},
+	"261": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33601,
+		"id": 33601,
+		"level": 1,
+		"name": "boss36",
+		"type": 2,
+		"uId": 261
+	},
+	"262": {
+		"damageMultiple": 10000,
+		"exprId": 33602,
+		"id": 33602,
+		"level": 1,
+		"name": "boss36",
+		"type": 2,
+		"uId": 262
+	},
+	"263": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33701,
+		"id": 33701,
+		"level": 1,
+		"name": "boss37",
+		"type": 2,
+		"uId": 263
+	},
+	"264": {
+		"damageMultiple": 10000,
+		"exprId": 33702,
+		"id": 33702,
+		"level": 1,
+		"name": "boss37",
+		"type": 2,
+		"uId": 264
+	},
+	"265": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33801,
+		"id": 33801,
+		"level": 1,
+		"name": "boss38",
+		"type": 2,
+		"uId": 265
+	},
+	"266": {
+		"damageMultiple": 10000,
+		"exprId": 33802,
+		"id": 33802,
+		"level": 1,
+		"name": "boss38",
+		"type": 2,
+		"uId": 266
+	},
+	"267": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 33901,
+		"id": 33901,
+		"level": 1,
+		"name": "boss39",
+		"type": 2,
+		"uId": 267
+	},
+	"268": {
+		"damageMultiple": 10000,
+		"exprId": 33902,
+		"id": 33902,
+		"level": 1,
+		"name": "boss39",
+		"type": 2,
+		"uId": 268
+	},
+	"269": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34001,
+		"id": 34001,
+		"level": 1,
+		"name": "boss40",
+		"type": 2,
+		"uId": 269
+	},
+	"270": {
+		"damageMultiple": 10000,
+		"exprId": 34002,
+		"id": 34002,
+		"level": 1,
+		"name": "boss40",
+		"type": 2,
+		"uId": 270
+	},
+	"271": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34101,
+		"id": 34101,
+		"level": 1,
+		"name": "boss41",
+		"type": 2,
+		"uId": 271
+	},
+	"272": {
+		"damageMultiple": 10000,
+		"exprId": 34102,
+		"id": 34102,
+		"level": 1,
+		"name": "boss41",
+		"type": 2,
+		"uId": 272
+	},
+	"273": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34201,
+		"id": 34201,
+		"level": 1,
+		"name": "boss42",
+		"type": 2,
+		"uId": 273
+	},
+	"274": {
+		"damageMultiple": 10000,
+		"exprId": 34202,
+		"id": 34202,
+		"level": 1,
+		"name": "boss42",
+		"type": 2,
+		"uId": 274
+	},
+	"275": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34301,
+		"id": 34301,
+		"level": 1,
+		"name": "boss43",
+		"type": 2,
+		"uId": 275
+	},
+	"276": {
+		"damageMultiple": 10000,
+		"exprId": 34302,
+		"id": 34302,
+		"level": 1,
+		"name": "boss43",
+		"type": 2,
+		"uId": 276
+	},
+	"277": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34401,
+		"id": 34401,
+		"level": 1,
+		"name": "boss44",
+		"type": 2,
+		"uId": 277
+	},
+	"278": {
+		"damageMultiple": 10000,
+		"exprId": 34402,
+		"id": 34402,
+		"level": 1,
+		"name": "boss44",
+		"type": 2,
+		"uId": 278
+	},
+	"279": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34501,
+		"id": 34501,
+		"level": 1,
+		"name": "boss45",
+		"type": 2,
+		"uId": 279
+	},
+	"280": {
+		"damageMultiple": 10000,
+		"exprId": 34502,
+		"id": 34502,
+		"level": 1,
+		"name": "boss45",
+		"type": 2,
+		"uId": 280
+	},
+	"281": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34601,
+		"id": 34601,
+		"level": 1,
+		"name": "boss46",
+		"type": 2,
+		"uId": 281
+	},
+	"282": {
+		"damageMultiple": 10000,
+		"exprId": 34602,
+		"id": 34602,
+		"level": 1,
+		"name": "boss46",
+		"type": 2,
+		"uId": 282
+	},
+	"283": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34701,
+		"id": 34701,
+		"level": 1,
+		"name": "boss47",
+		"type": 2,
+		"uId": 283
+	},
+	"284": {
+		"damageMultiple": 10000,
+		"exprId": 34702,
+		"id": 34702,
+		"level": 1,
+		"name": "boss47",
+		"type": 2,
+		"uId": 284
+	},
+	"285": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34801,
+		"id": 34801,
+		"level": 1,
+		"name": "boss48",
+		"type": 2,
+		"uId": 285
+	},
+	"286": {
+		"damageMultiple": 10000,
+		"exprId": 34802,
+		"id": 34802,
+		"level": 1,
+		"name": "boss48",
+		"type": 2,
+		"uId": 286
+	},
+	"287": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 34901,
+		"id": 34901,
+		"level": 1,
+		"name": "boss49",
+		"type": 2,
+		"uId": 287
+	},
+	"288": {
+		"damageMultiple": 10000,
+		"exprId": 34902,
+		"id": 34902,
+		"level": 1,
+		"name": "boss49",
+		"type": 2,
+		"uId": 288
+	},
+	"289": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35001,
+		"id": 35001,
+		"level": 1,
+		"name": "boss50",
+		"type": 2,
+		"uId": 289
+	},
+	"290": {
+		"damageMultiple": 10000,
+		"exprId": 35002,
+		"id": 35002,
+		"level": 1,
+		"name": "boss50",
+		"type": 2,
+		"uId": 290
+	},
+	"291": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35101,
+		"id": 35101,
+		"level": 1,
+		"name": "boss51",
+		"type": 2,
+		"uId": 291
+	},
+	"292": {
+		"damageMultiple": 10000,
+		"exprId": 35102,
+		"id": 35102,
+		"level": 1,
+		"name": "boss51",
+		"type": 2,
+		"uId": 292
+	},
+	"293": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35201,
+		"id": 35201,
+		"level": 1,
+		"name": "boss52",
+		"type": 2,
+		"uId": 293
+	},
+	"294": {
+		"damageMultiple": 10000,
+		"exprId": 35202,
+		"id": 35202,
+		"level": 1,
+		"name": "boss52",
+		"type": 2,
+		"uId": 294
+	},
+	"295": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35301,
+		"id": 35301,
+		"level": 1,
+		"name": "boss53",
+		"type": 2,
+		"uId": 295
+	},
+	"296": {
+		"damageMultiple": 10000,
+		"exprId": 35302,
+		"id": 35302,
+		"level": 1,
+		"name": "boss53",
+		"type": 2,
+		"uId": 296
+	},
+	"297": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35401,
+		"id": 35401,
+		"level": 1,
+		"name": "boss54",
+		"type": 2,
+		"uId": 297
+	},
+	"298": {
+		"damageMultiple": 10000,
+		"exprId": 35402,
+		"id": 35402,
+		"level": 1,
+		"name": "boss54",
+		"type": 2,
+		"uId": 298
+	},
+	"299": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35501,
+		"id": 35501,
+		"level": 1,
+		"name": "boss55",
+		"type": 2,
+		"uId": 299
+	},
+	"300": {
+		"damageMultiple": 10000,
+		"exprId": 35502,
+		"id": 35502,
+		"level": 1,
+		"name": "boss55",
+		"type": 2,
+		"uId": 300
+	},
+	"301": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35601,
+		"id": 35601,
+		"level": 1,
+		"name": "boss56",
+		"type": 2,
+		"uId": 301
+	},
+	"302": {
+		"damageMultiple": 10000,
+		"exprId": 35602,
+		"id": 35602,
+		"level": 1,
+		"name": "boss56",
+		"type": 2,
+		"uId": 302
+	},
+	"303": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35701,
+		"id": 35701,
+		"level": 1,
+		"name": "boss57",
+		"type": 2,
+		"uId": 303
+	},
+	"304": {
+		"damageMultiple": 10000,
+		"exprId": 35702,
+		"id": 35702,
+		"level": 1,
+		"name": "boss57",
+		"type": 2,
+		"uId": 304
+	},
+	"305": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35801,
+		"id": 35801,
+		"level": 1,
+		"name": "boss58",
+		"type": 2,
+		"uId": 305
+	},
+	"306": {
+		"damageMultiple": 10000,
+		"exprId": 35802,
+		"id": 35802,
+		"level": 1,
+		"name": "boss58",
+		"type": 2,
+		"uId": 306
+	},
+	"307": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 35901,
+		"id": 35901,
+		"level": 1,
+		"name": "boss59",
+		"type": 2,
+		"uId": 307
+	},
+	"308": {
+		"damageMultiple": 10000,
+		"exprId": 35902,
+		"id": 35902,
+		"level": 1,
+		"name": "boss59",
+		"type": 2,
+		"uId": 308
+	},
+	"309": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 36001,
+		"id": 36001,
+		"level": 1,
+		"name": "boss60",
+		"type": 2,
+		"uId": 309
+	},
+	"310": {
+		"damageMultiple": 10000,
+		"exprId": 36002,
+		"id": 36002,
+		"level": 1,
+		"name": "boss60",
+		"type": 2,
+		"uId": 310
+	},
+	"311": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 36101,
+		"id": 36101,
+		"level": 1,
+		"name": "boss61",
+		"type": 2,
+		"uId": 311
+	},
+	"312": {
+		"damageMultiple": 10000,
+		"exprId": 36102,
+		"id": 36102,
+		"level": 1,
+		"name": "boss61",
+		"type": 2,
+		"uId": 312
+	},
+	"313": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 36201,
+		"id": 36201,
+		"level": 1,
+		"name": "boss62",
+		"type": 2,
+		"uId": 313
+	},
+	"314": {
+		"damageMultiple": 10000,
+		"exprId": 36202,
+		"id": 36202,
+		"level": 1,
+		"name": "boss62",
+		"type": 2,
+		"uId": 314
+	},
+	"315": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 36301,
+		"id": 36301,
+		"level": 1,
+		"name": "boss63",
+		"type": 2,
+		"uId": 315
+	},
+	"316": {
+		"damageMultiple": 10000,
+		"exprId": 36302,
+		"id": 36302,
+		"level": 1,
+		"name": "boss63",
+		"type": 2,
+		"uId": 316
+	},
+	"317": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 36401,
+		"id": 36401,
+		"level": 1,
+		"name": "boss64",
+		"type": 2,
+		"uId": 317
+	},
+	"318": {
+		"damageMultiple": 10000,
+		"exprId": 36402,
+		"id": 36402,
+		"level": 1,
+		"name": "boss64",
+		"type": 2,
+		"uId": 318
+	},
+	"319": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 36501,
+		"id": 36501,
+		"level": 1,
+		"name": "boss65",
+		"type": 2,
+		"uId": 319
+	},
+	"320": {
+		"damageMultiple": 10000,
+		"exprId": 36502,
+		"id": 36502,
+		"level": 1,
+		"name": "boss65",
+		"type": 2,
+		"uId": 320
+	},
+	"321": {
+		"damageMultiple": 10000,
+		"exprId": 36503,
+		"id": 36503,
+		"level": 1,
+		"name": "boss65",
+		"type": 2,
+		"uId": 321
+	},
+	"322": {
+		"damageMultiple": 10000,
+		"exprId": 36504,
+		"id": 36504,
+		"level": 1,
+		"name": "boss65",
+		"type": 2,
+		"uId": 322
+	},
+	"323": {
+		"damageMultiple": 10000,
+		"exprId": 36505,
+		"id": 36505,
+		"level": 1,
+		"name": "boss65",
+		"type": 2,
+		"uId": 323
+	},
+	"324": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310101,
+		"id": 310101,
+		"level": 1,
+		"name": "罗刹-普攻",
+		"type": 2,
+		"uId": 324
+	},
+	"325": {
+		"damageMultiple": 10000,
+		"exprId": 310102,
+		"id": 310102,
+		"level": 1,
+		"name": "罗刹-技能1",
+		"type": 2,
+		"uId": 325
+	},
+	"326": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310161,
+		"id": 310161,
+		"level": 1,
+		"name": "刑天-普攻",
+		"type": 2,
+		"uId": 326
+	},
+	"327": {
+		"damageMultiple": 10000,
+		"exprId": 310162,
+		"id": 310162,
+		"level": 1,
+		"name": "刑天-技能1",
+		"type": 2,
+		"uId": 327
+	},
+	"328": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310181,
+		"id": 310181,
+		"level": 1,
+		"name": "鬼王-普攻",
+		"type": 2,
+		"uId": 328
+	},
+	"329": {
+		"damageMultiple": 10000,
+		"exprId": 310182,
+		"id": 310182,
+		"level": 1,
+		"name": "鬼王-技能1",
+		"type": 2,
+		"uId": 329
+	},
+	"330": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310241,
+		"id": 310241,
+		"level": 1,
+		"name": "梵天-普攻",
+		"type": 2,
+		"uId": 330
+	},
+	"331": {
+		"damageMultiple": 10000,
+		"exprId": 310242,
+		"id": 310242,
+		"level": 1,
+		"name": "梵天-技能1",
+		"type": 2,
+		"uId": 331
+	},
+	"332": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310341,
+		"id": 310341,
+		"level": 1,
+		"name": "影侠-普攻",
+		"type": 2,
+		"uId": 332
+	},
+	"333": {
+		"damageMultiple": 10000,
+		"exprId": 310342,
+		"id": 310342,
+		"level": 1,
+		"name": "影侠-技能1",
+		"type": 2,
+		"uId": 333
+	},
+	"334": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310371,
+		"id": 310371,
+		"level": 1,
+		"name": "黑煞-普攻",
+		"type": 2,
+		"uId": 334
+	},
+	"335": {
+		"damageMultiple": 10000,
+		"exprId": 310372,
+		"id": 310372,
+		"level": 1,
+		"name": "黑煞-技能1",
+		"type": 2,
+		"uId": 335
+	},
+	"336": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310401,
+		"id": 310401,
+		"level": 1,
+		"name": "大黑天-普攻",
+		"type": 2,
+		"uId": 336
+	},
+	"337": {
+		"damageMultiple": 10000,
+		"exprId": 310402,
+		"id": 310402,
+		"level": 1,
+		"name": "大黑天-技能1",
+		"type": 2,
+		"uId": 337
+	},
+	"338": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310441,
+		"id": 310441,
+		"level": 1,
+		"name": "邪灵神-普攻",
+		"type": 2,
+		"uId": 338
+	},
+	"339": {
+		"damageMultiple": 10000,
+		"exprId": 310442,
+		"id": 310442,
+		"level": 1,
+		"name": "邪灵神-技能1",
+		"type": 2,
+		"uId": 339
+	},
+	"340": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310081,
+		"id": 310081,
+		"level": 1,
+		"name": "斧王-普攻",
+		"type": 2,
+		"uId": 340
+	},
+	"341": {
+		"damageMultiple": 10000,
+		"exprId": 310082,
+		"id": 310082,
+		"level": 1,
+		"name": "斧王-技能1",
+		"type": 2,
+		"uId": 341
+	},
+	"342": {
+		"damageMultiple": 10000,
+		"exprId": 310083,
+		"id": 310083,
+		"level": 1,
+		"name": "斧王-技能2",
+		"type": 2,
+		"uId": 342
+	},
+	"343": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310111,
+		"id": 310111,
+		"level": 1,
+		"name": "大天狗-普攻",
+		"type": 2,
+		"uId": 343
+	},
+	"344": {
+		"damageMultiple": 10000,
+		"exprId": 310112,
+		"id": 310112,
+		"level": 1,
+		"name": "大天狗-技能1",
+		"type": 2,
+		"uId": 344
+	},
+	"345": {
+		"damageMultiple": 10000,
+		"exprId": 310113,
+		"id": 310113,
+		"level": 1,
+		"name": "大天狗-技能2",
+		"type": 2,
+		"uId": 345
+	},
+	"346": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310281,
+		"id": 310281,
+		"level": 1,
+		"name": "九头蛇-普攻",
+		"type": 2,
+		"uId": 346
+	},
+	"347": {
+		"damageMultiple": 10000,
+		"exprId": 310282,
+		"id": 310282,
+		"level": 1,
+		"name": "九头蛇-技能1",
+		"type": 2,
+		"uId": 347
+	},
+	"348": {
+		"damageMultiple": 10000,
+		"exprId": 310283,
+		"id": 310283,
+		"level": 1,
+		"name": "九头蛇-技能2",
+		"type": 2,
+		"uId": 348
+	},
+	"349": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310251,
+		"id": 310251,
+		"level": 1,
+		"name": "仙族圣女-普攻",
+		"type": 2,
+		"uId": 349
+	},
+	"350": {
+		"damageMultiple": 10000,
+		"exprId": 310252,
+		"id": 310252,
+		"level": 1,
+		"name": "仙族圣女-技能1",
+		"type": 2,
+		"uId": 350
+	},
+	"351": {
+		"damageMultiple": 10000,
+		"exprId": 310253,
+		"id": 310253,
+		"level": 1,
+		"name": "仙族圣女-技能2",
+		"type": 2,
+		"uId": 351
+	},
+	"352": {
+		"damageMultiple": 10000,
+		"exprId": 310254,
+		"id": 310254,
+		"level": 1,
+		"name": "仙族圣女-技能3",
+		"type": 2,
+		"uId": 352
+	},
+	"353": {
+		"addFeature": [
+			1000
+		],
+		"damageMultiple": 10000,
+		"exprId": 310381,
+		"id": 310381,
+		"level": 1,
+		"name": "魔族圣女-普攻",
+		"type": 2,
+		"uId": 353
+	},
+	"354": {
+		"damageMultiple": 10000,
+		"exprId": 310382,
+		"id": 310382,
+		"level": 1,
+		"name": "魔族圣女-技能1",
+		"type": 2,
+		"uId": 354
+	},
+	"355": {
+		"damageMultiple": 10000,
+		"exprId": 310383,
+		"id": 310383,
+		"level": 1,
+		"name": "魔族圣女-技能2",
+		"type": 2,
+		"uId": 355
+	},
+	"356": {
+		"damageMultiple": 10000,
+		"exprId": 310384,
+		"id": 310384,
+		"level": 1,
+		"name": "魔族圣女-技能3",
+		"type": 2,
+		"uId": 356
+	},
+	"357": {
+		"damageMultiple": 10000,
+		"exprId": 100000,
+		"id": 100000,
+		"level": 1,
+		"name": "战法Hit1",
+		"type": 2,
+		"uId": 357
+	},
+	"358": {
+		"damageMultiple": 10000,
+		"exprId": 100001,
+		"id": 100001,
+		"level": 1,
+		"name": "战法Hit2",
+		"type": 2,
+		"uId": 358
+	},
+	"359": {
+		"damageMultiple": 10000,
+		"exprId": 100002,
+		"id": 100002,
+		"level": 1,
+		"name": "战法Hit3",
+		"type": 2,
+		"uId": 359
+	},
+	"360": {
+		"damageMultiple": 10000,
+		"exprId": 100003,
+		"id": 100003,
+		"level": 1,
+		"name": "战法Hit4",
+		"type": 2,
+		"uId": 360
+	},
+	"361": {
+		"damageMultiple": 10000,
+		"exprId": 100010,
+		"id": 100010,
+		"level": 1,
+		"name": "战法Skill1",
+		"type": 2,
+		"uId": 361
+	},
+	"362": {
+		"damageMultiple": 10000,
+		"exprId": 100020,
+		"id": 100020,
+		"level": 1,
+		"name": "战法Skill2",
+		"type": 2,
+		"uId": 362
+	},
+	"363": {
+		"damageMultiple": 10000,
+		"exprId": 100050,
+		"id": 100030,
+		"level": 1,
+		"name": "战法Skill3",
+		"type": 2,
+		"uId": 363
+	},
+	"364": {
+		"damageMultiple": 10000,
+		"exprId": 100030,
+		"id": 100040,
+		"level": 1,
+		"name": "战法Skill4",
+		"type": 2,
+		"uId": 364
+	},
+	"365": {
+		"damageMultiple": 10000,
+		"exprId": 100060,
+		"id": 100050,
+		"level": 1,
+		"name": "战法Skill5",
+		"type": 2,
+		"uId": 365
+	},
+	"366": {
+		"damageMultiple": 10000,
+		"exprId": 100040,
+		"id": 100060,
+		"level": 1,
+		"name": "战法Skill6",
+		"type": 2,
+		"uId": 366
+	},
+	"367": {
+		"damageMultiple": 10000,
+		"exprId": 200000,
+		"id": 200000,
+		"level": 1,
+		"name": "灵剑Hit1",
+		"type": 2,
+		"uId": 367
+	},
+	"368": {
+		"damageMultiple": 10000,
+		"exprId": 200001,
+		"id": 200001,
+		"level": 1,
+		"name": "灵剑Hit2",
+		"type": 2,
+		"uId": 368
+	},
+	"369": {
+		"damageMultiple": 10000,
+		"exprId": 200002,
+		"id": 200002,
+		"level": 1,
+		"name": "灵剑Hit3",
+		"type": 2,
+		"uId": 369
+	},
+	"370": {
+		"damageMultiple": 10000,
+		"exprId": 200003,
+		"id": 200003,
+		"level": 1,
+		"name": "灵剑Hit4",
+		"type": 2,
+		"uId": 370
+	},
+	"371": {
+		"damageMultiple": 10000,
+		"exprId": 200010,
+		"id": 200010,
+		"level": 1,
+		"name": "灵剑Skill1",
+		"type": 2,
+		"uId": 371
+	},
+	"372": {
+		"damageMultiple": 10000,
+		"exprId": 200020,
+		"id": 200020,
+		"level": 1,
+		"name": "灵剑Skill2",
+		"type": 2,
+		"uId": 372
+	},
+	"373": {
+		"damageMultiple": 10000,
+		"exprId": 200060,
+		"id": 200030,
+		"level": 1,
+		"name": "灵剑Skill3",
+		"type": 2,
+		"uId": 373
+	},
+	"374": {
+		"damageMultiple": 10000,
+		"exprId": 200040,
+		"id": 200040,
+		"level": 1,
+		"name": "灵剑Skill4",
+		"type": 2,
+		"uId": 374
+	},
+	"375": {
+		"damageMultiple": 10000,
+		"exprId": 200050,
+		"id": 200050,
+		"level": 1,
+		"name": "灵剑Skill5",
+		"type": 2,
+		"uId": 375
+	},
+	"376": {
+		"damageMultiple": 10000,
+		"exprId": 200030,
+		"id": 200060,
+		"level": 1,
+		"name": "灵剑Skill6",
+		"type": 2,
+		"uId": 376
+	},
+	"377": {
+		"damageMultiple": 10000,
+		"exprId": 300000,
+		"id": 300000,
+		"level": 1,
+		"name": "神枪Hit1",
+		"type": 2,
+		"uId": 377
+	},
+	"378": {
+		"damageMultiple": 10000,
+		"exprId": 300001,
+		"id": 300001,
+		"level": 1,
+		"name": "神枪Hit2",
+		"type": 2,
+		"uId": 378
+	},
+	"379": {
+		"damageMultiple": 10000,
+		"exprId": 300002,
+		"id": 300002,
+		"level": 1,
+		"name": "神枪Hit3",
+		"type": 2,
+		"uId": 379
+	},
+	"380": {
+		"damageMultiple": 10000,
+		"exprId": 300003,
+		"id": 300003,
+		"level": 1,
+		"name": "神枪Hit4",
+		"type": 2,
+		"uId": 380
+	},
+	"381": {
+		"damageMultiple": 10000,
+		"exprId": 300010,
+		"id": 300010,
+		"level": 1,
+		"name": "神枪Skill1",
+		"type": 2,
+		"uId": 381
+	},
+	"382": {
+		"damageMultiple": 10000,
+		"exprId": 300020,
+		"id": 300020,
+		"level": 1,
+		"name": "神枪Skill2",
+		"type": 2,
+		"uId": 382
+	},
+	"383": {
+		"damageMultiple": 10000,
+		"exprId": 300030,
+		"id": 300030,
+		"level": 1,
+		"name": "神枪Skill3",
+		"type": 2,
+		"uId": 383
+	},
+	"384": {
+		"damageMultiple": 10000,
+		"exprId": 300040,
+		"id": 300040,
+		"level": 1,
+		"name": "神枪Skill4",
+		"type": 2,
+		"uId": 384
+	},
+	"385": {
+		"damageMultiple": 10000,
+		"exprId": 300050,
+		"id": 300050,
+		"level": 1,
+		"name": "神枪Skill5",
+		"type": 2,
+		"uId": 385
+	},
+	"386": {
+		"damageMultiple": 10000,
+		"exprId": 300060,
+		"id": 300060,
+		"level": 1,
+		"name": "神枪Skill6",
+		"type": 2,
+		"uId": 386
+	},
+	"387": {
+		"damageMultiple": 10000,
+		"exprId": 400000,
+		"id": 400000,
+		"level": 1,
+		"name": "召唤Hit1",
+		"type": 2,
+		"uId": 387
+	},
+	"388": {
+		"damageMultiple": 10000,
+		"exprId": 400001,
+		"id": 400001,
+		"level": 1,
+		"name": "召唤Hit2",
+		"type": 2,
+		"uId": 388
+	},
+	"389": {
+		"damageMultiple": 10000,
+		"exprId": 400002,
+		"id": 400002,
+		"level": 1,
+		"name": "召唤Hit3",
+		"type": 2,
+		"uId": 389
+	},
+	"390": {
+		"damageMultiple": 10000,
+		"exprId": 400003,
+		"id": 400003,
+		"level": 1,
+		"name": "召唤Hit4",
+		"type": 2,
+		"uId": 390
+	},
+	"391": {
+		"damageMultiple": 10000,
+		"exprId": 400010,
+		"id": 400010,
+		"level": 1,
+		"name": "召唤Skill1",
+		"type": 2,
+		"uId": 391
+	},
+	"392": {
+		"damageMultiple": 10000,
+		"exprId": 400020,
+		"id": 400020,
+		"level": 1,
+		"name": "召唤Skill2",
+		"type": 2,
+		"uId": 392
+	},
+	"393": {
+		"damageMultiple": 10000,
+		"exprId": 400030,
+		"id": 400030,
+		"level": 1,
+		"name": "召唤Skill3",
+		"type": 2,
+		"uId": 393
+	},
+	"394": {
+		"damageMultiple": 10000,
+		"exprId": 400040,
+		"id": 400040,
+		"level": 1,
+		"name": "召唤Skill4",
+		"type": 2,
+		"uId": 394
+	},
+	"395": {
+		"damageMultiple": 10000,
+		"exprId": 400050,
+		"id": 400050,
+		"level": 1,
+		"name": "召唤Skill5",
+		"type": 2,
+		"uId": 395
+	},
+	"396": {
+		"damageMultiple": 10000,
+		"exprId": 400060,
+		"id": 400060,
+		"level": 1,
+		"name": "召唤Skill6",
+		"type": 2,
+		"uId": 396
+	},
+	"397": {
+		"damageMultiple": 10000,
+		"exprId": 500000,
+		"id": 500000,
+		"level": 1,
+		"name": "狂刀Hit1",
+		"type": 2,
+		"uId": 397
+	},
+	"398": {
+		"damageMultiple": 10000,
+		"exprId": 500001,
+		"id": 500001,
+		"level": 1,
+		"name": "狂刀Hit2",
+		"type": 2,
+		"uId": 398
+	},
+	"399": {
+		"damageMultiple": 10000,
+		"exprId": 500002,
+		"id": 500002,
+		"level": 1,
+		"name": "狂刀Hit3",
+		"type": 2,
+		"uId": 399
+	},
+	"400": {
+		"damageMultiple": 10000,
+		"exprId": 500003,
+		"id": 500003,
+		"level": 1,
+		"name": "狂刀Hit4",
+		"type": 2,
+		"uId": 400
+	},
+	"401": {
+		"damageMultiple": 10000,
+		"exprId": 500010,
+		"id": 500010,
+		"level": 1,
+		"name": "狂刀Skill1",
+		"type": 2,
+		"uId": 401
+	},
+	"402": {
+		"damageMultiple": 10000,
+		"exprId": 500020,
+		"id": 500020,
+		"level": 1,
+		"name": "狂刀Skill2_1",
+		"type": 2,
+		"uId": 402
+	},
+	"403": {
+		"damageMultiple": 10000,
+		"exprId": 500021,
+		"id": 500021,
+		"level": 1,
+		"name": "狂刀Skill2_2",
+		"type": 2,
+		"uId": 403
+	},
+	"404": {
+		"damageMultiple": 10000,
+		"exprId": 500022,
+		"id": 500022,
+		"level": 1,
+		"name": "狂刀Skill2_3",
+		"type": 2,
+		"uId": 404
+	},
+	"405": {
+		"damageMultiple": 10000,
+		"exprId": 500030,
+		"id": 500030,
+		"level": 1,
+		"name": "狂刀Skill3",
+		"type": 2,
+		"uId": 405
+	},
+	"406": {
+		"damageMultiple": 10000,
+		"exprId": 500040,
+		"id": 500040,
+		"level": 1,
+		"name": "狂刀Skill4",
+		"type": 2,
+		"uId": 406
+	},
+	"407": {
+		"damageMultiple": 10000,
+		"exprId": 500050,
+		"id": 500050,
+		"level": 1,
+		"name": "狂刀Skill5",
+		"type": 2,
+		"uId": 407
+	},
+	"408": {
+		"damageMultiple": 10000,
+		"exprId": 500060,
+		"id": 500060,
+		"level": 1,
+		"name": "狂刀Skill6",
+		"type": 2,
+		"uId": 408
+	},
+	"409": {
+		"damageMultiple": 10000,
+		"exprId": 60100,
+		"id": 60100,
+		"level": 1,
+		"name": "符鬼-普攻",
+		"type": 2,
+		"uId": 409
+	},
+	"410": {
+		"damageMultiple": 10000,
+		"exprId": 60101,
+		"id": 60101,
+		"level": 1,
+		"name": "符鬼-技能",
+		"type": 2,
+		"uId": 410
+	},
+	"411": {
+		"damageMultiple": 10000,
+		"exprId": 60200,
+		"id": 60200,
+		"level": 1,
+		"name": "狸力-普攻",
+		"type": 2,
+		"uId": 411
+	},
+	"412": {
+		"damageMultiple": 10000,
+		"exprId": 60201,
+		"id": 60201,
+		"level": 1,
+		"name": "狸力-技能",
+		"type": 2,
+		"uId": 412
+	},
+	"413": {
+		"damageMultiple": 10000,
+		"exprId": 60300,
+		"id": 60300,
+		"level": 1,
+		"name": "并封-普攻",
+		"type": 2,
+		"uId": 413
+	},
+	"414": {
+		"damageMultiple": 10000,
+		"exprId": 60301,
+		"id": 60301,
+		"level": 1,
+		"name": "并封-技能",
+		"type": 2,
+		"uId": 414
+	},
+	"415": {
+		"damageMultiple": 10000,
+		"exprId": 60400,
+		"id": 60400,
+		"level": 1,
+		"name": "穷奇-普攻",
+		"type": 2,
+		"uId": 415
+	},
+	"416": {
+		"damageMultiple": 10000,
+		"exprId": 60401,
+		"id": 60401,
+		"level": 1,
+		"name": "穷奇-技能",
+		"type": 2,
+		"uId": 416
+	},
+	"417": {
+		"damageMultiple": 10000,
+		"exprId": 60500,
+		"id": 60500,
+		"level": 1,
+		"name": "天吴-普攻",
+		"type": 2,
+		"uId": 417
+	},
+	"418": {
+		"damageMultiple": 10000,
+		"exprId": 60501,
+		"id": 60501,
+		"level": 1,
+		"name": "天吴-技能",
+		"type": 2,
+		"uId": 418
+	},
+	"419": {
+		"damageMultiple": 10000,
+		"exprId": 60600,
+		"id": 60600,
+		"level": 1,
+		"name": "陆吾-普攻",
+		"type": 2,
+		"uId": 419
+	},
+	"420": {
+		"damageMultiple": 10000,
+		"exprId": 60601,
+		"id": 60601,
+		"level": 1,
+		"name": "陆吾-技能",
+		"type": 2,
+		"uId": 420
+	},
+	"421": {
+		"damageMultiple": 10000,
+		"exprId": 60700,
+		"id": 60700,
+		"level": 1,
+		"name": "毕方-普攻",
+		"type": 2,
+		"uId": 421
+	},
+	"422": {
+		"damageMultiple": 10000,
+		"exprId": 60701,
+		"id": 60701,
+		"level": 1,
+		"name": "毕方-技能",
+		"type": 2,
+		"uId": 422
+	},
+	"423": {
+		"damageMultiple": 10000,
+		"exprId": 60800,
+		"id": 60800,
+		"level": 1,
+		"name": "蛊雕-普攻",
+		"type": 2,
+		"uId": 423
+	},
+	"424": {
+		"damageMultiple": 10000,
+		"exprId": 60801,
+		"id": 60801,
+		"level": 1,
+		"name": "蛊雕-技能",
+		"type": 2,
+		"uId": 424
+	},
+	"425": {
+		"damageMultiple": 10000,
+		"exprId": 60900,
+		"id": 60900,
+		"level": 1,
+		"name": "鲲鹏-普攻",
+		"type": 2,
+		"uId": 425
+	},
+	"426": {
+		"damageMultiple": 10000,
+		"exprId": 60901,
+		"id": 60901,
+		"level": 1,
+		"name": "鲲鹏-技能",
+		"type": 2,
+		"uId": 426
+	},
+	"427": {
+		"damageMultiple": 10000,
+		"exprId": 61000,
+		"id": 61000,
+		"level": 1,
+		"name": "姑获-普攻",
+		"type": 2,
+		"uId": 427
+	},
+	"428": {
+		"damageMultiple": 10000,
+		"exprId": 61001,
+		"id": 61001,
+		"level": 1,
+		"name": "姑获-技能",
+		"type": 2,
+		"uId": 428
+	},
+	"429": {
+		"damageMultiple": 10000,
+		"exprId": 61100,
+		"id": 61100,
+		"level": 1,
+		"name": "神兽麒麟-普攻",
+		"type": 2,
+		"uId": 429
+	},
+	"430": {
+		"damageMultiple": 10000,
+		"exprId": 61101,
+		"id": 61101,
+		"level": 1,
+		"name": "神兽麒麟-技能",
+		"type": 2,
+		"uId": 430
+	},
+	"431": {
+		"damageMultiple": 10000,
+		"exprId": 61200,
+		"id": 61200,
+		"level": 1,
+		"name": "神兽熊猫-普攻",
+		"type": 2,
+		"uId": 431
+	},
+	"432": {
+		"damageMultiple": 10000,
+		"exprId": 61201,
+		"id": 61201,
+		"level": 1,
+		"name": "神兽熊猫-技能",
+		"type": 2,
+		"uId": 432
+	},
+	"433": {
+		"damageMultiple": 10000,
+		"exprId": 61300,
+		"id": 61300,
+		"level": 1,
+		"name": "瑞羊-普攻",
+		"type": 1,
+		"uId": 433
+	},
+	"434": {
+		"damageMultiple": 10000,
+		"exprId": 61301,
+		"id": 61301,
+		"level": 1,
+		"name": "瑞羊-技能",
+		"type": 2,
+		"uId": 434
+	},
+	"435": {
+		"damageMultiple": 10000,
+		"exprId": 61400,
+		"id": 61400,
+		"level": 1,
+		"name": "耳鼠-普攻",
+		"type": 1,
+		"uId": 435
+	},
+	"436": {
+		"damageMultiple": 10000,
+		"exprId": 61401,
+		"id": 61401,
+		"level": 1,
+		"name": "耳鼠-技能",
+		"type": 2,
+		"uId": 436
+	},
+	"437": {
+		"damageMultiple": 10000,
+		"exprId": 61500,
+		"id": 61500,
+		"level": 1,
+		"name": "夜枭-普攻",
+		"type": 1,
+		"uId": 437
+	},
+	"438": {
+		"damageMultiple": 10000,
+		"exprId": 61501,
+		"id": 61501,
+		"level": 1,
+		"name": "夜枭-技能",
+		"type": 2,
+		"uId": 438
+	},
+	"439": {
+		"damageMultiple": 10000,
+		"exprId": 61600,
+		"id": 61600,
+		"level": 1,
+		"name": "天狗-普攻",
+		"type": 1,
+		"uId": 439
+	},
+	"440": {
+		"damageMultiple": 10000,
+		"exprId": 61601,
+		"id": 61601,
+		"level": 1,
+		"name": "天狗-技能",
+		"type": 2,
+		"uId": 440
+	},
+	"441": {
+		"damageMultiple": 10000,
+		"exprId": 61700,
+		"id": 61700,
+		"level": 1,
+		"name": "桃姬-普攻",
+		"type": 1,
+		"uId": 441
+	},
+	"442": {
+		"damageMultiple": 10000,
+		"exprId": 61701,
+		"id": 61701,
+		"level": 1,
+		"name": "桃姬-技能",
+		"type": 2,
+		"uId": 442
+	},
+	"443": {
+		"damageMultiple": 10000,
+		"exprId": 61800,
+		"id": 61800,
+		"level": 1,
+		"name": "祸斗-普攻",
+		"type": 1,
+		"uId": 443
+	},
+	"444": {
+		"damageMultiple": 10000,
+		"exprId": 61801,
+		"id": 61801,
+		"level": 1,
+		"name": "祸斗-技能",
+		"type": 2,
+		"uId": 444
+	},
+	"445": {
+		"damageMultiple": 10000,
+		"exprId": 61900,
+		"id": 61900,
+		"level": 1,
+		"name": "九尾狐-普攻",
+		"type": 1,
+		"uId": 445
+	},
+	"446": {
+		"damageMultiple": 10000,
+		"exprId": 61901,
+		"id": 61901,
+		"level": 1,
+		"name": "九尾狐-技能",
+		"type": 2,
+		"uId": 446
+	},
+	"447": {
+		"damageMultiple": 10000,
+		"exprId": 62000,
+		"id": 62000,
+		"level": 1,
+		"name": "熊猫-普攻",
+		"type": 1,
+		"uId": 447
+	},
+	"448": {
+		"damageMultiple": 10000,
+		"exprId": 62001,
+		"id": 62001,
+		"level": 1,
+		"name": "熊猫-技能",
+		"type": 2,
+		"uId": 448
+	},
+	"449": {
+		"damageMultiple": 10000,
+		"exprId": 62100,
+		"id": 62100,
+		"level": 1,
+		"name": "球女-普攻",
+		"type": 1,
+		"uId": 449
+	},
+	"450": {
+		"damageMultiple": 10000,
+		"exprId": 62101,
+		"id": 62101,
+		"level": 1,
+		"name": "球女-技能",
+		"type": 2,
+		"uId": 450
+	},
+	"451": {
+		"damageMultiple": 10000,
+		"exprId": 62200,
+		"id": 62200,
+		"level": 1,
+		"name": "神犬-普攻",
+		"type": 1,
+		"uId": 451
+	},
+	"452": {
+		"damageMultiple": 10000,
+		"exprId": 62201,
+		"id": 62201,
+		"level": 1,
+		"name": "神犬-技能",
+		"type": 2,
+		"uId": 452
+	},
+	"453": {
+		"damageMultiple": 10000,
+		"exprId": 62300,
+		"id": 62300,
+		"level": 1,
+		"name": "元宵-普攻",
+		"type": 1,
+		"uId": 453
+	},
+	"454": {
+		"damageMultiple": 10000,
+		"exprId": 62301,
+		"id": 62301,
+		"level": 1,
+		"name": "元宵-技能",
+		"type": 2,
+		"uId": 454
+	},
+	"455": {
+		"damageMultiple": 10000,
+		"exprId": 62800,
+		"id": 62800,
+		"level": 1,
+		"name": "白无常-普攻",
+		"type": 1,
+		"uId": 455
+	},
+	"456": {
+		"damageMultiple": 10000,
+		"exprId": 62801,
+		"id": 62801,
+		"level": 1,
+		"name": "白无常-技能",
+		"type": 2,
+		"uId": 456
+	},
+	"457": {
+		"damageMultiple": 10000,
+		"exprId": 62900,
+		"id": 62900,
+		"level": 1,
+		"name": "黑无常-普攻",
+		"type": 1,
+		"uId": 457
+	},
+	"458": {
+		"damageMultiple": 10000,
+		"exprId": 62901,
+		"id": 62901,
+		"level": 1,
+		"name": "黑无常-技能",
+		"type": 2,
+		"uId": 458
+	},
+	"459": {
+		"damageMultiple": 10000,
+		"exprId": 63000,
+		"id": 63000,
+		"level": 1,
+		"name": "黑白郎君-普攻",
+		"type": 1,
+		"uId": 459
+	},
+	"460": {
+		"damageMultiple": 10000,
+		"exprId": 63001,
+		"id": 63001,
+		"level": 1,
+		"name": "黑白郎君-技能",
+		"type": 2,
+		"uId": 460
+	},
+	"461": {
+		"damageMultiple": 10000,
+		"exprId": 63100,
+		"id": 63100,
+		"level": 1,
+		"name": "蜘蛛-普攻",
+		"type": 1,
+		"uId": 461
+	},
+	"462": {
+		"damageMultiple": 10000,
+		"exprId": 63101,
+		"id": 63101,
+		"level": 1,
+		"name": "蜘蛛-技能",
+		"type": 2,
+		"uId": 462
+	},
+	"463": {
+		"damageMultiple": 10000,
+		"exprId": 63200,
+		"id": 63200,
+		"level": 1,
+		"name": "蝙蝠-普攻",
+		"type": 1,
+		"uId": 463
+	},
+	"464": {
+		"damageMultiple": 10000,
+		"exprId": 63201,
+		"id": 63201,
+		"level": 1,
+		"name": "蝙蝠-技能",
+		"type": 2,
+		"uId": 464
+	},
+	"465": {
+		"damageMultiple": 10000,
+		"exprId": 63300,
+		"id": 63300,
+		"level": 1,
+		"name": "兔子-普攻",
+		"type": 1,
+		"uId": 465
+	},
+	"466": {
+		"damageMultiple": 10000,
+		"exprId": 63301,
+		"id": 63301,
+		"level": 1,
+		"name": "兔子-技能",
+		"type": 2,
+		"uId": 466
+	},
+	"467": {
+		"damageMultiple": 10000,
+		"exprId": 63400,
+		"id": 63400,
+		"level": 1,
+		"name": "大鹏-普攻",
+		"type": 1,
+		"uId": 467
+	},
+	"468": {
+		"damageMultiple": 10000,
+		"exprId": 63401,
+		"id": 63401,
+		"level": 1,
+		"name": "大鹏-技能",
+		"type": 2,
+		"uId": 468
+	},
+	"469": {
+		"damageMultiple": 10000,
+		"exprId": 63500,
+		"id": 63500,
+		"level": 1,
+		"name": "圣诞老人-普攻",
+		"type": 1,
+		"uId": 469
+	},
+	"470": {
+		"damageMultiple": 10000,
+		"exprId": 63501,
+		"id": 63501,
+		"level": 1,
+		"name": "圣诞老人-技能",
+		"type": 2,
+		"uId": 470
+	},
+	"471": {
+		"damageMultiple": 10000,
+		"exprId": 63600,
+		"id": 63600,
+		"level": 1,
+		"name": "金猪-普攻",
+		"type": 1,
+		"uId": 471
+	},
+	"472": {
+		"damageMultiple": 10000,
+		"exprId": 63601,
+		"id": 63601,
+		"level": 1,
+		"name": "金猪-技能",
+		"type": 2,
+		"uId": 472
+	},
+	"473": {
+		"damageMultiple": 10000,
+		"exprId": 63700,
+		"id": 63700,
+		"level": 1,
+		"name": "白蛇移植1-普攻",
+		"type": 1,
+		"uId": 473
+	},
+	"474": {
+		"damageMultiple": 10000,
+		"exprId": 63701,
+		"id": 63701,
+		"level": 1,
+		"name": "白蛇移植1-技能",
+		"type": 2,
+		"uId": 474
+	},
+	"475": {
+		"damageMultiple": 10000,
+		"exprId": 63800,
+		"id": 63700,
+		"level": 1,
+		"name": "白蛇移植2-普攻",
+		"type": 1,
+		"uId": 475
+	},
+	"476": {
+		"damageMultiple": 10000,
+		"exprId": 63801,
+		"id": 63701,
+		"level": 1,
+		"name": "白蛇移植2-技能",
+		"type": 2,
+		"uId": 476
+	},
+	"477": {
+		"damageMultiple": 10000,
+		"exprId": 63900,
+		"id": 63700,
+		"level": 1,
+		"name": "白蛇移植3-普攻",
+		"type": 1,
+		"uId": 477
+	},
+	"478": {
+		"damageMultiple": 10000,
+		"exprId": 63901,
+		"id": 63701,
+		"level": 1,
+		"name": "白蛇移植3-技能",
+		"type": 2,
+		"uId": 478
+	},
+	"479": {
+		"damageMultiple": 10000,
+		"exprId": 64000,
+		"id": 64000,
+		"level": 1,
+		"name": "白蛇移植4-普攻",
+		"type": 1,
+		"uId": 479
+	},
+	"480": {
+		"damageMultiple": 10000,
+		"exprId": 64001,
+		"id": 64001,
+		"level": 1,
+		"name": "白蛇移植4-技能",
+		"type": 2,
+		"uId": 480
+	},
+	"481": {
+		"damageMultiple": 10000,
+		"exprId": 64200,
+		"id": 64400,
+		"level": 1,
+		"name": "白蛇移植5-普攻",
+		"type": 1,
+		"uId": 481
+	},
+	"482": {
+		"damageMultiple": 10000,
+		"exprId": 64201,
+		"id": 64401,
+		"level": 1,
+		"name": "白蛇移植5-技能",
+		"type": 2,
+		"uId": 482
+	},
+	"483": {
+		"damageMultiple": 10000,
+		"exprId": 64300,
+		"id": 64400,
+		"level": 1,
+		"name": "白蛇移植6-普攻",
+		"type": 1,
+		"uId": 483
+	},
+	"484": {
+		"damageMultiple": 10000,
+		"exprId": 64301,
+		"id": 64401,
+		"level": 1,
+		"name": "白蛇移植6-技能",
+		"type": 2,
+		"uId": 484
+	},
+	"485": {
+		"damageMultiple": 10000,
+		"exprId": 64400,
+		"id": 64400,
+		"level": 1,
+		"name": "白蛇移植7-普攻",
+		"type": 1,
+		"uId": 485
+	},
+	"486": {
+		"damageMultiple": 10000,
+		"exprId": 64401,
+		"id": 64401,
+		"level": 1,
+		"name": "白蛇移植7-技能",
+		"type": 2,
+		"uId": 486
+	},
+	"487": {
+		"damageMultiple": 10000,
+		"exprId": 64500,
+		"id": 64500,
+		"level": 1,
+		"name": "新年宠物-普攻",
+		"type": 1,
+		"uId": 487
+	},
+	"488": {
+		"damageMultiple": 10000,
+		"exprId": 64501,
+		"id": 64501,
+		"level": 1,
+		"name": "新年宠物-技能",
+		"type": 2,
+		"uId": 488
+	},
+	"489": {
+		"damageMultiple": 10000,
+		"exprId": 33204,
+		"id": 33204,
+		"level": 1,
+		"name": "跨服战场黑影-秒杀",
+		"type": 2,
+		"uId": 489
+	},
+	"490": {
+		"damageMultiple": 10000,
+		"exprId": 33205,
+		"id": 33205,
+		"level": 1,
+		"name": "跨服战场黑影-冲击",
+		"type": 2,
+		"uId": 490
+	},
+	"491": {
+		"damageMultiple": 2000,
+		"exprId": 80050,
+		"id": 80050,
+		"level": 1,
+		"name": "异兽通用登场",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 3,
+		"uId": 491
+	},
+	"492": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 60000,
+		"damageMultiple": 2000,
+		"des": "冰封战神之怒，寒冰魔力原地绽开，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80100,
+		"id": 80100,
+		"level": 1,
+		"name": "冰封大地",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change010.png",
+		"type": 1,
+		"uId": 492
+	},
+	"493": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 72000,
+		"damageMultiple": 2000,
+		"des": "地狱岩魂之怒，万丈流火原地绽开，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80200,
+		"id": 80200,
+		"level": 1,
+		"name": "末日审判",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change020.png",
+		"type": 1,
+		"uId": 493
+	},
+	"494": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 78000,
+		"damageMultiple": 2000,
+		"des": "巫妖魔王之怒，魔贯冽光原地绽开，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80300,
+		"id": 80300,
+		"level": 1,
+		"name": "巫妖魔力",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change030.png",
+		"type": 1,
+		"uId": 494
+	},
+	"495": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 84000,
+		"damageMultiple": 2000,
+		"des": "万仞影刹之怒，万把利刃飞速四溅，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80400,
+		"id": 80400,
+		"level": 1,
+		"name": "万仞影刹",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 495
+	},
+	"496": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 84000,
+		"damageMultiple": 2000,
+		"des": "巫族魔姬之怒，魔龙咆哮，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80500,
+		"id": 80500,
+		"level": 1,
+		"name": "巫族魔姬",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 496
+	},
+	"497": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 84000,
+		"damageMultiple": 2000,
+		"des": "六耳猢狲之怒，挥棒碎地翻天覆海，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80600,
+		"id": 80600,
+		"level": 1,
+		"name": "定海神棒",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 497
+	},
+	"498": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"battle": 96000,
+		"damageMultiple": 2000,
+		"des": "真龙化身之怒，龙之流光原地绽放，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80700,
+		"id": 80700,
+		"level": 1,
+		"name": "异兽7普攻",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 498
+	},
+	"499": {
+		"addFeature": [
+			1000,
+			51150
+		],
+		"battle": 15800,
+		"damageMultiple": 20000,
+		"des": "凝聚浑身龙威从口中喷出滔天龙息，对<color=#27d000>8米</color>范围内的敌人造成<color=#27d000>200%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的灼烧状态，每秒掉血<color=#27d000>2%</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80710,
+		"id": 18071,
+		"level": 1,
+		"name": "创世龙鸣",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_73.png",
+		"skillTag": "群伤灼烧",
+		"type": 2,
+		"uId": 499
+	},
+	"500": {
+		"addFeature": [
+			1000,
+			51151
+		],
+		"battle": 19800,
+		"damageMultiple": 21000,
+		"des": "凝聚浑身龙威从口中喷出滔天龙息，对<color=#27d000>8米</color>范围内的敌人造成<color=#27d000>210%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的灼烧状态，每秒掉血<color=#27d000>4%</color>，冷却<color=#27d000>70秒</color>",
+		"exprId": 80711,
+		"id": 18071,
+		"level": 2,
+		"name": "创世龙鸣",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_73.png",
+		"skillTag": "群伤灼烧",
+		"type": 2,
+		"uId": 500
+	},
+	"501": {
+		"addFeature": [
+			1000,
+			51152
+		],
+		"battle": 23800,
+		"damageMultiple": 22000,
+		"des": "凝聚浑身龙威从口中喷出滔天龙息，对<color=#27d000>8米</color>范围内的敌人造成<color=#27d000>220%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的灼烧状态，每秒掉血<color=#27d000>6%</color>，冷却<color=#27d000>65秒</color>",
+		"exprId": 80712,
+		"id": 18071,
+		"level": 3,
+		"name": "创世龙鸣",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_73.png",
+		"skillTag": "群伤灼烧",
+		"type": 2,
+		"uId": 501
+	},
+	"502": {
+		"addFeature": [
+			1000,
+			51153
+		],
+		"battle": 27800,
+		"damageMultiple": 23000,
+		"des": "凝聚浑身龙威从口中喷出滔天龙息，对<color=#27d000>8米</color>范围内的敌人造成<color=#27d000>230%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的灼烧状态，每秒掉血<color=#27d000>8%</color>，冷却<color=#27d000>60秒</color>",
+		"exprId": 80713,
+		"id": 18071,
+		"level": 4,
+		"name": "创世龙鸣",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_73.png",
+		"skillTag": "群伤灼烧",
+		"type": 2,
+		"uId": 502
+	},
+	"503": {
+		"addFeature": [
+			1000,
+			51154
+		],
+		"battle": 31800,
+		"damageMultiple": 24000,
+		"des": "凝聚浑身龙威从口中喷出滔天龙息，对<color=#27d000>8米</color>范围内的敌人造成<color=#27d000>240%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的灼烧状态，每秒掉血<color=#27d000>10%</color>，冷却<color=#27d000>55秒</color>",
+		"exprId": 80714,
+		"id": 18071,
+		"level": 5,
+		"name": "创世龙鸣",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_73.png",
+		"skillTag": "群伤灼烧",
+		"type": 2,
+		"uId": 503
+	},
+	"504": {
+		"addFeature": [
+			1000,
+			51155
+		],
+		"battle": 41600,
+		"damageMultiple": 21000,
+		"des": "召唤天地之间的龙威，引起风云变动，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>210%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的减速状态，减速<color=#27d000>30%</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80720,
+		"id": 18072,
+		"level": 1,
+		"name": "龙之吐息",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_72.png",
+		"skillTag": "群伤减速",
+		"type": 2,
+		"uId": 504
+	},
+	"505": {
+		"addFeature": [
+			1000,
+			51156
+		],
+		"battle": 49600,
+		"damageMultiple": 23000,
+		"des": "召唤天地之间的龙威，引起风云变动，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>230%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的减速状态，减速<color=#27d000>35%</color>，冷却<color=#27d000>70秒</color>",
+		"exprId": 80721,
+		"id": 18072,
+		"level": 2,
+		"name": "龙之吐息",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_72.png",
+		"skillTag": "群伤减速",
+		"type": 2,
+		"uId": 505
+	},
+	"506": {
+		"addFeature": [
+			1000,
+			51157
+		],
+		"battle": 57600,
+		"damageMultiple": 25000,
+		"des": "召唤天地之间的龙威，引起风云变动，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>250%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的减速状态，减速<color=#27d000>40%</color>，冷却<color=#27d000>65秒</color>",
+		"exprId": 80722,
+		"id": 18072,
+		"level": 3,
+		"name": "龙之吐息",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_72.png",
+		"skillTag": "群伤减速",
+		"type": 2,
+		"uId": 506
+	},
+	"507": {
+		"addFeature": [
+			1000,
+			51158
+		],
+		"battle": 65600,
+		"damageMultiple": 28000,
+		"des": "召唤天地之间的龙威，引起风云变动，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>280%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的减速状态，减速<color=#27d000>45%</color>，冷却<color=#27d000>60秒</color>",
+		"exprId": 80723,
+		"id": 18072,
+		"level": 4,
+		"name": "龙之吐息",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_72.png",
+		"skillTag": "群伤减速",
+		"type": 2,
+		"uId": 507
+	},
+	"508": {
+		"addFeature": [
+			1000,
+			51159
+		],
+		"battle": 73600,
+		"damageMultiple": 30000,
+		"des": "召唤天地之间的龙威，引起风云变动，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>300%</color>技能伤害，并且使目标陷入<color=#27d000>2秒</color>的减速状态，减速<color=#27d000>50%</color>，冷却<color=#27d000>55秒</color>",
+		"exprId": 80724,
+		"id": 18072,
+		"level": 5,
+		"name": "龙之吐息",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_72.png",
+		"skillTag": "群伤减速",
+		"type": 2,
+		"uId": 508
+	},
+	"509": {
+		"addFeature": [
+			1000,
+			51160
+		],
+		"battle": 84600,
+		"damageMultiple": 22000,
+		"des": "神龙腾空时化身<color=#27d000>【飞龙神】</color>对<color=#27d000>8米</color>范围内的敌人<color=#27d000>220%</color>技能伤害，并且抵御万物伤害，减少所收到的伤害<color=#27d000>20%</color>，持续<color=#27d000>5秒</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80730,
+		"id": 18073,
+		"level": 1,
+		"name": "龙腾之舞",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_74.png",
+		"skillTag": "群伤减伤",
+		"type": 2,
+		"uId": 509
+	},
+	"510": {
+		"addFeature": [
+			1000,
+			51161
+		],
+		"battle": 105600,
+		"damageMultiple": 24000,
+		"des": "神龙腾空时化身<color=#27d000>【飞龙神】</color>对<color=#27d000>8米</color>范围内的敌人<color=#27d000>240%</color>技能伤害，并且抵御万物伤害，减少所收到的伤害<color=#27d000>25%</color>，持续<color=#27d000>5秒</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80731,
+		"id": 18073,
+		"level": 2,
+		"name": "龙腾之舞",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_74.png",
+		"skillTag": "群伤减伤",
+		"type": 2,
+		"uId": 510
+	},
+	"511": {
+		"addFeature": [
+			1000,
+			51162
+		],
+		"battle": 126600,
+		"damageMultiple": 26000,
+		"des": "神龙腾空时化身<color=#27d000>【飞龙神】</color>对<color=#27d000>8米</color>范围内的敌人<color=#27d000>260%</color>技能伤害，并且抵御万物伤害，减少所收到的伤害<color=#27d000>30%</color>，持续<color=#27d000>5秒</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80732,
+		"id": 18073,
+		"level": 3,
+		"name": "龙腾之舞",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_74.png",
+		"skillTag": "群伤减伤",
+		"type": 2,
+		"uId": 511
+	},
+	"512": {
+		"addFeature": [
+			1000,
+			51163
+		],
+		"battle": 147600,
+		"damageMultiple": 30000,
+		"des": "神龙腾空时化身<color=#27d000>【飞龙神】</color>对<color=#27d000>8米</color>范围内的敌人<color=#27d000>300%</color>技能伤害，并且抵御万物伤害，减少所收到的伤害<color=#27d000>35%</color>，持续<color=#27d000>5秒</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80733,
+		"id": 18073,
+		"level": 4,
+		"name": "龙腾之舞",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_74.png",
+		"skillTag": "群伤减伤",
+		"type": 2,
+		"uId": 512
+	},
+	"513": {
+		"addFeature": [
+			1000,
+			51164
+		],
+		"battle": 168600,
+		"damageMultiple": 32000,
+		"des": "神龙腾空时化身<color=#27d000>【飞龙神】</color>对<color=#27d000>8米</color>范围内的敌人<color=#27d000>320%</color>技能伤害，并且抵御万物伤害，减少所收到的伤害<color=#27d000>40%</color>，持续<color=#27d000>5秒</color>，冷却<color=#27d000>75秒</color>",
+		"exprId": 80734,
+		"id": 18073,
+		"level": 5,
+		"name": "龙腾之舞",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_74.png",
+		"skillTag": "群伤减伤",
+		"type": 2,
+		"uId": 513
+	},
+	"514": {
+		"addFeature": [
+			1000,
+			51165
+		],
+		"battle": 96800,
+		"damageMultiple": 25000,
+		"des": "神龙<color=#27d000>【傲天】</color>游走于天地之间，积攒全部神龙圣力，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>250%</color>技能伤害，变身期间有<color=#27d000>10%</color>的概率触发泯灭状态，血量低于<color=#27d000>20%</color>的敌人将会被直接秒杀，冷却<color=#27d000>75秒</color>",
+		"exprId": 80740,
+		"id": 18074,
+		"level": 1,
+		"name": "龙行千里",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_75.png",
+		"skillTag": "群伤泯灭",
+		"type": 2,
+		"uId": 514
+	},
+	"515": {
+		"addFeature": [
+			1000,
+			51166
+		],
+		"battle": 152800,
+		"damageMultiple": 28000,
+		"des": "神龙<color=#27d000>【傲天】</color>游走于天地之间，积攒全部神龙圣力，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>280%</color>技能伤害，变身期间有<color=#27d000>10%</color>的概率触发泯灭状态，血量低于<color=#27d000>20%</color>的敌人将会被直接秒杀，冷却<color=#27d000>70秒</color>",
+		"exprId": 80741,
+		"id": 18074,
+		"level": 2,
+		"name": "龙行千里",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_75.png",
+		"skillTag": "群伤泯灭",
+		"type": 2,
+		"uId": 515
+	},
+	"516": {
+		"addFeature": [
+			1000,
+			51167
+		],
+		"battle": 208800,
+		"damageMultiple": 32000,
+		"des": "神龙<color=#27d000>【傲天】</color>游走于天地之间，积攒全部神龙圣力，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>320%</color>技能伤害，变身期间有<color=#27d000>10%</color>的概率触发泯灭状态，血量低于<color=#27d000>20%</color>的敌人将会被直接秒杀，冷却<color=#27d000>65秒</color>",
+		"exprId": 80742,
+		"id": 18074,
+		"level": 3,
+		"name": "龙行千里",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_75.png",
+		"skillTag": "群伤泯灭",
+		"type": 2,
+		"uId": 516
+	},
+	"517": {
+		"addFeature": [
+			1000,
+			51168
+		],
+		"battle": 264800,
+		"damageMultiple": 36000,
+		"des": "神龙<color=#27d000>【傲天】</color>游走于天地之间，积攒全部神龙圣力，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>360%</color>技能伤害，变身期间有<color=#27d000>10%</color>的概率触发泯灭状态，血量低于<color=#27d000>20%</color>的敌人将会被直接秒杀，冷却<color=#27d000>60秒</color>",
+		"exprId": 80743,
+		"id": 18074,
+		"level": 4,
+		"name": "龙行千里",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_75.png",
+		"skillTag": "群伤泯灭",
+		"type": 2,
+		"uId": 517
+	},
+	"518": {
+		"addFeature": [
+			1000,
+			51169
+		],
+		"battle": 320800,
+		"damageMultiple": 40000,
+		"des": "神龙<color=#27d000>【傲天】</color>游走于天地之间，积攒全部神龙圣力，对<color=#27d000>8米</color>范围内的敌人<color=#27d000>400%</color>技能伤害，变身期间有<color=#27d000>10%</color>的概率触发泯灭状态，血量低于<color=#27d000>20%</color>的敌人将会被直接秒杀，冷却<color=#27d000>55秒</color>",
+		"exprId": 80744,
+		"id": 18074,
+		"level": 5,
+		"name": "龙行千里",
+		"skillIcon": "Texture/UI/UIIcon/Awake/beast_skill_75.png",
+		"skillTag": "群伤泯灭",
+		"type": 2,
+		"uId": 518
+	},
+	"519": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"damageMultiple": 2000,
+		"des": "巫妖魔王之怒，魔贯冽光原地绽开，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80800,
+		"id": 80800,
+		"level": 1,
+		"name": "异兽8普攻",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 519
+	},
+	"520": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"damageMultiple": 2000,
+		"des": "巫妖魔王之怒，魔贯冽光原地绽开，对周围小范围地方目标造成一定伤害。",
+		"exprId": 80900,
+		"id": 80900,
+		"level": 1,
+		"name": "异兽9普攻",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 520
+	},
+	"521": {
+		"addFeature": [
+			1000,
+			47000
+		],
+		"damageMultiple": 2000,
+		"des": "巫妖魔王之怒，魔贯冽光原地绽开，对周围小范围地方目标造成一定伤害。",
+		"exprId": 81000,
+		"id": 81000,
+		"level": 1,
+		"name": "异兽10普攻",
+		"skillIcon": "Texture/UI/UIIcon/Awake/skill_change013.png",
+		"type": 1,
+		"uId": 521
+	},
+	"522": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70100,
+		"id": 70100,
+		"level": 1,
+		"name": "飞龙普攻-冰-战法",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 522
+	},
+	"523": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70101,
+		"id": 70101,
+		"level": 1,
+		"name": "飞龙skill01-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill01.png",
+		"type": 2,
+		"uId": 523
+	},
+	"524": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70102,
+		"id": 70102,
+		"level": 1,
+		"name": "飞龙skill02-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill02.png",
+		"type": 2,
+		"uId": 524
+	},
+	"525": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70103,
+		"id": 70103,
+		"level": 1,
+		"name": "飞龙skill03-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill03.png",
+		"type": 2,
+		"uId": 525
+	},
+	"526": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70104,
+		"id": 70104,
+		"level": 1,
+		"name": "飞龙skill04-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill04.png",
+		"type": 2,
+		"uId": 526
+	},
+	"527": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70105,
+		"id": 70105,
+		"level": 1,
+		"name": "飞龙普攻-雷",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 527
+	},
+	"528": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70106,
+		"id": 70106,
+		"level": 1,
+		"name": "飞龙skill01-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill11.png",
+		"type": 2,
+		"uId": 528
+	},
+	"529": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70107,
+		"id": 70107,
+		"level": 1,
+		"name": "飞龙skill02-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill12.png",
+		"type": 2,
+		"uId": 529
+	},
+	"530": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70108,
+		"id": 70108,
+		"level": 1,
+		"name": "飞龙skill03-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill13.png",
+		"type": 2,
+		"uId": 530
+	},
+	"531": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70109,
+		"id": 70109,
+		"level": 1,
+		"name": "飞龙skill04-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill14.png",
+		"type": 2,
+		"uId": 531
+	},
+	"532": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70110,
+		"id": 70110,
+		"level": 1,
+		"name": "飞龙普攻-火",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 532
+	},
+	"533": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70111,
+		"id": 70111,
+		"level": 1,
+		"name": "飞龙skill01-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill21.png",
+		"type": 2,
+		"uId": 533
+	},
+	"534": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70112,
+		"id": 70112,
+		"level": 1,
+		"name": "飞龙skill02-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill22.png",
+		"type": 2,
+		"uId": 534
+	},
+	"535": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70113,
+		"id": 70113,
+		"level": 1,
+		"name": "飞龙skill03-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill23.png",
+		"type": 2,
+		"uId": 535
+	},
+	"536": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70114,
+		"id": 70114,
+		"level": 1,
+		"name": "飞龙skill04-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill24.png",
+		"type": 2,
+		"uId": 536
+	},
+	"537": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70115,
+		"id": 70115,
+		"level": 1,
+		"name": "飞龙普攻-暗",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 537
+	},
+	"538": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70116,
+		"id": 70116,
+		"level": 1,
+		"name": "飞龙skill01-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill31.png",
+		"type": 2,
+		"uId": 538
+	},
+	"539": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70117,
+		"id": 70117,
+		"level": 1,
+		"name": "飞龙skill02-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill32.png",
+		"type": 2,
+		"uId": 539
+	},
+	"540": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70118,
+		"id": 70118,
+		"level": 1,
+		"name": "飞龙skill03-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill33.png",
+		"type": 2,
+		"uId": 540
+	},
+	"541": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70119,
+		"id": 70119,
+		"level": 1,
+		"name": "飞龙skill04-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill34.png",
+		"type": 2,
+		"uId": 541
+	},
+	"542": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70200,
+		"id": 70200,
+		"level": 1,
+		"name": "飞龙普攻-冰-灵剑",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 542
+	},
+	"543": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70201,
+		"id": 70201,
+		"level": 1,
+		"name": "飞龙skill01-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill01.png",
+		"type": 2,
+		"uId": 543
+	},
+	"544": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70202,
+		"id": 70202,
+		"level": 1,
+		"name": "飞龙skill02-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill02.png",
+		"type": 2,
+		"uId": 544
+	},
+	"545": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70203,
+		"id": 70203,
+		"level": 1,
+		"name": "飞龙skill03-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill03.png",
+		"type": 2,
+		"uId": 545
+	},
+	"546": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70204,
+		"id": 70204,
+		"level": 1,
+		"name": "飞龙skill04-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill04.png",
+		"type": 2,
+		"uId": 546
+	},
+	"547": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70205,
+		"id": 70205,
+		"level": 1,
+		"name": "飞龙普攻-雷",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 547
+	},
+	"548": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70206,
+		"id": 70206,
+		"level": 1,
+		"name": "飞龙skill01-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill11.png",
+		"type": 2,
+		"uId": 548
+	},
+	"549": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70207,
+		"id": 70207,
+		"level": 1,
+		"name": "飞龙skill02-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill12.png",
+		"type": 2,
+		"uId": 549
+	},
+	"550": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70208,
+		"id": 70208,
+		"level": 1,
+		"name": "飞龙skill03-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill13.png",
+		"type": 2,
+		"uId": 550
+	},
+	"551": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70209,
+		"id": 70209,
+		"level": 1,
+		"name": "飞龙skill04-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill14.png",
+		"type": 2,
+		"uId": 551
+	},
+	"552": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70210,
+		"id": 70210,
+		"level": 1,
+		"name": "飞龙普攻-火",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 552
+	},
+	"553": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70211,
+		"id": 70211,
+		"level": 1,
+		"name": "飞龙skill01-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill21.png",
+		"type": 2,
+		"uId": 553
+	},
+	"554": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70212,
+		"id": 70212,
+		"level": 1,
+		"name": "飞龙skill02-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill22.png",
+		"type": 2,
+		"uId": 554
+	},
+	"555": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70213,
+		"id": 70213,
+		"level": 1,
+		"name": "飞龙skill03-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill23.png",
+		"type": 2,
+		"uId": 555
+	},
+	"556": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70214,
+		"id": 70214,
+		"level": 1,
+		"name": "飞龙skill04-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill24.png",
+		"type": 2,
+		"uId": 556
+	},
+	"557": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70215,
+		"id": 70215,
+		"level": 1,
+		"name": "飞龙普攻-暗",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 557
+	},
+	"558": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70216,
+		"id": 70216,
+		"level": 1,
+		"name": "飞龙skill01-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill31.png",
+		"type": 2,
+		"uId": 558
+	},
+	"559": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70217,
+		"id": 70217,
+		"level": 1,
+		"name": "飞龙skill02-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill32.png",
+		"type": 2,
+		"uId": 559
+	},
+	"560": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70218,
+		"id": 70218,
+		"level": 1,
+		"name": "飞龙skill03-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill33.png",
+		"type": 2,
+		"uId": 560
+	},
+	"561": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70219,
+		"id": 70219,
+		"level": 1,
+		"name": "飞龙skill04-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill34.png",
+		"type": 2,
+		"uId": 561
+	},
+	"562": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70300,
+		"id": 70300,
+		"level": 1,
+		"name": "飞龙普攻-冰-神枪",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 562
+	},
+	"563": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70301,
+		"id": 70301,
+		"level": 1,
+		"name": "飞龙skill01-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill01.png",
+		"type": 2,
+		"uId": 563
+	},
+	"564": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70302,
+		"id": 70302,
+		"level": 1,
+		"name": "飞龙skill02-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill02.png",
+		"type": 2,
+		"uId": 564
+	},
+	"565": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70303,
+		"id": 70303,
+		"level": 1,
+		"name": "飞龙skill03-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill03.png",
+		"type": 2,
+		"uId": 565
+	},
+	"566": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70304,
+		"id": 70304,
+		"level": 1,
+		"name": "飞龙skill04-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill04.png",
+		"type": 2,
+		"uId": 566
+	},
+	"567": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70305,
+		"id": 70305,
+		"level": 1,
+		"name": "飞龙普攻-雷",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 567
+	},
+	"568": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70306,
+		"id": 70306,
+		"level": 1,
+		"name": "飞龙skill01-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill11.png",
+		"type": 2,
+		"uId": 568
+	},
+	"569": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70307,
+		"id": 70307,
+		"level": 1,
+		"name": "飞龙skill02-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill12.png",
+		"type": 2,
+		"uId": 569
+	},
+	"570": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70308,
+		"id": 70308,
+		"level": 1,
+		"name": "飞龙skill03-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill13.png",
+		"type": 2,
+		"uId": 570
+	},
+	"571": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70309,
+		"id": 70309,
+		"level": 1,
+		"name": "飞龙skill04-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill14.png",
+		"type": 2,
+		"uId": 571
+	},
+	"572": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70310,
+		"id": 70310,
+		"level": 1,
+		"name": "飞龙普攻-火",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 572
+	},
+	"573": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70311,
+		"id": 70311,
+		"level": 1,
+		"name": "飞龙skill01-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill21.png",
+		"type": 2,
+		"uId": 573
+	},
+	"574": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70312,
+		"id": 70312,
+		"level": 1,
+		"name": "飞龙skill02-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill22.png",
+		"type": 2,
+		"uId": 574
+	},
+	"575": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70313,
+		"id": 70313,
+		"level": 1,
+		"name": "飞龙skill03-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill23.png",
+		"type": 2,
+		"uId": 575
+	},
+	"576": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70314,
+		"id": 70314,
+		"level": 1,
+		"name": "飞龙skill04-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill24.png",
+		"type": 2,
+		"uId": 576
+	},
+	"577": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70315,
+		"id": 70315,
+		"level": 1,
+		"name": "飞龙普攻-暗",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 577
+	},
+	"578": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70316,
+		"id": 70316,
+		"level": 1,
+		"name": "飞龙skill01-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill31.png",
+		"type": 2,
+		"uId": 578
+	},
+	"579": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70317,
+		"id": 70317,
+		"level": 1,
+		"name": "飞龙skill02-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill32.png",
+		"type": 2,
+		"uId": 579
+	},
+	"580": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70318,
+		"id": 70318,
+		"level": 1,
+		"name": "飞龙skill03-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill33.png",
+		"type": 2,
+		"uId": 580
+	},
+	"581": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70319,
+		"id": 70319,
+		"level": 1,
+		"name": "飞龙skill04-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill34.png",
+		"type": 2,
+		"uId": 581
+	},
+	"582": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70400,
+		"id": 70400,
+		"level": 1,
+		"name": "飞龙普攻-冰-召唤",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 582
+	},
+	"583": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70401,
+		"id": 70401,
+		"level": 1,
+		"name": "飞龙skill01-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill01.png",
+		"type": 2,
+		"uId": 583
+	},
+	"584": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70402,
+		"id": 70402,
+		"level": 1,
+		"name": "飞龙skill02-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill02.png",
+		"type": 2,
+		"uId": 584
+	},
+	"585": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70403,
+		"id": 70403,
+		"level": 1,
+		"name": "飞龙skill03-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill03.png",
+		"type": 2,
+		"uId": 585
+	},
+	"586": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70404,
+		"id": 70404,
+		"level": 1,
+		"name": "飞龙skill04-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill04.png",
+		"type": 2,
+		"uId": 586
+	},
+	"587": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70405,
+		"id": 70405,
+		"level": 1,
+		"name": "飞龙普攻-雷",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 587
+	},
+	"588": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70406,
+		"id": 70406,
+		"level": 1,
+		"name": "飞龙skill01-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill11.png",
+		"type": 2,
+		"uId": 588
+	},
+	"589": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70407,
+		"id": 70407,
+		"level": 1,
+		"name": "飞龙skill02-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill12.png",
+		"type": 2,
+		"uId": 589
+	},
+	"590": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70408,
+		"id": 70408,
+		"level": 1,
+		"name": "飞龙skill03-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill13.png",
+		"type": 2,
+		"uId": 590
+	},
+	"591": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70409,
+		"id": 70409,
+		"level": 1,
+		"name": "飞龙skill04-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill14.png",
+		"type": 2,
+		"uId": 591
+	},
+	"592": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70410,
+		"id": 70410,
+		"level": 1,
+		"name": "飞龙普攻-火",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 592
+	},
+	"593": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70411,
+		"id": 70411,
+		"level": 1,
+		"name": "飞龙skill01-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill21.png",
+		"type": 2,
+		"uId": 593
+	},
+	"594": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70412,
+		"id": 70412,
+		"level": 1,
+		"name": "飞龙skill02-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill22.png",
+		"type": 2,
+		"uId": 594
+	},
+	"595": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70413,
+		"id": 70413,
+		"level": 1,
+		"name": "飞龙skill03-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill23.png",
+		"type": 2,
+		"uId": 595
+	},
+	"596": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70414,
+		"id": 70414,
+		"level": 1,
+		"name": "飞龙skill04-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill24.png",
+		"type": 2,
+		"uId": 596
+	},
+	"597": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70415,
+		"id": 70415,
+		"level": 1,
+		"name": "飞龙普攻-暗",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 597
+	},
+	"598": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70416,
+		"id": 70416,
+		"level": 1,
+		"name": "飞龙skill01-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill31.png",
+		"type": 2,
+		"uId": 598
+	},
+	"599": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70417,
+		"id": 70417,
+		"level": 1,
+		"name": "飞龙skill02-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill32.png",
+		"type": 2,
+		"uId": 599
+	},
+	"600": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70418,
+		"id": 70418,
+		"level": 1,
+		"name": "飞龙skill03-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill33.png",
+		"type": 2,
+		"uId": 600
+	},
+	"601": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70419,
+		"id": 70419,
+		"level": 1,
+		"name": "飞龙skill04-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill34.png",
+		"type": 2,
+		"uId": 601
+	},
+	"602": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70500,
+		"id": 70500,
+		"level": 1,
+		"name": "飞龙普攻-冰-拳師",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 602
+	},
+	"603": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70501,
+		"id": 70501,
+		"level": 1,
+		"name": "飞龙skill01-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill01.png",
+		"type": 2,
+		"uId": 603
+	},
+	"604": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70502,
+		"id": 70502,
+		"level": 1,
+		"name": "飞龙skill02-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill02.png",
+		"type": 2,
+		"uId": 604
+	},
+	"605": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70503,
+		"id": 70503,
+		"level": 1,
+		"name": "飞龙skill03-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill03.png",
+		"type": 2,
+		"uId": 605
+	},
+	"606": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70504,
+		"id": 70504,
+		"level": 1,
+		"name": "飞龙skill04-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill04.png",
+		"type": 2,
+		"uId": 606
+	},
+	"607": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70505,
+		"id": 70505,
+		"level": 1,
+		"name": "飞龙普攻-雷",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 607
+	},
+	"608": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70506,
+		"id": 70506,
+		"level": 1,
+		"name": "飞龙skill01-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill11.png",
+		"type": 2,
+		"uId": 608
+	},
+	"609": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70507,
+		"id": 70507,
+		"level": 1,
+		"name": "飞龙skill02-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill12.png",
+		"type": 2,
+		"uId": 609
+	},
+	"610": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70508,
+		"id": 70508,
+		"level": 1,
+		"name": "飞龙skill03-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill13.png",
+		"type": 2,
+		"uId": 610
+	},
+	"611": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70509,
+		"id": 70509,
+		"level": 1,
+		"name": "飞龙skill04-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill14.png",
+		"type": 2,
+		"uId": 611
+	},
+	"612": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70510,
+		"id": 70510,
+		"level": 1,
+		"name": "飞龙普攻-火",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 612
+	},
+	"613": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70511,
+		"id": 70511,
+		"level": 1,
+		"name": "飞龙skill01-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill21.png",
+		"type": 2,
+		"uId": 613
+	},
+	"614": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70512,
+		"id": 70512,
+		"level": 1,
+		"name": "飞龙skill02-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill22.png",
+		"type": 2,
+		"uId": 614
+	},
+	"615": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70513,
+		"id": 70513,
+		"level": 1,
+		"name": "飞龙skill03-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill23.png",
+		"type": 2,
+		"uId": 615
+	},
+	"616": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70514,
+		"id": 70514,
+		"level": 1,
+		"name": "飞龙skill04-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill24.png",
+		"type": 2,
+		"uId": 616
+	},
+	"617": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70515,
+		"id": 70515,
+		"level": 1,
+		"name": "飞龙普攻-暗",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 617
+	},
+	"618": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70516,
+		"id": 70516,
+		"level": 1,
+		"name": "飞龙skill01-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill31.png",
+		"type": 2,
+		"uId": 618
+	},
+	"619": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70517,
+		"id": 70517,
+		"level": 1,
+		"name": "飞龙skill02-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill32.png",
+		"type": 2,
+		"uId": 619
+	},
+	"620": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70518,
+		"id": 70518,
+		"level": 1,
+		"name": "飞龙skill03-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill33.png",
+		"type": 2,
+		"uId": 620
+	},
+	"621": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70519,
+		"id": 70519,
+		"level": 1,
+		"name": "飞龙skill04-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill34.png",
+		"type": 2,
+		"uId": 621
+	},
+	"622": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70600,
+		"id": 70600,
+		"level": 1,
+		"name": "飞龙普攻-冰-魔僧",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 622
+	},
+	"623": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70601,
+		"id": 70601,
+		"level": 1,
+		"name": "飞龙skill01-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill01.png",
+		"type": 2,
+		"uId": 623
+	},
+	"624": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70602,
+		"id": 70602,
+		"level": 1,
+		"name": "飞龙skill02-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill02.png",
+		"type": 2,
+		"uId": 624
+	},
+	"625": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70603,
+		"id": 70603,
+		"level": 1,
+		"name": "飞龙skill03-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill03.png",
+		"type": 2,
+		"uId": 625
+	},
+	"626": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70604,
+		"id": 70604,
+		"level": 1,
+		"name": "飞龙skill04-冰",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill04.png",
+		"type": 2,
+		"uId": 626
+	},
+	"627": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70605,
+		"id": 70605,
+		"level": 1,
+		"name": "飞龙普攻-雷",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 627
+	},
+	"628": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70606,
+		"id": 70606,
+		"level": 1,
+		"name": "飞龙skill01-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill11.png",
+		"type": 2,
+		"uId": 628
+	},
+	"629": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70607,
+		"id": 70607,
+		"level": 1,
+		"name": "飞龙skill02-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill12.png",
+		"type": 2,
+		"uId": 629
+	},
+	"630": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70608,
+		"id": 70608,
+		"level": 1,
+		"name": "飞龙skill03-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill13.png",
+		"type": 2,
+		"uId": 630
+	},
+	"631": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70609,
+		"id": 70609,
+		"level": 1,
+		"name": "飞龙skill04-雷",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill14.png",
+		"type": 2,
+		"uId": 631
+	},
+	"632": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70610,
+		"id": 70610,
+		"level": 1,
+		"name": "飞龙普攻-火",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 632
+	},
+	"633": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70611,
+		"id": 70611,
+		"level": 1,
+		"name": "飞龙skill01-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill21.png",
+		"type": 2,
+		"uId": 633
+	},
+	"634": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70612,
+		"id": 70612,
+		"level": 1,
+		"name": "飞龙skill02-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill22.png",
+		"type": 2,
+		"uId": 634
+	},
+	"635": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70613,
+		"id": 70613,
+		"level": 1,
+		"name": "飞龙skill03-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill23.png",
+		"type": 2,
+		"uId": 635
+	},
+	"636": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70614,
+		"id": 70614,
+		"level": 1,
+		"name": "飞龙skill04-火",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill24.png",
+		"type": 2,
+		"uId": 636
+	},
+	"637": {
+		"damageMultiple": 10000,
+		"des": "飞龙普攻",
+		"exprId": 70615,
+		"id": 70615,
+		"level": 1,
+		"name": "飞龙普攻-暗",
+		"skillIcon": "Texture/UI/UIIcon/Yy/skill1000.png",
+		"type": 1,
+		"uId": 637
+	},
+	"638": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill01",
+		"exprId": 70616,
+		"id": 70616,
+		"level": 1,
+		"name": "飞龙skill01-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill31.png",
+		"type": 2,
+		"uId": 638
+	},
+	"639": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill02",
+		"exprId": 70617,
+		"id": 70617,
+		"level": 1,
+		"name": "飞龙skill02-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill32.png",
+		"type": 2,
+		"uId": 639
+	},
+	"640": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill03",
+		"exprId": 70618,
+		"id": 70618,
+		"level": 1,
+		"name": "飞龙skill03-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill33.png",
+		"type": 2,
+		"uId": 640
+	},
+	"641": {
+		"damageMultiple": 10000,
+		"des": "飞龙skill04",
+		"exprId": 70619,
+		"id": 70619,
+		"level": 1,
+		"name": "飞龙skill04-暗",
+		"skillIcon": "Texture/UI/UIIcon/DragonSkill/skill34.png",
+		"type": 2,
+		"uId": 641
+	},
+	"642": {
+		"damageMultiple": 10000,
+		"exprId": 41401,
+		"id": 41401,
+		"level": 1,
+		"name": "npc浩然-普攻",
+		"type": 2,
+		"uId": 642
+	},
+	"643": {
+		"damageMultiple": 10000,
+		"exprId": 42301,
+		"id": 42301,
+		"level": 1,
+		"name": "npc灵儿-普攻",
+		"type": 2,
+		"uId": 643
+	},
+	"644": {
+		"damageMultiple": 10000,
+		"exprId": 42801,
+		"id": 42801,
+		"level": 1,
+		"name": "npc",
+		"type": 2,
+		"uId": 644
+	},
+	"645": {
+		"damageMultiple": 10000,
+		"exprId": 91001,
+		"id": 91001,
+		"level": 1,
+		"name": "伙伴1技能",
+		"type": 2,
+		"uId": 645
+	},
+	"646": {
+		"damageMultiple": 10000,
+		"exprId": 91002,
+		"id": 91002,
+		"level": 1,
+		"name": "伙伴2技能",
+		"type": 2,
+		"uId": 646
+	},
+	"647": {
+		"damageMultiple": 10000,
+		"exprId": 91003,
+		"id": 91003,
+		"level": 1,
+		"name": "伙伴3技能",
+		"type": 2,
+		"uId": 647
+	},
+	"648": {
+		"damageMultiple": 10000,
+		"exprId": 91004,
+		"id": 91004,
+		"level": 1,
+		"name": "伙伴4技能",
+		"type": 2,
+		"uId": 648
+	},
+	"649": {
+		"damageMultiple": 10000,
+		"exprId": 91005,
+		"id": 91005,
+		"level": 1,
+		"name": "伙伴5技能",
+		"type": 2,
+		"uId": 649
+	},
+	"650": {
+		"damageMultiple": 10000,
+		"exprId": 91006,
+		"id": 91006,
+		"level": 1,
+		"name": "伙伴6技能",
+		"type": 2,
+		"uId": 650
+	},
+	"651": {
+		"damageMultiple": 10000,
+		"exprId": 91007,
+		"id": 91007,
+		"level": 1,
+		"name": "伙伴7技能",
+		"type": 2,
+		"uId": 651
+	},
+	"652": {
+		"damageMultiple": 10000,
+		"exprId": 91008,
+		"id": 91008,
+		"level": 1,
+		"name": "伙伴8技能",
+		"type": 2,
+		"uId": 652
+	},
+	"653": {
+		"damageMultiple": 10000,
+		"exprId": 91009,
+		"id": 91009,
+		"level": 1,
+		"name": "伙伴9技能",
+		"type": 2,
+		"uId": 653
+	},
+	"654": {
+		"damageMultiple": 10000,
+		"exprId": 91010,
+		"id": 91010,
+		"level": 1,
+		"name": "伙伴10技能",
+		"type": 2,
+		"uId": 654
+	},
+	"655": {
+		"damageMultiple": 10000,
+		"exprId": 91011,
+		"id": 91011,
+		"level": 1,
+		"name": "伙伴11技能",
+		"type": 2,
+		"uId": 655
+	},
+	"656": {
+		"damageMultiple": 10000,
+		"exprId": 91012,
+		"id": 91012,
+		"level": 1,
+		"name": "伙伴12技能",
+		"type": 2,
+		"uId": 656
+	},
+	"657": {
+		"damageMultiple": 10000,
+		"exprId": 91013,
+		"id": 91013,
+		"level": 1,
+		"name": "伙伴13技能",
+		"type": 2,
+		"uId": 657
+	},
+	"658": {
+		"damageMultiple": 10000,
+		"exprId": 91014,
+		"id": 91014,
+		"level": 1,
+		"name": "伙伴14技能",
+		"type": 2,
+		"uId": 658
+	},
+	"659": {
+		"damageMultiple": 10000,
+		"exprId": 91015,
+		"id": 91015,
+		"level": 1,
+		"name": "伙伴15技能",
+		"type": 2,
+		"uId": 659
+	},
+	"660": {
+		"damageMultiple": 10000,
+		"exprId": 91016,
+		"id": 91016,
+		"level": 1,
+		"name": "伙伴16技能",
+		"type": 2,
+		"uId": 660
+	},
+	"661": {
+		"damageMultiple": 10000,
+		"exprId": 91017,
+		"id": 91017,
+		"level": 1,
+		"name": "伙伴17技能",
+		"type": 2,
+		"uId": 661
+	},
+	"662": {
+		"damageMultiple": 10000,
+		"exprId": 91018,
+		"id": 91018,
+		"level": 1,
+		"name": "伙伴18技能",
+		"type": 2,
+		"uId": 662
+	},
+	"663": {
+		"damageMultiple": 10000,
+		"exprId": 91019,
+		"id": 91019,
+		"level": 1,
+		"name": "伙伴19技能",
+		"type": 2,
+		"uId": 663
+	},
+	"664": {
+		"damageMultiple": 10000,
+		"exprId": 91020,
+		"id": 91020,
+		"level": 1,
+		"name": "伙伴20技能",
+		"type": 2,
+		"uId": 664
+	},
+	"665": {
+		"damageMultiple": 10000,
+		"exprId": 91021,
+		"id": 91021,
+		"level": 1,
+		"name": "伙伴21技能",
+		"type": 2,
+		"uId": 665
+	},
+	"666": {
+		"damageMultiple": 10000,
+		"exprId": 91022,
+		"id": 91022,
+		"level": 1,
+		"name": "伙伴22技能",
+		"type": 2,
+		"uId": 666
+	},
+	"667": {
+		"damageMultiple": 10000,
+		"exprId": 91023,
+		"id": 91023,
+		"level": 1,
+		"name": "伙伴23技能",
+		"type": 2,
+		"uId": 667
+	},
+	"668": {
+		"damageMultiple": 10000,
+		"exprId": 91024,
+		"id": 91024,
+		"level": 1,
+		"name": "伙伴24技能",
+		"type": 2,
+		"uId": 668
+	},
+	"669": {
+		"damageMultiple": 10000,
+		"exprId": 91025,
+		"id": 91025,
+		"level": 1,
+		"name": "伙伴25技能",
+		"type": 2,
+		"uId": 669
+	},
+	"670": {
+		"damageMultiple": 10000,
+		"exprId": 91026,
+		"id": 91026,
+		"level": 1,
+		"name": "伙伴26技能",
+		"type": 2,
+		"uId": 670
+	},
+	"671": {
+		"damageMultiple": 10000,
+		"exprId": 91027,
+		"id": 91027,
+		"level": 1,
+		"name": "伙伴27技能",
+		"type": 2,
+		"uId": 671
+	},
+	"672": {
+		"damageMultiple": 10000,
+		"exprId": 91028,
+		"id": 91028,
+		"level": 1,
+		"name": "伙伴28技能",
+		"type": 2,
+		"uId": 672
+	},
+	"673": {
+		"damageMultiple": 10000,
+		"exprId": 91029,
+		"id": 91029,
+		"level": 1,
+		"name": "伙伴29技能",
+		"type": 2,
+		"uId": 673
+	},
+	"674": {
+		"damageMultiple": 10000,
+		"exprId": 91030,
+		"id": 91030,
+		"level": 1,
+		"name": "伙伴30技能",
+		"type": 2,
+		"uId": 674
+	},
+	"675": {
+		"damageMultiple": 10000,
+		"exprId": 91031,
+		"id": 91031,
+		"level": 1,
+		"name": "伙伴31技能",
+		"type": 2,
+		"uId": 675
+	},
+	"676": {
+		"damageMultiple": 10000,
+		"exprId": 91032,
+		"id": 91032,
+		"level": 1,
+		"name": "伙伴32技能",
+		"type": 2,
+		"uId": 676
+	},
+	"677": {
+		"damageMultiple": 10000,
+		"exprId": 91033,
+		"id": 91033,
+		"level": 1,
+		"name": "伙伴33技能",
+		"type": 2,
+		"uId": 677
+	},
+	"678": {
+		"damageMultiple": 10000,
+		"exprId": 91034,
+		"id": 91034,
+		"level": 1,
+		"name": "伙伴34技能",
+		"type": 2,
+		"uId": 678
+	},
+	"679": {
+		"damageMultiple": 10000,
+		"exprId": 91035,
+		"id": 91035,
+		"level": 1,
+		"name": "伙伴35技能",
+		"type": 2,
+		"uId": 679
+	},
+	"680": {
+		"damageMultiple": 10000,
+		"exprId": 91036,
+		"id": 91036,
+		"level": 1,
+		"name": "伙伴36技能",
+		"type": 2,
+		"uId": 680
+	},
+	"681": {
+		"damageMultiple": 10000,
+		"exprId": 91037,
+		"id": 91037,
+		"level": 1,
+		"name": "伙伴37技能",
+		"type": 2,
+		"uId": 681
+	},
+	"682": {
+		"damageMultiple": 10000,
+		"exprId": 91038,
+		"id": 91038,
+		"level": 1,
+		"name": "伙伴38技能",
+		"type": 2,
+		"uId": 682
+	},
+	"683": {
+		"damageMultiple": 10000,
+		"exprId": 91039,
+		"id": 91039,
+		"level": 1,
+		"name": "伙伴39技能",
+		"type": 2,
+		"uId": 683
+	},
+	"684": {
+		"damageMultiple": 10000,
+		"exprId": 91040,
+		"id": 91040,
+		"level": 1,
+		"name": "伙伴40技能",
+		"type": 2,
+		"uId": 684
+	},
+	"685": {
+		"damageMultiple": 10000,
+		"exprId": 91041,
+		"id": 91041,
+		"level": 1,
+		"name": "伙伴41技能",
+		"type": 2,
+		"uId": 685
+	},
+	"686": {
+		"damageMultiple": 10000,
+		"exprId": 91042,
+		"id": 91042,
+		"level": 1,
+		"name": "伙伴42技能",
+		"type": 2,
+		"uId": 686
+	},
+	"687": {
+		"damageMultiple": 10000,
+		"exprId": 91043,
+		"id": 91043,
+		"level": 1,
+		"name": "伙伴43技能",
+		"type": 2,
+		"uId": 687
+	},
+	"688": {
+		"damageMultiple": 10000,
+		"exprId": 91044,
+		"id": 91044,
+		"level": 1,
+		"name": "伙伴44技能",
+		"type": 2,
+		"uId": 688
+	},
+	"689": {
+		"damageMultiple": 10000,
+		"exprId": 91045,
+		"id": 91045,
+		"level": 1,
+		"name": "伙伴45技能",
+		"type": 2,
+		"uId": 689
+	},
+	"690": {
+		"damageMultiple": 10000,
+		"exprId": 91046,
+		"id": 91046,
+		"level": 1,
+		"name": "伙伴46技能",
+		"type": 2,
+		"uId": 690
+	},
+	"691": {
+		"damageMultiple": 10000,
+		"exprId": 91047,
+		"id": 91047,
+		"level": 1,
+		"name": "伙伴47技能",
+		"type": 2,
+		"uId": 691
+	},
+	"692": {
+		"damageMultiple": 10000,
+		"exprId": 91048,
+		"id": 91048,
+		"level": 1,
+		"name": "伙伴48技能",
+		"type": 2,
+		"uId": 692
+	},
+	"693": {
+		"damageMultiple": 10000,
+		"exprId": 91049,
+		"id": 91049,
+		"level": 1,
+		"name": "伙伴49技能",
+		"type": 2,
+		"uId": 693
+	},
+	"694": {
+		"damageMultiple": 10000,
+		"exprId": 91050,
+		"id": 91050,
+		"level": 1,
+		"name": "伙伴50技能",
+		"type": 2,
+		"uId": 694
+	},
+	"695": {
+		"damageMultiple": 10000,
+		"exprId": 91051,
+		"id": 91051,
+		"level": 1,
+		"name": "伙伴51技能",
+		"type": 2,
+		"uId": 695
+	},
+	"696": {
+		"damageMultiple": 10000,
+		"exprId": 91052,
+		"id": 91052,
+		"level": 1,
+		"name": "伙伴52技能",
+		"type": 2,
+		"uId": 696
+	},
+	"697": {
+		"damageMultiple": 10000,
+		"exprId": 91053,
+		"id": 91053,
+		"level": 1,
+		"name": "伙伴53技能",
+		"type": 2,
+		"uId": 697
+	},
+	"698": {
+		"damageMultiple": 10000,
+		"exprId": 91054,
+		"id": 91054,
+		"level": 1,
+		"name": "伙伴54技能",
+		"type": 2,
+		"uId": 698
+	},
+	"699": {
+		"damageMultiple": 10000,
+		"exprId": 91055,
+		"id": 91055,
+		"level": 1,
+		"name": "伙伴55技能",
+		"type": 2,
+		"uId": 699
+	},
+	"700": {
+		"damageMultiple": 10000,
+		"exprId": 91056,
+		"id": 91056,
+		"level": 1,
+		"name": "伙伴56技能",
+		"type": 2,
+		"uId": 700
+	},
+	"701": {
+		"damageMultiple": 10000,
+		"exprId": 91057,
+		"id": 91057,
+		"level": 1,
+		"name": "伙伴57技能",
+		"type": 2,
+		"uId": 701
+	},
+	"702": {
+		"damageMultiple": 10000,
+		"exprId": 91058,
+		"id": 91058,
+		"level": 1,
+		"name": "伙伴58技能",
+		"type": 2,
+		"uId": 702
+	},
+	"703": {
+		"damageMultiple": 10000,
+		"exprId": 91059,
+		"id": 91059,
+		"level": 1,
+		"name": "伙伴59技能",
+		"type": 2,
+		"uId": 703
+	},
+	"704": {
+		"damageMultiple": 10000,
+		"exprId": 91060,
+		"id": 91060,
+		"level": 1,
+		"name": "伙伴60技能",
+		"type": 2,
+		"uId": 704
+	}
+}

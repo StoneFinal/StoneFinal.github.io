@@ -1,0 +1,252 @@
+
+{
+    "1" : {
+        "typeTarget" : {
+            "name" : "\u6444\u50CF\u673A",
+            "type" : 1
+        },
+        "typeBlocks" : [
+            {
+                "beginRotation" : [
+                    23.00033,
+                    159.0001,
+                    -4.54479E-05
+                ],
+                "beginPosition" : [
+                    272.5541,
+                    127.8653,
+                    233.201
+                ],
+                "endRotation"   : [
+                    23.00033,
+                    159.0001,
+                    -4.54479E-05
+                ],
+                "endPositioin"  : [
+                    272.5541,
+                    127.8653,
+                    233.201
+                ],
+                "beginTime"     : 0.0,
+                "duration"      : 1.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    23.00033,
+                    159.0001,
+                    -4.54479E-05
+                ],
+                "beginPosition" : [
+                    272.5541,
+                    127.8653,
+                    233.201
+                ],
+                "endRotation"   : [
+                    23.00033,
+                    159.0001,
+                    -4.54479E-05
+                ],
+                "endPositioin"  : [
+                    274.7379,
+                    125.2787,
+                    227.5123
+                ],
+                "beginTime"     : 1.0,
+                "duration"      : 1.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    23.00033,
+                    159.0001,
+                    -4.591165E-05
+                ],
+                "beginPosition" : [
+                    274.7379,
+                    125.2787,
+                    227.5123
+                ],
+                "endRotation"   : [
+                    23.6003,
+                    182.4,
+                    -4.378991E-05
+                ],
+                "endPositioin"  : [
+                    277.772,
+                    127.7878,
+                    232.9586
+                ],
+                "beginTime"     : 6.0,
+                "duration"      : 0.6,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    13.0003,
+                    182.6,
+                    -4.09091E-05
+                ],
+                "beginPosition" : [
+                    277.6769,
+                    125.0082,
+                    230.6925
+                ],
+                "endRotation"   : [
+                    13.0003,
+                    182.6,
+                    -4.09091E-05
+                ],
+                "endPositioin"  : [
+                    277.6769,
+                    125.0082,
+                    230.6925
+                ],
+                "beginTime"     : 7.666667,
+                "duration"      : 1.0,
+                "type"          : 4
+            },
+            {
+                "beginRotation" : [
+                    13.0003,
+                    182.6,
+                    -4.09091E-05
+                ],
+                "beginPosition" : [
+                    277.6769,
+                    125.0082,
+                    230.6925
+                ],
+                "endRotation"   : [
+                    9.600321,
+                    182.6001,
+                    -4.007495E-05
+                ],
+                "endPositioin"  : [
+                    277.5036,
+                    123.7588,
+                    228.0336
+                ],
+                "beginTime"     : 10.86667,
+                "duration"      : 0.1,
+                "type"          : 4
+            },
+            {
+                "shakeId" : 7,
+                "beginTime" : 7.666667,
+                "duration"  : 1.0,
+                "type"      : 2
+            },
+            {
+                "shakeId" : 7,
+                "beginTime" : 10.21667,
+                "duration"  : 1.0,
+                "type"      : 2
+            },
+            {
+                "fadeInTime" : 2.0,
+                "fadeOutTime" : 1.0,
+                "beginTime"   : 0.0,
+                "duration"    : 12.0,
+                "type"        : 23
+            }
+        ]
+    },
+    "2" : {
+        "typeTarget" : {
+            "configId" : 1,
+            "initPos"  : [
+                277.23,
+                121.0,
+                221.5
+            ],
+            "initHide" : false,
+            "towards"  : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "createType" : 4,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "motionName" : "stun",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 0.0,
+                "duration"      : 6.0,
+                "type"          : 7
+            },
+            {
+                "motionName" : "story01",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 6.0,
+                "duration"      : 1.666667,
+                "type"          : 7
+            },
+            {
+                "visible" : false,
+                "beginTime" : 7.666667,
+                "duration"  : 1.0,
+                "type"      : 14
+            }
+        ]
+    },
+    "3" : {
+        "typeTarget" : {
+            "configId" : 1003211,
+            "initPos"  : [
+                277.23,
+                121.0,
+                221.5
+            ],
+            "initHide" : true,
+            "towards"  : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "createType" : 1,
+            "name"       : "\u89D2\u8272",
+            "type"       : 2
+        },
+        "typeBlocks" : [
+            {
+                "visible" : true,
+                "beginTime" : 7.666667,
+                "duration"  : 1.0,
+                "type"      : 14
+            },
+            {
+                "motionName" : "story01",
+                "motionId"   : 0,
+                "profMotionIds" : "",
+                "beginTime"     : 7.666667,
+                "duration"      : 4.333333,
+                "type"          : 7
+            }
+        ]
+    },
+    "4" : {
+        "typeTarget" : {
+            "name" : "\u5C4F\u5E55",
+            "type" : 3
+        },
+        "typeBlocks" : [
+            {
+                "effectId" : 88018,
+                "offset"   : [
+                    300.0,
+                    0.0,
+                    0.0
+                ],
+                "beginTime" : 3.0,
+                "duration"  : 3.0,
+                "type"      : 21
+            }
+        ]
+    }
+}

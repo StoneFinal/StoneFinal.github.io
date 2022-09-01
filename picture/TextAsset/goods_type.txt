@@ -1,0 +1,186 @@
+{
+	"1": {
+		"goodsId": 1,
+		"modelId": 51034
+	},
+	"2": {
+		"goodsId": 2,
+		"modelId": 51052
+	},
+	"3": {
+		"goodsId": 3,
+		"modelId": 51055
+	},
+	"4": {
+		"goodsId": 4,
+		"modelId": 51050
+	},
+	"5": {
+		"goodsId": 5,
+		"modelId": 51053
+	},
+	"6": {
+		"goodsId": 6,
+		"modelId": 51051
+	},
+	"7": {
+		"goodsId": 7,
+		"modelId": 51054
+	},
+	"1000": {
+		"goodsId": 1000,
+		"modelId": 500900
+	},
+	"1001": {
+		"goodsId": 1001,
+		"modelId": 500901
+	},
+	"1002": {
+		"goodsId": 1002,
+		"modelId": 500902
+	},
+	"1003": {
+		"goodsId": 1003,
+		"modelId": 500903
+	},
+	"1004": {
+		"goodsId": 1004,
+		"modelId": 500904
+	},
+	"1005": {
+		"goodsId": 1005,
+		"modelId": 500905
+	},
+	"1006": {
+		"goodsId": 1006,
+		"modelId": 500906
+	},
+	"1007": {
+		"goodsId": 1007,
+		"modelId": 500907
+	},
+	"1008": {
+		"goodsId": 1008,
+		"modelId": 500908
+	},
+	"1009": {
+		"goodsId": 1009,
+		"modelId": 500909
+	},
+	"1010": {
+		"goodsId": 1010,
+		"modelId": 500910
+	},
+	"1011": {
+		"goodsId": 1011,
+		"modelId": 500911
+	},
+	"1100": {
+		"goodsId": 1100,
+		"modelId": 500912
+	},
+	"1101": {
+		"goodsId": 1101,
+		"modelId": 500913
+	},
+	"1102": {
+		"goodsId": 1102,
+		"modelId": 500914
+	},
+	"1103": {
+		"goodsId": 1103,
+		"modelId": 500915
+	},
+	"1104": {
+		"goodsId": 1104,
+		"modelId": 500916
+	},
+	"1105": {
+		"goodsId": 1105,
+		"modelId": 500917
+	},
+	"1106": {
+		"goodsId": 1106,
+		"modelId": 500918
+	},
+	"1107": {
+		"goodsId": 1107,
+		"modelId": 500919
+	},
+	"1108": {
+		"goodsId": 1108,
+		"modelId": 500920
+	},
+	"1109": {
+		"goodsId": 1109,
+		"modelId": 500921
+	},
+	"1110": {
+		"goodsId": 1110,
+		"modelId": 500922
+	},
+	"1111": {
+		"goodsId": 1111,
+		"modelId": 500923
+	},
+	"1200": {
+		"goodsId": 1200,
+		"modelId": 500924
+	},
+	"1201": {
+		"goodsId": 1201,
+		"modelId": 500925
+	},
+	"1202": {
+		"goodsId": 1202,
+		"modelId": 500926
+	},
+	"1203": {
+		"goodsId": 1203,
+		"modelId": 500927
+	},
+	"1204": {
+		"goodsId": 1204,
+		"modelId": 500928
+	},
+	"1205": {
+		"goodsId": 1205,
+		"modelId": 500929
+	},
+	"1206": {
+		"goodsId": 1206,
+		"modelId": 500930
+	},
+	"1207": {
+		"goodsId": 1207,
+		"modelId": 500931
+	},
+	"1208": {
+		"goodsId": 1208,
+		"modelId": 500932
+	},
+	"1209": {
+		"goodsId": 1209,
+		"modelId": 500933
+	},
+	"1210": {
+		"goodsId": 1210,
+		"modelId": 500934
+	},
+	"1211": {
+		"goodsId": 1211,
+		"modelId": 500935
+	},
+	"2000": {
+		"goodsId": 2000,
+		"modelId": 500936
+	},
+	"2001": {
+		"goodsId": 2001,
+		"modelId": 500937
+	},
+	"2002": {
+		"goodsId": 2002,
+		"modelId": 500938
+	}
+}

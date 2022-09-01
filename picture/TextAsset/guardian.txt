@@ -1,0 +1,12 @@
+{
+    "--":"id: 1000556-1000656",
+    "--":"START",
+    "--":"COMMON_START = 0",
+
+    "13201" : "<color=#f6c277><size=24>经验</size></color><color=#ffffff><size=36>+38%</size></color> <color=#f6c277><size=24>  免伤</size></color><color=#ffffff><size=36>+14%</size></color>
+<color=#f6c277><size=28>升级打架两不误</size></color>",
+    "13202" : "更多守护在商城特价热销中",
+    "13203" : "经验：%s",
+    "13204" : "续费成功",
+	"--":"END"
+} 

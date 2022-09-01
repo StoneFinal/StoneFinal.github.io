@@ -1,0 +1,222 @@
+{
+	"reshouse_ui_font": {
+		"assetName": "reshouse_ui_font",
+		"fileType": 17
+	},
+	"resources_characterset": {
+		"assetName": "resources_characterset",
+		"fileType": 2
+	},
+	"resources_config": {
+		"assetName": "resources_config",
+		"fileType": 25
+	},
+	"resources_config_distribute": {
+		"assetName": "resources_config_distribute",
+		"fileType": 20
+	},
+	"resources_config_msg": {
+		"assetName": "resources_config_msg",
+		"fileType": 1
+	},
+	"resources_config_story": {
+		"assetName": "resources_config_story",
+		"fileType": 20
+	},
+	"resources_loading": {
+		"assetName": "resources_loading",
+		"fileType": 25
+	},
+	"resources_login": {
+		"assetName": "resources_login",
+		"fileType": 30
+	},
+	"resources_material": {
+		"assetName": "resources_material",
+		"fileType": 26
+	},
+	"resources_prefab_effect_awaken_awakena001": {
+		"assetName": "resources_prefab_effect_awaken_awakena001",
+		"fileType": 20
+	},
+	"resources_prefab_effect_awaken_awakena002": {
+		"assetName": "resources_prefab_effect_awaken_awakena002",
+		"fileType": 20
+	},
+	"resources_prefab_effect_awaken_awakena003": {
+		"assetName": "resources_prefab_effect_awaken_awakena003",
+		"fileType": 20
+	},
+	"resources_prefab_effect_awaken_awakena004": {
+		"assetName": "resources_prefab_effect_awaken_awakena004",
+		"fileType": 20
+	},
+	"resources_prefab_effect_awaken_awakena005": {
+		"assetName": "resources_prefab_effect_awaken_awakena005",
+		"fileType": 20
+	},
+	"resources_prefab_effect_awaken_awakena006": {
+		"assetName": "resources_prefab_effect_awaken_awakena006",
+		"fileType": 20
+	},
+	"resources_prefab_effect_behit": {
+		"assetName": "resources_prefab_effect_behit",
+		"fileType": 30
+	},
+	"resources_prefab_effect_general": {
+		"assetName": "resources_prefab_effect_general",
+		"fileType": 26
+	},
+	"resources_prefab_effect_login": {
+		"assetName": "resources_prefab_effect_login",
+		"fileType": 26
+	},
+	"resources_prefab_effect_ui": {
+		"assetName": "resources_prefab_effect_ui",
+		"fileType": 28
+	},
+	"resources_prefab_effectneed_awaken_awakena001": {
+		"assetName": "resources_prefab_effectneed_awaken_awakena001",
+		"fileType": 20
+	},
+	"resources_prefab_effectneed_behit": {
+		"assetName": "resources_prefab_effectneed_behit",
+		"fileType": 30
+	},
+	"resources_prefab_effectneed_general": {
+		"assetName": "resources_prefab_effectneed_general",
+		"fileType": 26
+	},
+	"resources_prefab_effectneed_ui": {
+		"assetName": "resources_prefab_effectneed_ui",
+		"fileType": 28
+	},
+	"resources_prefab_role_awaken_awakena001": {
+		"assetName": "resources_prefab_role_awaken_awakena001",
+		"fileType": 20
+	},
+	"resources_prefab_role_awaken_awakena002": {
+		"assetName": "resources_prefab_role_awaken_awakena002",
+		"fileType": 20
+	},
+	"resources_prefab_role_awaken_awakena003": {
+		"assetName": "resources_prefab_role_awaken_awakena003",
+		"fileType": 20
+	},
+	"resources_prefab_role_awaken_awakena004": {
+		"assetName": "resources_prefab_role_awaken_awakena004",
+		"fileType": 20
+	},
+	"resources_prefab_role_awaken_awakena005": {
+		"assetName": "resources_prefab_role_awaken_awakena005",
+		"fileType": 20
+	},
+	"resources_prefab_role_awaken_awakena006": {
+		"assetName": "resources_prefab_role_awaken_awakena006",
+		"fileType": 20
+	},
+	"resources_prefab_role_common": {
+		"assetName": "resources_prefab_role_common",
+		"fileType": 28
+	},
+	"resources_prefab_role_earlyload": {
+		"assetName": "resources_prefab_role_earlyload",
+		"fileType": 28
+	},
+	"resources_prefab_role_player_playercq_playercqcreate": {
+		"assetName": "resources_prefab_role_player_playercq_playercqcreate",
+		"fileType": 26
+	},
+	"resources_prefab_role_player_playerds_playerdscreate": {
+		"assetName": "resources_prefab_role_player_playerds_playerdscreate",
+		"fileType": 26
+	},
+	"resources_prefab_role_player_playerhq_playerhqcreate": {
+		"assetName": "resources_prefab_role_player_playerhq_playerhqcreate",
+		"fileType": 26
+	},
+	"resources_prefab_role_player_playerlf_playerlfcreate": {
+		"assetName": "resources_prefab_role_player_playerlf_playerlfcreate",
+		"fileType": 26
+	},
+	"resources_prefab_role_player_playerqs_playerqscreate": {
+		"assetName": "resources_prefab_role_player_playerqs_playerqscreate",
+		"fileType": 26
+	},
+	"resources_prefab_role_player_playerxj_playerxjcreate": {
+		"assetName": "resources_prefab_role_player_playerxj_playerxjcreate",
+		"fileType": 26
+	},
+	"resources_prefab_roleneed_awaken_awakena001": {
+		"assetName": "resources_prefab_roleneed_awaken_awakena001",
+		"fileType": 20
+	},
+	"resources_prefab_roleneed_player_playercq_playercqcreate": {
+		"assetName": "resources_prefab_roleneed_player_playercq_playercqcreate",
+		"fileType": 26
+	},
+	"resources_prefab_roleneed_player_playerds_playerdscreate": {
+		"assetName": "resources_prefab_roleneed_player_playerds_playerdscreate",
+		"fileType": 26
+	},
+	"resources_prefab_roleneed_player_playerhq_playerhqcreate": {
+		"assetName": "resources_prefab_roleneed_player_playerhq_playerhqcreate",
+		"fileType": 26
+	},
+	"resources_prefab_roleneed_player_playerlf_playerlfcreate": {
+		"assetName": "resources_prefab_roleneed_player_playerlf_playerlfcreate",
+		"fileType": 26
+	},
+	"resources_prefab_roleneed_player_playerqs_playerqscreate": {
+		"assetName": "resources_prefab_roleneed_player_playerqs_playerqscreate",
+		"fileType": 26
+	},
+	"resources_prefab_roleneed_player_playerxj_playerxjcreate": {
+		"assetName": "resources_prefab_roleneed_player_playerxj_playerxjcreate",
+		"fileType": 26
+	},
+	"resources_prefab_ui": {
+		"assetName": "resources_prefab_ui",
+		"fileType": 24
+	},
+	"resources_proto": {
+		"assetName": "resources_proto",
+		"fileType": 10
+	},
+	"resources_shader": {
+		"assetName": "resources_shader",
+		"fileType": 26
+	},
+	"resources_story": {
+		"assetName": "resources_story",
+		"fileType": 4
+	},
+	"resources_texture_ui_artist": {
+		"assetName": "resources_texture_ui_artist",
+		"fileType": 26
+	},
+	"resources_texture_ui_bigimage": {
+		"assetName": "resources_texture_ui_bigimage",
+		"fileType": 24
+	},
+	"resources_texture_ui_bigimage_loading": {
+		"assetName": "resources_texture_ui_bigimage_loading",
+		"fileType": 10
+	},
+	"resources_texture_ui_commonbigimage": {
+		"assetName": "resources_texture_ui_commonbigimage",
+		"fileType": 26
+	},
+	"resources_texture_ui_function": {
+		"assetName": "resources_texture_ui_function",
+		"fileType": 24
+	},
+	"resources_texture_ui_uicommon": {
+		"assetName": "resources_texture_ui_uicommon",
+		"fileType": 26
+	},
+	"resources_texture_ui_uiicon": {
+		"assetName": "resources_texture_ui_uiicon",
+		"fileType": 26
+	}
+}

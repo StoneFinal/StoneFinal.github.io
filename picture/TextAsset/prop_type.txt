@@ -1,0 +1,2185 @@
+{
+	"absorb": {
+		"attrClass": 2,
+		"chinese": "吸血",
+		"defValue": 2000,
+		"icon": "Texture/UI/UICommon/Prop/prop_lifeSteak.png",
+		"infoDesc": "造成伤害时能够基于自身攻击力回复自身生命，吸血越高则回复量越大",
+		"isFix": true,
+		"name": "absorb",
+		"sortWeight": 6984,
+		"type": 1
+	},
+	"absorbImmunity": {
+		"attrClass": 2,
+		"chinese": "吸血抗性",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_lifeSteak.png",
+		"infoDesc": "降低对方吸血效果",
+		"isFix": true,
+		"name": "absorbImmunity",
+		"sortWeight": 6983,
+		"type": 1
+	},
+	"activity": {
+		"chinese": "活跃值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "activity",
+		"type": 2
+	},
+	"aerialCamp": {
+		"chinese": "空战",
+		"defValue": 0,
+		"isFix": false,
+		"name": "aerialCamp",
+		"type": 2
+	},
+	"ancientExp": {
+		"chinese": "封印经验",
+		"defValue": 0,
+		"isFix": false,
+		"name": "ancientExp",
+		"type": 4
+	},
+	"ancientExpState": {
+		"chinese": "封印可存储经验",
+		"defValue": 0,
+		"isFix": false,
+		"name": "ancientExpState",
+		"type": 5
+	},
+	"arenaLevel": {
+		"chinese": "战场等级",
+		"defValue": 1,
+		"isFix": false,
+		"name": "arenaLevel",
+		"type": 2
+	},
+	"atk": {
+		"attrClass": 1,
+		"chinese": "攻击",
+		"defValue": 100,
+		"icon": "Texture/UI/UICommon/Prop/prop_atk.png",
+		"infoDesc": "攻击越高，则造成伤害越高",
+		"isFix": false,
+		"name": "atk",
+		"sortWeight": 8998,
+		"type": 2
+	},
+	"atk_per": {
+		"chinese": "攻击加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "atk_per",
+		"type": 1
+	},
+	"avatarId": {
+		"chinese": "头像ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "avatarId",
+		"type": 2
+	},
+	"battle": {
+		"chinese": "战斗力",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_battle.png",
+		"isFix": false,
+		"name": "battle",
+		"secType": 4,
+		"type": 2
+	},
+	"battleFieldPoint": {
+		"chinese": "战场积分",
+		"defValue": 0,
+		"isFix": false,
+		"name": "battleFieldPoint",
+		"type": 2
+	},
+	"block": {
+		"attrClass": 2,
+		"chinese": "格挡几率",
+		"defValue": 2000,
+		"icon": "Texture/UI/UICommon/Prop/prop_health.png",
+		"infoDesc": "受到伤害时，有几率触发格挡效果，本次伤害减半",
+		"isFix": true,
+		"name": "block",
+		"sortWeight": 6988,
+		"type": 1
+	},
+	"blockImmunity": {
+		"attrClass": 2,
+		"chinese": "格挡穿透",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_power.png",
+		"infoDesc": "造成伤害时，降低对方格挡效果触发几率",
+		"isFix": true,
+		"name": "blockImmunity",
+		"sortWeight": 6987,
+		"type": 1
+	},
+	"bloodSpeed": {
+		"chinese": "扣血加速",
+		"defValue": 0,
+		"isFix": true,
+		"name": "bloodSpeed",
+		"type": 1
+	},
+	"blueExpandVipTime": {
+		"isFix": false,
+		"name": "blueExpandVipTime",
+		"type": 2
+	},
+	"blueSuperVipTime": {
+		"isFix": false,
+		"name": "blueSuperVipTime",
+		"type": 2
+	},
+	"blueVip": {
+		"isFix": false,
+		"name": "blueVip",
+		"type": 2
+	},
+	"blueVipTime": {
+		"isFix": false,
+		"name": "blueVipTime",
+		"type": 2
+	},
+	"blueYearVipTime": {
+		"isFix": false,
+		"name": "blueYearVipTime",
+		"type": 2
+	},
+	"bombId": {
+		"isFix": false,
+		"name": "bombId",
+		"type": 2
+	},
+	"bothFightCamp": {
+		"chinese": "仙魔战场阵营",
+		"defValue": 0,
+		"isFix": false,
+		"name": "bothFightCamp",
+		"type": 2
+	},
+	"campCoin": {
+		"chinese": "仙魔币",
+		"defValue": 0,
+		"isFix": false,
+		"name": "campCoin",
+		"type": 2
+	},
+	"campId": {
+		"chinese": "阵营",
+		"defValue": 0,
+		"isFix": false,
+		"name": "campId",
+		"type": 2
+	},
+	"campfire": {
+		"chinese": "篝火状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "campfire",
+		"type": 2
+	},
+	"collectState": {
+		"chinese": "采集状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "collectState",
+		"type": 5
+	},
+	"contribution": {
+		"chinese": "帮贡",
+		"defValue": 0,
+		"isFix": false,
+		"name": "contribution",
+		"type": 4
+	},
+	"createTime": {
+		"chinese": "掉落物创建时间",
+		"defValue": 0,
+		"isFix": false,
+		"name": "createTime",
+		"type": 4
+	},
+	"crit": {
+		"attrClass": 1,
+		"chinese": "暴击",
+		"defValue": 200,
+		"icon": "Texture/UI/UICommon/Prop/prop_critRate.png",
+		"infoDesc": "暴击越高则造成伤害时越容易出现多倍伤害",
+		"isFix": false,
+		"name": "crit",
+		"sortWeight": 7997,
+		"type": 2
+	},
+	"critDamage": {
+		"attrClass": 2,
+		"chinese": "暴击伤害",
+		"defValue": 20000,
+		"icon": "Texture/UI/UICommon/Prop/prop_critDamage.png",
+		"infoDesc": "暴击伤害越高则暴击时造成的伤害越多",
+		"isFix": true,
+		"name": "critDamage",
+		"sortWeight": 6995,
+		"type": 1
+	},
+	"critImmunity": {
+		"attrClass": 2,
+		"chinese": "暴击抵抗",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_critImmunity.png",
+		"infoDesc": "受到伤害时，降低暴击出现几率",
+		"isFix": true,
+		"name": "critImmunity",
+		"sortWeight": 6996,
+		"type": 1
+	},
+	"critMinus": {
+		"attrClass": 2,
+		"chinese": "暴伤减免",
+		"defValue": 0,
+		"infoDesc": "受到暴击伤害时，可抵消暴击伤害",
+		"isFix": true,
+		"name": "critMinus",
+		"sortWeight": 6994,
+		"type": 1
+	},
+	"critRate": {
+		"attrClass": 2,
+		"chinese": "暴击几率",
+		"defValue": 2000,
+		"icon": "Texture/UI/UICommon/Prop/prop_critRate.png",
+		"infoDesc": "造成伤害时，提升暴击出现几率",
+		"isFix": true,
+		"name": "critRate",
+		"sortWeight": 6997,
+		"type": 1
+	},
+	"crit_per": {
+		"chinese": "暴击加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "crit_per",
+		"type": 1
+	},
+	"cultivation": {
+		"chinese": "修为",
+		"defValue": 0,
+		"isFix": false,
+		"name": "cultivation",
+		"type": 2
+	},
+	"cureEffect": {
+		"chinese": "治疗系数",
+		"defValue": 0,
+		"formula": [
+			[
+				"value=cureEffect/100",
+				"1"
+			]
+		],
+		"isFix": true,
+		"name": "cureEffect",
+		"type": 1,
+		"use_attr": [
+			"cureEffect"
+		]
+	},
+	"damagePlus": {
+		"attrClass": 2,
+		"chinese": "伤害加深",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_damagePlus.png",
+		"infoDesc": "放大自身造成的攻击伤害",
+		"isFix": true,
+		"name": "damagePlus",
+		"sortWeight": 6999,
+		"type": 1
+	},
+	"damageReduction": {
+		"attrClass": 2,
+		"chinese": "伤害减免",
+		"defValue": 500,
+		"icon": "Texture/UI/UICommon/Prop/prop_damageReduction.png",
+		"infoDesc": "减少自身所受的攻击伤害",
+		"isFix": true,
+		"name": "damageReduction",
+		"sortWeight": 6998,
+		"type": 1
+	},
+	"danceId": {
+		"chinese": "跳舞状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "danceId",
+		"type": 2
+	},
+	"def": {
+		"attrClass": 1,
+		"chinese": "防御",
+		"defValue": 50,
+		"icon": "Texture/UI/UICommon/Prop/prop_def.png",
+		"infoDesc": "防御越高，可抵消的攻击伤害越高",
+		"isFix": false,
+		"name": "def",
+		"sortWeight": 8996,
+		"type": 2
+	},
+	"def_per": {
+		"chinese": "防御加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "def_per",
+		"type": 1
+	},
+	"defenseId": {
+		"chinese": "守护幻形ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "defenseId",
+		"type": 2
+	},
+	"dehitHpCD": {
+		"chinese": "减少回血冷却",
+		"defValue": 0,
+		"isFix": true,
+		"name": "dehitHpCD",
+		"type": 1
+	},
+	"demonValue": {
+		"chinese": "妖力值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "demonValue",
+		"type": 2
+	},
+	"diamond": {
+		"chinese": "玄晶",
+		"defValue": 0,
+		"isFix": false,
+		"name": "diamond",
+		"type": 4
+	},
+	"dodge": {
+		"attrClass": 1,
+		"chinese": "闪避",
+		"defValue": 200,
+		"icon": "Texture/UI/UICommon/Prop/prop_dodge.png",
+		"infoDesc": "受到伤害时有几率免疫伤害，闪避越高则越容易免疫伤害",
+		"isFix": false,
+		"name": "dodge",
+		"sortWeight": 7998,
+		"type": 2
+	},
+	"dodgeRate": {
+		"attrClass": 2,
+		"chinese": "闪避几率",
+		"defValue": 500,
+		"icon": "Texture/UI/UICommon/Prop/prop_dodge.png",
+		"infoDesc": "受到攻击时，提升免疫伤害的几率",
+		"isFix": true,
+		"name": "dodgeRate",
+		"sortWeight": 6993,
+		"type": 1
+	},
+	"dodge_per": {
+		"chinese": "闪避加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "dodge_per",
+		"type": 1
+	},
+	"dragonCoin": {
+		"chinese": "龙币",
+		"defValue": 0,
+		"isFix": false,
+		"name": "dragonCoin",
+		"type": 4
+	},
+	"dragonCrit": {
+		"attrClass": 6,
+		"chinese": "神龙暴击",
+		"defValue": 0,
+		"infoDesc": "增加神龙暴击概率",
+		"isFix": true,
+		"name": "dragonCrit",
+		"sortWeight": 2987,
+		"type": 1
+	},
+	"dragonCritImmunity": {
+		"attrClass": 6,
+		"chinese": "神龙暴击抵抗",
+		"defValue": 0,
+		"infoDesc": "增加神龙暴击抵抗",
+		"isFix": true,
+		"name": "dragonCritImmunity",
+		"sortWeight": 2986,
+		"type": 1
+	},
+	"dragonPower": {
+		"chinese": "神龙之威",
+		"defValue": 0,
+		"infoDesc": "百分比扣血属性",
+		"isFix": true,
+		"name": "dragonPower",
+		"type": 1
+	},
+	"driverId": {
+		"chinese": "双人坐骑主人ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "driverId",
+		"type": 4
+	},
+	"driverMagicalId": {
+		"chinese": "双人坐骑主人幻化ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "driverMagicalId",
+		"type": 2
+	},
+	"driverSpeed": {
+		"chinese": "双人坐骑速度",
+		"defValue": 0,
+		"isFix": false,
+		"name": "driverSpeed",
+		"type": 1
+	},
+	"eleAtk": {
+		"attrClass": 2,
+		"chinese": "五行攻击",
+		"defValue": 2000,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "放大自身造成的攻击伤害",
+		"isFix": false,
+		"name": "eleAtk",
+		"sortWeight": 6986,
+		"type": 2
+	},
+	"eleDef": {
+		"attrClass": 2,
+		"chinese": "五行防御",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减小自身所受的攻击伤害",
+		"isFix": false,
+		"name": "eleDef",
+		"sortWeight": 6985,
+		"type": 2
+	},
+	"emoji": {
+		"chinese": "动作表情状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "emoji",
+		"type": 2
+	},
+	"equipPoint": {
+		"chinese": "寻宝积分",
+		"defValue": 0,
+		"isFix": false,
+		"name": "equipPoint",
+		"type": 2
+	},
+	"errantry": {
+		"chinese": "威望点数",
+		"defValue": 0,
+		"isFix": false,
+		"name": "errantry",
+		"type": 2
+	},
+	"evil": {
+		"chinese": "恶名值",
+		"defValue": 0,
+		"infoDesc": "每击杀一名和平模式下的玩家，恶名值+1\n每被其他玩家击杀一次，恶名值-1\n每累计在线30分钟，恶名值-1\n当恶名值达到20，不能攻击任何玩家，强制杀戮模式\n恶名值在1-9之间，被击杀会损失微量经验；恶名值在10-20之间，被击杀会根据恶名值额外损失经验",
+		"isFix": false,
+		"name": "evil",
+		"type": 2
+	},
+	"exp": {
+		"chinese": "经验值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "exp",
+		"type": 4
+	},
+	"expRatio": {
+		"chinese": "经验加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "expRatio",
+		"type": 1
+	},
+	"fatigue": {
+		"chinese": "疲劳值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "fatigue",
+		"type": 2
+	},
+	"fightID": {
+		"chinese": "跟战战斗目标",
+		"defValue": 0,
+		"isFix": false,
+		"name": "fightID",
+		"secType": 4,
+		"type": 4
+	},
+	"fightState": {
+		"chinese": "战斗状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "fightState",
+		"type": 2
+	},
+	"final_atk_per": {
+		"chinese": "额外攻击加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "final_atk_per",
+		"type": 1
+	},
+	"final_def_per": {
+		"chinese": "额外防御加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "final_def_per",
+		"type": 1
+	},
+	"fireAtk": {
+		"attrClass": 4,
+		"chinese": "火攻",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "火攻越高，对敌人造成的火属性伤害越高，使用火龙时造成1.5倍元素火攻伤害，其他三系元素造成1倍伤害",
+		"isFix": false,
+		"name": "fireAtk",
+		"sortWeight": 4999,
+		"type": 2
+	},
+	"fireAtk_per": {
+		"chinese": "火攻加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "fireAtk_per",
+		"type": 1
+	},
+	"fireBasicsConversion": {
+		"chinese": "火基础转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "fireBasicsConversion",
+		"type": 1
+	},
+	"fireConversion": {
+		"chinese": "火提升转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "fireConversion",
+		"type": 1
+	},
+	"fireDef": {
+		"attrClass": 4,
+		"chinese": "火抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "火抗越高，可抵消敌人火攻越高",
+		"isFix": false,
+		"name": "fireDef",
+		"sortWeight": 4998,
+		"type": 2
+	},
+	"fireDef_per": {
+		"chinese": "火抗加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "fireDef_per",
+		"type": 1
+	},
+	"fireLongwei": {
+		"attrClass": 6,
+		"chinese": "火之龙威",
+		"defValue": 0,
+		"infoDesc": "集中火攻火抗转化提升后的高阶元素属性，无视目标防御对生命造成直接伤害",
+		"isFix": false,
+		"name": "fireLongwei",
+		"sortWeight": 2999,
+		"type": 2
+	},
+	"fireLongweiDmgDown": {
+		"attrClass": 6,
+		"chinese": "火之龙威减免",
+		"defValue": 0,
+		"infoDesc": "减少受到火之龙威的伤害",
+		"isFix": true,
+		"name": "fireLongweiDmgDown",
+		"sortWeight": 2994,
+		"type": 1
+	},
+	"fireLongweiDmgPlus": {
+		"attrClass": 6,
+		"chinese": "火之龙威增伤",
+		"defValue": 0,
+		"infoDesc": "增加火之龙威造成的伤害",
+		"isFix": true,
+		"name": "fireLongweiDmgPlus",
+		"sortWeight": 2995,
+		"type": 1
+	},
+	"fireLongwei_per": {
+		"chinese": "火之龙威加成",
+		"defValue": 0,
+		"infoDesc": "火之龙威百分比加成",
+		"isFix": true,
+		"name": "fireLongwei_per",
+		"type": 1
+	},
+	"fouSpecial": {
+		"attrClass": 2,
+		"chinese": "特殊肆击",
+		"defValue": 0,
+		"infoDesc": "攻击时，有概率触发致命/洪荒/苍穹/乾坤/混沌/双倍/五行特殊效果中的4种",
+		"isFix": true,
+		"name": "fouSpecial",
+		"sortWeight": 6973,
+		"type": 1
+	},
+	"fullVipTime": {
+		"chinese": "vip正式时间戳",
+		"defValue": 0,
+		"isFix": false,
+		"name": "fullVipTime",
+		"type": 2
+	},
+	"gangId": {
+		"chinese": "部族ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gangId",
+		"type": 4
+	},
+	"gangName": {
+		"chinese": "部族名字",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gangName",
+		"type": 3
+	},
+	"gangPostType": {
+		"chinese": "部族职位",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gangPostType",
+		"type": 2
+	},
+	"gangPrivilege": {
+		"chinese": "名门望族标志",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gangPrivilege",
+		"type": 5
+	},
+	"gangSuffix": {
+		"chinese": "部族后缀",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gangSuffix",
+		"type": 3
+	},
+	"gas": {
+		"chinese": "元气",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gas",
+		"type": 2
+	},
+	"godIron": {
+		"chinese": "神铁",
+		"defValue": 0,
+		"isFix": false,
+		"name": "godIron",
+		"type": 2
+	},
+	"godPower": {
+		"attrClass": 2,
+		"chinese": "神通",
+		"defValue": 0,
+		"infoDesc": "神通越高，pvp时造成越多的额外伤害",
+		"isFix": false,
+		"name": "godPower",
+		"sortWeight": 5994,
+		"type": 2
+	},
+	"godStone": {
+		"chinese": "神石",
+		"defValue": 0,
+		"isFix": false,
+		"name": "godStone",
+		"type": 2
+	},
+	"godWater": {
+		"chinese": "神水",
+		"defValue": 0,
+		"isFix": false,
+		"name": "godWater",
+		"type": 2
+	},
+	"godWood": {
+		"chinese": "神木",
+		"defValue": 0,
+		"isFix": false,
+		"name": "godWood",
+		"type": 2
+	},
+	"gold": {
+		"chinese": "金币",
+		"defValue": 0,
+		"isFix": false,
+		"name": "gold",
+		"type": 4
+	},
+	"guardId": {
+		"chinese": "守护头顶文字ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "guardId",
+		"type": 2
+	},
+	"handBooks": {
+		"chinese": "图鉴碎片",
+		"defValue": 0,
+		"isFix": false,
+		"name": "handBooks",
+		"type": 2
+	},
+	"hideState": {
+		"chinese": "隐身状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "hideState",
+		"type": 5
+	},
+	"hit": {
+		"attrClass": 1,
+		"chinese": "命中",
+		"defValue": 100,
+		"icon": "Texture/UI/UICommon/Prop/prop_ignoreDodge.png",
+		"infoDesc": "进行闪避判定时，自身命中越高，则目标免疫伤害的几率越低",
+		"isFix": false,
+		"name": "hit",
+		"sortWeight": 7999,
+		"type": 2
+	},
+	"hitHp": {
+		"attrClass": 2,
+		"chinese": "回血",
+		"defValue": 0,
+		"infoDesc": "战斗时每隔一定时间自动恢复自身最大血量一定比例的生命",
+		"isFix": true,
+		"name": "hitHp",
+		"sortWeight": 6979,
+		"type": 1
+	},
+	"hitPlus": {
+		"chinese": "普攻伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "hitPlus",
+		"type": 1
+	},
+	"hit_per": {
+		"chinese": "命中加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "hit_per",
+		"type": 1
+	},
+	"honourId": {
+		"chinese": "头衔ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "honourId",
+		"type": 2
+	},
+	"hp": {
+		"chinese": "当前生命",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_hpMax.png",
+		"isFix": false,
+		"name": "hp",
+		"secType": 4,
+		"type": 2
+	},
+	"hpMax": {
+		"attrClass": 1,
+		"chinese": "生命",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_hpMax.png",
+		"infoDesc": "角色的生命上限，决定了玩家战斗时的血量上限",
+		"isFix": false,
+		"name": "hpMax",
+		"secType": 4,
+		"sortWeight": 8999,
+		"type": 2
+	},
+	"hpMax_per": {
+		"chinese": "生命加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "hpMax_per",
+		"type": 1
+	},
+	"iceAtk": {
+		"attrClass": 4,
+		"chinese": "冰攻",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "冰攻越高，对敌人造成的冰属性伤害越高，使用冰龙时造成1.5倍元素冰攻伤害，其他三系元素造成1倍伤害",
+		"isFix": false,
+		"name": "iceAtk",
+		"sortWeight": 4991,
+		"type": 2
+	},
+	"iceAtk_per": {
+		"chinese": "冰攻加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "iceAtk_per",
+		"type": 1
+	},
+	"iceBasicsConversion": {
+		"chinese": "冰基础转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "iceBasicsConversion",
+		"type": 1
+	},
+	"iceConversion": {
+		"chinese": "冰提升转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "iceConversion",
+		"type": 1
+	},
+	"iceDef": {
+		"attrClass": 4,
+		"chinese": "冰抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "冰抗越高，可抵消敌人冰攻越高",
+		"isFix": false,
+		"name": "iceDef",
+		"sortWeight": 4990,
+		"type": 2
+	},
+	"iceDef_per": {
+		"chinese": "冰抗加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "iceDef_per",
+		"type": 1
+	},
+	"iceLongwei": {
+		"attrClass": 6,
+		"chinese": "冰之龙威",
+		"defValue": 0,
+		"infoDesc": "集中冰攻冰抗转化提升后的高阶元素属性，无视目标防御对生命造成直接伤害",
+		"isFix": false,
+		"name": "iceLongwei",
+		"sortWeight": 2998,
+		"type": 2
+	},
+	"iceLongweiDmgDown": {
+		"attrClass": 6,
+		"chinese": "冰之龙威减免",
+		"defValue": 0,
+		"infoDesc": "减少受到冰之龙威的伤害",
+		"isFix": true,
+		"name": "iceLongweiDmgDown",
+		"sortWeight": 2992,
+		"type": 1
+	},
+	"iceLongweiDmgPlus": {
+		"attrClass": 6,
+		"chinese": "冰之龙威增伤",
+		"defValue": 0,
+		"infoDesc": "增加冰之龙威造成的伤害",
+		"isFix": true,
+		"name": "iceLongweiDmgPlus",
+		"sortWeight": 2993,
+		"type": 1
+	},
+	"iceLongwei_per": {
+		"chinese": "冰之龙威加成",
+		"defValue": 0,
+		"infoDesc": "冰之龙威百分比加成",
+		"isFix": true,
+		"name": "iceLongwei_per",
+		"type": 1
+	},
+	"impart": {
+		"chinese": "传功状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "impart",
+		"type": 2
+	},
+	"isFobidSprint": {
+		"chinese": "是否屏蔽冲刺",
+		"defValue": 0,
+		"isFix": false,
+		"name": "isFobidSprint",
+		"type": 5
+	},
+	"isInHide": {
+		"chinese": "是否被屏蔽",
+		"defValue": 0,
+		"isFix": false,
+		"name": "isInHide",
+		"type": 5
+	},
+	"isPhase": {
+		"chinese": "相位模式",
+		"defValue": 0,
+		"isFix": false,
+		"name": "isPhase",
+		"type": 2
+	},
+	"isSafeArea": {
+		"chinese": "是否安全区",
+		"defValue": 0,
+		"isFix": false,
+		"name": "isSafeArea",
+		"type": 2
+	},
+	"isShowEffect": {
+		"chinese": "是否显示特效",
+		"defValue": 1,
+		"isFix": false,
+		"name": "isShowEffect",
+		"type": 5
+	},
+	"isSoul": {
+		"chinese": "是否灵魂状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "isSoul",
+		"type": 2
+	},
+	"isStory": {
+		"chinese": "剧情模式",
+		"defValue": 0,
+		"isFix": false,
+		"name": "isStory",
+		"type": 2
+	},
+	"itemId": {
+		"chinese": "道具ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "itemId",
+		"type": 2
+	},
+	"jumpId": {
+		"chinese": "跳跃ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "jumpId",
+		"type": 2
+	},
+	"level": {
+		"chinese": "等级",
+		"defValue": 1,
+		"isFix": false,
+		"name": "level",
+		"type": 2
+	},
+	"livenessActive": {
+		"chinese": "特殊活跃度",
+		"defValue": 0,
+		"isFix": false,
+		"name": "livenessActive",
+		"type": 2
+	},
+	"livenessStatic": {
+		"chinese": "普通活跃度",
+		"defValue": 0,
+		"isFix": false,
+		"name": "livenessStatic",
+		"type": 2
+	},
+	"loveValue": {
+		"chinese": "爱情值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "loveValue",
+		"type": 2
+	},
+	"masterName": {
+		"chinese": "归属主人名",
+		"defValue": 0,
+		"isFix": false,
+		"name": "masterName",
+		"type": 3
+	},
+	"mineAtk": {
+		"attrClass": 4,
+		"chinese": "雷攻",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "雷攻越高，对敌人造成的雷属性伤害越高，使用雷龙时造成1.5倍元素雷攻伤害，其他三系元素造成1倍伤害",
+		"isFix": false,
+		"name": "mineAtk",
+		"sortWeight": 4995,
+		"type": 2
+	},
+	"mineAtk_per": {
+		"chinese": "雷攻加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "mineAtk_per",
+		"type": 1
+	},
+	"mineBasicsConversion": {
+		"chinese": "雷基础转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "mineBasicsConversion",
+		"type": 1
+	},
+	"mineConversion": {
+		"chinese": "雷提升转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "mineConversion",
+		"type": 1
+	},
+	"mineDef": {
+		"attrClass": 4,
+		"chinese": "雷抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "雷抗越高，可抵消敌人雷攻越高",
+		"isFix": false,
+		"name": "mineDef",
+		"sortWeight": 4994,
+		"type": 2
+	},
+	"mineDef_per": {
+		"chinese": "雷抗加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "mineDef_per",
+		"type": 1
+	},
+	"mineLongwei": {
+		"attrClass": 6,
+		"chinese": "雷之龙威",
+		"defValue": 0,
+		"infoDesc": "集中雷攻雷抗转化提升后的高阶元素属性，无视目标防御对生命造成直接伤害",
+		"isFix": false,
+		"name": "mineLongwei",
+		"sortWeight": 2997,
+		"type": 2
+	},
+	"mineLongweiDmgDown": {
+		"attrClass": 6,
+		"chinese": "雷之龙威减免",
+		"defValue": 0,
+		"infoDesc": "减少受到雷之龙威的伤害",
+		"isFix": true,
+		"name": "mineLongweiDmgDown",
+		"sortWeight": 2990,
+		"type": 1
+	},
+	"mineLongweiDmgPlus": {
+		"attrClass": 6,
+		"chinese": "雷之龙威增伤",
+		"defValue": 0,
+		"infoDesc": "增加雷之龙威造成的伤害",
+		"isFix": true,
+		"name": "mineLongweiDmgPlus",
+		"sortWeight": 2991,
+		"type": 1
+	},
+	"mineLongwei_per": {
+		"chinese": "雷之龙威加成",
+		"defValue": 0,
+		"infoDesc": "雷之龙威百分比加成",
+		"isFix": true,
+		"name": "mineLongwei_per",
+		"type": 1
+	},
+	"monsterType": {
+		"chinese": "怪物类型",
+		"defValue": 0,
+		"isFix": false,
+		"name": "monsterType",
+		"type": 2
+	},
+	"name": {
+		"chinese": "角色名",
+		"defValue": 0,
+		"isFix": false,
+		"name": "name",
+		"type": 3
+	},
+	"passengerId": {
+		"chinese": "双人坐骑客人索引",
+		"defValue": 0,
+		"isFix": false,
+		"name": "passengerId",
+		"type": 2
+	},
+	"passengerNames": {
+		"chinese": "双人坐骑客人名字",
+		"defValue": 0,
+		"isFix": false,
+		"name": "passengerNames",
+		"type": 3
+	},
+	"passengerProfs": {
+		"chinese": "双人坐骑客人职业",
+		"defValue": 0,
+		"isFix": false,
+		"name": "passengerProfs",
+		"type": 3
+	},
+	"pkMode": {
+		"chinese": "PK模式",
+		"defValue": 0,
+		"isFix": false,
+		"name": "pkMode",
+		"type": 2
+	},
+	"plantCount": {
+		"chinese": "植物采集次数",
+		"defValue": 0,
+		"isFix": false,
+		"name": "plantCount",
+		"type": 2
+	},
+	"plantTime": {
+		"chinese": "植物采集时间",
+		"defValue": 0,
+		"isFix": false,
+		"name": "plantTime",
+		"type": 2
+	},
+	"playerLv": {
+		"chinese": "关联玩家等级",
+		"defValue": 1,
+		"isFix": false,
+		"name": "playerLv",
+		"type": 2
+	},
+	"practice": {
+		"chinese": "修炼状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "practice",
+		"type": 2
+	},
+	"previewVipTime": {
+		"chinese": "vip体验时间戳",
+		"defValue": 0,
+		"isFix": false,
+		"name": "previewVipTime",
+		"type": 2
+	},
+	"profession": {
+		"chinese": "职业",
+		"defValue": 0,
+		"isFix": false,
+		"name": "profession",
+		"type": 2
+	},
+	"pveDamageFour": {
+		"chinese": "对特殊怪伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "pveDamageFour",
+		"type": 1
+	},
+	"pveDamageOne": {
+		"chinese": "对小怪伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "pveDamageOne",
+		"type": 1
+	},
+	"pveDamageThree": {
+		"chinese": "对BOSS伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "pveDamageThree",
+		"type": 1
+	},
+	"pveDamageTwo": {
+		"chinese": "对精英伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "pveDamageTwo",
+		"type": 1
+	},
+	"pvpCQDmgDown": {
+		"attrClass": 3,
+		"chinese": "苍穹伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少受到苍穹伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpCQDmgDown",
+		"sortWeight": 5982,
+		"type": 1
+	},
+	"pvpCQDmgPlus": {
+		"attrClass": 3,
+		"chinese": "苍穹伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成苍穹伤害时的伤害",
+		"isFix": true,
+		"name": "pvpCQDmgPlus",
+		"sortWeight": 5983,
+		"type": 1
+	},
+	"pvpCQRate": {
+		"attrClass": 3,
+		"chinese": "苍穹一击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加苍穹一击几率",
+		"isFix": true,
+		"name": "pvpCQRate",
+		"sortWeight": 5985,
+		"type": 1
+	},
+	"pvpCQRes": {
+		"attrClass": 3,
+		"chinese": "苍穹一击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加苍穹一击抵抗",
+		"isFix": true,
+		"name": "pvpCQRes",
+		"sortWeight": 5984,
+		"type": 1
+	},
+	"pvpHDDmgDown": {
+		"attrClass": 3,
+		"chinese": "混沌伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少受到混沌伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpHDDmgDown",
+		"sortWeight": 5974,
+		"type": 1
+	},
+	"pvpHDDmgPlus": {
+		"attrClass": 3,
+		"chinese": "混沌伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成混沌伤害时的伤害",
+		"isFix": true,
+		"name": "pvpHDDmgPlus",
+		"sortWeight": 5975,
+		"type": 1
+	},
+	"pvpHDRate": {
+		"attrClass": 3,
+		"chinese": "混沌一击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加混沌一击几率",
+		"isFix": true,
+		"name": "pvpHDRate",
+		"sortWeight": 5977,
+		"type": 1
+	},
+	"pvpHDRes": {
+		"attrClass": 3,
+		"chinese": "混沌一击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加混沌一击抵抗",
+		"isFix": true,
+		"name": "pvpHDRes",
+		"sortWeight": 5976,
+		"type": 1
+	},
+	"pvpHHDmgDown": {
+		"attrClass": 3,
+		"chinese": "洪荒伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少受到洪荒伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpHHDmgDown",
+		"sortWeight": 5986,
+		"type": 1
+	},
+	"pvpHHDmgPlus": {
+		"attrClass": 3,
+		"chinese": "洪荒伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成洪荒伤害时的伤害",
+		"isFix": true,
+		"name": "pvpHHDmgPlus",
+		"sortWeight": 5987,
+		"type": 1
+	},
+	"pvpHHRate": {
+		"attrClass": 3,
+		"chinese": "洪荒一击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加洪荒一击几率",
+		"isFix": true,
+		"name": "pvpHHRate",
+		"sortWeight": 5989,
+		"type": 1
+	},
+	"pvpHHRes": {
+		"attrClass": 3,
+		"chinese": "洪荒一击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加洪荒一击抵抗",
+		"isFix": true,
+		"name": "pvpHHRes",
+		"sortWeight": 5988,
+		"type": 1
+	},
+	"pvpPlus": {
+		"chinese": "PVP伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "pvpPlus",
+		"type": 1
+	},
+	"pvpQKDmgDown": {
+		"attrClass": 3,
+		"chinese": "乾坤伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少受到乾坤伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpQKDmgDown",
+		"sortWeight": 5978,
+		"type": 1
+	},
+	"pvpQKDmgPlus": {
+		"attrClass": 3,
+		"chinese": "乾坤伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成乾坤伤害时的伤害",
+		"isFix": true,
+		"name": "pvpQKDmgPlus",
+		"sortWeight": 5979,
+		"type": 1
+	},
+	"pvpQKRate": {
+		"attrClass": 3,
+		"chinese": "乾坤一击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加乾坤一击几率",
+		"isFix": true,
+		"name": "pvpQKRate",
+		"sortWeight": 5981,
+		"type": 1
+	},
+	"pvpQKRes": {
+		"attrClass": 3,
+		"chinese": "乾坤一击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加乾坤一击抵抗",
+		"isFix": true,
+		"name": "pvpQKRes",
+		"sortWeight": 5980,
+		"type": 1
+	},
+	"pvpReduction": {
+		"chinese": "PVP伤害减免",
+		"defValue": 0,
+		"isFix": true,
+		"name": "pvpReduction",
+		"type": 1
+	},
+	"pvpSBDmgDown": {
+		"attrClass": 3,
+		"chinese": "双倍伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少受到双倍伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpSBDmgDown",
+		"sortWeight": 5970,
+		"type": 1
+	},
+	"pvpSBDmgPlus": {
+		"attrClass": 3,
+		"chinese": "双倍伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成双倍伤害时的伤害",
+		"isFix": true,
+		"name": "pvpSBDmgPlus",
+		"sortWeight": 5971,
+		"type": 1
+	},
+	"pvpSBRate": {
+		"attrClass": 3,
+		"chinese": "双倍一击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加双倍一击几率",
+		"isFix": true,
+		"name": "pvpSBRate",
+		"sortWeight": 5973,
+		"type": 1
+	},
+	"pvpSBRes": {
+		"attrClass": 3,
+		"chinese": "双倍一击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加双倍一击抵抗",
+		"isFix": true,
+		"name": "pvpSBRes",
+		"sortWeight": 5972,
+		"type": 1
+	},
+	"pvpWXDmgDown": {
+		"attrClass": 3,
+		"chinese": "五行伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少受到五行伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpWXDmgDown",
+		"sortWeight": 5966,
+		"type": 1
+	},
+	"pvpWXDmgPlus": {
+		"attrClass": 3,
+		"chinese": "五行伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成五行伤害时的伤害",
+		"isFix": true,
+		"name": "pvpWXDmgPlus",
+		"sortWeight": 5967,
+		"type": 1
+	},
+	"pvpWXRate": {
+		"attrClass": 3,
+		"chinese": "五行合击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加五行一击几率",
+		"isFix": true,
+		"name": "pvpWXRate",
+		"sortWeight": 5969,
+		"type": 1
+	},
+	"pvpWXRes": {
+		"attrClass": 3,
+		"chinese": "五行合击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加五行一击抵抗",
+		"isFix": true,
+		"name": "pvpWXRes",
+		"sortWeight": 5968,
+		"type": 1
+	},
+	"pvpZMDmgDown": {
+		"attrClass": 3,
+		"chinese": "致命伤害减免",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "减少造成致命伤害时所受伤害",
+		"isFix": true,
+		"name": "pvpZMDmgDown",
+		"sortWeight": 5990,
+		"type": 1
+	},
+	"pvpZMDmgPlus": {
+		"attrClass": 3,
+		"chinese": "致命伤害增加",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加造成致命伤害时的伤害",
+		"isFix": true,
+		"name": "pvpZMDmgPlus",
+		"sortWeight": 5991,
+		"type": 1
+	},
+	"pvpZMRate": {
+		"attrClass": 3,
+		"chinese": "致命一击几率",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加致命一击几率",
+		"isFix": true,
+		"name": "pvpZMRate",
+		"sortWeight": 5993,
+		"type": 1
+	},
+	"pvpZMRes": {
+		"attrClass": 3,
+		"chinese": "致命一击抵抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "增加致命一击抵抗",
+		"isFix": true,
+		"name": "pvpZMRes",
+		"sortWeight": 5992,
+		"type": 1
+	},
+	"quality": {
+		"chinese": "伙伴品阶",
+		"defValue": 0,
+		"isFix": false,
+		"name": "quality",
+		"type": 2
+	},
+	"realmId": {
+		"chinese": "封号ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "realmId",
+		"type": 2
+	},
+	"rebatePoint": {
+		"chinese": "返利点",
+		"defValue": 0,
+		"isFix": false,
+		"name": "rebatePoint",
+		"type": 2
+	},
+	"recharge": {
+		"chinese": "钻石",
+		"defValue": 0,
+		"isFix": false,
+		"name": "recharge",
+		"type": 4
+	},
+	"rehp": {
+		"chinese": "损血上限",
+		"defValue": 0,
+		"isFix": true,
+		"name": "rehp",
+		"type": 1
+	},
+	"revenge": {
+		"attrClass": 2,
+		"chinese": "反弹",
+		"defValue": 2000,
+		"icon": "Texture/UI/UICommon/Prop/prop_damageReflect.png",
+		"infoDesc": "受到伤害时能够基于对方攻击力造成反伤，反弹越高则反伤量越大",
+		"isFix": true,
+		"name": "revenge",
+		"sortWeight": 6982,
+		"type": 1
+	},
+	"revengeImmunity": {
+		"attrClass": 2,
+		"chinese": "反弹抗性",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_damageReflect.png",
+		"infoDesc": "降低对方反弹效果",
+		"isFix": true,
+		"name": "revengeImmunity",
+		"sortWeight": 6981,
+		"type": 1
+	},
+	"reversion": {
+		"chinese": "生命回复",
+		"defValue": 1000,
+		"isFix": true,
+		"name": "reversion",
+		"type": 1
+	},
+	"rideId": {
+		"chinese": "坐骑ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "rideId",
+		"type": 2
+	},
+	"rideMagicId": {
+		"chinese": "坐骑幻化ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "rideMagicId",
+		"type": 2
+	},
+	"routImmunity": {
+		"attrClass": 2,
+		"chinese": "会心抵抗",
+		"defValue": 1000,
+		"icon": "Texture/UI/UICommon/Prop/prop_resistance.png",
+		"infoDesc": "受到伤害时，降低对方会心效果触发几率",
+		"isFix": true,
+		"name": "routImmunity",
+		"sortWeight": 6991,
+		"type": 1
+	},
+	"routMinus": {
+		"attrClass": 2,
+		"chinese": "会心减伤",
+		"defValue": 0,
+		"infoDesc": "受到会心伤害时，可抵消一定比例伤害",
+		"isFix": true,
+		"name": "routMinus",
+		"sortWeight": 6989,
+		"type": 1
+	},
+	"routPlus": {
+		"attrClass": 2,
+		"chinese": "会心增伤",
+		"defValue": 0,
+		"infoDesc": "触发会心一击时额外造成一定比例伤害",
+		"isFix": true,
+		"name": "routPlus",
+		"sortWeight": 6990,
+		"type": 1
+	},
+	"routRate": {
+		"attrClass": 2,
+		"chinese": "会心几率",
+		"defValue": 2000,
+		"icon": "Texture/UI/UICommon/Prop/prop_accuracy.png",
+		"infoDesc": "造成伤害时，有几率触发会心效果，把目标防御视为0进行伤害结算",
+		"isFix": true,
+		"name": "routRate",
+		"sortWeight": 6992,
+		"type": 1
+	},
+	"serverId": {
+		"chinese": "服务器id",
+		"defValue": 0,
+		"isFix": false,
+		"name": "serverId",
+		"type": 2
+	},
+	"sex": {
+		"chinese": "性别",
+		"defValue": 0,
+		"isFix": false,
+		"name": "sex",
+		"type": 2
+	},
+	"shield": {
+		"chinese": "护盾值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "shield",
+		"type": 2
+	},
+	"shieldMax": {
+		"chinese": "护盾值上限",
+		"defValue": 0,
+		"isFix": false,
+		"name": "shieldMax",
+		"type": 2
+	},
+	"skillPlus": {
+		"chinese": "技能伤害加深",
+		"defValue": 0,
+		"isFix": true,
+		"name": "skillPlus",
+		"type": 1
+	},
+	"soulLv": {
+		"chinese": "灵身等级",
+		"defValue": 0,
+		"isFix": false,
+		"name": "soulLv",
+		"type": 2
+	},
+	"speed": {
+		"chinese": "移动速度",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_speed.png",
+		"isFix": false,
+		"name": "speed",
+		"type": 1
+	},
+	"speedUpCd": {
+		"chinese": "加速全体技能CD系数",
+		"defValue": 1,
+		"isFix": true,
+		"name": "speedUpCd",
+		"type": 1
+	},
+	"starMorale": {
+		"chinese": "士气",
+		"defValue": 0,
+		"isFix": false,
+		"name": "starMorale",
+		"type": 4
+	},
+	"starStone": {
+		"chinese": "星石",
+		"defValue": 0,
+		"isFix": false,
+		"name": "starStone",
+		"type": 4
+	},
+	"starsAtk": {
+		"attrClass": 5,
+		"chinese": "星辰攻击",
+		"defValue": 0,
+		"infoDesc": "星辰攻击越高，无视目标普通防御直接对生命造成多倍伤害越高",
+		"isFix": false,
+		"name": "starsAtk",
+		"sortWeight": 3999,
+		"type": 2
+	},
+	"starsAtkCoeffcient": {
+		"chinese": "星辰攻击系数",
+		"defValue": 0,
+		"isFix": true,
+		"name": "starsAtkCoeffcient",
+		"type": 1
+	},
+	"starsAtk_per": {
+		"chinese": "星辰攻击加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "starsAtk_per",
+		"type": 1
+	},
+	"starsDef": {
+		"attrClass": 5,
+		"chinese": "星辰防御",
+		"defValue": 0,
+		"infoDesc": "星辰防御越高，可抵消的星辰攻击伤害越高",
+		"isFix": false,
+		"name": "starsDef",
+		"sortWeight": 3998,
+		"type": 2
+	},
+	"starsDef_per": {
+		"chinese": "星辰防御加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "starsDef_per",
+		"type": 1
+	},
+	"starsDmgDown": {
+		"attrClass": 5,
+		"chinese": "星辰减伤",
+		"defValue": 0,
+		"infoDesc": "减少造成星辰属性造成的伤害",
+		"isFix": true,
+		"name": "starsDmgDown",
+		"sortWeight": 3989,
+		"type": 1
+	},
+	"starsDmgPlus": {
+		"attrClass": 5,
+		"chinese": "星辰增伤",
+		"defValue": 0,
+		"infoDesc": "增加造成星辰属性造成的伤害",
+		"isFix": true,
+		"name": "starsDmgPlus",
+		"sortWeight": 3988,
+		"type": 1
+	},
+	"starsEnergyRecovery": {
+		"attrClass": 5,
+		"chinese": "星辰能量恢复",
+		"defValue": 0,
+		"infoDesc": "星辰灭世能量槽恢复速度",
+		"isFix": true,
+		"name": "starsEnergyRecovery",
+		"sortWeight": 3991,
+		"type": 1
+	},
+	"starsPerishWorld": {
+		"chinese": "星辰灭世一击",
+		"defValue": 0,
+		"infoDesc": "有概率触发毁天灭地星辰特效",
+		"isFix": true,
+		"name": "starsPerishWorld",
+		"type": 1
+	},
+	"starsRageDmgDown": {
+		"attrClass": 5,
+		"chinese": "星辰狂暴减伤",
+		"defValue": 0,
+		"infoDesc": "减少受到星辰狂暴时所受的伤害",
+		"isFix": true,
+		"name": "starsRageDmgDown",
+		"sortWeight": 3992,
+		"type": 1
+	},
+	"starsRageDmgPlus": {
+		"attrClass": 5,
+		"chinese": "星辰狂暴增伤",
+		"defValue": 20000,
+		"infoDesc": "增加造成星辰狂暴时的伤害",
+		"isFix": true,
+		"name": "starsRageDmgPlus",
+		"sortWeight": 3993,
+		"type": 1
+	},
+	"starsRageRate": {
+		"attrClass": 5,
+		"chinese": "星辰狂暴几率",
+		"defValue": 0,
+		"infoDesc": "增加星辰狂暴几率",
+		"isFix": true,
+		"name": "starsRageRate",
+		"sortWeight": 3995,
+		"type": 1
+	},
+	"starsRageRes": {
+		"attrClass": 5,
+		"chinese": "星辰狂暴抵抗",
+		"defValue": 0,
+		"infoDesc": "增加星辰狂暴抵抗",
+		"isFix": true,
+		"name": "starsRageRes",
+		"sortWeight": 3994,
+		"type": 1
+	},
+	"starsShield": {
+		"chinese": "当前星辰护盾",
+		"defValue": 0,
+		"isFix": false,
+		"name": "starsShield",
+		"type": 2
+	},
+	"starsShieldMax": {
+		"attrClass": 5,
+		"chinese": "星辰护盾",
+		"defValue": 0,
+		"infoDesc": "星辰护盾抵消普通攻击，星辰护盾越高，生存几率越高",
+		"isFix": false,
+		"name": "starsShieldMax",
+		"sortWeight": 3997,
+		"type": 2
+	},
+	"starsShieldMax_per": {
+		"chinese": "最大星辰护盾加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "starsShieldMax_per",
+		"type": 1
+	},
+	"starsShieldRecovery": {
+		"attrClass": 5,
+		"chinese": "星辰护盾恢复",
+		"defValue": 0,
+		"infoDesc": "每10秒恢复一次百分比星辰护盾",
+		"isFix": true,
+		"name": "starsShieldRecovery",
+		"sortWeight": 3996,
+		"type": 1
+	},
+	"starsShieldSmash": {
+		"attrClass": 5,
+		"chinese": "星辰护盾破击",
+		"defValue": 0,
+		"infoDesc": "攻击时有概率清空目标护盾",
+		"isFix": true,
+		"name": "starsShieldSmash",
+		"sortWeight": 3990,
+		"type": 1
+	},
+	"starxCoin": {
+		"chinese": "星辰币",
+		"defValue": 0,
+		"isFix": false,
+		"name": "starxCoin",
+		"type": 2
+	},
+	"subProf": {
+		"chinese": "副职业",
+		"defValue": 0,
+		"isFix": false,
+		"name": "subProf",
+		"type": 2
+	},
+	"sunder": {
+		"attrClass": 1,
+		"chinese": "破甲",
+		"defValue": 50,
+		"icon": "Texture/UI/UICommon/Prop/prop_des.png",
+		"infoDesc": "可无视防御造成伤害",
+		"isFix": false,
+		"name": "sunder",
+		"sortWeight": 8997,
+		"type": 2
+	},
+	"sunder_per": {
+		"chinese": "破甲加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "sunder_per",
+		"type": 1
+	},
+	"super": {
+		"chinese": "神威",
+		"defValue": 10,
+		"icon": "Texture/UI/UICommon/Prop/prop_health.png",
+		"infoDesc": "PVP时，若自身神威高于敌人神威，则造成伤害加强，差距越大收益越多",
+		"isFix": false,
+		"name": "super",
+		"sortWeight": 6980,
+		"type": 2
+	},
+	"swornCoin": {
+		"chinese": "金兰币",
+		"defValue": 0,
+		"isFix": false,
+		"name": "swornCoin",
+		"type": 2
+	},
+	"swornValue": {
+		"chinese": "结义值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "swornValue",
+		"type": 2
+	},
+	"teamId": {
+		"chinese": "队伍ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "teamId",
+		"type": 2
+	},
+	"teamLv": {
+		"chinese": "队伍等级",
+		"defValue": 1,
+		"isFix": false,
+		"name": "teamLv",
+		"type": 2
+	},
+	"tenacity": {
+		"attrClass": 1,
+		"chinese": "坚韧",
+		"defValue": 100,
+		"icon": "Texture/UI/UICommon/Prop/prop_critImmunity.png",
+		"infoDesc": "坚韧越高则受到伤害时越不容易出现多倍伤害",
+		"isFix": false,
+		"name": "tenacity",
+		"sortWeight": 7996,
+		"type": 2
+	},
+	"tenacity_per": {
+		"chinese": "坚韧加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "tenacity_per",
+		"type": 1
+	},
+	"thrSpecial": {
+		"attrClass": 2,
+		"chinese": "特殊叁击",
+		"defValue": 0,
+		"infoDesc": "攻击时，有概率触发致命/洪荒/苍穹/乾坤/混沌/双倍/五行特殊效果中的3种",
+		"isFix": true,
+		"name": "thrSpecial",
+		"sortWeight": 6974,
+		"type": 1
+	},
+	"throneMagicId": {
+		"chinese": "宝座",
+		"defValue": 0,
+		"isFix": false,
+		"name": "throneMagicId",
+		"type": 2
+	},
+	"throneStates": {
+		"chinese": "宝座状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "throneStates",
+		"type": 2
+	},
+	"titleArgs": {
+		"chinese": "字符串类型",
+		"defValue": 0,
+		"isFix": false,
+		"name": "titleArgs",
+		"type": 3
+	},
+	"titleId": {
+		"chinese": "称号ID",
+		"defValue": 0,
+		"isFix": false,
+		"name": "titleId",
+		"type": 2
+	},
+	"twoSpecial": {
+		"attrClass": 2,
+		"chinese": "特殊双击",
+		"defValue": 0,
+		"infoDesc": "攻击时，有概率触发致命/洪荒/苍穹/乾坤/混沌/双倍/五行特殊效果中的2种",
+		"isFix": true,
+		"name": "twoSpecial",
+		"sortWeight": 6975,
+		"type": 1
+	},
+	"vigor": {
+		"chinese": "体力值(废弃)",
+		"defValue": 0,
+		"isFix": false,
+		"name": "vigor",
+		"type": 2
+	},
+	"vip": {
+		"chinese": "vip等级",
+		"defValue": 0,
+		"isFix": false,
+		"name": "vip",
+		"type": 2
+	},
+	"vipExp": {
+		"chinese": "vip经验",
+		"defValue": 0,
+		"isFix": false,
+		"name": "vipExp",
+		"type": 2
+	},
+	"visibleFlag": {
+		"chinese": "可见标志",
+		"defValue": 1,
+		"isFix": false,
+		"name": "visibleFlag",
+		"type": 5
+	},
+	"vogue": {
+		"chinese": "时尚值",
+		"defValue": 0,
+		"isFix": false,
+		"name": "vogue",
+		"type": 2
+	},
+	"voidAtk": {
+		"attrClass": 4,
+		"chinese": "虚攻",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "虚攻越高，对敌人造成的虚属性伤害越高，使用虚龙时造成1.5倍元素虚攻伤害，其他三系元素造成1倍伤害",
+		"isFix": false,
+		"name": "voidAtk",
+		"sortWeight": 4987,
+		"type": 2
+	},
+	"voidAtk_per": {
+		"chinese": "虚攻加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "voidAtk_per",
+		"type": 1
+	},
+	"voidBasicsConversion": {
+		"chinese": "虚基础转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "voidBasicsConversion",
+		"type": 1
+	},
+	"voidConversion": {
+		"chinese": "虚提升转化比例",
+		"defValue": 0,
+		"isFix": true,
+		"name": "voidConversion",
+		"type": 1
+	},
+	"voidDef": {
+		"attrClass": 4,
+		"chinese": "虚抗",
+		"defValue": 0,
+		"icon": "Texture/UI/UICommon/Prop/prop_fire.png",
+		"infoDesc": "虚抗越高，可抵消敌人虚攻越高",
+		"isFix": false,
+		"name": "voidDef",
+		"sortWeight": 4986,
+		"type": 2
+	},
+	"voidDef_per": {
+		"chinese": "虚抗加成",
+		"defValue": 0,
+		"isFix": true,
+		"name": "voidDef_per",
+		"type": 1
+	},
+	"voidLongwei": {
+		"attrClass": 6,
+		"chinese": "虚之龙威",
+		"defValue": 0,
+		"infoDesc": "集中虚攻虚抗转化提升后的高阶元素属性，无视目标防御对生命造成直接伤害",
+		"isFix": false,
+		"name": "voidLongwei",
+		"sortWeight": 2996,
+		"type": 2
+	},
+	"voidLongweiDmgDown": {
+		"attrClass": 6,
+		"chinese": "虚之龙威减免",
+		"defValue": 0,
+		"infoDesc": "减少受到虚之龙威的伤害",
+		"isFix": true,
+		"name": "voidLongweiDmgDown",
+		"sortWeight": 2988,
+		"type": 1
+	},
+	"voidLongweiDmgPlus": {
+		"attrClass": 6,
+		"chinese": "虚之龙威增伤",
+		"defValue": 0,
+		"infoDesc": "增加虚之龙威造成的伤害",
+		"isFix": true,
+		"name": "voidLongweiDmgPlus",
+		"sortWeight": 2989,
+		"type": 1
+	},
+	"voidLongwei_per": {
+		"chinese": "虚之龙威加成",
+		"defValue": 0,
+		"infoDesc": "虚之龙威百分比加成",
+		"isFix": true,
+		"name": "voidLongwei_per",
+		"type": 1
+	},
+	"wbNestFatigue": {
+		"chinese": "荒兽疲劳",
+		"defValue": 3,
+		"isFix": false,
+		"name": "wbNestFatigue",
+		"type": 2
+	},
+	"wedding": {
+		"chinese": "婚礼状态",
+		"defValue": 0,
+		"isFix": false,
+		"name": "wedding",
+		"type": 2
+	},
+	"worldLv": {
+		"chinese": "世界等级",
+		"defValue": 1,
+		"isFix": false,
+		"name": "worldLv",
+		"type": 2
+	}
+}

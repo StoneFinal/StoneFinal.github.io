@@ -1,0 +1,327 @@
+{
+	"1": {
+		"Degree": 3,
+		"Desc": "气吞天地间，执戟镇八方\n近战，爆发，反伤",
+		"awakeAppearSkill": 80050,
+		"awakeBuff": 41,
+		"base_speed": 7,
+		"careerChange": 41,
+		"careerDesc": [
+			"※解锁<color=#58dd39>【战法】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【战法】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【战法】</color>职业： 解锁后可永久随意切换"
+		],
+		"careerResident": 31,
+		"careerSelect": 36,
+		"configId": 1,
+		"feature": [
+			1
+		],
+		"firstChargeEffId": 410066,
+		"iconId": 1,
+		"isOpen": true,
+		"keyboardSkillIds": [
+			1010,
+			1020,
+			1030,
+			1040,
+			1050,
+			1060
+		],
+		"loginEffect": [
+			111001
+		],
+		"loginModel": 11,
+		"modelId": 1,
+		"motionChange": [
+			"vocation",
+			"stand_fight"
+		],
+		"normalSkillId": 1000,
+		"quickRunSpeed": 9.8,
+		"sex": 1,
+		"skillIds": [
+			1010,
+			1020,
+			1030,
+			1040
+		],
+		"soundId": [
+			30002,
+			101,
+			0,
+			30017
+		]
+	},
+	"2": {
+		"Degree": 4,
+		"Desc": "三尺青峰痕，屠魔诛尽绝\n远程，输出，控制",
+		"awakeAppearSkill": 80050,
+		"awakeBuff": 41,
+		"base_speed": 7,
+		"careerChange": 42,
+		"careerDesc": [
+			"※解锁<color=#58dd39>【灵剑】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【灵剑】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【灵剑】</color>职业： 解锁后可永久随意切换"
+		],
+		"careerResident": 32,
+		"careerSelect": 37,
+		"configId": 2,
+		"feature": [
+			2
+		],
+		"firstChargeEffId": 410067,
+		"iconId": 2,
+		"isOpen": true,
+		"keyboardSkillIds": [
+			2010,
+			2020,
+			2030,
+			2050,
+			2040,
+			2060
+		],
+		"loginEffect": [
+			121001
+		],
+		"loginModel": 12,
+		"modelId": 2,
+		"motionChange": [
+			"vocation",
+			"stand_fight"
+		],
+		"normalSkillId": 2000,
+		"quickRunSpeed": 9.8,
+		"sex": 2,
+		"skillIds": [
+			2010,
+			2020,
+			2030,
+			2040
+		],
+		"soundId": [
+			30003,
+			102,
+			0,
+			30018
+		]
+	},
+	"3": {
+		"Degree": 5,
+		"Desc": "泠然一枪鸣，天下尽皈依\n远程，输出，隐身",
+		"awakeAppearSkill": 80050,
+		"awakeBuff": 41,
+		"base_speed": 7,
+		"careerChange": 43,
+		"careerDesc": [
+			"※解锁<color=#58dd39>【枪炮师】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【枪炮师】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【枪炮师】</color>职业： 解锁后可永久随意切换"
+		],
+		"careerResident": 33,
+		"careerSelect": 38,
+		"configId": 3,
+		"feature": [
+			3
+		],
+		"firstChargeEffId": 410068,
+		"iconId": 3,
+		"isOpen": true,
+		"keyboardSkillIds": [
+			3010,
+			3020,
+			3030,
+			3050,
+			3040,
+			3060
+		],
+		"loginEffect": [
+			131001
+		],
+		"loginModel": 13,
+		"modelId": 3,
+		"motionChange": [
+			"vocation",
+			"stand_fight1"
+		],
+		"normalSkillId": 3000,
+		"quickRunSpeed": 9.8,
+		"sex": 1,
+		"skillIds": [
+			3010,
+			3020,
+			3030,
+			3040
+		],
+		"soundId": [
+			30004,
+			103,
+			0,
+			30019
+		]
+	},
+	"4": {
+		"Degree": 3,
+		"Desc": "万物皆有灵，我心即我意\n远程，群攻，治疗",
+		"awakeAppearSkill": 80050,
+		"awakeBuff": 41,
+		"base_speed": 7,
+		"careerChange": 44,
+		"careerDesc": [
+			"※解锁<color=#58dd39>【召唤】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【召唤】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【召唤】</color>职业： 解锁后可永久随意切换"
+		],
+		"careerResident": 34,
+		"careerSelect": 39,
+		"configId": 4,
+		"feature": [
+			4
+		],
+		"firstChargeEffId": 410069,
+		"iconId": 4,
+		"isOpen": true,
+		"keyboardSkillIds": [
+			4010,
+			4020,
+			4030,
+			4040,
+			4050,
+			4060
+		],
+		"loginEffect": [
+			141001
+		],
+		"loginModel": 14,
+		"modelId": 4,
+		"motionChange": [
+			"vocation",
+			"stand_fight"
+		],
+		"normalSkillId": 4000,
+		"quickRunSpeed": 9.8,
+		"sex": 2,
+		"skillIds": [
+			4010,
+			4020,
+			4030,
+			4040
+		],
+		"soundId": [
+			30005,
+			104,
+			0,
+			30020
+		]
+	},
+	"5": {
+		"Degree": 5,
+		"Desc": "疾行拳与意，烈焰了苍穹\n远程·爆发·输出",
+		"awakeAppearSkill": 80050,
+		"awakeBuff": 41,
+		"base_speed": 7,
+		"careerChange": 45,
+		"careerDesc": [
+			"※解锁<color=#58dd39>【召唤】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【召唤】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【召唤】</color>职业： 解锁后可永久随意切换"
+		],
+		"careerResident": 35,
+		"careerSelect": 40,
+		"configId": 5,
+		"feature": [
+			5
+		],
+		"firstChargeEffId": 420185,
+		"iconId": 5,
+		"isOpen": true,
+		"keyboardSkillIds": [
+			5010,
+			5020,
+			5030,
+			5040,
+			5050,
+			5060
+		],
+		"loginEffect": [
+			151001
+		],
+		"loginModel": 15,
+		"modelId": 5,
+		"motionChange": [
+			"vocation_1",
+			"stand_fight_1"
+		],
+		"normalSkillId": 5000,
+		"quickRunSpeed": 9.8,
+		"sex": 1,
+		"skillIds": [
+			5010,
+			5020,
+			5030,
+			5040
+		],
+		"soundId": [
+			30006,
+			105,
+			0,
+			30021
+		]
+	},
+	"6": {
+		"Degree": 4,
+		"Desc": "过去无量劫，秽土证浮屠\n近战·输出·控制",
+		"awakeAppearSkill": 80050,
+		"awakeBuff": 41,
+		"base_speed": 7,
+		"careerChange": 52,
+		"careerDesc": [
+			"※解锁<color=#58dd39>【魔僧】</color>职业： 解锁后可永久随意切换 ※解锁<color=#58dd39>【文魂】</color>装备： 解锁后可额外穿戴一套装备",
+			"※解锁<color=#58dd39>【魔僧】</color>职业： 解锁后可永久随意切换 ※解锁<color=#58dd39>【武魂】</color>装备： 解锁后可额外穿戴一套装备",
+			"※解锁<color=#58dd39>【魔僧】</color>职业： 解锁后可永久随意切换",
+			"※解锁<color=#58dd39>【魔僧】</color>职业： 解锁后可永久随意切换"
+		],
+		"careerResident": 50,
+		"careerSelect": 51,
+		"configId": 6,
+		"feature": [
+			6
+		],
+		"firstChargeEffId": 420186,
+		"iconId": 6,
+		"isOpen": true,
+		"keyboardSkillIds": [
+			6010,
+			6020,
+			6030,
+			6040,
+			6050,
+			6060
+		],
+		"loginEffect": [
+			191001
+		],
+		"loginModel": 48,
+		"modelId": 6,
+		"motionChange": [
+			"vocation",
+			"stand_fight"
+		],
+		"normalSkillId": 6000,
+		"quickRunSpeed": 9.8,
+		"sex": 1,
+		"skillIds": [
+			6010,
+			6020,
+			6030,
+			6040
+		],
+		"soundId": [
+			30022,
+			30023,
+			0,
+			30024
+		]
+	}
+}

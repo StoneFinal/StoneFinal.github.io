@@ -1,0 +1,281 @@
+
+{
+    "doodad" : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 1,
+            "configId"    : 102,
+            "groupId"     : 1,
+            "spawnPos"    : [
+                12.42086,
+                -0.1747541,
+                -9.155902
+            ],
+            "spawnRot"    : [
+                0.0,
+                -55.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 2,
+            "configId"    : 102,
+            "groupId"     : 2,
+            "spawnPos"    : [
+                8.853627,
+                -0.1747608,
+                11.98927
+            ],
+            "spawnRot"    : [
+                0.0,
+                35.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 3,
+            "configId"    : 102,
+            "groupId"     : 1,
+            "spawnPos"    : [
+                -9.822835,
+                -0.1747446,
+                -12.01418
+            ],
+            "spawnRot"    : [
+                0.0,
+                35.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "4" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 1,
+            "id"          : 4,
+            "configId"    : 102,
+            "groupId"     : 1,
+            "spawnPos"    : [
+                -11.64183,
+                -0.1747548,
+                9.647846
+            ],
+            "spawnRot"    : [
+                0.0,
+                -55.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"  : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "\u7A7A\u6C14\u5899\u6D88\u5931",
+                    "conditionType" : 10,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[60]",
+                    "events"          : [
+                        {
+                            "eventType" : 4,
+                            "eventParams" : "[1]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u7A7A\u6C14\u58992\u6D88\u5931",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "extraConditions" : [
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[2,0]"
+                        },
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[3,0]"
+                        }
+                    ],
+                    "events"          : [
+                        {
+                            "eventType" : 4,
+                            "eventParams" : "[2]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u7A7A\u6C14\u58992\u6D88\u5931",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[2]",
+                    "extraConditions" : [
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[1,0]"
+                        },
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[3,0]"
+                        }
+                    ],
+                    "events"          : [
+                        {
+                            "eventType" : 4,
+                            "eventParams" : "[2]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u7A7A\u6C14\u58992\u6D88\u5931",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[3]",
+                    "extraConditions" : [
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[1,0]"
+                        },
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[2,0]"
+                        }
+                    ],
+                    "events"          : [
+                        {
+                            "eventType" : 4,
+                            "eventParams" : "[2]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "monster" : {
+        "1" : {
+            "id" : 1,
+            "configId" : 7100101,
+            "groupId"  : 1,
+            "spawnPos" : [
+                23.66088,
+                0.4088952,
+                -16.56412
+            ],
+            "spawnRot" : [
+                0.0,
+                -55.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "id" : 2,
+            "configId" : 7100102,
+            "groupId"  : 2,
+            "spawnPos" : [
+                -22.46054,
+                0.4088955,
+                15.96258
+            ],
+            "spawnRot" : [
+                0.0,
+                120.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "id" : 3,
+            "configId" : 7100103,
+            "groupId"  : 3,
+            "spawnPos" : [
+                -16.18845,
+                0.3999988,
+                -23.24389
+            ],
+            "spawnRot" : [
+                0.0,
+                40.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "npc"     : {
+        "1" : {
+            "id" : 1,
+            "configId" : 7100002,
+            "groupId"  : 1,
+            "spawnPos" : [
+                0.0,
+                0.4,
+                0.0
+            ],
+            "spawnRot" : [
+                0.0,
+                -135.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "id" : 2,
+            "configId" : 7100001,
+            "groupId"  : 0,
+            "spawnPos" : [
+                17.24756,
+                0.3999996,
+                24.78645
+            ],
+            "spawnRot" : [
+                0.0,
+                -135.0,
+                0.0
+            ],
+            "spawnOnStart" : true,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    }
+}

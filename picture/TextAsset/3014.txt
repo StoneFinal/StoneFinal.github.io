@@ -1,0 +1,71 @@
+
+{
+    "event" : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "\u8FDB\u5165\u5B89\u5168\u533A",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 10,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u9000\u51FA\u5B89\u5168\u533A",
+                    "conditionType" : 5,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 11,
+                            "eventParams" : "[]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "area"  : {
+        "1" : {
+            "areaId" : 1,
+            "name"   : "\u5B89\u5168\u533A",
+            "type"   : 1,
+            "area"   : {
+                "points" : [
+                    [
+                        66.9,
+                        26.74214
+                    ],
+                    [
+                        52.75787,
+                        12.6
+                    ],
+                    [
+                        66.9,
+                        -1.542135
+                    ],
+                    [
+                        81.04214,
+                        12.6
+                    ]
+                ],
+                "center" : [
+                    66.9,
+                    12.6
+                ],
+                "width"  : 20.0,
+                "height" : 20.0,
+                "orientAngle" : 45.0
+            }
+        }
+    }
+}

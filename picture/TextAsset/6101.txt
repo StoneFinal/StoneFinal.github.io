@@ -1,0 +1,1212 @@
+
+{
+    "monster" : {
+        "2" : {
+            "id" : 2,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                8.216754,
+                -0.1212036,
+                1.04655
+            ],
+            "spawnRot" : [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "id" : 3,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                2.845133,
+                -0.1212037,
+                -1.542361
+            ],
+            "spawnRot" : [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "4" : {
+            "id" : 4,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                9.894053,
+                -0.1212036,
+                -2.126809
+            ],
+            "spawnRot" : [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "5" : {
+            "id" : 5,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                4.272512,
+                -0.1212034,
+                0.8028717
+            ],
+            "spawnRot" : [
+                0.0,
+                -70.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "6" : {
+            "id" : 6,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                6.379042,
+                -0.1212035,
+                -1.776015
+            ],
+            "spawnRot" : [
+                0.0,
+                -75.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "7" : {
+            "id" : 7,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                4.527542,
+                -0.1212034,
+                -3.943427
+            ],
+            "spawnRot" : [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "8" : {
+            "id" : 8,
+            "configId" : 6101101,
+            "groupId"  : 101,
+            "spawnPos" : [
+                8.130824,
+                -0.1212036,
+                -4.509431
+            ],
+            "spawnRot" : [
+                0.0,
+                -65.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "9" : {
+            "id" : 9,
+            "configId" : 6101102,
+            "groupId"  : 102,
+            "spawnPos" : [
+                19.08312,
+                -1.232647,
+                -18.08146
+            ],
+            "spawnRot" : [
+                0.0,
+                -30.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "10" : {
+            "id" : 10,
+            "configId" : 6101102,
+            "groupId"  : 102,
+            "spawnPos" : [
+                17.33731,
+                -1.23728,
+                -22.07258
+            ],
+            "spawnRot" : [
+                0.0,
+                -30.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "11" : {
+            "id" : 11,
+            "configId" : 6101102,
+            "groupId"  : 102,
+            "spawnPos" : [
+                14.16094,
+                -1.236274,
+                -22.03015
+            ],
+            "spawnRot" : [
+                0.0,
+                -30.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "12" : {
+            "id" : 12,
+            "configId" : 6101102,
+            "groupId"  : 102,
+            "spawnPos" : [
+                17.11371,
+                -1.247157,
+                -20.0448
+            ],
+            "spawnRot" : [
+                0.0,
+                -30.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "13" : {
+            "id" : 13,
+            "configId" : 6101102,
+            "groupId"  : 102,
+            "spawnPos" : [
+                16.03873,
+                -1.259394,
+                -17.32138
+            ],
+            "spawnRot" : [
+                0.0,
+                -30.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "14" : {
+            "id" : 14,
+            "configId" : 6101102,
+            "groupId"  : 102,
+            "spawnPos" : [
+                14.42832,
+                -1.2479,
+                -19.6846
+            ],
+            "spawnRot" : [
+                0.0,
+                -30.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "16" : {
+            "id" : 16,
+            "configId" : 6101105,
+            "groupId"  : 102,
+            "spawnPos" : [
+                20.17745,
+                -1.218452,
+                -20.59177
+            ],
+            "spawnRot" : [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "15" : {
+            "id" : 15,
+            "configId" : 6101104,
+            "groupId"  : 103,
+            "spawnPos" : [
+                2.686626,
+                -1.229962,
+                -20.41973
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "17" : {
+            "id" : 17,
+            "configId" : 6101104,
+            "groupId"  : 103,
+            "spawnPos" : [
+                1.818575,
+                -1.222082,
+                -22.94435
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "18" : {
+            "id" : 18,
+            "configId" : 6101104,
+            "groupId"  : 103,
+            "spawnPos" : [
+                6.371272,
+                -1.215396,
+                -25.26711
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "19" : {
+            "id" : 19,
+            "configId" : 6101104,
+            "groupId"  : 103,
+            "spawnPos" : [
+                6.562705,
+                -1.226894,
+                -22.60675
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "20" : {
+            "id" : 20,
+            "configId" : 6101104,
+            "groupId"  : 103,
+            "spawnPos" : [
+                3.838655,
+                -1.214834,
+                -24.97755
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "21" : {
+            "id" : 21,
+            "configId" : 6101104,
+            "groupId"  : 103,
+            "spawnPos" : [
+                5.484045,
+                -1.236892,
+                -20.08596
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "22" : {
+            "id" : 22,
+            "configId" : 6101108,
+            "groupId"  : 201,
+            "spawnPos" : [
+                -0.9144341,
+                -4.019197,
+                -40.23802
+            ],
+            "spawnRot" : [
+                0.0,
+                15.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "23" : {
+            "id" : 23,
+            "configId" : 6101107,
+            "groupId"  : 103,
+            "spawnPos" : [
+                4.339675,
+                -1.22463,
+                -22.7671
+            ],
+            "spawnRot" : [
+                0.0,
+                45.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "24" : {
+            "id" : 24,
+            "configId" : 6101106,
+            "groupId"  : 104,
+            "spawnPos" : [
+                -4.40449,
+                -4.020615,
+                -39.29082
+            ],
+            "spawnRot" : [
+                0.0,
+                15.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "25" : {
+            "id" : 25,
+            "configId" : 6101106,
+            "groupId"  : 104,
+            "spawnPos" : [
+                2.389504,
+                -4.01694,
+                -40.91937
+            ],
+            "spawnRot" : [
+                0.0,
+                15.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "1"  : {
+            "id" : 1,
+            "configId" : 6101103,
+            "groupId"  : 104,
+            "spawnPos" : [
+                -2.958936,
+                -4.011572,
+                -36.23809
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "29" : {
+            "id" : 29,
+            "configId" : 6101103,
+            "groupId"  : 104,
+            "spawnPos" : [
+                -0.6934105,
+                -4.006376,
+                -37.30186
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "30" : {
+            "id" : 30,
+            "configId" : 6101103,
+            "groupId"  : 104,
+            "spawnPos" : [
+                2.178894,
+                -3.983409,
+                -36.51368
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "31" : {
+            "id" : 31,
+            "configId" : 6101103,
+            "groupId"  : 104,
+            "spawnPos" : [
+                3.366692,
+                -4.003642,
+                -38.71526
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "32" : {
+            "id" : 32,
+            "configId" : 6101110,
+            "groupId"  : 402,
+            "spawnPos" : [
+                -0.7899308,
+                -4.018876,
+                -40.20844
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "26" : {
+            "id" : 26,
+            "configId" : 6101109,
+            "groupId"  : 401,
+            "spawnPos" : [
+                4.093036,
+                -3.0143,
+                -31.68333
+            ],
+            "spawnRot" : [
+                0.0,
+                180.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "27" : {
+            "id" : 27,
+            "configId" : 6101109,
+            "groupId"  : 401,
+            "spawnPos" : [
+                1.845315,
+                -3.470418,
+                -32.66369
+            ],
+            "spawnRot" : [
+                0.0,
+                180.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "28" : {
+            "id" : 28,
+            "configId" : 6101109,
+            "groupId"  : 401,
+            "spawnPos" : [
+                1.018785,
+                -2.949216,
+                -30.70386
+            ],
+            "spawnRot" : [
+                0.0,
+                180.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "33" : {
+            "id" : 33,
+            "configId" : 6101111,
+            "groupId"  : 403,
+            "spawnPos" : [
+                -2.679601,
+                -4.00707,
+                -35.41189
+            ],
+            "spawnRot" : [
+                0.0,
+                120.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "event"   : {
+        "0" : {
+            "groupId" : 0,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+                {
+                    "name" : "\u7B2C\u4E00\u6CE2\u602A",
+                    "conditionType" : 10,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[0]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[101]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u7B2C\u4E8C\u6CE2\u602A",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[101]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[102]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u7B2C\u4E09\u6CE2\u602A",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[102]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[103]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u7B2C\u56DB\u6CE2\u602A",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[103]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[104]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u5237boss",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[103]",
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[201]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u5237\u5B9D\u7BB1",
+                    "conditionType" : 2,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[201]",
+                    "events"          : [
+                        {
+                            "eventType" : 7,
+                            "eventParams" : "[1]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u6539\u53D8\u89C6\u89D21",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[1]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-120,38,12,30,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u91CD\u7F6E\u89C6\u89D21",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[2]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-90,38,12,30,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u6539\u53D8\u89C6\u89D22",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[3]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-200,38,12,30,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u91CD\u7F6E\u89C6\u89D22",
+                    "conditionType" : 4,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[4]",
+                    "events"          : [
+                        {
+                            "eventType" : 5,
+                            "eventParams" : "[-120,38,12,30,1]",
+                            "isOneshot"   : false
+                        }
+                    ]
+                },
+                {
+                    "name" : "\u5237\u65B0\u52A9\u6218\u602A\u7269",
+                    "conditionType" : 10,
+                    "delay"         : 0.0,
+                    "conditionParams" : "[180]",
+                    "extraConditions" : [
+                        {
+                            "conditionType" : 3,
+                            "conditionParams" : "[402]"
+                        }
+                    ],
+                    "events"          : [
+                        {
+                            "eventType" : 1,
+                            "eventParams" : "[403]",
+                            "isOneshot"   : true
+                        },
+                        {
+                            "eventType" : 23,
+                            "eventParams" : "[61011]",
+                            "isOneshot"   : true
+                        }
+                    ]
+                }
+            ]
+        },
+        "1" : {
+            "groupId" : 1,
+            "isUnderPhaseMode" : false,
+            "entries"          : [
+            ]
+        }
+    },
+    "area"    : {
+        "1" : {
+            "areaId" : 1,
+            "name"   : "\u533A\u57DF1",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        0.3976135,
+                        -13.15639
+                    ],
+                    [
+                        1.174071,
+                        -16.05417
+                    ],
+                    [
+                        20.49259,
+                        -10.87779
+                    ],
+                    [
+                        19.71613,
+                        -7.98001
+                    ]
+                ],
+                "center" : [
+                    10.4451,
+                    -12.01709
+                ],
+                "width"  : 20.0,
+                "height" : 3.0,
+                "orientAngle" : -15.0
+            }
+        },
+        "2" : {
+            "areaId" : 2,
+            "name"   : "\u533A\u57DF2",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        -0.6478939,
+                        -9.607973
+                    ],
+                    [
+                        0.1285639,
+                        -12.50575
+                    ],
+                    [
+                        19.44708,
+                        -7.329369
+                    ],
+                    [
+                        18.67062,
+                        -4.431592
+                    ]
+                ],
+                "center" : [
+                    9.399593,
+                    -8.468671
+                ],
+                "width"  : 20.0,
+                "height" : 3.0,
+                "orientAngle" : -15.0
+            }
+        },
+        "3" : {
+            "areaId" : 3,
+            "name"   : "\u533A\u57DF3",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        -6.127888,
+                        -24.99479
+                    ],
+                    [
+                        -6.904346,
+                        -27.89256
+                    ],
+                    [
+                        12.41417,
+                        -33.06894
+                    ],
+                    [
+                        13.19063,
+                        -30.17117
+                    ]
+                ],
+                "center" : [
+                    3.143142,
+                    -29.03186
+                ],
+                "width"  : 20.0,
+                "height" : 3.0,
+                "orientAngle" : 15.0
+            }
+        },
+        "4" : {
+            "areaId" : 4,
+            "name"   : "\u533A\u57DF4",
+            "type"   : 0,
+            "area"   : {
+                "points" : [
+                    [
+                        -5.12509,
+                        -22.02534
+                    ],
+                    [
+                        -5.901547,
+                        -24.92311
+                    ],
+                    [
+                        13.41697,
+                        -30.09949
+                    ],
+                    [
+                        14.19343,
+                        -27.20172
+                    ]
+                ],
+                "center" : [
+                    4.14594,
+                    -26.06241
+                ],
+                "width"  : 20.0,
+                "height" : 3.0,
+                "orientAngle" : 15.0
+            }
+        }
+    },
+    "doodad"  : {
+        "1" : {
+            "patrolType" : 0,
+            "patrolSpeed" : 0.0,
+            "isReBron"    : false,
+            "reBronTime"  : 0.0,
+            "type"        : 3,
+            "id"          : 1,
+            "configId"    : 302,
+            "groupId"     : 501,
+            "spawnPos"    : [
+                -1.065004,
+                -4.016879,
+                -39.63727
+            ],
+            "spawnRot"    : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    },
+    "plant"   : {
+        "1" : {
+            "id" : 1,
+            "configId" : 6101201,
+            "groupId"  : 1,
+            "spawnPos" : [
+                -1.337746,
+                -4.025319,
+                -41.52415
+            ],
+            "spawnRot" : [
+                0.0,
+                195.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "2" : {
+            "id" : 2,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -5.587688,
+                -4.04411,
+                -35.22976
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "3" : {
+            "id" : 3,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -7.187273,
+                -4.026512,
+                -38.46888
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "4" : {
+            "id" : 4,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                4.393464,
+                -4.037117,
+                -42.14125
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "5" : {
+            "id" : 5,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                1.905171,
+                -4.033447,
+                -44.63424
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "6" : {
+            "id" : 6,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -6.440372,
+                -4.026562,
+                -41.2358
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "7" : {
+            "id" : 7,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -5.577519,
+                -4.026532,
+                -43.35527
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "8" : {
+            "id" : 8,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -3.057037,
+                -4.031151,
+                -43.82866
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "9" : {
+            "id" : 9,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -0.9787375,
+                -4.03085,
+                -45.18711
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "10" : {
+            "id" : 10,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                5.432642,
+                -3.959806,
+                -39.28223
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "11" : {
+            "id" : 11,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                5.301225,
+                -3.866119,
+                -35.26359
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "12" : {
+            "id" : 12,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                6.378571,
+                -2.771117,
+                -31.183
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "13" : {
+            "id" : 13,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                7.209612,
+                -2.013713,
+                -28.60939
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "14" : {
+            "id" : 14,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -2.980464,
+                -3.995944,
+                -33.18454
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "15" : {
+            "id" : 15,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -1.313091,
+                -2.883198,
+                -29.8829
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        },
+        "16" : {
+            "id" : 16,
+            "configId" : 6101202,
+            "groupId"  : 301,
+            "spawnPos" : [
+                -0.479805,
+                -2.005408,
+                -27.15444
+            ],
+            "spawnRot" : [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnOnStart" : false,
+            "patrolPathId" : 0,
+            "clientOnly"   : false
+        }
+    }
+}
